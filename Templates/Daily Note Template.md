@@ -1,3 +1,3 @@
-# {{title}}
+# Daily Note Template
 
 ###### 

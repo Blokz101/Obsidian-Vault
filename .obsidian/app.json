@@ -3,8 +3,10 @@
   "livePreview": true,
   "promptDelete": false,
   "fileSortOrder": "alphabeticalReverse",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
