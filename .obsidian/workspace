@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "924ca179040058b1",
+        "id": "e445af21a3431a28",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -153,8 +153,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "924ca179040058b1",
+  "active": "e445af21a3431a28",
   "lastOpenFiles": [
+    "School/AP Psychology Final Project.md",
     "Valorant/Viper Lineups.md",
     "School/The Ford and Carter Presidencies.md",
     "School/AP Statistics Final Project.md",
@@ -163,7 +164,6 @@
     "Journal/Sunday May 15th, 2022.md",
     "Image Vault/AP Stats Final Project Figure 1.png",
     "Image Vault/AP Stats Final Project Figure 2.png",
-    "Templates/Daily Note Template.md",
-    "{{saturday}}.md"
+    "Templates/Daily Note Template.md"
   ]
 }

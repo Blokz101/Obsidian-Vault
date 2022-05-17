@@ -6,5 +6,7 @@
   "dataview",
   "better-word-count",
   "templater-obsidian",
-  "obsidian-filename-heading-sync"
+  "obsidian-filename-heading-sync",
+  "obsidian-admonition",
+  "recent-files-obsidian"
 ]
