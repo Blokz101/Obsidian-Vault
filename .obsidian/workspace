@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "08810021adb0d05b",
+        "id": "0c556e8918584849",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f80e8a5051093028",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -62,6 +70,7 @@
       {
         "id": "c016b11dd2de428c",
         "type": "tabs",
+        "dimension": 35.190097259062775,
         "children": [
           {
             "id": "4feae3bc533bdda4",
@@ -119,11 +128,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "696ab73c5a1b99ff",
         "type": "tabs",
+        "dimension": 64.80990274093722,
         "children": [
           {
             "id": "13bb5c5f21d8384c",
@@ -139,9 +150,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08810021adb0d05b",
+  "active": "0c556e8918584849",
   "lastOpenFiles": [
     "School/AP Statistics Final Project.md",
+    "{{saturday}}.md",
     "Templates/Daily Note Template.md",
     "Untitled.md",
     "Journal/Sunday May 15th, 2022.md",
@@ -149,7 +161,6 @@
     "Journal/Wednesday May 18th, 2022.md",
     "Journal/Tuesday May 17th, 2022.md",
     "Journal/Untitled.md",
-    "`.md",
-    "´´´´´.md"
+    "`.md"
   ]
 }
