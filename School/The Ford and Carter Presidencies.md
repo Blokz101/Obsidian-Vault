@@ -39,7 +39,9 @@ This entire situation made many Americans realize that there were very real limi
 ## Camp Davis Accords
 Camp Davis is a military instillation and presidential retreat in Maryland.
 
-The Camp Davis Accords are a peace agreement between Israel and Egypt. Carter initiat
+The Camp Davis Accords are a peace agreement between Israel and Egypt. Carter initiated the peace negotiations and after 12 days of intense debate they emerged with the Camp Davis Accords. 
+
+Israel agreed to withdraw from the Sinai Peninsula, which it had seized from Egypt during the Six-Day War in 1967. Egypt, in turn, formally recognized Israel’s right to exist.
 
 ## Three Mile Island
 A reactor at a plant on Three Mile Island near Harrisburg malfunctioned. The reactor overheated after its cooling system failed and concerns that radiation would leak out quickly arose.

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18fe917224b46dd0",
+        "id": "924ca179040058b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/The Ford and Carter Presidencies.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/The Ford and Carter Presidencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/The Ford and Carter Presidencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18fe917224b46dd0",
+  "active": "924ca179040058b1",
   "lastOpenFiles": [
+    "Valorant/Viper Lineups.md",
     "School/The Ford and Carter Presidencies.md",
     "School/AP Statistics Final Project.md",
     "Watergate Scandal.md",
     "Journal/Monday May 16th, 2022.md",
     "Journal/Sunday May 15th, 2022.md",
-    "Dependencies/AP Stats Final Project Figure 1.png",
-    "Dependencies/AP Stats Final Project Figure 2.png",
+    "Image Vault/AP Stats Final Project Figure 1.png",
+    "Image Vault/AP Stats Final Project Figure 2.png",
     "Templates/Daily Note Template.md",
-    "{{saturday}}.md",
-    "Journal/Wednesday May 18th, 2022.md"
+    "{{saturday}}.md"
   ]
 }
