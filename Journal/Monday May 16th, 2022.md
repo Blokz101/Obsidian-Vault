@@ -1,4 +1,4 @@
-# Sunday May 16th, 2022
+# Monday May 16th, 2022
 
 ###### Drew a dick on the white board in spanish
 #Rant

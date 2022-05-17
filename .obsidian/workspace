@@ -127,6 +127,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d57b987ae52cd7ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -153,14 +161,14 @@
   "active": "0c556e8918584849",
   "lastOpenFiles": [
     "School/AP Statistics Final Project.md",
+    "Journal/Monday May 16th, 2022.md",
     "Journal/Sunday May 15th, 2022.md",
-    "Templates/Daily Note Template.md",
+    "Dependencies/AP Stats Final Project Figure 2.png",
     "Dependencies/AP Stats Final Project Figure 1.png",
+    "Templates/Daily Note Template.md",
     "{{saturday}}.md",
     "Untitled.md",
-    "Journal/Monday May 16th, 2022.md",
     "Journal/Wednesday May 18th, 2022.md",
-    "Journal/Tuesday May 17th, 2022.md",
-    "Journal/Untitled.md"
+    "Journal/Tuesday May 17th, 2022.md"
   ]
 }

@@ -1,7 +1,6 @@
 ---
-Subject: "AP Stats"
-Type: "Project"
 Due Date: 05/25/2022
+Tags: [ApStats, Project]
 ---
 # AP Statistics Final Project
 ## Hurricane Maria: Data Science Case Study
@@ -11,21 +10,21 @@ Due Date: 05/25/2022
 >[!Instructions]
 >Imagine you were trying to estimate the death toll in Puerto Rico from Hurricane Maria. You have several sampling options to estimate the death toll:
 >
->1.  Rough estimate based on expert opinion.
->2.  Simple random sample of death counts at 450 individual homes
->3. Cluster random sample of death counts in all homes within 100 randomly selected areas.
->4. Stratified random sample of death counts at 450 homes, stratified by distance from nearest large city
->5. Mail a survey to ALL homes in Puerto Rico, with questions about death count in their homes.
+>A.  Rough estimate based on expert opinion.
+>B.  Simple random sample of death counts at 450 individual homes
+>C. Cluster random sample of death counts in all homes within 100 randomly selected areas.
+>E. Stratified random sample of death counts at 450 homes, stratified by distance from nearest large city
+>D. Mail a survey to ALL homes in Puerto Rico, with questions about death count in their homes.
 >
->Choose one option (1 – 5). Explain why you chose that option in 2 – 3 sentences
+>Choose one option (A – E). Explain why you chose that option in 2 – 3 sentences
 
-I would use a cluster random sample because different parts of the island have different geography. Sampling homes around locations is a good way to get equal representation of these regions, and there for get a better estimate of the total death toll.
+I would use a cluster random sample because different parts of the island have different geography. Sampling homes Earound locations is a good way to get equal representation of these regions, and there for get a better estimate of the total death toll.
 
 > [!Instructions]
 > ![[AP Stats Final Project Figure 1.png]]
 > In your own words, describe their sampling methods. Make sure to discuss the above figure, use proper vocabulary (simple random sample, stratified, cluster, etc.) and discuss why you believe they chose those methods.
 
-
+They used a cluster random sample. They selected 13 barrios at random and 
 > [!Instructions]
 > If you had to make a prediction, would you believe the death count is higher or lower than the estimate the researchers provide? Why?
 
