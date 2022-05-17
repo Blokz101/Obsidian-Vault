@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c556e8918584849",
+        "id": "022e26e6a829e8ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/AP Statistics Final Project.md",
+            "file": "School/The Ford and Carter Presidencies.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251
   },
   "right": {
     "id": "84e4c40664f64f3f",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Statistics Final Project.md",
+                "file": "School/The Ford and Carter Presidencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Statistics Final Project.md",
+                "file": "School/The Ford and Carter Presidencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0c556e8918584849",
+  "active": "022e26e6a829e8ac",
   "lastOpenFiles": [
+    "School/The Ford and Carter Presidencies.md",
     "School/AP Statistics Final Project.md",
+    "Watergate Scandal.md",
     "Journal/Monday May 16th, 2022.md",
     "Journal/Sunday May 15th, 2022.md",
-    "Dependencies/AP Stats Final Project Figure 2.png",
     "Dependencies/AP Stats Final Project Figure 1.png",
+    "Dependencies/AP Stats Final Project Figure 2.png",
     "Templates/Daily Note Template.md",
     "{{saturday}}.md",
-    "Untitled.md",
-    "Journal/Wednesday May 18th, 2022.md",
-    "Journal/Tuesday May 17th, 2022.md"
+    "Journal/Wednesday May 18th, 2022.md"
   ]
 }

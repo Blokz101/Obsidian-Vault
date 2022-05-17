@@ -18,13 +18,21 @@ Tags: [ApStats, Project]
 >
 >Choose one option (A – E). Explain why you chose that option in 2 – 3 sentences
 
-I would use a cluster random sample because different parts of the island have different geography. Sampling homes Earound locations is a good way to get equal representation of these regions, and there for get a better estimate of the total death toll.
+I would use a cluster random sample because different parts of the island have different geography. Sampling homes around locations is a good way to get equal representation of these regions, and there for get a better estimate of the total death toll.
+
+>[!Instructions]
+>Read the “Abstract” and “Methods” sections of the study (find it here: tinyurl.com/hurricanemariastudy). As you read, capture notes about:
+>- The type of sampling methods they used (stratified, cluster, etc.)
+>- Any efforts they made to reduce sampling bias
+>- Any efforts they made to make a “conservative” estimate
+>- Their final estimate for the death toll from the hurricane. Note: the authors define this estimate as the number of “excess deaths.”
+
 
 > [!Instructions]
 > ![[AP Stats Final Project Figure 1.png]]
 > In your own words, describe their sampling methods. Make sure to discuss the above figure, use proper vocabulary (simple random sample, stratified, cluster, etc.) and discuss why you believe they chose those methods.
 
-They used a cluster random sample. They selected 13 barrios at random and 
+They used a cluster random sample. They selected 13 barrios at random and sampled the people within them. I know that they chose a cluster random sample because they stratified by geological location and then took samples of everyone in each strata.
 > [!Instructions]
 > If you had to make a prediction, would you believe the death count is higher or lower than the estimate the researchers provide? Why?
 
