@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "12547f30fb9b1ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe085afbee8fc1e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/Sunday May 15th, 2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71115e1faae3f0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e9ca2bfc0cc1dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699a47265abb863e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a2b5eb42e48c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84e4c40664f64f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c016b11dd2de428c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4feae3bc533bdda4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Sunday May 15th, 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b51aebc38cb5a515",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Sunday May 15th, 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cceaa2e86525828c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18e14f4318287c5a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c31719888f9488e7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "696ab73c5a1b99ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bb5c5f21d8384c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fe085afbee8fc1e6",
+  "lastOpenFiles": [
+    "Journal/Sunday May 15th, 2022.md",
+    "Journal/Monday May 16th, 2022.md",
+    "Templates/Daily Note Template.md",
+    "Journal/Wednesday May 18th, 2022.md",
+    "Journal/Tuesday May 17th, 2022.md",
+    "Journal/Untitled.md",
+    "`.md",
+    "´´´´´.md",
+    "Journal/Sunday May 16h, 2022.md",
+    "hello this is a test.md"
+  ]
+}
