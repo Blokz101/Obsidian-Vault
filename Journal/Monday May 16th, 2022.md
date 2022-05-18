@@ -4,6 +4,9 @@ Tag: Journal
 # Monday May 16th, 2022
 
 ###### Drew a dick on the white board in spanish
+
+^c72371
+
 [[Rant]]
 I got about 4 hours of sleep today and honestly just wasnt feeling it today, however I made it to school, got a lot done in Psychology today and then went to Spanish. I got a lot of work done there too. At the end of the class Isac had a dry erase marker and was drawing a face on the white board when I felt the need to grab the marker and draw a dick on the board and then leave class early. Honestly I still dont know why exactly I did it, but I know that I did not mean it will malicious intent towards Profe and more as a joke or even a stupidly arrogant attempt to show off.
 
