@@ -1,9 +1,8 @@
 ---
-Subject: ApStats
-Type: Project
-Due Date: 05/25/2022
+Tag: Project
 ---
 # AP Statistics Final Project
+>[[AP Statistics]]
 ## Hurricane Maria: Data Science Case Study
 > [!Background]-
 > After Hurricane Maria hit Puerto Rico on September 20, 2017, statistician and genomics expert Rafael Irizarry of Harvard T.H. Chan School of Public Health, a native of Puerto Rico, was hearing dire reports of death and destruction from friends and family on the island. So, when the governor of Puerto Rico announced that there had been only 64 storm-related deaths, Irizarry thought the number sounded “impossible.” In this case study, you will step through the full data science process Professor Irizarry and his collaborators used to explore the true death toll in Puerto Rico from Hurricane Maria.

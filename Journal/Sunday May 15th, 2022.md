@@ -1,7 +1,10 @@
+---
+Tag: Journal
+---
 # Sunday May 15th, 2022
 
 ###### Intro of Chloe to this journal
-#Chloe
+[[Chloe]]
 Well, this is probably going to be one of the few entries in this journal that are made in good spirit. A surprising turn of events in a lot of ways. Either way the topic is current that random girl I met on Valorant a month ago.
 
 A little history first though for future orientation. I met Beetles in a Valorant game about a month or so ago (may be off by an entire month, no clue and I don’t think I’m going to bother checking, probably over a month though...) and shortly after she and Jeff got into a relationship. I was a little surprised by the speed of that one but honestly don’t think of much of it considering I’m not looking for a relationship. I was a tad annoyed but that was more because we were talking and I thought she could be a close friend, then they started dating and I didn’t wanna get in between anything.

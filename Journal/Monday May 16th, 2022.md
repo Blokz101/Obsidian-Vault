@@ -1,7 +1,10 @@
+---
+Tag: Journal
+---
 # Monday May 16th, 2022
 
 ###### Drew a dick on the white board in spanish
-#Rant
+[[Rant]]
 I got about 4 hours of sleep today and honestly just wasnt feeling it today, however I made it to school, got a lot done in Psychology today and then went to Spanish. I got a lot of work done there too. At the end of the class Isac had a dry erase marker and was drawing a face on the white board when I felt the need to grab the marker and draw a dick on the board and then leave class early. Honestly I still dont know why exactly I did it, but I know that I did not mean it will malicious intent towards Profe and more as a joke or even a stupidly arrogant attempt to show off.
 
 Long story short Profe saw it and was very offended and I returned to her class and apologized. The thing in writing about is why did I do it, why did I feel the need to act out like that and why do I feel defiant rebellion in general in her class. Is it because of the reputation I have created for myself, that of a kid who does not care about his grades and acts like a class clown? And now maybe I feel forced to conform to it? Or was it more of a "fuck you" to the Spanish work that I had just finished, and it was more for me then anyone else. Sort of like throwing down a pencil after a long test.
@@ -11,8 +14,8 @@ In the end, that is not the kind of person I want to be or for people to see me 
 
 
 ###### Chloe, Jeff, and a dividing rift
-#Jeff #Chloe
-I made an entry about Chloe last night but I just realized that there was something I did not address in that, I feel like on the road that we are currently on will lead to them breaking up and Chloe possibly pursuing me. I talked a little about my romantic feelings about Chloe yesterday, ill reference it here. 
+[[Jeff]] [[Chloe]]
+I made an entry about Chloe last night but I just realized that there was something I did not address in that, I feel like on the road that we are currently on will lead to them breaking up and Chloe possibly pursuing me. I talked a little about my romantic feelings about Chloe yesterday, i'll reference it here. 
 ![[Sunday May 15th, 2022#^9d0e22]]
 
 I think what I said yesterday really stands, I dont think I would be able to get into an official relationship with her this soon provided that Jeff never started dating her. This is a large part of the reason that I am scared that they will break up. I dont want to throw away the relationship that I have with her right now to try to emulate something more. I also dont know if I would be able to do a relationship like this virtually and without physical contact of any type. It sort of is my love language...

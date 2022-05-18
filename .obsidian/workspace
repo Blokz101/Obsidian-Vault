@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e445af21a3431a28",
+        "id": "4ea7ec9f8a21ae2d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/The Ford and Carter Presidencies.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/The Ford and Carter Presidencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/The Ford and Carter Presidencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e445af21a3431a28",
+  "active": "4ea7ec9f8a21ae2d",
   "lastOpenFiles": [
-    "School/The Ford and Carter Presidencies.md",
-    "School/AP Statistics Final Project.md",
-    "Image Vault/AP Stats Final Project Figure 2.png",
-    "Image Vault/AP Stats Final Project Figure 1.png",
+    "Vault/Ford and Carter Presidencies Notes.md",
+    "Vault/AP Statistics Final Project.md",
+    "References/AP Stats Final Project Figure 1.png",
     "Journal/Sunday May 15th, 2022.md",
     "Journal/Monday May 16th, 2022.md",
-    "School/AP Psychology Final Project.md",
-    "Valorant/Viper Lineups.md",
-    "Watergate Scandal.md",
-    "Templates/Daily Note Template.md"
+    "Templates/{{title}}.md",
+    "References/AP Stats Final Project Figure 2.png",
+    "Untitled.md",
+    "Journal.md",
+    "School/AP Psychology Final Project.md"
   ]
 }
