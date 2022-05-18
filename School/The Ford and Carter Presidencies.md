@@ -1,5 +1,7 @@
 ---
-Tags: [History, Note, Ford, Carter]
+Subject: History
+Type: Note
+Tags: [Ford, Carter]
 ---
 # The Ford and Carter Presidencies
 ## Gerald Ford

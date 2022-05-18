@@ -1,6 +1,7 @@
 ---
+Subject: ApStats
+Type: Project
 Due Date: 05/25/2022
-Tags: [ApStats, Project]
 ---
 # AP Statistics Final Project
 ## Hurricane Maria: Data Science Case Study
