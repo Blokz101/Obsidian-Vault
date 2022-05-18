@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-filename-heading-sync",
   "obsidian-admonition",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-sample-plugin"
 ]
