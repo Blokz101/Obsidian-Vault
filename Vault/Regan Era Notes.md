@@ -1,7 +1,7 @@
 ---
 Tag: ReferenceNote
 ---
-# Untitled
+# Regan Era Notes
 > [[American History]]
 
 ## The [[Conservative Movement]]
