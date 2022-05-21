@@ -27,16 +27,26 @@ I would use a cluster random sample because different parts of the island have d
 >- Any efforts they made to make a “conservative” estimate
 >- Their final estimate for the death toll from the hurricane. Note: the authors define this estimate as the number of “excess deaths.”
 
-They took a stratified random sample with the region stratified into barrios based on how remote they were. After that random barrios were selected from each of the categories and an additional two barrios were randomly sampled from two inhibited islands off the coast. Thirty five households were selected from each barrio that was selected. To avoid bias and ensure honesty from the people being surveyed, no reward or payment was issued for responding to the survey. 
+They took a stratified random sample with the region stratified into barrios based on how remote they were. After that random barrios were selected from each of the categories and an additional two barrios were randomly sampled from two inhibited islands off the coast. 
+
+Thirty five households were selected from each barrio that was selected. To avoid bias and ensure honesty from the people being surveyed, no reward or payment was issued for responding to the survey.  
+
+A sample of a household consisted of information about all people who lived in, moved into, moved out of, been born, or died in 2017.
+
+**Not sure how to find the last two requirements**
 
 > [!Instructions]
 > ![[AP Stats Final Project Figure 1.png]]
 > In your own words, describe their sampling methods. Make sure to discuss the above figure, use proper vocabulary (simple random sample, stratified, cluster, etc.) and discuss why you believe they chose those methods.
 
-They used a cluster random sample. They selected 13 barrios at random and sampled the people within them. I know that they chose a cluster random sample because they stratified by geological location and then took samples of everyone in each strata.
+They used a hybrid stratified - cluster random sample. First the region was divided into clusters and then each cluster was stratified based on how remote it was. After that a simple random sample was done of the clusters for each level of remoteness and an entire population survey was done of each selected cluster.
+
+I think that this was done because there is a difference between the data of the more remote and less remote locations. In a simple random sample they might get mis represented and throw off the estimate. However, after clustering and stratifying them, we ensure a more complete representation.
+
 > [!Instructions]
 > If you had to make a prediction, would you believe the death count is higher or lower than the estimate the researchers provide? Why?
 
+I think that it is higher for a two reasons. Firstly deaths could occur from health complications that the destruction brought on; Though dependent on another ailment it would still be the storm that killed the people in the end. Secondly the survivor bias will draw peoples attention to those who survived and away from the deaths. Though not as influential when a purposeful study is being done, it can still effect results.
 
 > [!Instructions]
 > ![[AP Stats Final Project Figure 2.png]]
