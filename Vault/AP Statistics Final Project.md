@@ -27,6 +27,7 @@ I would use a cluster random sample because different parts of the island have d
 >- Any efforts they made to make a “conservative” estimate
 >- Their final estimate for the death toll from the hurricane. Note: the authors define this estimate as the number of “excess deaths.”
 
+They took a stratified random sample with the region stratified into barrios based on how remote they were. After that random barrios were selected from each of the categories and an additional two barrios were randomly sampled from two inhibited islands off the coast. Thirty five households were selected from each barrio that was selected. To avoid bias and ensure honesty from the people being surveyed, no reward or payment was issued for responding to the survey. 
 
 > [!Instructions]
 > ![[AP Stats Final Project Figure 1.png]]
