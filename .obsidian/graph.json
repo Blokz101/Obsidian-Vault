@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Journal",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#ReferenceNote",
+      "query": "tag:#Reference",
       "color": {
         "a": 1,
         "rgb": 16774912
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6538024133443257,
+  "scale": 1.0576262289049299,
   "close": true
 }

@@ -1,5 +1,5 @@
 ---
-Tag: ReferenceNote
+Tag: Reference
 ---
 # Ford and Carter Presidencies Notes
 > [[American History]]

@@ -1,5 +1,5 @@
 ---
-Tag: ReferenceNote
+Tag: Reference
 ---
 # Regan Era Notes
 > [[American History]]

@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "fileSortOrder": "alphabeticalReverse",
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
@@ -9,5 +9,7 @@
   "showFrontmatter": true,
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "References"
 }
