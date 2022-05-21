@@ -39,7 +39,7 @@ A sample of a household consisted of information about all people who lived in, 
 > ![[AP Stats Final Project Figure 1.png]]
 > In your own words, describe their sampling methods. Make sure to discuss the above figure, use proper vocabulary (simple random sample, stratified, cluster, etc.) and discuss why you believe they chose those methods.
 
-They used a hybrid stratified - cluster random sample. First the region was divided into clusters and then each cluster was stratified based on how remote it was. After that a simple random sample was done of the clusters for each level of remoteness and an entire population survey was done of each selected cluster.
+They used a hybrid stratified-cluster random sample. First the region was divided into clusters and then each cluster was stratified based on how remote it was. After that a simple random sample was done of the clusters for each level of remoteness and an entire population survey was done of each selected cluster.
 
 I think that this was done because there is a difference between the data of the more remote and less remote locations. In a simple random sample they might get mis represented and throw off the estimate. However, after clustering and stratifying them, we ensure a more complete representation.
 
