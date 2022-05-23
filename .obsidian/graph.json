@@ -8,37 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Journal",
-      "color": {
-        "a": 1,
-        "rgb": 12221
-      }
-    },
-    {
       "query": "tag:#Reference",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 14408448
       }
     },
     {
-      "query": "tag:#Project",
+      "query": "tag:#Journal",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 196812
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.00042735042735,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.500934829059829,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.421962159746508,
-  "close": true
+  "scale": 1.2338321961961392,
+  "close": false
 }
