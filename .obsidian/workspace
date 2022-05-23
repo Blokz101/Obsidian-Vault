@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e958c189656a194",
+        "id": "2b9996b85a5f9dec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/{{title}}.md",
+            "file": "Vault/AP Statistics Final Project.md",
             "mode": "preview",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/{{title}}.md",
+                "file": "Vault/AP Statistics Final Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/{{title}}.md",
+                "file": "Vault/AP Statistics Final Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e958c189656a194",
+  "active": "2b9996b85a5f9dec",
   "lastOpenFiles": [
-    "Templates/{{title}}.md",
     "Vault/AP Statistics Final Project.md",
+    "References/AP Stats Final Project Figure 2.png",
+    "Templates/{{title}}.md",
     "Vault/Ford and Carter Presidencies Notes.md",
     "Vault/Regan Era Notes.md",
     "Journal/Friday May 20th, 2022.md",
     "Journal/Monday May 16th, 2022.md",
     "Journal/Sunday May 15th, 2022.md",
     "Journal/().md",
-    "References/AP Stats Final Project Figure 1.png",
-    "Vault/To Do.md"
+    "References/AP Stats Final Project Figure 1.png"
   ]
 }
