@@ -7,8 +7,12 @@
         "id": "5435059bf56235d2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/A Good Commit.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/A Good Commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/A Good Commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +161,7 @@
   },
   "active": "5435059bf56235d2",
   "lastOpenFiles": [
+    "Vault/A Good Commit.md",
     "Vault/Power.md",
     "Vault/Ford and Carter Presidencies Notes.md",
     "Journal/Friday May 20th, 2022.md",
@@ -163,7 +170,6 @@
     "Vault/George Bush Notes.md",
     "Vault/Regan Era Notes.md",
     "Vault/AP Statistics Final Project.md",
-    "References/AP Stats Final Project Figure 2.png",
-    "Templates/{{title}}.md"
+    "References/AP Stats Final Project Figure 2.png"
   ]
 }
