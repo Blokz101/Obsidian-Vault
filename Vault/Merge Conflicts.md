@@ -1,11 +1,10 @@
 # Merge Conflicts
-[[Git]] [[Merging]]
+[[Git]]
 
 - Merge Conflicts
 	- When they can happen
-		- git merge
-		- git rebase
+		- git [[Merge]]
+		- git [[Rebase]]
 		- git pull
 		- git cherry-pick
 		- git stash apply
-	- 

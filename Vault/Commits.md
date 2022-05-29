@@ -1,6 +1,7 @@
-# A Good Commit
+# Commits
 [[Git]]
 
+## How to write a good commit
 [Based on this video](https://youtu.be/Uszj_k0DGsg)
 - How to create a good commit
 	- Be selective about what goes into a commit.

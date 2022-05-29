@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Merge Conflicts",
-      "path": "Vault/Merge Conflicts.md"
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
     },
     {
       "basename": "Commit Part of a File",
       "path": "Vault/Commit Part of a File.md"
     },
     {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
+      "basename": "Commits",
+      "path": "Vault/Commits.md"
     },
     {
-      "basename": "A Good Commit",
-      "path": "Vault/A Good Commit.md"
+      "basename": "Merge",
+      "path": "Vault/Merge.md"
+    },
+    {
+      "basename": "Merge Conflicts",
+      "path": "Vault/Merge Conflicts.md"
+    },
+    {
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",
       "path": "References/AP Stats Final Project Figure 1.png"
-    },
-    {
-      "basename": "Monday May 16th, 2022",
-      "path": "Journal/Monday May 16th, 2022.md"
     },
     {
       "basename": "Ford and Carter Presidencies Notes",
@@ -37,20 +41,12 @@
       "path": "Monday May 16th, 2022^c72371.md"
     },
     {
-      "basename": "Sunday May 15th, 2022",
-      "path": "Journal/Sunday May 15th, 2022.md"
-    },
-    {
       "basename": "AP Statistics Final Project",
       "path": "Vault/AP Statistics Final Project.md"
     },
     {
       "basename": "The Ford and Carter Presidencies",
       "path": "Vault/The Ford and Carter Presidencies.md"
-    },
-    {
-      "basename": "{{title}}",
-      "path": "Templates/{{title}}.md"
     },
     {
       "basename": "AP Stats Final Project Figure 2",
