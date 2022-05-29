@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
-    },
-    {
-      "basename": "Commit Part of a File",
-      "path": "Vault/Commit Part of a File.md"
+      "basename": "Voltage",
+      "path": "Vault/Voltage.md"
     },
     {
       "basename": "Commits",
@@ -17,8 +13,12 @@
       "path": "Vault/Merge.md"
     },
     {
-      "basename": "Merge Conflicts",
-      "path": "Vault/Merge Conflicts.md"
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
+    },
+    {
+      "basename": "Commit Part of a File",
+      "path": "Vault/Commit Part of a File.md"
     },
     {
       "basename": "Rebase",
