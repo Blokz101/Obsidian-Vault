@@ -4,13 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "09ace81eb7f3c222",
+        "id": "1be5302200d4a4db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Voltage.md",
+            "file": "Vault/Motor Characterization Experiment.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "453846c3d43bb1e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Power.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9a71f2dacd10d43c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Current.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -25,6 +49,7 @@
       {
         "id": "42e9ca2bfc0cc1dd",
         "type": "tabs",
+        "dimension": 64.69248291571755,
         "children": [
           {
             "id": "699a47265abb863e",
@@ -58,6 +83,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "14914afabe6db0eb",
+        "type": "tabs",
+        "dimension": 35.30751708428246,
+        "children": [
+          {
+            "id": "13bb5c5f21d8384c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +110,6 @@
       {
         "id": "c016b11dd2de428c",
         "type": "tabs",
-        "dimension": 35.190097259062775,
         "children": [
           {
             "id": "4feae3bc533bdda4",
@@ -78,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Vault/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Vault/Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,14 +149,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "c31719888f9488e7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -138,37 +169,23 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "696ab73c5a1b99ff",
-        "type": "tabs",
-        "dimension": 64.80990274093722,
-        "children": [
-          {
-            "id": "13bb5c5f21d8384c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "09ace81eb7f3c222",
+  "active": "453846c3d43bb1e9",
   "lastOpenFiles": [
-    "Vault/Voltage.md",
+    "Vault/Power.md",
     "Vault/Current.md",
-    "Vault/Ohm's Law.md",
-    "Vault/Commits.md",
-    "Vault/Merge Conflicts.md",
+    "Vault/Motor Characterization Experiment.md",
+    "Vault/Voltage.md",
     "Vault/Merge.md",
-    "Vault/Branching Strategies.md",
-    "Vault/Commit Part of a File.md",
+    "Vault/Ohm's Law.md",
     "Vault/Rebase.md",
-    "Git.md"
+    "Vault/Commits.md",
+    "Vault/Branching Strategies.md",
+    "Vault/Commit Part of a File.md"
   ]
 }

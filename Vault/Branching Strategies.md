@@ -1,5 +1,5 @@
 # Branching Strategies
-[[Git]]
+#Perm [[Git]]
 
 - Branching Strategies
 	- Mainline Development

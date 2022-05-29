@@ -1,5 +1,5 @@
 # Rebase
-[[Git]]
+#Perm [[Git]]
 
 ## What does rebase do
 Joins two branches by taking the history of one branch and attempting to base it off the history of the other branch.

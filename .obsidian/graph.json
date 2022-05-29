@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Reference",
+      "query": "tag:#Ref",
       "color": {
         "a": 1,
-        "rgb": 14408448
+        "rgb": 37375
       }
     },
     {
-      "query": "tag:#Journal",
+      "query": "tag:#Perm",
       "color": {
         "a": 1,
-        "rgb": 196812
+        "rgb": 3414783
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0142507173247988,
+  "scale": 0.7432621630674432,
   "close": true
 }

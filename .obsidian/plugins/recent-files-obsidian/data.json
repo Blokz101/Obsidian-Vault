@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Voltage",
-      "path": "Vault/Voltage.md"
+      "basename": "Power",
+      "path": "Vault/Power.md"
     },
     {
       "basename": "Current",
       "path": "Vault/Current.md"
     },
     {
-      "basename": "Ohm's Law",
-      "path": "Vault/Ohm's Law.md"
+      "basename": "Motor Characterization Experiment",
+      "path": "Vault/Motor Characterization Experiment.md"
     },
     {
-      "basename": "Commits",
-      "path": "Vault/Commits.md"
+      "basename": "Voltage",
+      "path": "Vault/Voltage.md"
     },
     {
       "basename": "Merge",
       "path": "Vault/Merge.md"
+    },
+    {
+      "basename": "Ohm's Law",
+      "path": "Vault/Ohm's Law.md"
+    },
+    {
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
+    },
+    {
+      "basename": "Commits",
+      "path": "Vault/Commits.md"
     },
     {
       "basename": "Branching Strategies",
@@ -27,10 +39,6 @@
     {
       "basename": "Commit Part of a File",
       "path": "Vault/Commit Part of a File.md"
-    },
-    {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",

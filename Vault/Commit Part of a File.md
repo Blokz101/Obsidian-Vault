@@ -1,5 +1,5 @@
 # Commit Part of a File
-[[Git]]
+#Perm [[Git]]
 
 ```
 git add -p <FILE_HERE>

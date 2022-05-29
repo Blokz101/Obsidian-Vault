@@ -1,5 +1,5 @@
 # Merge
-[[Git]]
+#Perm [[Git]]
 
 ## What does merge do
 Joins two branches by making a new commit and combining code from both branches.

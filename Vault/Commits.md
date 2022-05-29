@@ -1,5 +1,5 @@
 # Commits
-[[Git]]
+#Perm [[Git]]
 
 ## How to write a good commit
 [Based on this video](https://youtu.be/Uszj_k0DGsg)
