@@ -1,10 +1,8 @@
 [
-  "sliding-panes-obsidian",
   "obsidian-git",
-  "calendar",
   "better-word-count",
   "obsidian-filename-heading-sync",
-  "obsidian-admonition",
   "recent-files-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "calendar"
 ]

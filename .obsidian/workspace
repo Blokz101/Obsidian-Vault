@@ -113,14 +113,6 @@
             }
           },
           {
-            "id": "18e14f4318287c5a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "c31719888f9488e7",
             "type": "leaf",
             "state": {
@@ -133,6 +125,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "23e069204f473c28",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -161,14 +161,14 @@
   "active": "09ace81eb7f3c222",
   "lastOpenFiles": [
     "Vault/Voltage.md",
+    "Vault/Current.md",
+    "Vault/Ohm's Law.md",
     "Vault/Commits.md",
     "Vault/Merge Conflicts.md",
     "Vault/Merge.md",
     "Vault/Branching Strategies.md",
     "Vault/Commit Part of a File.md",
     "Vault/Rebase.md",
-    "Git.md",
-    "Vault/How to merge.md",
-    "Vault/Power.md"
+    "Git.md"
   ]
 }

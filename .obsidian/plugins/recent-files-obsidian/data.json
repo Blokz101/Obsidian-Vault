@@ -5,6 +5,14 @@
       "path": "Vault/Voltage.md"
     },
     {
+      "basename": "Current",
+      "path": "Vault/Current.md"
+    },
+    {
+      "basename": "Ohm's Law",
+      "path": "Vault/Ohm's Law.md"
+    },
+    {
       "basename": "Commits",
       "path": "Vault/Commits.md"
     },
