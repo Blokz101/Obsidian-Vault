@@ -5,20 +5,8 @@
       "path": "Vault/Power.md"
     },
     {
-      "basename": "Current",
-      "path": "Vault/Current.md"
-    },
-    {
       "basename": "Motor Characterization Experiment",
       "path": "Vault/Motor Characterization Experiment.md"
-    },
-    {
-      "basename": "Voltage",
-      "path": "Vault/Voltage.md"
-    },
-    {
-      "basename": "Merge",
-      "path": "Vault/Merge.md"
     },
     {
       "basename": "Ohm's Law",
@@ -27,6 +15,18 @@
     {
       "basename": "Rebase",
       "path": "Vault/Rebase.md"
+    },
+    {
+      "basename": "Voltage",
+      "path": "Vault/Voltage.md"
+    },
+    {
+      "basename": "Current",
+      "path": "Vault/Current.md"
+    },
+    {
+      "basename": "Merge",
+      "path": "Vault/Merge.md"
     },
     {
       "basename": "Commits",

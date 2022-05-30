@@ -1,7 +1,7 @@
 # Ohm's Law
 #Perm [[Electricity]] ^ba298a
 
->$$V=IR$$
+>$$V=I*R$$
 >$V$ = [[Voltage]]
 >$I$ = [[Current]]
 >$R$ = [[Resistance]]
