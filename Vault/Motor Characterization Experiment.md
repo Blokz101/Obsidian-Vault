@@ -14,3 +14,6 @@ Based off of [this pdf](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 	   > $$W_{rad/sec}=W_{rpm}*\frac{2\pi}{60}$$
 	   > $W_{rad/sec}$ = [[Angular Velocity]] in radians per second
 	   > $W_{rpm}$ = [[Angular Velocity]] in rotations per minute
+
+## Torque Speed Curves
+1. 
