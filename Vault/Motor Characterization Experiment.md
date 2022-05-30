@@ -17,13 +17,18 @@ Based off of [this pdf](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 ## Torque Speed Curves
 1. Measure basic parameter
 	1. Find a constant voltage power supply
-	2. Obtain the following:
-	3. Obtain the [[No Load Speed]]
-		- Run the motor with no load and measure rpm using a [[Tachometer]]
-	4. Obtain the [[No Load Current]]
-		- Run the motor with no load and measure [[Current]] using a multimeter or other tool.
-	5. Obtain the [[Stall Torque]]
-		- Run the motor at full speed and apply enough mechanical resistance that the motor stalls, measure this [[Torque]].
-		- > A way that has worked in the past is to hook up a string to the motor shaft and have that pull on a scale.
-	6. Obtain the [[Terminal Resistance]]
-		1. 
+	2. Obtain the following
+		- Obtain the $n_{0}$ or [[No Load Speed]]
+			- Run the motor with no load and measure rpm using a [[Tachometer]]
+		- Obtain the $I_{0}$ or [[No Load Current]]
+			- Run the motor with no load and measure [[Current]] using a multimeter or other tool.
+		- Obtain the $M_{H}$  or [[Stall Torque]]
+			- Run the motor at full speed and apply enough mechanical resistance that the motor stalls, measure this [[Torque]].
+			- > A way that has worked in the past is to hook up a string to the motor shaft and have that pull on a scale.
+		- Obtain the $R$ or [[Terminal Resistance]]
+			- ![[Terminal Resistance#^f0a44f]]
+	3. Plot [[Current]] vs [[Torque]]
+		- Draw a straight line from the origin of the graph to the ([[Stall Torque]], [[Stall Current]])
+	4. Speed vs [[Torque]]
+		- 
+	5. 

@@ -5,12 +5,32 @@
       "path": "Vault/Motor Characterization Experiment.md"
     },
     {
-      "basename": "Power",
-      "path": "Vault/Power.md"
+      "basename": "Terminal Resistance",
+      "path": "Vault/Terminal Resistance.md"
+    },
+    {
+      "basename": "Current",
+      "path": "Vault/Current.md"
+    },
+    {
+      "basename": "Commits",
+      "path": "Vault/Commits.md"
+    },
+    {
+      "basename": "Commit Part of a File",
+      "path": "Vault/Commit Part of a File.md"
+    },
+    {
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
     },
     {
       "basename": "Ohm's Law",
       "path": "Vault/Ohm's Law.md"
+    },
+    {
+      "basename": "Power",
+      "path": "Vault/Power.md"
     },
     {
       "basename": "Rebase",
@@ -21,24 +41,8 @@
       "path": "Vault/Voltage.md"
     },
     {
-      "basename": "Current",
-      "path": "Vault/Current.md"
-    },
-    {
       "basename": "Merge",
       "path": "Vault/Merge.md"
-    },
-    {
-      "basename": "Commits",
-      "path": "Vault/Commits.md"
-    },
-    {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
-    },
-    {
-      "basename": "Commit Part of a File",
-      "path": "Vault/Commit Part of a File.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",
