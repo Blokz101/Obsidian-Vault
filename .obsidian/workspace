@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "478416b9716454da",
+        "id": "0a4c41e7a915f12a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Untitled.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "478416b9716454da",
+  "active": "0a4c41e7a915f12a",
   "lastOpenFiles": [
-    "Vault/Rebase.md",
-    "Vault/Motor Characterization Experiment.md",
-    "Vault/Nominal Motor Voltage.md",
+    "Vault/Untitled.md",
     "Vault/Terminal Resistance.md",
-    "Vault/Current.md",
-    "Vault/Commits.md",
-    "Vault/Commit Part of a File.md",
+    "Templates/Standard Note Template.md",
+    "Vault/hihih.md",
+    "Vault/i.md",
     "Vault/Branching Strategies.md",
+    "Vault/Power.md",
     "Vault/Ohm's Law.md",
-    "Vault/Power.md"
+    "Vault/Nominal Motor Voltage.md",
+    "Vault/Rebase.md"
   ]
 }

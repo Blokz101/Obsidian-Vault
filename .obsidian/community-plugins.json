@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "better-word-count",
-  "obsidian-filename-heading-sync",
   "recent-files-obsidian",
   "obsidian-outliner",
   "calendar",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "templater-obsidian"
 ]

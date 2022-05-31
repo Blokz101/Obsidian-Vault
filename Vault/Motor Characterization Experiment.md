@@ -28,7 +28,7 @@ Based off of [this PDF](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 2. Plot [[Current]] vs [[Torque]]
 	- Draw a straight line from (0, 0) to ([[Stall Torque]], [[Stall Current]])
 3. Plot [[Speed]] vs [[Torque]]
-	1. Calculate the Velocity Constant
+	1. Calculate the Velocity constant
 		- This may be incorrect, this part had to be inferred from the Sample Calculation part of the [PDF](https://pages.mtu.edu/~wjendres/ProductRealization1Course/DC_Motor_Calculations.pdf)
 		  > $$V_{const}=n_{0}*M_{H}$$
 		  > $V_{const}$ = Velocity constant

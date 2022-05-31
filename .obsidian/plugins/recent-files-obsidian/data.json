@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
+      "basename": "Untitled",
+      "path": "Vault/Untitled.md"
     },
     {
-      "basename": "Motor Characterization Experiment",
-      "path": "Vault/Motor Characterization Experiment.md"
+      "basename": "Terminal Resistance",
+      "path": "Vault/Terminal Resistance.md"
+    },
+    {
+      "basename": "Standard Note Template",
+      "path": "Templates/Standard Note Template.md"
+    },
+    {
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
+    },
+    {
+      "basename": "Power",
+      "path": "Vault/Power.md"
+    },
+    {
+      "basename": "Ohm's Law",
+      "path": "Vault/Ohm's Law.md"
     },
     {
       "basename": "Nominal Motor Voltage",
       "path": "Vault/Nominal Motor Voltage.md"
     },
     {
-      "basename": "Terminal Resistance",
-      "path": "Vault/Terminal Resistance.md"
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
+    },
+    {
+      "basename": "Motor Characterization Experiment",
+      "path": "Vault/Motor Characterization Experiment.md"
     },
     {
       "basename": "Current",
@@ -27,18 +47,6 @@
     {
       "basename": "Commit Part of a File",
       "path": "Vault/Commit Part of a File.md"
-    },
-    {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
-    },
-    {
-      "basename": "Ohm's Law",
-      "path": "Vault/Ohm's Law.md"
-    },
-    {
-      "basename": "Power",
-      "path": "Vault/Power.md"
     },
     {
       "basename": "Voltage",
