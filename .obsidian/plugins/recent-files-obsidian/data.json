@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
+    },
+    {
       "basename": "Motor Characterization Experiment",
       "path": "Vault/Motor Characterization Experiment.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Power",
       "path": "Vault/Power.md"
-    },
-    {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
     },
     {
       "basename": "Voltage",
