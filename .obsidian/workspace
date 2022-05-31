@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Motor Characterization Experiment.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -154,6 +154,7 @@
   "active": "1be5302200d4a4db",
   "lastOpenFiles": [
     "Vault/Motor Characterization Experiment.md",
+    "Vault/Nominal Motor Voltage.md",
     "Vault/Terminal Resistance.md",
     "Vault/Current.md",
     "Vault/Commits.md",
@@ -161,7 +162,6 @@
     "Vault/Branching Strategies.md",
     "Vault/Ohm's Law.md",
     "Vault/Power.md",
-    "Vault/Rebase.md",
-    "Vault/Voltage.md"
+    "Vault/Rebase.md"
   ]
 }

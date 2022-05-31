@@ -5,7 +5,7 @@ Based off of [this pdf](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 
 ## Calculating [[Power|Mechanical Power]]
 - >[!Equation for rotational mechanical power]
-   >- $$P_{rot}=T*W$$
+   >- $$P_{rot}=T*W$$ ^3052b7
    >- $P_{rot}$ = Rotational mechanical power
    >- $T$ = [[Torque]]
    >- $W$ = [[Angular Velocity]] in radians per second
@@ -28,7 +28,16 @@ Based off of [this pdf](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 		- Obtain the $R$ or [[Terminal Resistance]]
 			- ![[Terminal Resistance#^f0a44f]]
 	3. Plot [[Current]] vs [[Torque]]
-		- Draw a straight line from the origin of the graph to the ([[Stall Torque]], [[Stall Current]])
-	4. Speed vs [[Torque]]
-		- 
-	5. 
+		1. Draw a straight line from (0, 0) to ([[Stall Torque]], [[Stall Current]])
+	4. Plot [[Speed]] vs [[Torque]]
+		1. Calculate the Velocity Constant
+			- Use the Torque Constant or the slope of the line of the Current vs Torque graph, dont know how to do the rest of this yet
+		2. Calculate the [[No Load Speed]]
+			- > $$L_{0}=V_{const}*V_{0}$$
+			  > $L_{0}$ = [[No Load Speed]]
+			  > $V_{const}$ = Velocity Constant
+			  > $V_{0}$ = [[Nominal Motor Voltage]]
+		3. Draw a straight line from (0, [[No Load Speed]]) to ([[Stall Torque]], 0)
+	5. Plot [[Power]] vs [[Torque]]
+		1. Experimentally create a table of [[Power]] vs [[Torque]] using ![[Motor Characterization Experiment#^3052b7]] to calculate [[Power]]
+	6. 

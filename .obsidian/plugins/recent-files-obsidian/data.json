@@ -5,6 +5,10 @@
       "path": "Vault/Motor Characterization Experiment.md"
     },
     {
+      "basename": "Nominal Motor Voltage",
+      "path": "Vault/Nominal Motor Voltage.md"
+    },
+    {
       "basename": "Terminal Resistance",
       "path": "Vault/Terminal Resistance.md"
     },
