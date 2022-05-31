@@ -1,5 +1,10 @@
-# Current
-#Perm [[Electricity]]
+---
+Alias: []
+Creation Date: Sun May 29th 2022 17:55:35 pm 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Electricity]]
 
 - Definition
 	- Current is the number of electrons that can pass through a particular part of a wire at a given time.

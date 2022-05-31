@@ -1,5 +1,10 @@
-# Rebase
-#Perm [[Git]]
+---
+Alias: []
+Creation Date: Sun May 29th 2022 03:04:52 am 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Git]]
 
 ## What does rebase do
 Joins two branches by taking the history of one branch and attempting to base it off the history of the other branch.

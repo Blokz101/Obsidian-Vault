@@ -1,8 +1,16 @@
-# Ohm's Law
-#Perm [[Electricity]] ^ba298a
+---
+Alias: []
+Creation Date: Sun May 29th 2022 18:00:28 pm 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Electricity]] ^ba298a
 
->$$V=I*R$$
->$V$ = [[Voltage]]
->$I$ = [[Current]]
->$R$ = [[Resistance]]
-^1c650e
+- Definition
+	- Relates [[Voltage]] to [[Current]] and [[Resistance]]
+	- Equation
+       >$$V=I*R$$
+       >$V$ = [[Voltage]]
+       >$I$ = [[Current]]
+       >$R$ = [[Resistance]]
+       ^1c650e

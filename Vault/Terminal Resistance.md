@@ -1,5 +1,10 @@
-# Terminal Resistance
-#Perm [[Electricity]] [[Resistance]]
+---
+Alias: []
+Creation Date: Mon May 30th 2022 02:41:06 am 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Electricity]] [[Resistance]]
 
 - Definition
 	- The terminal resistance is the resistance of the electrical path between the two motor terminals. 

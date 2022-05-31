@@ -1,5 +1,10 @@
-# Commits
-#Perm [[Git]]
+---
+Alias: []
+Creation Date: Fri May 27th 2022 15:25:42 pm 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Git]]
 
 ## How to write a good commit
 [Based on this video](https://youtu.be/Uszj_k0DGsg)

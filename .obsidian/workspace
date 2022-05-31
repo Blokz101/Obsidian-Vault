@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "12547f30fb9b1ab5",
+    "id": "3bc19ed574192fba",
     "type": "split",
     "children": [
       {
-        "id": "0a4c41e7a915f12a",
+        "id": "8f93750510a1338c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Untitled.md",
+            "file": "Vault/Commits.md",
             "mode": "preview",
             "source": true
           }
@@ -19,16 +19,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "71115e1faae3f0f2",
+    "id": "de29fdcb82f6a4e5",
     "type": "split",
     "children": [
       {
-        "id": "42e9ca2bfc0cc1dd",
+        "id": "dae726d40aa05d44",
         "type": "tabs",
-        "dimension": 64.69248291571755,
         "children": [
           {
-            "id": "699a47265abb863e",
+            "id": "c8e5db5b4ff26463",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5a374cea586811e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +43,7 @@
             }
           },
           {
-            "id": "9a2b5eb42e48c8ff",
+            "id": "b084e0bc691afd27",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,51 +56,37 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f80e8a5051093028",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
-      },
-      {
-        "id": "14914afabe6db0eb",
-        "type": "tabs",
-        "dimension": 35.30751708428246,
-        "children": [
-          {
-            "id": "13bb5c5f21d8384c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 300
   },
   "right": {
-    "id": "84e4c40664f64f3f",
+    "id": "11afaf635e026b2f",
     "type": "split",
     "children": [
       {
-        "id": "c016b11dd2de428c",
+        "id": "0343fe060da3bcdd",
         "type": "tabs",
         "children": [
           {
-            "id": "4feae3bc533bdda4",
+            "id": "2b4a5541766b812c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "845757f0871a6039",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Untitled.md",
+                "file": "Vault/Commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +98,19 @@
             }
           },
           {
-            "id": "b51aebc38cb5a515",
+            "id": "e9006b2adb3a5fb5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Untitled.md",
+                "file": "Vault/Commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cceaa2e86525828c",
+            "id": "c4744558c59c5276",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,42 +119,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "d57b987ae52cd7ed",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "23e069204f473c28",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0a4c41e7a915f12a",
+  "active": "8f93750510a1338c",
   "lastOpenFiles": [
-    "Vault/Untitled.md",
-    "Vault/Terminal Resistance.md",
-    "Templates/Standard Note Template.md",
-    "Vault/hihih.md",
-    "Vault/i.md",
+    "Vault/Commits.md",
+    "Vault/Commit Part of a File.md",
     "Vault/Branching Strategies.md",
-    "Vault/Power.md",
-    "Vault/Ohm's Law.md",
+    "Vault/Current.md",
+    "Vault/Merge.md",
     "Vault/Nominal Motor Voltage.md",
-    "Vault/Rebase.md"
+    "Vault/Ohm's Law.md",
+    "Vault/Power.md",
+    "Vault/Rebase.md",
+    "Vault/Terminal Resistance.md"
   ]
 }

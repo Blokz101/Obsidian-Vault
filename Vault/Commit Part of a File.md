@@ -1,5 +1,10 @@
-# Commit Part of a File
-#Perm [[Git]]
+---
+Alias: []
+Creation Date: Sat May 28th 2022 02:04:35 am 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Git]]
 
 ```
 git add -p <FILE_HERE>
