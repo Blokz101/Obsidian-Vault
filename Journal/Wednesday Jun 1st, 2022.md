@@ -11,6 +11,7 @@ Motivation Level: 2.5
 	- [x] Set date bound goals
 - [x] Print Oma's knife sheath again
 - [ ] Design and print motor winch part
+- [ ] Thank Oma for the card
 
 ## Progress
 \[*03:39:22 pm*\] Just finished creating the templates for this new system. I hope that over the summer I can stick to it and use Obsidian to guide my research.
