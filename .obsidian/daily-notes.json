@@ -1,5 +1,5 @@
 {
   "format": "dddd MMM Do, y",
   "folder": "Journal",
-  "template": "Templates/{{title}}"
+  "template": "Templates/Daily Journal Template"
 }

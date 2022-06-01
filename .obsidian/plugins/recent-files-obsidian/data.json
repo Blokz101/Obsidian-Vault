@@ -1,40 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Motor Characterization Experiment",
-      "path": "References/Motor Characterization Experiment.md"
+      "basename": "Project List",
+      "path": "Passion Projects/Project List.md"
     },
     {
-      "basename": "Reference Note Template",
-      "path": "Templates/Reference Note Template.md"
+      "basename": "Wednesday Jun 1st, 2022",
+      "path": "Journal/Wednesday Jun 1st, 2022.md"
+    },
+    {
+      "basename": "Daily Journal Template",
+      "path": "Templates/Daily Journal Template.md"
+    },
+    {
+      "basename": "Daily Journal Timestamp Template",
+      "path": "Templates/Daily Journal Timestamp Template.md"
     },
     {
       "basename": "Permanent Note Template",
       "path": "Templates/Permanent Note Template.md"
     },
     {
+      "basename": "Reference Note Template",
+      "path": "Templates/Reference Note Template.md"
+    },
+    {
+      "basename": "Motor Characterization Experiment",
+      "path": "References/Motor Characterization Experiment.md"
+    },
+    {
       "basename": "Voltage",
       "path": "Vault/Voltage.md"
     },
     {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
+      "basename": "Terminal Resistance",
+      "path": "Vault/Terminal Resistance.md"
     },
     {
-      "basename": "Power",
-      "path": "Vault/Power.md"
-    },
-    {
-      "basename": "Commits",
-      "path": "Vault/Commits.md"
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
     },
     {
       "basename": "Commit Part of a File",
       "path": "Vault/Commit Part of a File.md"
     },
     {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
+      "basename": "Commits",
+      "path": "Vault/Commits.md"
     },
     {
       "basename": "Current",
@@ -53,8 +65,12 @@
       "path": "Vault/Ohm's Law.md"
     },
     {
-      "basename": "Terminal Resistance",
-      "path": "Vault/Terminal Resistance.md"
+      "basename": "Power",
+      "path": "Vault/Power.md"
+    },
+    {
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",

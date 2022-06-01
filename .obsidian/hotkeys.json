@@ -31,5 +31,13 @@
       ],
       "key": "N"
     }
+  ],
+  "templater-obsidian:Templates/Daily Journal Timestamp Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
