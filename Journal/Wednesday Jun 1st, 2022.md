@@ -1,16 +1,21 @@
 # Wednesday Jun 1st, 2022
 #Journal
 
+Hours Available: 4
+Motivation Level: 2.5
+
 ## Goals
-- [ ] Establish research system
+- [x] Establish research system
 	- [x] Create tracking system
 	- [x] Create project list
-	- [ ] Set date bound goals
-- [ ] Print Oma's knife sheath again
-- [ ] TBD
+	- [x] Set date bound goals
+- [x] Print Oma's knife sheath again
+- [ ] Design and print motor winch part
 
 ## Progress
 \[*03:39:22 pm*\] Just finished creating the templates for this new system. I hope that over the summer I can stick to it and use Obsidian to guide my research.
 
 \[*04:14:38 pm*\] Just finished creating the project list
+
+\[*04:32:48 pm*\] [[Oma's knife sheath]] Before I printed another sheath I wanted to try the old print one last time. After using a knife to leverage the sheath lock out I was able to grind down the sheath and lock. They now work smoothly so theres no more printing needed.
 

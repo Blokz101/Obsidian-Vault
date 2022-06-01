@@ -7,4 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #PassionProject 
 
 ## Goals
-- [ ] Print and design a working knife sheath for Oma
+
+^685a33
+
+- [ ] Print and design a working knife sheath for Oma ^b2b637

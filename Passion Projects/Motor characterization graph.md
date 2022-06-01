@@ -7,14 +7,25 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #PassionProject 
 
 ## Goals
-- [ ] Document and create an accurate motor characterization graph
+- [ ] Document and create an accurate motor characterization graph ^b66c7c
 	- [x] Research how to characterize a motor
 	- [ ] Follow [[Motor Characterization Experiment]]
 		- [ ] Measure basic parameters
-		- [ ] Plot [[Current]] vs [[Torque]]
-		- [ ] Plot [[Speed]] vs [[Torque]]
-		- [ ] Plot [[Power]] vs [[Torque]]
-		- [ ] Plot [[Efficiency]] vs [[Torque]]
+			- [ ] Create experiment setup
+				- [ ] Print motor winch part
+				- [ ] Suspend the motor
+				- [ ] Find weights
+				- [ ] Assemble experiment
+			- [ ] Measure parameters according to the instructions
+				- No Load Speed
+				- No Load Current
+				- Stall Torque
+				- Terminal Resistance
+		- [ ] Create the graphs 
+			- [[Current]] vs [[Torque]]
+			- [[Speed]] vs [[Torque]]
+			- [[Power]] vs [[Torque]]
+			- [[Efficiency]] vs [[Torque]]
 	- [ ] Create and execute an experiment to check data accuracy
 
 ## Notes
