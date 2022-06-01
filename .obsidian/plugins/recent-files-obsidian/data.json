@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Motor Characterization Experiment",
+      "path": "References/Motor Characterization Experiment.md"
+    },
+    {
+      "basename": "Reference Note Template",
+      "path": "Templates/Reference Note Template.md"
+    },
+    {
+      "basename": "Permanent Note Template",
+      "path": "Templates/Permanent Note Template.md"
+    },
+    {
+      "basename": "Voltage",
+      "path": "Vault/Voltage.md"
+    },
+    {
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
+    },
+    {
+      "basename": "Power",
+      "path": "Vault/Power.md"
+    },
+    {
       "basename": "Commits",
       "path": "Vault/Commits.md"
     },
@@ -29,32 +53,8 @@
       "path": "Vault/Ohm's Law.md"
     },
     {
-      "basename": "Power",
-      "path": "Vault/Power.md"
-    },
-    {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
-    },
-    {
       "basename": "Terminal Resistance",
       "path": "Vault/Terminal Resistance.md"
-    },
-    {
-      "basename": "Voltage",
-      "path": "Vault/Voltage.md"
-    },
-    {
-      "basename": "Permanent Note Template",
-      "path": "Templates/Permanent Note Template.md"
-    },
-    {
-      "basename": "Reference Note Template",
-      "path": "Templates/Reference Note Template.md"
-    },
-    {
-      "basename": "Motor Characterization Experiment",
-      "path": "References/Motor Characterization Experiment.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",

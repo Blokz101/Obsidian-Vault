@@ -8,14 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Ref",
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Reference",
       "color": {
         "a": 1,
         "rgb": 37375
       }
     },
     {
-      "query": "tag:#Perm",
+      "query": "tag:#Permanent",
       "color": {
         "a": 1,
         "rgb": 3414783
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4557343421295047,
+  "scale": 2.469022577320822,
   "close": true
 }

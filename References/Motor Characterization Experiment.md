@@ -1,7 +1,13 @@
-# Motor Characterization Experiment
-#Ref
+---
+Alias: []
+Creation Date: Sun May 29th 2022 18:31:24 pm 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY HH:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Reference 
 
-Based off of [this PDF](https://pages.mtu.edu/~wjendres/ProductRealization1Course/DC_Motor_Calculations.pdf)
+> [!Note] 
+> This experiment is based off of [this PDF](https://pages.mtu.edu/~wjendres/ProductRealization1Course/DC_Motor_Calculations.pdf). There may be better ways to characterize a motor.
 
 ## Calculating [[Power|Mechanical Power]]
 - > $$P_{rot}=T*W$$
@@ -12,7 +18,7 @@ Based off of [this PDF](https://pages.mtu.edu/~wjendres/ProductRealization1Cours
 	   > $W_{rad/sec}$ = [[Angular Velocity]] in radians per second
 	   > $W_{rpm}$ = [[Angular Velocity]] in rotations per minute
 
-## Torque Speed Curves
+## Torque Characterization Curves
 1. Measure basic parameter
 	1. Find a constant voltage power supply
 	2. Obtain the following
