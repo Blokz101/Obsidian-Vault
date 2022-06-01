@@ -11,7 +11,7 @@
       "query": "path:Templates",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 0
       }
     },
     {
@@ -27,9 +27,16 @@
         "a": 1,
         "rgb": 3414783
       }
+    },
+    {
+      "query": "tag:#PassionProject",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6211702386709184,
+  "scale": 1.1147869462914597,
   "close": true
 }

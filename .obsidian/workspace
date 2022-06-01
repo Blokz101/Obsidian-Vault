@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f1b9c0c63a3c90a3",
+        "id": "6fef5783116e4350",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passion Projects/Project List.md",
-            "mode": "source",
+            "file": "Journal/Thursday Jun 2nd, 2022.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Project List.md",
+                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Project List.md",
+                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f1b9c0c63a3c90a3",
+  "active": "6fef5783116e4350",
   "lastOpenFiles": [
-    "Passion Projects/Project List.md",
+    "Journal/Thursday Jun 2nd, 2022.md",
     "Journal/Wednesday Jun 1st, 2022.md",
+    "Passion Projects/Motor characterization graph.md",
+    "Passion Projects/Oma's knife sheath.md",
+    "Passion Projects/Project List.md",
+    "Templates/Passion Project Template.md",
+    "References/Motor Characterization Experiment.md",
     "Templates/Daily Journal Template.md",
     "Templates/Daily Journal Timestamp Template.md",
-    "Templates/Permanent Note Template.md",
-    "Templates/Reference Note Template.md",
-    "References/Motor Characterization Experiment.md",
-    "Vault/Voltage.md",
-    "Vault/Terminal Resistance.md",
-    "Vault/Branching Strategies.md"
+    "Templates/Permanent Note Template.md"
   ]
 }
