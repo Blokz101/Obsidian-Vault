@@ -30,3 +30,5 @@ Motivation Level: 2
 \[*05:57:40 pm*\] I just tied an 8lb weight to the winch and applied 12v. It lifted it easily and when it dropped a corner of the weight landed on the rope, cut it, and damaged the outer sheath of the weight. Whoops... I am going to redesign the winch to have a larger diameter, be longer and add something to keep the rope on the winch.
 
 \[*06:11:53 pm*\] I am also realizing that these progress notes are longer than I intended and I will need a better format for these. Because of that I am going to forgo measuring the basic parameters and instead rework some of this system.
+
+\[*07:19:48 pm*\] Just finished designing the new motor winch. It now has a lip to prevent the string from going off the side and a slight incline towards the end that the rope is attached to to hopefully keep the rope winding compact.
