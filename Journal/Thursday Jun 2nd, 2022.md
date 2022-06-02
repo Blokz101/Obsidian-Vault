@@ -2,7 +2,7 @@
 #Journal
 
 Hours Available: 4
-Motivation Level: 
+Motivation Level: 2
 
 ## Goals
 - [x] Analyze and reprint parts if needed for Oma's knife sheath
@@ -13,6 +13,13 @@ Motivation Level:
 	- [[Speed]] vs [[Torque]]
 
 ## Progress
-\[*04:44:12 pm*\] Starting my work day
+\[*04:44:12 pm*\] Starting research
 
-\[*05:16:12 pm*\] Just finished creating the rig that will hold the motor. It's not pretty, composed of a ladder, 2x4 and some screws, but it will serve. I have two concerns; Firstly, I need a way to control the direction of the motor and a way to turn it on or off. Secondly I think I may need a 
+\[*05:16:12 pm*\] Just finished creating the rig that will hold the motor. It's not pretty, composed of a ladder, 2x4 and some screws, but it will serve. I have three concerns:
+- I need a way to control the direction of the motor and a way to turn it on or off. 
+- I think I may need to reprint the motor winch part; It may need to be larger and I may need to create threads on it to guide the rope. 
+- I need to find weights that can incrementally increase the force.
+
+\[*05:33:12 pm*\] I dont think i'm going to rig a way to switch the motor on and off and instead just tap the wire together. I hope i'll be able to get the measurements even with both my hands occupied. I also think that I am going to use metal bars cut at specific lengths as weights. 
+
+\[*05:46:17 pm*\] I just did an experiment where I tied an entire bar to the motor and applied 12v to the motor. It wound up the bar way too quickly and I remembered that the motor exerts a much greater stall current. I think I am going to have to use Mami's weights.
