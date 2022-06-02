@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References/Motor Characterization Experiment.md",
+            "file": "Journal/Thursday Jun 2nd, 2022.md",
             "mode": "source",
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Motor Characterization Experiment.md",
+                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Motor Characterization Experiment.md",
+                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +129,11 @@
   },
   "active": "0984376c8732c844",
   "lastOpenFiles": [
+    "Journal/Thursday Jun 2nd, 2022.md",
     "References/Motor Characterization Experiment.md",
     "Passion Projects/Project List.md",
     "Vault/Rebase.md",
     "Vault/Terminal Resistance.md",
-    "Journal/Thursday Jun 2nd, 2022.md",
     "Journal/Wednesday Jun 1st, 2022.md",
     "Passion Projects/Oma's knife sheath.md",
     "Passion Projects/Motor characterization graph.md",
