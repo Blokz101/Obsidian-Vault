@@ -9,13 +9,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ## Goals
 - [ ] Document and create an accurate motor characterization graph ^b66c7c
 	- [x] Research how to characterize a motor
-	- [ ] Follow [[Motor Characterization Experiment]]
+	- [ ] Follow [[Motor Characterization Notes]]
 		- [ ] Measure basic parameters
 			- [ ] Create experiment setup
 				- [ ] Print motor winch part
-				- [ ] Suspend the motor
+				- [x] Suspend the motor
 				- [ ] Find weights
-				- [ ] Assemble experiment
+				- [x] Assemble experiment
 			- [ ] Measure parameters according to the instructions
 				- No Load Speed
 				- No Load Current

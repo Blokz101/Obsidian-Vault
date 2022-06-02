@@ -8,8 +8,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - [ ] [[Oma's knife sheath]]
 	- ![[Oma's knife sheath#^b2b637]]
-- [ ] [[Motor characterization graph]]
-	- ![[Motor characterization graph#^b66c7c]]
+- [ ] [[Motor characterization experiment]]
+	- ![[Motor characterization experiment#^b66c7c]]
 - [ ] [[Mami's bench expansion]]
 - [ ] [[Clean the shop]]
 - [ ] [[Remote controlled lawn mower]]

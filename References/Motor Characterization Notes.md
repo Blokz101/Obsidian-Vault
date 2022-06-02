@@ -47,13 +47,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $V_{0}$ = [[Nominal Motor Voltage]]
 	3. Draw a straight line from (0, [[No Load Speed]]) to ([[Stall Torque]], 0)
 4. Plot [[Power]] vs [[Torque]] ^611d9c
-	- Experimentally create a table of [[Power]] vs [[Torque]] using [[Motor Characterization Experiment#^191072|the equation above]] to calculate [[Power]]
+	- Experimentally create a table of [[Power]] vs [[Torque]] using [[Motor Characterization Notes#^191072|the equation above]] to calculate [[Power]]
 5. Plot [[Efficiency]] vs [[Torque]]
 	- > $$E=\frac{P_{out}}{P_{in}}$$
 	  > $E$ = [[Efficiency]]
 	  > $P_{out}$ = Output power
 	  > $P_{in}$ = Input power
-		- $P_{out}$ is the output mechanical power we graphed in [[Motor Characterization Experiment#^611d9c|step 5]]
+		- $P_{out}$ is the output mechanical power we graphed in [[Motor Characterization Notes#^611d9c|step 5]]
 		- > $$P_{in}=C*V_{a}$$
 		  > $P_{in}$ = Input power
 		  > $C$ = Current at a given [[Torque]]

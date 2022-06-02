@@ -20,6 +20,6 @@ Motivation Level: 2.5
 
 \[*04:32:48 pm*\] [[Oma's knife sheath]] Before I printed another sheath I wanted to try the old print one last time. After using a knife to leverage the sheath lock out I was able to grind down the sheath and lock. They now work smoothly so theres no more printing needed.
 
-\[*05:40:15 pm*\] [[Motor characterization graph]] Just finished designing the motor winch part. I have a concern that it will be too short and not be able to store enough rope to suit the experiment, but I will address that issue if it arrises. It is printing right now.
+\[*05:40:15 pm*\] [[Motor characterization experiment]] Just finished designing the motor winch part. I have a concern that it will be too short and not be able to store enough rope to suit the experiment, but I will address that issue if it arrises. It is printing right now.
 
 \[*05:48:21 pm*\] Im out for the day
