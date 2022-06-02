@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Wednesday Jun 1st, 2022.md",
-            "mode": "source",
+            "file": "References/Motor Characterization Experiment.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Wednesday Jun 1st, 2022.md",
+                "file": "References/Motor Characterization Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Wednesday Jun 1st, 2022.md",
+                "file": "References/Motor Characterization Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,12 +130,12 @@
   },
   "active": "0984376c8732c844",
   "lastOpenFiles": [
-    "Journal/Wednesday Jun 1st, 2022.md",
+    "References/Motor Characterization Experiment.md",
     "Passion Projects/Project List.md",
     "Passion Projects/Oma's knife sheath.md",
     "Journal/Thursday Jun 2nd, 2022.md",
+    "Journal/Wednesday Jun 1st, 2022.md",
     "Passion Projects/Motor characterization graph.md",
-    "References/Motor Characterization Experiment.md",
     "Templates/Daily Journal Template.md",
     "Templates/Passion Project Template.md",
     "Templates/Daily Journal Timestamp Template.md",
