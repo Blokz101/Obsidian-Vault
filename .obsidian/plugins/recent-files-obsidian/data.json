@@ -9,8 +9,12 @@
       "path": "Passion Projects/Project List.md"
     },
     {
-      "basename": "Oma's knife sheath",
-      "path": "Passion Projects/Oma's knife sheath.md"
+      "basename": "Rebase",
+      "path": "Vault/Rebase.md"
+    },
+    {
+      "basename": "Terminal Resistance",
+      "path": "Vault/Terminal Resistance.md"
     },
     {
       "basename": "Thursday Jun 2nd, 2022",
@@ -19,6 +23,10 @@
     {
       "basename": "Wednesday Jun 1st, 2022",
       "path": "Journal/Wednesday Jun 1st, 2022.md"
+    },
+    {
+      "basename": "Oma's knife sheath",
+      "path": "Passion Projects/Oma's knife sheath.md"
     },
     {
       "basename": "Motor characterization graph",
@@ -47,10 +55,6 @@
     {
       "basename": "Voltage",
       "path": "Vault/Voltage.md"
-    },
-    {
-      "basename": "Terminal Resistance",
-      "path": "Vault/Terminal Resistance.md"
     },
     {
       "basename": "Branching Strategies",
@@ -83,10 +87,6 @@
     {
       "basename": "Power",
       "path": "Vault/Power.md"
-    },
-    {
-      "basename": "Rebase",
-      "path": "Vault/Rebase.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",

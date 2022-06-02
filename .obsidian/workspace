@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "References/Motor Characterization Experiment.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -120,8 +120,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,13 +131,13 @@
   "lastOpenFiles": [
     "References/Motor Characterization Experiment.md",
     "Passion Projects/Project List.md",
-    "Passion Projects/Oma's knife sheath.md",
+    "Vault/Rebase.md",
+    "Vault/Terminal Resistance.md",
     "Journal/Thursday Jun 2nd, 2022.md",
     "Journal/Wednesday Jun 1st, 2022.md",
+    "Passion Projects/Oma's knife sheath.md",
     "Passion Projects/Motor characterization graph.md",
     "Templates/Daily Journal Template.md",
-    "Templates/Passion Project Template.md",
-    "Templates/Daily Journal Timestamp Template.md",
-    "Templates/Permanent Note Template.md"
+    "Templates/Passion Project Template.md"
   ]
 }

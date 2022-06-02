@@ -10,7 +10,7 @@ Motivation Level: 2.5
 	- [x] Create project list
 	- [x] Set date bound goals
 - [x] Print Oma's knife sheath again
-- [ ] Design and print motor winch part
+- [x] Design and print motor winch part
 - [x] Thank Oma for the card
 
 ## Progress
