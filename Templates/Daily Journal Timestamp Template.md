@@ -1,1 +1,1 @@
-\[*<% tp.date.now("hh:mm:ss a") %>*\] 
+**<% tp.date.now("MMMM Do YYYY - hh:mm:ss a") %>** 

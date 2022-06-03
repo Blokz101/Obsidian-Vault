@@ -36,3 +36,8 @@ Motivation Level: 2
 
 \[*10:36:19 pm*\] Finished reworking the tag system
 
+**June 2nd 2022 - 11:05:33 pm** 
+Finished reworking the way projects are documented in relation to journals.
+
+**June 2nd 2022 - 11:06:09 pm** 
+Clocking out
