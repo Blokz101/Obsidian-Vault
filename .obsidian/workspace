@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Thursday Jun 2nd, 2022.md",
+            "file": "Vault/Tags.md",
             "mode": "source",
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Thursday Jun 2nd, 2022.md",
+                "file": "Vault/Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Thursday Jun 2nd, 2022.md",
+                "file": "Vault/Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,7 @@
   },
   "active": "0984376c8732c844",
   "lastOpenFiles": [
+    "Vault/Tags.md",
     "Journal/Thursday Jun 2nd, 2022.md",
     "Passion Projects/Motor characterization experiment.md",
     "Passion Projects/Project List.md",
@@ -138,7 +139,6 @@
     "Vault/Rebase.md",
     "Vault/Terminal Resistance.md",
     "Passion Projects/Oma's knife sheath.md",
-    "Templates/Daily Journal Template.md",
-    "Templates/Passion Project Template.md"
+    "Templates/Daily Journal Template.md"
   ]
 }

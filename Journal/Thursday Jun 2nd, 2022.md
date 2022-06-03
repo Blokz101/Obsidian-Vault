@@ -7,10 +7,11 @@ Motivation Level: 2
 ## Goals
 - [x] Analyze and reprint parts if needed for Oma's knife sheath
 - [ ] Setup the [[Motor characterization experiment]] experiment
-	- [ ] Print motor winch
+	- [x] Print motor winch
 	- [x] Suspend the motor
 	- [x] Develop a way to control the motor
 	- [x] Find weights
+	- [ ] Assemble experiment
 - [ ] Update obsidian system
 	- [ ] Rework progress system
 	- [ ] Document tag usage
