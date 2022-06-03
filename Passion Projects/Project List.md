@@ -6,10 +6,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #PassionProject
 
-- [ ] [[Oma's knife sheath]]
-	- ![[Oma's knife sheath#^b2b637]]
-- [ ] [[Motor characterization experiment]]
-	- ![[Motor characterization experiment#^b66c7c]]
+- [ ] [[Oma's knife sheath project]]
+	- ![[Oma's knife sheath project#^b2b637]]
+- [ ] [[Motor characterization project]]
+	- ![[Motor characterization project#^b66c7c]]
 - [ ] [[Mami's bench expansion]]
 - [ ] [[Clean the shop]]
 - [ ] [[Remote controlled lawn mower]]

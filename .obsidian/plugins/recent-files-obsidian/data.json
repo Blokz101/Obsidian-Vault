@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Tags",
-      "path": "Vault/Tags.md"
+      "basename": "Daily Journal Timestamp Template",
+      "path": "Templates/Daily Journal Timestamp Template.md"
+    },
+    {
+      "basename": "Wednesday Jun 1st, 2022",
+      "path": "Journal/Wednesday Jun 1st, 2022.md"
     },
     {
       "basename": "Thursday Jun 2nd, 2022",
       "path": "Journal/Thursday Jun 2nd, 2022.md"
     },
     {
-      "basename": "Motor characterization experiment",
-      "path": "Passion Projects/Motor characterization experiment.md"
+      "basename": "Motor characterization project",
+      "path": "Passion Projects/Motor characterization project.md"
+    },
+    {
+      "basename": "Oma's knife sheath project",
+      "path": "Passion Projects/Oma's knife sheath project.md"
+    },
+    {
+      "basename": "Tags",
+      "path": "Vault/Tags.md"
     },
     {
       "basename": "Project List",
       "path": "Passion Projects/Project List.md"
     },
     {
-      "basename": "Motor Characterization Notes",
-      "path": "References/Motor Characterization Notes.md"
+      "basename": "Experiment Template",
+      "path": "Templates/Experiment Template.md"
     },
     {
-      "basename": "Wednesday Jun 1st, 2022",
-      "path": "Journal/Wednesday Jun 1st, 2022.md"
+      "basename": "Motor Characterization Notes",
+      "path": "Vault/Motor Characterization Notes.md"
     },
     {
       "basename": "Rebase",
@@ -33,20 +45,12 @@
       "path": "Vault/Terminal Resistance.md"
     },
     {
-      "basename": "Oma's knife sheath",
-      "path": "Passion Projects/Oma's knife sheath.md"
-    },
-    {
       "basename": "Daily Journal Template",
       "path": "Templates/Daily Journal Template.md"
     },
     {
       "basename": "Passion Project Template",
       "path": "Templates/Passion Project Template.md"
-    },
-    {
-      "basename": "Daily Journal Timestamp Template",
-      "path": "Templates/Daily Journal Timestamp Template.md"
     },
     {
       "basename": "Permanent Note Template",

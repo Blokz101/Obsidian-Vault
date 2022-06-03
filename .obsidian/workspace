@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Tags.md",
+            "file": "Templates/Daily Journal Timestamp Template.md",
             "mode": "source",
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Tags.md",
+                "file": "Templates/Daily Journal Timestamp Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Tags.md",
+                "file": "Templates/Daily Journal Timestamp Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +130,15 @@
   },
   "active": "0984376c8732c844",
   "lastOpenFiles": [
-    "Vault/Tags.md",
-    "Journal/Thursday Jun 2nd, 2022.md",
-    "Passion Projects/Motor characterization experiment.md",
-    "Passion Projects/Project List.md",
-    "References/Motor Characterization Notes.md",
+    "Templates/Daily Journal Timestamp Template.md",
     "Journal/Wednesday Jun 1st, 2022.md",
-    "Vault/Rebase.md",
-    "Vault/Terminal Resistance.md",
-    "Passion Projects/Oma's knife sheath.md",
-    "Templates/Daily Journal Template.md"
+    "Journal/Thursday Jun 2nd, 2022.md",
+    "Passion Projects/Motor characterization project.md",
+    "Passion Projects/Oma's knife sheath project.md",
+    "Vault/Tags.md",
+    "Passion Projects/Project List.md",
+    "Templates/Experiment Template.md",
+    "Vault/Motor Characterization Notes.md",
+    "Vault/Rebase.md"
   ]
 }
