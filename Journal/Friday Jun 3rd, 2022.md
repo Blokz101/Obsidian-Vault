@@ -1,5 +1,5 @@
 # Friday Jun 3rd, 2022
-#Journal
+#Journal [[Journal]]
 
 Hours Available: 0
 Motivation Level: NA

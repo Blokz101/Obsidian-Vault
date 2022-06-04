@@ -7,24 +7,8 @@
         "id": "bc188b3a32bf72a6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/Thursday Jun 2nd, 2022.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7d862bf81628ea99",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Passion Projects/Motor characterization project.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -74,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Thursday Jun 2nd, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +123,15 @@
   },
   "active": "bc188b3a32bf72a6",
   "lastOpenFiles": [
-    "Journal/Thursday Jun 2nd, 2022.md",
-    "Passion Projects/Motor characterization project.md",
-    "Journal/Friday Jun 3rd, 2022.md",
-    "Journal/Saturday Jun 4th, 2022.md",
     "Journal/Wednesday Jun 1st, 2022.md",
+    "Journal/Thursday Jun 2nd, 2022.md",
+    "Journal/Saturday Jun 4th, 2022.md",
+    "Journal/Friday Jun 3rd, 2022.md",
+    "Templates/Daily Journal Template.md",
+    "Obsidian Notes.md",
+    "Passion Projects/Motor characterization project.md",
     "Passion Projects/Project List.md",
     "Passion Projects/Oma's knife sheath project.md",
-    "Templates/Daily Journal Timestamp Template.md",
-    "Vault/Tags.md",
-    "Templates/Experiment Template.md"
+    "Templates/Daily Journal Timestamp Template.md"
   ]
 }

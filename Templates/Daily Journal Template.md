@@ -1,5 +1,5 @@
 # <% tp.file.title %>
-#Journal
+#Journal [[Journal]]
 
 Hours Available: 
 Motivation Level: 

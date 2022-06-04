@@ -1,5 +1,5 @@
 # Thursday Jun 2nd, 2022
-#Journal
+#Journal [[Journal]]
 
 Hours Available: 4
 Motivation Level: 2
