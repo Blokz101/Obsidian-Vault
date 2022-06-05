@@ -11,6 +11,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - [ ] [[Motor characterization project]]
 	- ![[Motor characterization project#^d2d2b6]]
 - [ ] [[Mami's bench expansion]]
+	- ![[Mami's bench expansion#^1d3e02]]
 - [ ] [[Clean the shop]]
 - [ ] [[Remote controlled lawn mower]]
-- [ ] [[Code ]]

@@ -12,8 +12,8 @@ Motivation Level: 2
 	- [x] Develop a way to control the motor
 	- [x] Find weights
 	- [ ] Assemble experiment
-- [ ] Update obsidian system
-	- [ ] Rework progress system
+- [x] Update obsidian system
+	- [x] Rework progress system
 	- [x] Document tag usage
 
 ## Progress

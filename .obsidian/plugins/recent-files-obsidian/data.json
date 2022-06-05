@@ -1,44 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Friday Jun 3rd, 2022",
-      "path": "Journal/Friday Jun 3rd, 2022.md"
+      "basename": "Voltage",
+      "path": "Vault/Voltage.md"
     },
     {
-      "basename": "Saturday Jun 4th, 2022",
-      "path": "Journal/Saturday Jun 4th, 2022.md"
+      "basename": "Commit Part of a File",
+      "path": "Vault/Commit Part of a File.md"
     },
     {
-      "basename": "Wednesday Jun 1st, 2022",
-      "path": "Journal/Wednesday Jun 1st, 2022.md"
+      "basename": "Tags",
+      "path": "Vault/Tags.md"
     },
     {
-      "basename": "Thursday Jun 2nd, 2022",
-      "path": "Journal/Thursday Jun 2nd, 2022.md"
+      "basename": "Reference Note Template",
+      "path": "Templates/Reference Note Template.md"
     },
     {
       "basename": "Daily Journal Template",
       "path": "Templates/Daily Journal Template.md"
     },
     {
-      "basename": "Motor characterization project",
-      "path": "Passion Projects/Motor characterization project.md"
+      "basename": "Thursday Jun 2nd, 2022",
+      "path": "Journal/Thursday Jun 2nd, 2022.md"
+    },
+    {
+      "basename": "Wednesday Jun 1st, 2022",
+      "path": "Journal/Wednesday Jun 1st, 2022.md"
+    },
+    {
+      "basename": "Saturday Jun 4th, 2022",
+      "path": "Journal/Saturday Jun 4th, 2022.md"
     },
     {
       "basename": "Project List",
       "path": "Passion Projects/Project List.md"
     },
     {
+      "basename": "Mami's bench expansion",
+      "path": "Passion Projects/Mami's bench expansion.md"
+    },
+    {
       "basename": "Oma's knife sheath project",
       "path": "Passion Projects/Oma's knife sheath project.md"
     },
     {
-      "basename": "Daily Journal Timestamp Template",
-      "path": "Templates/Daily Journal Timestamp Template.md"
+      "basename": "Motor characterization project",
+      "path": "Passion Projects/Motor characterization project.md"
     },
     {
-      "basename": "Tags",
-      "path": "Vault/Tags.md"
+      "basename": "Friday Jun 3rd, 2022",
+      "path": "Journal/Friday Jun 3rd, 2022.md"
+    },
+    {
+      "basename": "Daily Journal Timestamp Template",
+      "path": "Templates/Daily Journal Timestamp Template.md"
     },
     {
       "basename": "Experiment Template",
@@ -65,20 +81,8 @@
       "path": "Templates/Permanent Note Template.md"
     },
     {
-      "basename": "Reference Note Template",
-      "path": "Templates/Reference Note Template.md"
-    },
-    {
-      "basename": "Voltage",
-      "path": "Vault/Voltage.md"
-    },
-    {
       "basename": "Branching Strategies",
       "path": "Vault/Branching Strategies.md"
-    },
-    {
-      "basename": "Commit Part of a File",
-      "path": "Vault/Commit Part of a File.md"
     },
     {
       "basename": "Commits",
