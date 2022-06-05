@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Voltage.md",
+            "file": "Passion Projects/Project List.md",
             "mode": "preview",
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Passion Projects/Project List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Passion Projects/Project List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +129,7 @@
   },
   "active": "dfa6b9e1f2d9ca2d",
   "lastOpenFiles": [
+    "Passion Projects/Project List.md",
     "Vault/Voltage.md",
     "Vault/Commit Part of a File.md",
     "Vault/Tags.md",
@@ -137,7 +138,6 @@
     "Journal/Thursday Jun 2nd, 2022.md",
     "Journal/Wednesday Jun 1st, 2022.md",
     "Journal/Saturday Jun 4th, 2022.md",
-    "Passion Projects/Project List.md",
     "Passion Projects/Mami's bench expansion.md"
   ]
 }
