@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "livePreview": false,
   "promptDelete": true,
-  "fileSortOrder": "alphabeticalReverse",
+  "fileSortOrder": "byModifiedTime",
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "showLineNumber": true,

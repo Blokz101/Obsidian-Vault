@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passion Projects/Project List.md",
-            "mode": "preview",
+            "file": "Journal/Sunday Jun 5th, 2022.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Project List.md",
+                "file": "Journal/Sunday Jun 5th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Project List.md",
+                "file": "Journal/Sunday Jun 5th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "dfa6b9e1f2d9ca2d",
   "lastOpenFiles": [
+    "Journal/Sunday Jun 5th, 2022.md",
+    "Journal/Wednesday Jun 1st, 2022.md",
+    "Vault/Tags.md",
+    "Journal/Thursday Jun 2nd, 2022.md",
+    "Journal/Saturday Jun 4th, 2022.md",
+    "Journal/Friday Jun 3rd, 2022.md",
     "Passion Projects/Project List.md",
     "Vault/Voltage.md",
     "Vault/Commit Part of a File.md",
-    "Vault/Tags.md",
-    "Templates/Reference Note Template.md",
-    "Templates/Daily Journal Template.md",
-    "Journal/Thursday Jun 2nd, 2022.md",
-    "Journal/Wednesday Jun 1st, 2022.md",
-    "Journal/Saturday Jun 4th, 2022.md",
-    "Passion Projects/Mami's bench expansion.md"
+    "Templates/Reference Note Template.md"
   ]
 }
