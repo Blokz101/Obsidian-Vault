@@ -51,3 +51,7 @@ Just finished designing the new motor winch. It now has a lip to prevent the str
 
 **June 7th 2022 - 02:50:18 am** 
 I thought about my approach to this experiment more and decided that creating a robust experiment that could accurately measure torque versus load will be too difficult. Instead I plan to create the speed curves as dictated in [[Motor Characterization Notes]] and run specialized tests for select weights afterwards. Hopefully this will allow me to verify the data without going through all the trouble of working out the issues in the experiment set up that I currently have.
+
+**June 7th 2022 - 12:30:55 pm** 
+Finished measuring the basic parameters I think I am going to skip measuring the [[Terminal Resistance]] for the time being as I have no motor controller or way to control the input voltage. Im going to record the results in [[Mini Robot Cim Characterization Experiment 2]]
+

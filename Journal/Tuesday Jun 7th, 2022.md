@@ -17,3 +17,6 @@ Clocking in
 **June 7th 2022 - 12:04:47 pm** 
 Lost some time as I was talking to Mami for a while. No progress was made between clocking in and now.
 
+**June 7th 2022 - 12:23:50 pm** 
+Had to take the motor down from the experiment, I just measured the rpm
+
