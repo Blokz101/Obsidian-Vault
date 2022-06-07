@@ -10,23 +10,18 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - [ ] Document and create an accurate motor characterization graph ^d2d2b6
 	- [x] Research how to characterize a motor
 	- [ ] Follow [[Motor Characterization Notes]]
-		- [ ] Measure basic parameters
-			- [ ] Create experiment setup
-				- [ ] Create motor winch part
-				- [x] Suspend the motor
-				- [x] Find weights
-				- [ ] Assemble experiment
-			- [ ] Measure parameters according to the instructions
-				- No Load Speed
-				- No Load Current
-				- Stall Torque
-				- Terminal Resistance
+		- [ ] Measure parameters according to [[Motor Characterization Notes]]
+			- No Load Speed
+			- No Load Current
+			- Stall Torque
+			- Terminal Resistance
 		- [ ] Create the graphs 
 			- [[Current]] vs [[Torque]]
 			- [[Speed]] vs [[Torque]]
 			- [[Power]] vs [[Torque]]
 			- [[Efficiency]] vs [[Torque]]
 	- [ ] Check data accuracy
+		- [ ] Create experiment setup
 
 ## Progress
 
@@ -53,3 +48,6 @@ I am also realizing that these progress notes are longer than I intended and I w
 
 **June 2nd 2022 - 07:19:48 pm**
 Just finished designing the new motor winch. It now has a lip to prevent the string from going off the side and a slight incline towards the end that the rope is attached to to hopefully keep the rope winding compact.
+
+**June 7th 2022 - 02:50:18 am** 
+I thought about my approach to this experiment more and decided that creating a robust experiment that could accurately measure torque versus load will be too difficult. Instead I plan to create the speed curves as dictated in [[Motor Characterization Notes]] and run specialized tests for select weights afterwards. Hopefully this will allow me to verify the data without going through all the trouble of working out the issues in the experiment set up that I currently have.
