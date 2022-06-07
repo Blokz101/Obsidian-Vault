@@ -2,11 +2,11 @@
 #Journal [[Journal]]
 
 Hours Available: 4
-Motivation Level: 
+Motivation Level: 2.5
 
 ## Goals
-- [ ] Measure basic parameters according to [[Motor Characterization Notes]]
-- [ ] Create torque graphs
+- [x] Measure basic parameters according to [[Motor Characterization Notes]]
+- [x] Create torque graphs
 - [ ] Check data accuracy?
 	- [ ] Create experiment setup?
 
@@ -20,3 +20,7 @@ Lost some time as I was talking to Mami for a while. No progress was made betwee
 **June 7th 2022 - 12:23:50 pm** 
 Had to take the motor down from the experiment, I just measured the rpm
 
+[[Motor characterization project]]
+
+**June 7th 2022 - 03:05:43 pm** 
+Clocking out for the day, ill run the experiments to test the [[Power]] graph tomorrow.

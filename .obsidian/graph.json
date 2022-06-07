@@ -6,53 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Templates",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "tag:#Reference",
-      "color": {
-        "a": 1,
-        "rgb": 37375
-      }
-    },
-    {
-      "query": "tag:#Permanent",
-      "color": {
-        "a": 1,
-        "rgb": 3414783
-      }
-    },
-    {
-      "query": "tag:#PassionProject",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Journal",
-      "color": {
-        "a": 1,
-        "rgb": 9830619
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.00042735042735,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.500934829059829,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4630684891074452,
-  "close": false
+  "scale": 0.9625926453988695,
+  "close": true
 }

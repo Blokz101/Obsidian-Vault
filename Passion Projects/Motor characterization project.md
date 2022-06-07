@@ -9,19 +9,19 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ## Goals
 - [ ] Document and create an accurate motor characterization graph ^d2d2b6
 	- [x] Research how to characterize a motor
-	- [ ] Follow [[Motor Characterization Notes]]
-		- [ ] Measure parameters according to [[Motor Characterization Notes]]
+	- [x] Follow [[Motor Characterization Notes]]
+		- [x] Measure parameters according to [[Motor Characterization Notes]]
 			- No Load Speed
 			- No Load Current
 			- Stall Torque
 			- Terminal Resistance
-		- [ ] Create the graphs 
+		- [x] Create the graphs 
 			- [[Current]] vs [[Torque]]
 			- [[Speed]] vs [[Torque]]
 			- [[Power]] vs [[Torque]]
 			- [[Efficiency]] vs [[Torque]]
 	- [ ] Check data accuracy
-		- [ ] Create experiment setup
+		- [x] Create experiment setup
 
 ## Progress
 
@@ -72,3 +72,6 @@ It does appear that [[Applied Voltage]] is the voltage running into the system. 
 
 **June 7th 2022 - 02:16:11 pm** 
 Finished copying the table over, the [[Applied Voltage]] never exceeds a volt except for at the very end where it spikes to 88v. They are measuring something else completely from what I am. Good news though, I believe that the [[Power]] prediction graph that I have calculated is accurate. Im going to do more research into [[Applied Voltage]].
+
+**June 7th 2022 - 03:01:42 pm** 
+I have looked into applied voltage more and pulled data for another motor to get a second data set. I also talked to Papi. I have determined that either motor inefficiency or a non constant [[Voltage]] supply are throwing off the [[Efficiency]] graph. This said, I believe that my [[Power]] graphs are still accurate and in the end that is what I am after. I still want to run an experiment to test the [[Power]] predictions though.

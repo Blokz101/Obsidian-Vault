@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3679583ae31fe8e8",
+        "id": "d7043da844ed6e46",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Motor Characterization Notes.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "80cae76619b79396",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Passion Projects/Motor characterization project.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Motor characterization project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Motor characterization project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +121,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80cae76619b79396",
+  "active": "d7043da844ed6e46",
   "lastOpenFiles": [
-    "Passion Projects/Motor characterization project.md",
     "Vault/Motor Characterization Notes.md",
-    "References/Mini Robot Cim Characterization Experiment 2.md",
+    "Passion Projects/Motor characterization project.md",
     "Journal/Tuesday Jun 7th, 2022.md",
+    "References/Mini Robot Cim Characterization Experiment 2.md",
     "Journal/Monday Jun 6th, 2022.md",
     "Passion Projects/Mami's bench expansion.md",
     "Journal/Sunday Jun 5th, 2022.md",
