@@ -69,3 +69,6 @@ Just graphed all the values as [[Motor Characterization Notes]] dictates. The [[
 
 **June 7th 2022 - 01:51:41 pm** 
 It does appear that [[Applied Voltage]] is the voltage running into the system. However last time I tried using [[Applied Voltage]] multiplied by current it didnt give me an accurate graph. I wonder if the in accuracies in my measurements are the cause for this or if my understanding of [[Applied Voltage]] is still wrong. I am going to plot the data from [[Motor Characterization Notes]] and check what their [[Applied Voltage]] looks like.
+
+**June 7th 2022 - 02:16:11 pm** 
+Finished copying the table over, the [[Applied Voltage]] never exceeds a volt except for at the very end where it spikes to 88v. They are measuring something else completely from what I am. Good news though, I believe that the [[Power]] prediction graph that I have calculated is accurate. Im going to do more research into [[Applied Voltage]].
