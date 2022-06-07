@@ -5,6 +5,10 @@
       "path": "Journal/Tuesday Jun 7th, 2022.md"
     },
     {
+      "basename": "Motor Characterization Notes",
+      "path": "Vault/Motor Characterization Notes.md"
+    },
+    {
       "basename": "Motor characterization project",
       "path": "Passion Projects/Motor characterization project.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Experiment Template",
       "path": "Templates/Experiment Template.md"
-    },
-    {
-      "basename": "Motor Characterization Notes",
-      "path": "Vault/Motor Characterization Notes.md"
     },
     {
       "basename": "Rebase",
