@@ -63,3 +63,9 @@ Im looking the [[Motor Characterization Notes]] and I think that the calculation
 
 **June 7th 2022 - 01:27:56 pm** 
 The calculations for the theoretical [[No Load Speed]] are totally wrong. It may be calculating something else, but for now im going to use the [[No Load Speed]] that I measured.
+
+**June 7th 2022 - 01:42:24 pm** 
+Just graphed all the values as [[Motor Characterization Notes]] dictates. The [[Efficiency]] graph looks better than before, however it still does not have the right shape to reflect an accurate prediction. It is now linear. I think there is an issue with how I am calculating [[Applied Voltage]]. Im going to look at the [[Motor Characterization Notes]] some more and if I cant find what they mean by [[Applied Voltage]] then I will copy the example motor curve table that they provide, back calculate to get what they use as their [[Applied Voltage]], and see if it is constant, linear, or something else. This should show me where the error in my data is.
+
+**June 7th 2022 - 01:51:41 pm** 
+It does appear that [[Applied Voltage]] is the voltage running into the system. However last time I tried using [[Applied Voltage]] multiplied by current it didnt give me an accurate graph. I wonder if the in accuracies in my measurements are the cause for this or if my understanding of [[Applied Voltage]] is still wrong. I am going to plot the data from [[Motor Characterization Notes]] and check what their [[Applied Voltage]] looks like.

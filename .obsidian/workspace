@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Passion Projects/Motor characterization project.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Motor Characterization Notes.md",
+                "file": "Passion Projects/Motor characterization project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Motor Characterization Notes.md",
+                "file": "Passion Projects/Motor characterization project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3679583ae31fe8e8",
+  "active": "80cae76619b79396",
   "lastOpenFiles": [
-    "Vault/Motor Characterization Notes.md",
     "Passion Projects/Motor characterization project.md",
+    "Vault/Motor Characterization Notes.md",
     "References/Mini Robot Cim Characterization Experiment 2.md",
     "Journal/Tuesday Jun 7th, 2022.md",
     "Journal/Monday Jun 6th, 2022.md",

@@ -54,10 +54,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $P_{out}$ = Output power
 	  > $P_{in}$ = Input power
 		- $P_{out}$ is the output mechanical power we graphed in [[Motor Characterization Notes#^611d9c|step 5]]
-		- > $$P_{in}=C*V_{a}$$
+		- $P_{in}$ can be calculated with the formula below
+		  > $$P_{in}=C*V_{a}$$
 		  > $P_{in}$ = Input power
 		  > $C$ = Current at a given [[Torque]]
-		  > $V_{a}$ = Applied Voltage
+		  > $V_{a}$ = [[Applied Voltage]]
 	- Maximum [[Efficiency]] should occur at about 10% of the motor's [[Stall Torque]]
 
 ## Sample Motor Calculations
