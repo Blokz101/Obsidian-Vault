@@ -88,4 +88,8 @@ I broke an Anderson connector on the motor and cant continue with the experiment
 
 **June 8th 2022 - 04:32:23 pm** 
 Im going to do the test with a 3lb weight.
-![[Motor characterization project 2022-06-08 16.36.44.excalidraw]]
+![[Motor characterization project 2022-06-08 16.36.44.excalidraw|1000]]
+
+**June 8th 2022 - 05:34:12 pm** 
+Just finished the math above, going to test it now.
+
