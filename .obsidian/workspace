@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3add8a2247fbaf2c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/Wednesday Jun 8th, 2022.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "514a81c353171919",
         "type": "leaf",
         "state": {
@@ -142,14 +130,14 @@
   "active": "514a81c353171919",
   "lastOpenFiles": [
     "Passion Projects/Motor characterization project.md",
+    "Passion Projects/Mami's bench expansion project.md",
+    "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
     "Vault/Power.md",
     "Vault/Branching Strategies.md",
     "Vault/Work.md",
     "References/Mini Robot Cim Characterization Experiment 1.md",
     "References/Mini Robot Cim Characterization Experiment 2.md",
     "Journal/Wednesday Jun 8th, 2022.md",
-    "Templates/Passion Project Template.md",
-    "Passion Projects/Mami's bench expansion project.md",
-    "Passion Projects/Project List.md"
+    "Templates/Passion Project Template.md"
   ]
 }

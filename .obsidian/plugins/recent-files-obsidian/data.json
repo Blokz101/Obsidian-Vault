@@ -5,6 +5,14 @@
       "path": "Passion Projects/Motor characterization project.md"
     },
     {
+      "basename": "Mami's bench expansion project",
+      "path": "Passion Projects/Mami's bench expansion project.md"
+    },
+    {
+      "basename": "Drawing 2022-06-08 12.11.23.excalidraw",
+      "path": "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md"
+    },
+    {
       "basename": "Power",
       "path": "Vault/Power.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Passion Project Template",
       "path": "Templates/Passion Project Template.md"
-    },
-    {
-      "basename": "Mami's bench expansion project",
-      "path": "Passion Projects/Mami's bench expansion project.md"
     },
     {
       "basename": "Project List",
@@ -195,10 +199,6 @@
     {
       "basename": "Watergate Scandal",
       "path": "Watergate Scandal.md"
-    },
-    {
-      "basename": "AP Stats Final Project Figure 1",
-      "path": "Dependencies/AP Stats Final Project Figure 1.png"
     }
   ],
   "omittedPaths": [],

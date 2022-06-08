@@ -77,4 +77,9 @@ Finished copying the table over, the [[Applied Voltage]] never exceeds a volt ex
 I have looked into applied voltage more and pulled data for another motor to get a second data set. I also talked to Papi. The [[Applied Voltage]] seems like it should be constant. I have determined that either motor inefficiency or a non constant [[Voltage]] supply are throwing off the [[Efficiency]] graph. This said, I believe that my [[Power]] graphs are still accurate and in the end that is what I am after. I still want to run an experiment to test the [[Power]] predictions though.
 
 **June 8th 2022 - 12:02:44 pm** 
-Done a little more research on [[Power]] and have a basic experiment idea now. Basically 
+Done a little more research on [[Power]] and have a basic experiment idea now. Basically I will have the motor lift a 5lb weight and measure the time it takes.
+![[Drawing 2022-06-08 12.11.23.excalidraw|1000]]
+
+**June 8th 2022 - 12:30:19 pm** 
+Just did the calculations and it appears that the [[Torque]] that I calculated a 5lb weight would exert on the motor is greater than the [[Stall Torque]] that I measured. Im going to go redo that measurement.
+
