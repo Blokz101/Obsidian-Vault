@@ -9,9 +9,6 @@ Motivation Level: 2
 	- [ ] Check [[Power]] accuracy 
 - [[Mami's bench expansion project]]
 	- [x] Buy wood needed for the project
-	- [ ] Prep bench
-		- Cut off extra wood
-		- Modify bench so there are no conflicts with the expansion
 
 ## Progress
 
@@ -33,3 +30,5 @@ Just finished a 15 minute break
 
 [[Motor characterization project]]
 
+**June 8th 2022 - 07:20:16 pm** 
+Clocking out for the day

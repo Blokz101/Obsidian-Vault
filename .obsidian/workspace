@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passion Projects/Motor characterization project.md",
-            "mode": "source",
+            "file": "Journal/Wednesday Jun 8th, 2022.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Motor characterization project.md",
+                "file": "Journal/Wednesday Jun 8th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Motor characterization project.md",
+                "file": "Journal/Wednesday Jun 8th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +129,10 @@
   },
   "active": "7edd605e78a5ceac",
   "lastOpenFiles": [
-    "Passion Projects/Motor characterization project.md",
     "Journal/Wednesday Jun 8th, 2022.md",
-    "References/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
     "Passion Projects/Mami's bench expansion project.md",
+    "Passion Projects/Motor characterization project.md",
+    "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
     "Vault/Power.md",
     "References/Motor characterization project 2022-06-08 16.35.53.excalidraw.md",

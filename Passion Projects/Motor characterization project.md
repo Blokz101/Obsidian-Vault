@@ -99,3 +99,5 @@ I have the experiment set up, but for some reason the motor is not working anymo
 **June 8th 2022 - 06:02:45 pm** 
 I yanked the power wire out of the terminal on the battery, I guess it was just coincidence that it disconnected only when I pulled it to plug it into the motor. It should not be too much trouble to solder it back on.
 
+**June 8th 2022 - 07:13:16 pm** 
+I soldered the wire back to the terminal but the battery still has that same issue I listed before. I think that something dislodged when I dropped it and it can supply a very small amount of current, enough to tell the [[Multimeter]] that there is current but if any real draw is put on the battery the voltage drops to nothing. I think we have another 12v battery, I will look for it tomorrow.
