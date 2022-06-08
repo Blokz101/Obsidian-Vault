@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -162,14 +163,14 @@
   "active": "799969c697e58dd7",
   "lastOpenFiles": [
     "References/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
-    "Passion Projects/Motor characterization project.md",
-    "Journal/Wednesday Jun 8th, 2022.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
+    "Vault/Power.md",
+    "Passion Projects/Motor characterization project.md",
+    "Passion Projects/Mami's bench expansion project.md",
+    "Journal/Wednesday Jun 8th, 2022.md",
     "References/Motor characterization project 2022-06-08 16.35.53.excalidraw.md",
     "References/Motor characterization project 2022-06-08 16.33.56.excalidraw.md",
-    "Passion Projects/Mami's bench expansion project.md",
     "References/Mini Robot Cim Characterization Experiment 2.md",
-    "References/Mini Robot Cim Characterization Experiment 1.md",
-    "Vault/Power.md"
+    "References/Mini Robot Cim Characterization Experiment 1.md"
   ]
 }
