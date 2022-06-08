@@ -20,5 +20,6 @@ Clocking in
 
 [[Motor characterization project]]
 
-[[Mami's bench expansion project]]
+**June 8th 2022 - 01:28:13 pm** 
+Clocking out for lunch
 

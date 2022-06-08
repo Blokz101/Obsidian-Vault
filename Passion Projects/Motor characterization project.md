@@ -83,3 +83,5 @@ Done a little more research on [[Power]] and have a basic experiment idea now. B
 **June 8th 2022 - 12:30:19 pm** 
 Just did the calculations and it appears that the [[Torque]] that I calculated a 5lb weight would exert on the motor is greater than the [[Stall Torque]] that I measured. Im going to go redo that measurement.
 
+**June 8th 2022 - 01:24:52 pm** 
+I broke an Anderson connector on the motor and cant continue with the experiment at the minute. Before it broke though I did find that my calculations for the time being are correct and the motor cannot lift the 5lb weight.
