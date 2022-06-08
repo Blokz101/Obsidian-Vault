@@ -9,7 +9,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ## Goals
 - [ ] 
 
-## Steps
-- [ ] 
-
-## Notes
+## Progress

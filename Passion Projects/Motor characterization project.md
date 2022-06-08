@@ -56,7 +56,7 @@ I thought about my approach to this experiment more and decided that creating a 
 Finished measuring the basic parameters I think I am going to skip measuring the [[Terminal Resistance]] for the time being as I have no motor controller or way to control the input voltage. Im going to record the results in [[Mini Robot Cim Characterization Experiment 2]]
 
 **June 7th 2022 - 01:15:32 pm** 
-I dont have a way to measure [[Stall Current]] as that much [[Current]] would break the [[Multimeter]]. Im going to use data from one of my previous experiments to infer the [[Stall Current]].
+I dont have a way to measure [[Stall Current]] as that much [[Current]] would break the [[Multimeter]]. Im going to use data from one of my [[Mini Robot Cim Characterization Experiment 1|previous experiments]] to infer the [[Stall Current]].
 
 **June 7th 2022 - 01:24:27 pm** 
 Im looking the [[Motor Characterization Notes]] and I think that the calculation for the [[No Load Speed]] is incorrect, im going to look into that.
@@ -74,4 +74,7 @@ It does appear that [[Applied Voltage]] is the voltage running into the system. 
 Finished copying the table over, the [[Applied Voltage]] never exceeds a volt except for at the very end where it spikes to 88v. They are measuring something else completely from what I am. Good news though, I believe that the [[Power]] prediction graph that I have calculated is accurate. Im going to do more research into [[Applied Voltage]].
 
 **June 7th 2022 - 03:01:42 pm** 
-I have looked into applied voltage more and pulled data for another motor to get a second data set. I also talked to Papi. I have determined that either motor inefficiency or a non constant [[Voltage]] supply are throwing off the [[Efficiency]] graph. This said, I believe that my [[Power]] graphs are still accurate and in the end that is what I am after. I still want to run an experiment to test the [[Power]] predictions though.
+I have looked into applied voltage more and pulled data for another motor to get a second data set. I also talked to Papi. The [[Applied Voltage]] seems like it should be constant. I have determined that either motor inefficiency or a non constant [[Voltage]] supply are throwing off the [[Efficiency]] graph. This said, I believe that my [[Power]] graphs are still accurate and in the end that is what I am after. I still want to run an experiment to test the [[Power]] predictions though.
+
+**June 8th 2022 - 12:02:44 pm** 
+Done a little more research on [[Power]] and have a basic experiment idea now. Basically 

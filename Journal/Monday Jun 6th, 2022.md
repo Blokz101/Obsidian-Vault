@@ -9,7 +9,7 @@ Motivation Level: 2
 
 ## Progress
 
-[[Mami's bench expansion]]
+[[Mami's bench expansion project]]
 
 **June 6th 2022 - 09:18:59 pm** 
 Clocking out, though I never clocked in... was at the lake the whole day and didnt plan to get anything done.

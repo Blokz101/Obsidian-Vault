@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Motor Characterization Notes",
-      "path": "Vault/Motor Characterization Notes.md"
-    },
-    {
       "basename": "Motor characterization project",
       "path": "Passion Projects/Motor characterization project.md"
     },
     {
-      "basename": "Tuesday Jun 7th, 2022",
-      "path": "Journal/Tuesday Jun 7th, 2022.md"
+      "basename": "Power",
+      "path": "Vault/Power.md"
+    },
+    {
+      "basename": "Branching Strategies",
+      "path": "Vault/Branching Strategies.md"
+    },
+    {
+      "basename": "Work",
+      "path": "Vault/Work.md"
+    },
+    {
+      "basename": "Mini Robot Cim Characterization Experiment 1",
+      "path": "References/Mini Robot Cim Characterization Experiment 1.md"
     },
     {
       "basename": "Mini Robot Cim Characterization Experiment 2",
       "path": "References/Mini Robot Cim Characterization Experiment 2.md"
     },
     {
-      "basename": "Monday Jun 6th, 2022",
-      "path": "Journal/Monday Jun 6th, 2022.md"
+      "basename": "Wednesday Jun 8th, 2022",
+      "path": "Journal/Wednesday Jun 8th, 2022.md"
     },
     {
-      "basename": "Mami's bench expansion",
-      "path": "Passion Projects/Mami's bench expansion.md"
+      "basename": "Passion Project Template",
+      "path": "Templates/Passion Project Template.md"
+    },
+    {
+      "basename": "Mami's bench expansion project",
+      "path": "Passion Projects/Mami's bench expansion project.md"
+    },
+    {
+      "basename": "Project List",
+      "path": "Passion Projects/Project List.md"
+    },
+    {
+      "basename": "Motor Characterization Notes",
+      "path": "Vault/Motor Characterization Notes.md"
+    },
+    {
+      "basename": "Tuesday Jun 7th, 2022",
+      "path": "Journal/Tuesday Jun 7th, 2022.md"
+    },
+    {
+      "basename": "Monday Jun 6th, 2022",
+      "path": "Journal/Monday Jun 6th, 2022.md"
     },
     {
       "basename": "Sunday Jun 5th, 2022",
@@ -47,10 +75,6 @@
     {
       "basename": "Friday Jun 3rd, 2022",
       "path": "Journal/Friday Jun 3rd, 2022.md"
-    },
-    {
-      "basename": "Project List",
-      "path": "Passion Projects/Project List.md"
     },
     {
       "basename": "Voltage",
@@ -89,16 +113,8 @@
       "path": "Vault/Terminal Resistance.md"
     },
     {
-      "basename": "Passion Project Template",
-      "path": "Templates/Passion Project Template.md"
-    },
-    {
       "basename": "Permanent Note Template",
       "path": "Templates/Permanent Note Template.md"
-    },
-    {
-      "basename": "Branching Strategies",
-      "path": "Vault/Branching Strategies.md"
     },
     {
       "basename": "Commits",
@@ -119,10 +135,6 @@
     {
       "basename": "Ohm's Law",
       "path": "Vault/Ohm's Law.md"
-    },
-    {
-      "basename": "Power",
-      "path": "Vault/Power.md"
     },
     {
       "basename": "AP Stats Final Project Figure 1",
@@ -187,14 +199,6 @@
     {
       "basename": "AP Stats Final Project Figure 1",
       "path": "Dependencies/AP Stats Final Project Figure 1.png"
-    },
-    {
-      "basename": "AP Stats Final Project Figure 2",
-      "path": "Dependencies/AP Stats Final Project Figure 2.png"
-    },
-    {
-      "basename": "AP Stats Final Project Figure 1",
-      "path": "AP Stats Final Project Figure 1.png"
     }
   ],
   "omittedPaths": [],
