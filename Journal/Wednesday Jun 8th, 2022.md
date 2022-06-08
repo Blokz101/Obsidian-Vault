@@ -23,3 +23,6 @@ Clocking in
 **June 8th 2022 - 01:28:13 pm** 
 Clocking out for lunch
 
+**June 8th 2022 - 02:30:47 pm** 
+Clocking back in
+
