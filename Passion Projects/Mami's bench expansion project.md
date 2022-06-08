@@ -30,3 +30,5 @@ I have determined that I need the following in wood for the project:
 
 Going to buy the wood now.
 
+**June 8th 2022 - 04:09:03 pm** 
+Just got back with the wood that I needed. Papi has the 2x4s in the shop and I just bought 3 1x6s.

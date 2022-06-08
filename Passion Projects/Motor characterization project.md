@@ -85,3 +85,7 @@ Just did the calculations and it appears that the [[Torque]] that I calculated a
 
 **June 8th 2022 - 01:24:52 pm** 
 I broke an Anderson connector on the motor and cant continue with the experiment at the minute. Before it broke though I did find that my calculations for the time being are correct and the motor cannot lift the 5lb weight.
+
+**June 8th 2022 - 04:32:23 pm** 
+Im going to do the test with a 3lb weight.
+![[Motor characterization project 2022-06-08 16.36.44.excalidraw]]
