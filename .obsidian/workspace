@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "ffb653751c4a3348",
+        "id": "498d116b209ef0a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Wednesday Jun 8th, 2022.md",
+            "file": "Passion Projects/Mami's bench expansion project.md",
             "mode": "source",
             "source": true
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Wednesday Jun 8th, 2022.md",
+                "file": "Passion Projects/Mami's bench expansion project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Wednesday Jun 8th, 2022.md",
+                "file": "Passion Projects/Mami's bench expansion project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +139,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffb653751c4a3348",
+  "active": "498d116b209ef0a8",
   "lastOpenFiles": [
+    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Wednesday Jun 8th, 2022.md",
     "Passion Projects/Motor characterization project.md",
-    "Passion Projects/Mami's bench expansion project.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
     "Vault/Power.md",
     "Vault/Branching Strategies.md",

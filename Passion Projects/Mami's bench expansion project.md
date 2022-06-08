@@ -21,3 +21,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ## Progress
 **June 6th 2022 - 09:13:20 pm** 
 Earlier in the day I finished designing the bench expansion for Mami in [[Fusion 360]]
+
+**June 8th 2022 - 02:52:13 pm** 
+I have determined that I need the following in wood for the project:
+- 6 2x4x8
+- 1 2x4x4
+- 3 1x6x8
+
+Going to buy the wood now.
+
