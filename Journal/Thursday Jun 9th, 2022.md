@@ -8,6 +8,7 @@ Motivation Level: 2
 - [[Motor characterization project]]
 	- [ ] Run experiment
 		- Wire battery
+		- Charge battery
 		- Set up experiment again
 - [[Mami's bench expansion project]]
 	- [ ] Prep bench
@@ -22,3 +23,9 @@ Clocking in
 
 **June 9th 2022 - 12:36:33 pm** 
 Clocking out for lunch and then the mandatory graduation meeting.
+
+**June 9th 2022 - 03:59:54 pm** 
+Clocking in, only an hour till work, wont be able to do much. Battery is still charging as well so I dont know if ill be able to run the experiment today.
+
+[[Mami's bench expansion project]]
+

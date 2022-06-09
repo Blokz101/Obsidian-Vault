@@ -12,11 +12,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [x] Recreate bench in [[Fusion 360]]
 		- [x] Make modifications
 		- [x] Ensure modifications will work on the real bench
-	- [ ] Build attachment
-		- [ ] Calculate and buy wood
+	- [ ] Pre-build
+		- [x] Calculate and buy wood
 		- [ ] Prep bench
 			- Cut off extra wood
 			- Modify bench so there are no conflicts with the expansion
+	- [ ] Build expansion
+		- [ ] Cut wood
+		- [ ] Assemble
 
 ## Progress
 **June 6th 2022 - 09:13:20 pm** 
@@ -32,3 +35,6 @@ Going to buy the wood now.
 
 **June 8th 2022 - 04:09:03 pm** 
 Just got back with the wood that I needed. Papi has the 2x4s in the shop and I just bought 3 1x6s.
+
+**June 9th 2022 - 04:40:31 pm** 
+Finish
