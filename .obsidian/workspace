@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Wednesday Jun 8th, 2022.md",
-            "mode": "preview",
+            "file": "Journal/Thursday Jun 9th, 2022.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -46,7 +46,7 @@
           "type": "markdown",
           "state": {
             "file": "Passion Projects/Motor characterization project.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -166,9 +166,9 @@
   "active": "7edd605e78a5ceac",
   "lastOpenFiles": [
     "Journal/Thursday Jun 9th, 2022.md",
-    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Wednesday Jun 8th, 2022.md",
     "Passion Projects/Motor characterization project.md",
+    "Passion Projects/Mami's bench expansion project.md",
     "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
     "Vault/Power.md",

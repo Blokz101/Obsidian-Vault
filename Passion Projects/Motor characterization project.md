@@ -101,3 +101,12 @@ I yanked the power wire out of the terminal on the battery, I guess it was just 
 
 **June 8th 2022 - 07:13:16 pm** 
 I soldered the wire back to the terminal but the battery still has that same issue I listed before. I think that something dislodged when I dropped it and it can supply a very small amount of current, enough to tell the [[Multimeter]] that there is current but if any real draw is put on the battery the voltage drops to nothing. I think we have another 12v battery, I will look for it tomorrow.
+
+**June 9th 2022 - 11:45:11 am** 
+Just found a new battery, I'm going to wire it right now.
+
+**June 9th 2022 - 11:57:06 am** 
+Finished putting Anderson's on the battery. I connected it to the [[Multimeter]] and was only getting around 8v out of it. I am having the same issue as I did with the other battery where as soon as it was connected the voltage dropped to almost nothing, however the battery is also likely almost out of juice. Im going to go charge it and try again when it is at full.
+
+**June 9th 2022 - 12:35:53 pm** 
+Moved the experiment out of the way while the battery charges, I'm going to work on another project in the meantime.
