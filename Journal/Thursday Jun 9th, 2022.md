@@ -7,11 +7,11 @@ Motivation Level: 2
 ## Goals
 - [[Motor characterization project]]
 	- [ ] Run experiment
-		- Wire battery
-		- Charge battery
-		- Set up experiment again
+		- [x] Wire battery
+		- [ ] Charge battery
+		- [x] Set up experiment again
 - [[Mami's bench expansion project]]
-	- [ ] Prep bench
+	- [x] Prep bench
 		- Cut off extra wood
 		- Modify bench so there are no conflicts with the expansion
 
@@ -29,3 +29,5 @@ Clocking in, only an hour till work, wont be able to do much. Battery is still c
 
 [[Mami's bench expansion project]]
 
+**June 9th 2022 - 04:40:50 pm** 
+Clocking out for work

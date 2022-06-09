@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Journal/Thursday Jun 9th, 2022.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Thursday Jun 9th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Thursday Jun 9th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a48474f83c9d66df",
+  "active": "7edd605e78a5ceac",
   "lastOpenFiles": [
-    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Thursday Jun 9th, 2022.md",
+    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Wednesday Jun 8th, 2022.md",
     "Passion Projects/Motor characterization project.md",
     "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
