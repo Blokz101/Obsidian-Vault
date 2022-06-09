@@ -9,7 +9,43 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Journal/Thursday Jun 9th, 2022.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6ae0a2402a645234",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Journal/Wednesday Jun 8th, 2022.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a48474f83c9d66df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Passion Projects/Mami's bench expansion project.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "37db986c0c6426f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Passion Projects/Motor characterization project.md",
             "mode": "preview",
             "source": true
           }
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Wednesday Jun 8th, 2022.md",
+                "file": "Journal/Thursday Jun 9th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Wednesday Jun 8th, 2022.md",
+                "file": "Journal/Thursday Jun 9th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +165,15 @@
   },
   "active": "7edd605e78a5ceac",
   "lastOpenFiles": [
-    "Journal/Wednesday Jun 8th, 2022.md",
+    "Journal/Thursday Jun 9th, 2022.md",
     "Passion Projects/Mami's bench expansion project.md",
+    "Journal/Wednesday Jun 8th, 2022.md",
     "Passion Projects/Motor characterization project.md",
     "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
     "Vault/Power.md",
     "References/Motor characterization project 2022-06-08 16.35.53.excalidraw.md",
     "References/Motor characterization project 2022-06-08 16.33.56.excalidraw.md",
-    "References/Mini Robot Cim Characterization Experiment 2.md",
-    "References/Mini Robot Cim Characterization Experiment 1.md"
+    "References/Mini Robot Cim Characterization Experiment 2.md"
   ]
 }
