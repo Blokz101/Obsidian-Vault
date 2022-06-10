@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #PassionProject 
 
 ## Goals
-- [ ] Document and create an accurate motor characterization graph ^d2d2b6
+- [x] Document and create an accurate motor characterization graph ^d2d2b6
 	- [x] Research how to characterize a motor
 	- [x] Follow [[Motor Characterization Notes]]
 		- [x] Measure parameters according to [[Motor Characterization Notes]]
@@ -20,7 +20,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- [[Speed]] vs [[Torque]]
 			- [[Power]] vs [[Torque]]
 			- [[Efficiency]] vs [[Torque]]
-	- [ ] Check data accuracy
+	- [x] Check data accuracy
 		- [x] Create experiment setup
 
 ## Progress
@@ -125,3 +125,8 @@ Found a large wire that is used for electrical outlets through out the house, it
 
 **June 10th 2022 - 02:46:51 pm** 
 Just finished setting up the experiment and got my first shot. Going to send it to my computer and analyze it now.
+
+**June 10th 2022 - 03:03:52 pm** 
+The measured speed was 64 inches in 0.74 seconds. The predicted was 1.17 seconds which is 0.43 second slower than the measured speed. Given the slight errors in my print and the slanted winch that was pulling the weight up I think this is an acceptable measurement. I wish I had a better set up to test everything, but I think that I did the best I could given the circumstances. Im going to call the project a success.
+
+## Project Closed

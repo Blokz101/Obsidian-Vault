@@ -12,9 +12,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [x] Recreate bench in [[Fusion 360]]
 		- [x] Make modifications
 		- [x] Ensure modifications will work on the real bench
-	- [ ] Pre-build
+	- [x] Pre-build
 		- [x] Calculate and buy wood
-		- [ ] Prep bench
+		- [x] Prep bench
 			- Cut off extra wood
 			- Modify bench so there are no conflicts with the expansion
 	- [ ] Build expansion
