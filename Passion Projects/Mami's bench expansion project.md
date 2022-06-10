@@ -37,4 +37,7 @@ Going to buy the wood now.
 Just got back with the wood that I needed. Papi has the 2x4s in the shop and I just bought 3 1x6s.
 
 **June 9th 2022 - 04:40:31 pm** 
-Finished cutting the extra wood off of the bench
+Finished cutting the extra wood off of the bench.
+
+**June 10th 2022 - 04:35:22 pm** 
+Cut the three deck planks and took an ice cream break with my family.
