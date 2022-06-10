@@ -110,3 +110,15 @@ Finished putting Anderson's on the battery. I connected it to the [[Multimeter]]
 
 **June 9th 2022 - 12:35:53 pm** 
 Moved the experiment out of the way while the battery charges, I'm going to work on another project in the meantime.
+
+**June 10th 2022 - 01:46:37 pm** 
+The new battery does not work, I plugged it in and "fully charged" the [[Multimeter]] reports about 10v and when connected to the motor, the [[Multimeter]] reports bout 400mv.
+
+**June 10th 2022 - 01:53:23 pm** 
+Papi just recommend that I use the boat battery that we brought home from the lake. It outputs about 800a at 12v. An issue that I was having before is that the smaller battery that broke could not supply enough current to keep the output at 12v at [[Stall Torque]]; The boat battery should be able to. I may need to remeasure parameters to get a more accurate data set.
+
+**June 10th 2022 - 01:57:20 pm** 
+The boat battery does drive the motor, so I now know that the motor is fine and the issue was the batteries. This brings up a new issue though. I have no terminals that can connect to the boat battery and I dont have a way to suspend the battery near the motor or a cable long enough to run from the floor to the battery.
+
+**June 10th 2022 - 02:03:21 pm** 
+Found a large wire that is used for electrical outlets through out the house, it will take a little work to make it compatible with the system I currently have though.
