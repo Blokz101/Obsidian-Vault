@@ -122,3 +122,6 @@ The boat battery does drive the motor, so I now know that the motor is fine and 
 
 **June 10th 2022 - 02:03:21 pm** 
 Found a large wire that is used for electrical outlets through out the house, it will take a little work to make it compatible with the system I currently have though.
+
+**June 10th 2022 - 02:46:51 pm** 
+Just finished setting up the experiment and got my first shot. Going to send it to my computer and analyze it now.
