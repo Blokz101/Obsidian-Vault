@@ -41,3 +41,6 @@ Finished cutting the extra wood off of the bench.
 
 **June 10th 2022 - 04:35:22 pm** 
 Cut the three deck planks and took an ice cream break with my family.
+
+**June 10th 2022 - 04:46:02 pm** 
+Finished cutting the sides supports for the deck planks

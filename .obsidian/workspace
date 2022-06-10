@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Journal/Friday Jun 10th, 2022.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Friday Jun 10th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Friday Jun 10th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,10 +139,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1574927b07747287",
+  "active": "48847dd1af7746f4",
   "lastOpenFiles": [
-    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Friday Jun 10th, 2022.md",
+    "Passion Projects/Mami's bench expansion project.md",
     "Passion Projects/Motor characterization project.md",
     "Journal/Thursday Jun 9th, 2022.md",
     "Journal/Wednesday Jun 8th, 2022.md",

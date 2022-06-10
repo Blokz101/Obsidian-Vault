@@ -23,3 +23,6 @@ Just finished with the [[Motor characterization project]], I have to clean it up
 Done cleaning up
 
 [[Mami's bench expansion project]]
+
+**June 10th 2022 - 04:46:16 pm** 
+Clocking out for the day for work
