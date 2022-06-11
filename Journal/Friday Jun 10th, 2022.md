@@ -8,7 +8,7 @@ Motivation Level: 1.5
 - [[Motor characterization project]]
 	- [x] Run experiment
 - [[Mami's bench expansion project]]
-	- [ ] Begin cutting wood
+	- [x] Begin cutting wood and assembling
 
 ## Progress
 **June 10th 2022 - 01:38:20 pm** 

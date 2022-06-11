@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Commit Part of a File",
-      "path": "Vault/Commit Part of a File.md"
+      "basename": "Saturday Jun 11th, 2022",
+      "path": "Journal/Saturday Jun 11th, 2022.md"
     },
     {
       "basename": "Friday Jun 10th, 2022",
       "path": "Journal/Friday Jun 10th, 2022.md"
+    },
+    {
+      "basename": "Commit Part of a File",
+      "path": "Vault/Commit Part of a File.md"
     },
     {
       "basename": "Mami's bench expansion project",
@@ -195,10 +199,6 @@
     {
       "basename": "AP Statistics Final Project",
       "path": "School/AP Statistics Final Project.md"
-    },
-    {
-      "basename": "AP Stats Final Project Figure 2",
-      "path": "Image Vault/AP Stats Final Project Figure 2.png"
     }
   ],
   "omittedPaths": [],

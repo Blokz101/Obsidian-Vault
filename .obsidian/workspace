@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Commit Part of a File.md",
-            "mode": "preview",
+            "file": "Journal/Saturday Jun 11th, 2022.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Commit Part of a File.md",
+                "file": "Journal/Saturday Jun 11th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Commit Part of a File.md",
+                "file": "Journal/Saturday Jun 11th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +153,15 @@
   },
   "active": "79584477abc46541",
   "lastOpenFiles": [
-    "Vault/Commit Part of a File.md",
+    "Journal/Saturday Jun 11th, 2022.md",
     "Journal/Friday Jun 10th, 2022.md",
+    "Vault/Commit Part of a File.md",
     "Passion Projects/Mami's bench expansion project.md",
     "Passion Projects/Motor characterization project.md",
     "Journal/Thursday Jun 9th, 2022.md",
     "Journal/Wednesday Jun 8th, 2022.md",
     "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
     "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
-    "Vault/Power.md",
-    "References/Motor characterization project 2022-06-08 16.35.53.excalidraw.md"
+    "Vault/Power.md"
   ]
 }
