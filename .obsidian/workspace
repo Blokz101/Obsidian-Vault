@@ -14,18 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "3f0030aa011d29dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Passion Projects/Mami's bench expansion project.md",
-            "mode": "source",
-            "source": true
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Monday Jun 13th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passion Projects/Mami's bench expansion project.md",
+                "file": "Journal/Monday Jun 13th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,10 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f0030aa011d29dc",
+  "active": "b47ea952b25705f4",
   "lastOpenFiles": [
-    "Passion Projects/Mami's bench expansion project.md",
     "Journal/Monday Jun 13th, 2022.md",
+    "Passion Projects/Mami's bench expansion project.md",
     "Templates/Daily Journal Template.md",
     "Journal/Wednesday Jun 1st, 2022.md",
     "References/Mini Robot Cim Characterization Experiment 2.md",

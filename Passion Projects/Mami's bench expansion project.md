@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #PassionProject 
 
 ## Goals
-- [ ] Build Mami's bench
+- [x] Build Mami's bench
 	- [x] Design attachment ^1d3e02
 		- [x] Recreate bench in [[Fusion 360]]
 		- [x] Make modifications
@@ -17,9 +17,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [x] Prep bench
 			- Cut off extra wood
 			- Modify bench so there are no conflicts with the expansion
-	- [ ] Build expansion
+	- [x] Build expansion
 		- [x] Cut wood
-		- [ ] Assemble
+		- [x] Assemble
 
 ## Progress
 **June 6th 2022 - 09:13:20 pm** 
@@ -65,3 +65,8 @@ The frame is now up and fully nailed in.
 
 **June 13th 2022 - 02:41:06 pm** 
 The two annoying to cut back pieces are now cut.
+
+**June 13th 2022 - 02:51:09 pm** 
+Just finished nailing in the support pieces, the bench is done.
+
+## Project Closed
