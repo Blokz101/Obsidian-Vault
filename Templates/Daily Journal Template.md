@@ -5,6 +5,6 @@ Hours Available:
 Motivation Level: 
 
 ## Goals
-- [ ] 
+- 
 
 ## Progress

@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48847dd1af7746f4",
+        "id": "b47ea952b25705f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/Saturday Jun 11th, 2022.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "79584477abc46541",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Passion Projects/Mami's bench expansion project.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "1574927b07747287",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Passion Projects/Mami's bench expansion project.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Saturday Jun 11th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Saturday Jun 11th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48847dd1af7746f4",
+  "active": "b47ea952b25705f4",
   "lastOpenFiles": [
-    "Journal/Saturday Jun 11th, 2022.md",
-    "Journal/Friday Jun 10th, 2022.md",
+    "Templates/Daily Journal Template.md",
+    "Journal/Wednesday Jun 1st, 2022.md",
+    "References/Mini Robot Cim Characterization Experiment 2.md",
+    "References/Mini Robot Cim Characterization Experiment 1.md",
+    "Templates/Fleeting Note Template.md",
+    "Journal/Monday Jun 13th, 2022.md",
+    "Templates/Daily Journal Timestamp Template.md",
     "Passion Projects/Mami's bench expansion project.md",
-    "Passion Projects/Motor characterization project.md",
-    "Vault/Commit Part of a File.md",
-    "Journal/Thursday Jun 9th, 2022.md",
-    "Journal/Wednesday Jun 8th, 2022.md",
-    "Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
-    "Vault/Power.md"
+    "Journal/Friday Jun 3rd, 2022.md",
+    "Journal/Saturday Jun 11th, 2022.md"
   ]
 }
