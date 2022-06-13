@@ -1,11 +1,16 @@
 # Monday Jun 13th, 2022
 #Journal [[Journal]]
 
-Hours Available: 0
-Motivation Level: NA
+Hours Available: 3
+Motivation Level: 2
 
 ## Goals
-- NA
+- [[Mami's bench expansion project]]
+	- [ ] Put the frame in place
+	- [ ] Finish Build
 
 ## Progress
-NA
+**June 13th 2022 - 01:20:19 pm** 
+Clocking in, graduation is today as well!
+
+[[Mami's bench expansion project]]

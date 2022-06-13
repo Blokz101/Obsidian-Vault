@@ -59,3 +59,7 @@ Finished cutting the other support pieces and arranged them to be nailed in.
 
 **June 11th 2022 - 03:40:09 pm** 
 Finished putting up the four pieces that will hold up the frame.
+
+**June 13th 2022 - 02:01:24 pm** 
+The frame is now up and fully nailed in
+
