@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "fileSortOrder": "byModifiedTime",
   "defaultViewMode": "preview",
   "strictLineBreaks": false,

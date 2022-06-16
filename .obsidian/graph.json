@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Templates",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "tag:#PassionProject",
+      "query": "tag:#Project",
       "color": {
         "a": 1,
         "rgb": 11621088
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.995406704468957,
+  "scale": 1.0067441656217953,
   "close": true
 }

@@ -62,7 +62,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "["
     }
   ],
   "app:go-forward": [
@@ -70,7 +70,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "]"
     }
   ]
 }
