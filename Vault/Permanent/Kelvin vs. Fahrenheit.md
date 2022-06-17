@@ -1,19 +1,18 @@
 ---
 Alias: []
-Creation Date: Fri June 17th 2022 02:17:23 pm 
+Creation Date: Fri June 17th 2022 02:20:12 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
-#Permanent [[Fahrenheit]] [[Celsius]]
+#Permanent [[Conversion Factor]] [[Kelvin]] [[Fahrenheit]]
 
 - Table
 	- Key temperatures
 	  
 		| Unit | Freezing Point | Boiling Point | Range |
 		| ---- | -------------- | ------------- | ----- |
-		| F    | 32             | 212           | 180   |
-		| C    | 0              | 100           | 100   |
+		| K    | 273             | 373           | 100   |
+		| F    | 32              | 212           | 180   |
 	
 - Conversion Equation
-	- $F=1.8C+32$
-	- $C=\frac{F-32}{1.8}$
+	- Convert to [[Celsius]] then to [[Kelvin]]

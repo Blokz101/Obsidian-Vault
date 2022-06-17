@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Untitled.md",
+            "file": "Vault/Permanent/Kelvin vs. Fahrenheit.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "38c93f421889859c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Fahrenheit vs. Celsius.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -25,6 +37,7 @@
       {
         "id": "dae726d40aa05d44",
         "type": "tabs",
+        "dimension": 65.60364464692483,
         "children": [
           {
             "id": "c8e5db5b4ff26463",
@@ -67,11 +80,52 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a7e2304580c6cd8c",
+        "type": "tabs",
+        "dimension": 34.39635535307517,
+        "children": [
+          {
+            "id": "1455581ec92828ed",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vault/Permanent/Kelvin vs. Fahrenheit.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9097290007238575,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -87,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Untitled.md",
+                "file": "Vault/Permanent/Kelvin vs. Fahrenheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +193,15 @@
   },
   "active": "b938965d783f26e8",
   "lastOpenFiles": [
-    "Vault/Permanent/Untitled.md",
+    "Vault/Permanent/Kelvin vs. Fahrenheit.md",
     "Vault/Permanent/Fahrenheit vs. Celsius.md",
+    "Vault/Permanent/Kelvin vs. Celsius.md",
     "Vault/Permanent/Conversions.md",
     "Excalidraw/Drawing 2022-06-17 12.10.47.excalidraw.md",
     "Vault/Fleeting/Conversions.md",
     "Museum/Journal/Thursday Jun 16th, 2022.md",
     "Museum/Projects/NC State Class Registration.md",
     "Museum/Passion Projects/Untitled.md",
-    "Museum/Passion Projects/Project List.md",
-    "Vault/Permanent/Work.md"
+    "Museum/Passion Projects/Project List.md"
   ]
 }

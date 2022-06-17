@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Vault/Permanent/Untitled.md"
+      "basename": "Kelvin vs. Fahrenheit",
+      "path": "Vault/Permanent/Kelvin vs. Fahrenheit.md"
     },
     {
       "basename": "Fahrenheit vs. Celsius",
       "path": "Vault/Permanent/Fahrenheit vs. Celsius.md"
+    },
+    {
+      "basename": "Kelvin vs. Celsius",
+      "path": "Vault/Permanent/Kelvin vs. Celsius.md"
     },
     {
       "basename": "Conversions",
@@ -195,10 +199,6 @@
     {
       "basename": "AP Stats Final Project Figure 1",
       "path": "References/AP Stats Final Project Figure 1.png"
-    },
-    {
-      "basename": "Ford and Carter Presidencies Notes",
-      "path": "Vault/Ford and Carter Presidencies Notes.md"
     }
   ],
   "omittedPaths": [],
