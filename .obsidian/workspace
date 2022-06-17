@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Conversions.md",
-            "mode": "source",
+            "file": "Vault/Permanent/Fahrenheit vs. Celsius.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Conversions.md",
+                "file": "Vault/Permanent/Fahrenheit vs. Celsius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "b938965d783f26e8",
   "lastOpenFiles": [
+    "Vault/Permanent/Fahrenheit vs. Celsius.md",
     "Vault/Permanent/Conversions.md",
     "Excalidraw/Drawing 2022-06-17 12.10.47.excalidraw.md",
     "Vault/Fleeting/Conversions.md",
@@ -137,7 +138,6 @@
     "Museum/Passion Projects/Untitled.md",
     "Museum/Passion Projects/Project List.md",
     "Vault/Permanent/Work.md",
-    "Vault/Untitled.md",
-    "Other/References/Mini Robot Cim Characterization Experiment 1.md"
+    "Vault/Untitled.md"
   ]
 }
