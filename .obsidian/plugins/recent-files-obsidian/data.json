@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Vault/Permanent/Untitled.md"
+    },
+    {
       "basename": "Fahrenheit vs. Celsius",
       "path": "Vault/Permanent/Fahrenheit vs. Celsius.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ford and Carter Presidencies Notes",
       "path": "Vault/Ford and Carter Presidencies Notes.md"
-    },
-    {
-      "basename": "Wednesday May 18th, 2022",
-      "path": "Journal/Wednesday May 18th, 2022.md"
     }
   ],
   "omittedPaths": [],

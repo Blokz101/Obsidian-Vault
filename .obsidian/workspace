@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Fahrenheit vs. Celsius.md",
-            "mode": "preview",
+            "file": "Vault/Permanent/Untitled.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Fahrenheit vs. Celsius.md",
+                "file": "Vault/Permanent/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +120,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "81e7e11173b7f92e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,6 +139,7 @@
   },
   "active": "b938965d783f26e8",
   "lastOpenFiles": [
+    "Vault/Permanent/Untitled.md",
     "Vault/Permanent/Fahrenheit vs. Celsius.md",
     "Vault/Permanent/Conversions.md",
     "Excalidraw/Drawing 2022-06-17 12.10.47.excalidraw.md",
@@ -137,7 +148,6 @@
     "Museum/Projects/NC State Class Registration.md",
     "Museum/Passion Projects/Untitled.md",
     "Museum/Passion Projects/Project List.md",
-    "Vault/Permanent/Work.md",
-    "Vault/Untitled.md"
+    "Vault/Permanent/Work.md"
   ]
 }
