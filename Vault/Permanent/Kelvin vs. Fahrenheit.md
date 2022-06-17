@@ -15,4 +15,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		| F    | 32              | 212           | 180   |
 	
 - Conversion Equation
-	- Convert to [[Celsius]] then to [[Kelvin]]
+	- Convert from [[Fahrenheit]] to [[Celsius]] to [[Kelvin]]
+	- $F=1.8(K-273)+32$
