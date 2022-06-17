@@ -16,4 +16,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	
 - Conversion Equation
 	- Convert from [[Fahrenheit]] to [[Celsius]] to [[Kelvin]]
-	- $F=1.8(K-273)+32$
+		- $F=1.8(K-273)+32$
+	- Convert from [[Kelvin]] to [[Celsius]] to [[Fahrenheit]]
+		- $K=(\frac{F-32}{1.8})+273$

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kelvin vs. Fahrenheit",
-      "path": "Vault/Permanent/Kelvin vs. Fahrenheit.md"
+      "basename": "Conversion Factor",
+      "path": "Conversion Factor.md"
     },
     {
       "basename": "Kelvin vs. Celsius",
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
+    },
+    {
+      "basename": "Kelvin vs. Fahrenheit",
+      "path": "Vault/Permanent/Kelvin vs. Fahrenheit.md"
     },
     {
       "basename": "Fahrenheit vs. Celsius",
@@ -195,10 +199,6 @@
     {
       "basename": "Ohm's Law",
       "path": "Vault/Permanent/Ohm's Law.md"
-    },
-    {
-      "basename": "AP Stats Final Project Figure 1",
-      "path": "References/AP Stats Final Project Figure 1.png"
     }
   ],
   "omittedPaths": [],
