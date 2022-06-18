@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
+      "basename": "Molecule",
+      "path": "Vault/Permanent/Molecule.md"
     },
     {
-      "basename": "Polyatomic Ions",
-      "path": "Polyatomic Ions.md"
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
       "basename": "Monoatomic Ion",
@@ -15,6 +15,10 @@
     {
       "basename": "Ion",
       "path": "Ion.md"
+    },
+    {
+      "basename": "Polyatomic Ions",
+      "path": "Polyatomic Ions.md"
     },
     {
       "basename": "Electron",
@@ -35,10 +39,6 @@
     {
       "basename": "Metal",
       "path": "Vault/Permanent/Metal.md"
-    },
-    {
-      "basename": "Molecule",
-      "path": "Vault/Permanent/Molecule.md"
     },
     {
       "basename": "Drawing 2022-06-18 12.36.47.excalidraw",

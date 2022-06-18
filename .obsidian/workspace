@@ -9,20 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Ionic Compound.md",
-            "mode": "source",
+            "file": "Vault/Permanent/Molecule.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "1c3d68ed74d30ce2",
+        "id": "5ecdf9a0f5015c0a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Monoatomic Ion.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Ionic Compound.md",
+                "file": "Vault/Permanent/Molecule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Ionic Compound.md",
+                "file": "Vault/Permanent/Molecule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "0828246e8ca5d230",
   "lastOpenFiles": [
+    "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Ionic Compound.md",
-    "Polyatomic Ions.md",
     "Monoatomic Ion.md",
     "Ion.md",
+    "Polyatomic Ions.md",
     "Atoms.md",
     "Electron.md",
     "Vault/Permanent/Covalent Compound.md",
     "Vault/Permanent/Non-Metal.md",
-    "Vault/Permanent/Compound.md",
-    "Vault/Permanent/Metal.md"
+    "Vault/Permanent/Compound.md"
   ]
 }
