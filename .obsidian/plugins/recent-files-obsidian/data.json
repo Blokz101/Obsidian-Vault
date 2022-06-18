@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Element",
-      "path": "Vault/Permanent/Element.md"
+      "basename": "Ion",
+      "path": "Ion.md"
     },
     {
-      "basename": "Atomic Theory",
-      "path": "Vault/Permanent/Atomic Theory.md"
+      "basename": "Molecule",
+      "path": "Vault/Permanent/Molecule.md"
+    },
+    {
+      "basename": "Compound",
+      "path": "Vault/Permanent/Compound.md"
+    },
+    {
+      "basename": "Drawing 2022-06-18 12.36.47.excalidraw",
+      "path": "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md"
+    },
+    {
+      "basename": "Element",
+      "path": "Vault/Permanent/Element.md"
     },
     {
       "basename": "Atom",
@@ -183,22 +195,6 @@
     {
       "basename": "Experiment Template",
       "path": "Other/Templates/Experiment Template.md"
-    },
-    {
-      "basename": "Rebase",
-      "path": "Vault/Permanent/Rebase.md"
-    },
-    {
-      "basename": "Terminal Resistance",
-      "path": "Vault/Permanent/Terminal Resistance.md"
-    },
-    {
-      "basename": "Permanent Note Template",
-      "path": "Other/Templates/Permanent Note Template.md"
-    },
-    {
-      "basename": "Commits",
-      "path": "Vault/Permanent/Commits.md"
     }
   ],
   "omittedPaths": [],

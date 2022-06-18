@@ -10,7 +10,43 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Element.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "be267246a972a6d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Compound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "52e936da7c21d923",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Molecule.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3e8bb34c7a0fbb6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ion.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -80,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Element.md",
+                "file": "Ion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8583382299477914,
+                  "scale": 0.807690114250694,
                   "close": true
                 }
               }
@@ -129,14 +165,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Element.md",
+                "file": "Ion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -171,25 +207,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "928ebf545f0d84b3",
+  "active": "3e8bb34c7a0fbb6f",
   "lastOpenFiles": [
-    "Vault/Permanent/Element.md",
+    "Ion.md",
+    "Vault/Permanent/Molecule.md",
+    "Vault/Permanent/Compound.md",
     "Vault/Permanent/Atomic Theory.md",
+    "Vault/Permanent/Chemical Bond.md",
+    "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md",
+    "Vault/Permanent/Element.md",
     "Atom.md",
     "Chemistry.md",
-    "Vault/Permanent/Kelvin vs. Fahrenheit.md",
-    "Vault/Permanent/Conversion Factor.md",
-    "Vault/Permanent/Fahrenheit vs. Celsius.md",
-    "Vault/Permanent/Kelvin vs. Celsius.md",
-    "Celsius.md",
-    "Vault/Permanent/Conversions.md"
+    "Vault/Permanent/Kelvin vs. Fahrenheit.md"
   ]
 }

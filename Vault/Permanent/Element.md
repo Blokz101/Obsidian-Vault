@@ -8,4 +8,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - Definition
 	- The smallest unit of an [[Element]] is an [[Atom]]
-	- Some [[Element|Elements]] exist 
+	- Some [[Element|Elements]] exist naturally as a [[Compound]] of two [[Atom|Atoms]] of the same [[Element]]
+- Notes
+	- **[[Element|Elements]] are always neutral**
