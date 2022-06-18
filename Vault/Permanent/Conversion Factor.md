@@ -10,12 +10,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 	| Prefix | Symbol | Conversion #1       | Conversion #2        |
 	| ------ | ------ | ------------------- | -------------------- |
-	| Mega   | M      | 1Mg = 1,000,000g    | 1g = 0.000001Mg      |
-	| Kilo   | k      | 1kg = 1,000g        | 1g = 0.001kg         |
-	| NA     | g      | 1g = 1g             | 1g = 1g              |
-	| Milli  | m      | 1mg = 0.001g        | 1g = 1,000mg         |
-	| Micro  | μ      | 1μg = 0.000001g     | 1g = 1,000,000μg     |
-	| Nano   | n      | 1ng = 0.0000000001g | 1g = 1,000,000,000ng | 
+	| Mega   | M      | $\large{\frac{1Mg}{10^6g}}$ | $\large{\frac{1g}{10^-6Mg}}$ |
+	| Kilo   | k      | $\large{\frac{1kg}{10^3g}}$ | $\large{\frac{1g}{10^-3kg}}$ |
+	| NA     | g      | $\large{\frac{1g}{1g}}$     | $\large{\frac{1g}{1g}}$      | 
+	| Milli  | m      | $\large{\frac{1mg}{10^-3g}}$     | $\large{\frac{1g}{10^3mg}}$       |
+	| Micro  | μ      | $\large{\frac{1μg}{10^-6g}}$     | $\large{\frac{1g}{10^6μg}}$      |
+	| Nano   | n      | $\large{\frac{1ng}{10^-9g}}$    | $\large{\frac{1g}{10^9ng}}$      |
 - Temperature [[Conversion Factor]]
 	- [[Kelvin vs. Fahrenheit]]
 	- [[Fahrenheit vs. Celsius]]
