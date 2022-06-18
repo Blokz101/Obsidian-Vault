@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "509346c0fabfb076",
+        "id": "928ebf545f0d84b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Conversion Factor.md",
-            "mode": "preview",
+            "file": "Vault/Permanent/Atomic Theory.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -80,11 +80,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Conversion Factor.md",
+                "file": "Vault/Permanent/Atomic Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.587499524223788,
+                  "scale": 0.5611302914334285,
                   "close": true
                 }
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Conversion Factor.md",
+                "file": "Vault/Permanent/Atomic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "509346c0fabfb076",
+  "active": "928ebf545f0d84b3",
   "lastOpenFiles": [
-    "Vault/Permanent/Conversion Factor.md",
+    "Vault/Permanent/Atomic Theory.md",
     "Vault/Permanent/Kelvin vs. Fahrenheit.md",
-    "Celsius.md",
+    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Fahrenheit vs. Celsius.md",
     "Vault/Permanent/Kelvin vs. Celsius.md",
+    "Celsius.md",
     "Vault/Permanent/Conversions.md",
     "Excalidraw/Drawing 2022-06-17 12.10.47.excalidraw.md",
     "Vault/Fleeting/Conversions.md",
-    "Museum/Journal/Thursday Jun 16th, 2022.md",
-    "Museum/Projects/NC State Class Registration.md"
+    "Museum/Journal/Thursday Jun 16th, 2022.md"
   ]
 }
