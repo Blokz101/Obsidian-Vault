@@ -16,7 +16,55 @@
         }
       },
       {
-        "id": "be267246a972a6d6",
+        "id": "7758ba4f02f2f328",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Non-Metal.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "dff525f5afc500e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Metal.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "5da48a602df6060f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Ionic Compound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1d322f0b793201c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Covalent Compound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3fa10a881da74f6d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -102,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a7e2304580c6cd8c",
@@ -116,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ion.md",
+                "file": "Vault/Permanent/Compound.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ion.md",
+                "file": "Vault/Permanent/Compound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +261,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e8bb34c7a0fbb6f",
+  "active": "3fa10a881da74f6d",
   "lastOpenFiles": [
+    "Vault/Permanent/Compound.md",
+    "Vault/Permanent/Covalent Compound.md",
+    "Vault/Permanent/Ionic Compound.md",
+    "Vault/Permanent/Non-Metal.md",
+    "Vault/Permanent/Metal.md",
     "Ion.md",
     "Vault/Permanent/Molecule.md",
-    "Vault/Permanent/Compound.md",
     "Vault/Permanent/Atomic Theory.md",
     "Vault/Permanent/Chemical Bond.md",
-    "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md",
-    "Vault/Permanent/Element.md",
-    "Atom.md",
-    "Chemistry.md",
-    "Vault/Permanent/Kelvin vs. Fahrenheit.md"
+    "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md"
   ]
 }

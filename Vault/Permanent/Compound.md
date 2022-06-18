@@ -13,3 +13,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- There are two different types of [[Compound|Compounds]]
 		- The type whose smallest unit is a neutral [[Molecule]]
 		- The type whose smallest unit is a charged [[Ion]]
+	- The way that the [[Elements]] bond in the compound determine if it is a [[Covalent Compound]] or an [[Ionic Compound]].

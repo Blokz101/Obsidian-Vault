@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Compound",
+      "path": "Vault/Permanent/Compound.md"
+    },
+    {
+      "basename": "Covalent Compound",
+      "path": "Vault/Permanent/Covalent Compound.md"
+    },
+    {
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
+    },
+    {
+      "basename": "Non-Metal",
+      "path": "Vault/Permanent/Non-Metal.md"
+    },
+    {
+      "basename": "Metal",
+      "path": "Vault/Permanent/Metal.md"
+    },
+    {
       "basename": "Ion",
       "path": "Ion.md"
     },
     {
       "basename": "Molecule",
       "path": "Vault/Permanent/Molecule.md"
-    },
-    {
-      "basename": "Compound",
-      "path": "Vault/Permanent/Compound.md"
     },
     {
       "basename": "Drawing 2022-06-18 12.36.47.excalidraw",
@@ -183,18 +199,6 @@
     {
       "basename": "Saturday Jun 4th, 2022",
       "path": "Museum/Journal/Saturday Jun 4th, 2022.md"
-    },
-    {
-      "basename": "Voltage",
-      "path": "Vault/Permanent/Voltage.md"
-    },
-    {
-      "basename": "Reference Note Template",
-      "path": "Other/Templates/Reference Note Template.md"
-    },
-    {
-      "basename": "Experiment Template",
-      "path": "Other/Templates/Experiment Template.md"
     }
   ],
   "omittedPaths": [],
