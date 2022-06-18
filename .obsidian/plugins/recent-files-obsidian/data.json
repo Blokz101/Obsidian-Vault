@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Element",
+      "path": "Vault/Permanent/Element.md"
+    },
+    {
       "basename": "Atomic Theory",
       "path": "Vault/Permanent/Atomic Theory.md"
+    },
+    {
+      "basename": "Atom",
+      "path": "Atom.md"
+    },
+    {
+      "basename": "Chemistry",
+      "path": "Chemistry.md"
     },
     {
       "basename": "Kelvin vs. Fahrenheit",
@@ -187,18 +199,6 @@
     {
       "basename": "Commits",
       "path": "Vault/Permanent/Commits.md"
-    },
-    {
-      "basename": "Current",
-      "path": "Vault/Permanent/Current.md"
-    },
-    {
-      "basename": "Merge",
-      "path": "Vault/Permanent/Merge.md"
-    },
-    {
-      "basename": "Nominal Motor Voltage",
-      "path": "Vault/Permanent/Nominal Motor Voltage.md"
     }
   ],
   "omittedPaths": [],

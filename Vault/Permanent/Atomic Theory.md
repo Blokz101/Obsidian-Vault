@@ -7,4 +7,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - Definition
-	- Atoms of different elements combine in small integer ratios to form compounds.
+	- [[Atoms]] of different [[Element|Elements]] combine in small integer ratios to form [[Compound|Compounds]].
