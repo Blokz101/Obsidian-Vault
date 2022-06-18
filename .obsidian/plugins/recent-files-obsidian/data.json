@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Compound",
-      "path": "Vault/Permanent/Compound.md"
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
+    },
+    {
+      "basename": "Polyatomic Ions",
+      "path": "Polyatomic Ions.md"
+    },
+    {
+      "basename": "Monoatomic Ion",
+      "path": "Monoatomic Ion.md"
+    },
+    {
+      "basename": "Ion",
+      "path": "Ion.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Electron.md"
     },
     {
       "basename": "Covalent Compound",
       "path": "Vault/Permanent/Covalent Compound.md"
     },
     {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
-    },
-    {
       "basename": "Non-Metal",
       "path": "Vault/Permanent/Non-Metal.md"
     },
     {
-      "basename": "Metal",
-      "path": "Vault/Permanent/Metal.md"
+      "basename": "Compound",
+      "path": "Vault/Permanent/Compound.md"
     },
     {
-      "basename": "Ion",
-      "path": "Ion.md"
+      "basename": "Metal",
+      "path": "Vault/Permanent/Metal.md"
     },
     {
       "basename": "Molecule",
@@ -183,22 +195,6 @@
     {
       "basename": "Monday Jun 6th, 2022",
       "path": "Museum/Journal/Monday Jun 6th, 2022.md"
-    },
-    {
-      "basename": "Sunday Jun 5th, 2022",
-      "path": "Museum/Journal/Sunday Jun 5th, 2022.md"
-    },
-    {
-      "basename": "Tags",
-      "path": "Vault/Permanent/Tags.md"
-    },
-    {
-      "basename": "Thursday Jun 2nd, 2022",
-      "path": "Museum/Journal/Thursday Jun 2nd, 2022.md"
-    },
-    {
-      "basename": "Saturday Jun 4th, 2022",
-      "path": "Museum/Journal/Saturday Jun 4th, 2022.md"
     }
   ],
   "omittedPaths": [],
