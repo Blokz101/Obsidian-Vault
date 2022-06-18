@@ -2,11 +2,7 @@
   "recentFiles": [
     {
       "basename": "Conversion Factor",
-      "path": "Conversion Factor.md"
-    },
-    {
-      "basename": "Kelvin vs. Celsius",
-      "path": "Vault/Permanent/Kelvin vs. Celsius.md"
+      "path": "Vault/Permanent/Conversion Factor.md"
     },
     {
       "basename": "Kelvin vs. Fahrenheit",
@@ -15,6 +11,10 @@
     {
       "basename": "Fahrenheit vs. Celsius",
       "path": "Vault/Permanent/Fahrenheit vs. Celsius.md"
+    },
+    {
+      "basename": "Kelvin vs. Celsius",
+      "path": "Vault/Permanent/Kelvin vs. Celsius.md"
     },
     {
       "basename": "Conversions",
@@ -195,10 +195,6 @@
     {
       "basename": "Nominal Motor Voltage",
       "path": "Vault/Permanent/Nominal Motor Voltage.md"
-    },
-    {
-      "basename": "Ohm's Law",
-      "path": "Vault/Permanent/Ohm's Law.md"
     }
   ],
   "omittedPaths": [],
