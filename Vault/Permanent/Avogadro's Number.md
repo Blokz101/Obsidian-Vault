@@ -9,7 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # $$6.02*10^{23}$$
 
 - Definition
-	- How many [[Atom|Atoms]] are in one [[Mole]] of an [[Element]]
+	- How many [[Atom|Atoms]]/[[Molecule|Molecules]] are in one [[Mole]] of an [[Element]]/[[Compound]]
 - Symbol
 	- $N_A$
 

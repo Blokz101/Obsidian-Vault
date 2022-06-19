@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Ionic Compounds]
 Creation Date: Sat June 18th 2022 01:03:23 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -12,6 +12,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  >Its Ironic that Metals and Non-Metals get together.
 - Notes
 	- [[Compound|Compounds]] made from [[Monoatomic Ion|Monoatomic Ions]] are often referred to as [[Binary Compound|Binary Compounds]]
+	  > [!Warning]
+	  > [[Ionic Compound|Ionic Compounds]] DO NOT FORM [[Molecule|Molecules]], they are instead referred to as "Formula Units".
 	- Names
 		- To find the name for an [[Ionic Compound]] you need to first predict the ratio in which the [[Atom|Atoms]] in the [[Ionic Compound]] will combine in.
 			1. Determine the charge on each of the [[Ion|Ions]]

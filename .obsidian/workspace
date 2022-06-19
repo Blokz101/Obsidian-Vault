@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Avogadro's Number.md",
+            "file": "Vault/Permanent/Ionic Compound.md",
             "mode": "preview",
             "source": true
           }
@@ -22,6 +22,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Mole.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7ebf6115d89b60ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Covalent Compound.md",
             "mode": "preview",
             "source": true
           }
@@ -139,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Mole.md",
+                "file": "Vault/Permanent/Ionic Compound.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Mole.md",
+                "file": "Vault/Permanent/Ionic Compound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,17 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f485460e05f7c8c7",
+  "active": "b2cf26cb7f6165ed",
   "lastOpenFiles": [
+    "Vault/Permanent/Ionic Compound.md",
+    "Vault/Permanent/Ionic Compounds.md",
+    "Vault/Permanent/Avogadro's Number.md",
     "Vault/Permanent/Mole.md",
     "Vault/Permanent/Periodic Table.md",
     "Vault/Permanent/Conversions.md",
-    "Vault/Permanent/Avogadro's Number.md",
     "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Ion.md",
     "Other/References/Periodic Table Image.png",
-    "Atom.md",
-    "Ion.md",
-    "Proton.md"
+    "Atom.md"
   ]
 }
