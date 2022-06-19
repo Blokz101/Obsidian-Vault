@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0828246e8ca5d230",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Molecule.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "5ecdf9a0f5015c0a",
         "type": "leaf",
         "state": {
@@ -91,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Molecule.md",
+                "file": "Monoatomic Ion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Molecule.md",
+                "file": "Monoatomic Ion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +177,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0828246e8ca5d230",
+  "active": "5ecdf9a0f5015c0a",
   "lastOpenFiles": [
+    "Monoatomic Ion.md",
+    "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md",
     "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Ionic Compound.md",
-    "Monoatomic Ion.md",
     "Ion.md",
     "Polyatomic Ions.md",
     "Atoms.md",
     "Electron.md",
     "Vault/Permanent/Covalent Compound.md",
-    "Vault/Permanent/Non-Metal.md",
-    "Vault/Permanent/Compound.md"
+    "Vault/Permanent/Non-Metal.md"
   ]
 }
