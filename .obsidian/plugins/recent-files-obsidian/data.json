@@ -2,7 +2,27 @@
   "recentFiles": [
     {
       "basename": "Periodic Table",
+      "path": "Other/References/Periodic Table.png"
+    },
+    {
+      "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Monoatomic Ion",
+      "path": "Monoatomic Ion.md"
+    },
+    {
+      "basename": "Molar Mass",
+      "path": "Vault/Permanent/Molar Mass.md"
+    },
+    {
+      "basename": "Atomic Mass Unit",
+      "path": "Atomic Mass Unit.md"
+    },
+    {
+      "basename": "Periodic Table Entry Screenshot",
+      "path": "Other/References/Periodic Table Entry Screenshot.png"
     },
     {
       "basename": "Subatomic Particles",
@@ -11,14 +31,6 @@
     {
       "basename": "Atom",
       "path": "Atom.md"
-    },
-    {
-      "basename": "Atomic Mass Unit",
-      "path": "Atomic Mass Unit.md"
-    },
-    {
-      "basename": "Monoatomic Ion",
-      "path": "Monoatomic Ion.md"
     },
     {
       "basename": "Polyatomic Ions",
@@ -187,18 +199,6 @@
     {
       "basename": "Power",
       "path": "Vault/Permanent/Power.md"
-    },
-    {
-      "basename": "Branching Strategies",
-      "path": "Vault/Permanent/Branching Strategies.md"
-    },
-    {
-      "basename": "Motor Characterization Notes",
-      "path": "Vault/Permanent/Motor Characterization Notes.md"
-    },
-    {
-      "basename": "Tuesday Jun 7th, 2022",
-      "path": "Museum/Journal/Tuesday Jun 7th, 2022.md"
     }
   ],
   "omittedPaths": [],
