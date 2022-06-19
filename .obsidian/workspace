@@ -4,59 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5ecdf9a0f5015c0a",
+        "id": "0e0fc15434837828",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Proton.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "dc6be0d40912a588",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ion.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c3c97584bed936b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Atom.md",
             "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6a33ccf732e11601",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Monoatomic Ion.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "fa1f3abd89621586",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Other/References/Periodic Table.png"
-          }
-        }
-      },
-      {
-        "id": "a8af02b44e484ac2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Molar Mass.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "be587b04d3ee20df",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atomic Mass Unit.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -125,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Other/References/Periodic Table.png",
+                "file": "Ion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5795438311266747,
+                  "scale": 0.6670955298602242,
                   "close": true
                 }
               }
@@ -174,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/References/Periodic Table.png",
+                "file": "Ion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa1f3abd89621586",
+  "active": "dc6be0d40912a588",
   "lastOpenFiles": [
-    "Other/References/Periodic Table.png",
+    "Ion.md",
+    "Proton.md",
     "Vault/Permanent/Periodic Table.md",
-    "Monoatomic Ion.md",
-    "Vault/Permanent/Molar Mass.md",
-    "Atomic Mass Unit.md",
-    "Other/References/Periodic Table Entry Screenshot.png",
-    "Subatomic Particles.md",
+    "Excalidraw/Drawing 2022-06-19 17.56.52.excalidraw.md",
     "Atom.md",
-    "Polyatomic Ions.md",
-    "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md"
+    "Periodic Table Image.png",
+    "Vault/Permanent/Periodic Table.png.md",
+    "Other/References/Periodic Table.png",
+    "Monoatomic Ion.md",
+    "Vault/Permanent/Molar Mass.md"
   ]
 }

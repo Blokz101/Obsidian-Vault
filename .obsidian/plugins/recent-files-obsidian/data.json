@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Periodic Table",
-      "path": "Other/References/Periodic Table.png"
+      "basename": "Ion",
+      "path": "Ion.md"
+    },
+    {
+      "basename": "Proton",
+      "path": "Proton.md"
     },
     {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Atom",
+      "path": "Atom.md"
+    },
+    {
+      "basename": "Periodic Table Image",
+      "path": "Periodic Table Image.png"
     },
     {
       "basename": "Monoatomic Ion",
@@ -29,10 +41,6 @@
       "path": "Subatomic Particles.md"
     },
     {
-      "basename": "Atom",
-      "path": "Atom.md"
-    },
-    {
       "basename": "Polyatomic Ions",
       "path": "Polyatomic Ions.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Ionic Compound",
       "path": "Vault/Permanent/Ionic Compound.md"
-    },
-    {
-      "basename": "Ion",
-      "path": "Ion.md"
     },
     {
       "basename": "Electron",
@@ -191,14 +195,6 @@
     {
       "basename": "Motor characterization project 2022-06-08 16.36.44.excalidraw",
       "path": "Other/References/Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-06-08 12.11.23.excalidraw",
-      "path": "Other/References/Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md"
-    },
-    {
-      "basename": "Power",
-      "path": "Vault/Permanent/Power.md"
     }
   ],
   "omittedPaths": [],

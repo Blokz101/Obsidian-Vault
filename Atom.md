@@ -7,4 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - Definition
+	- **[[Atom|Atoms]] are always neutral**
 	- Generally regarded as the smallest unit of an element. However they are made up of [[Subatomic Particles]]
+	- If it is charged it is considered an [[Ion]]
