@@ -5,6 +5,10 @@
       "path": "Monoatomic Ion.md"
     },
     {
+      "basename": "Polyatomic Ions",
+      "path": "Polyatomic Ions.md"
+    },
+    {
       "basename": "Molecule",
       "path": "Vault/Permanent/Molecule.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Ion",
       "path": "Ion.md"
-    },
-    {
-      "basename": "Polyatomic Ions",
-      "path": "Polyatomic Ions.md"
     },
     {
       "basename": "Electron",
