@@ -1,60 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Ion",
-      "path": "Ion.md"
-    },
-    {
-      "basename": "Proton",
-      "path": "Proton.md"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Atom",
-      "path": "Atom.md"
-    },
-    {
-      "basename": "Periodic Table Image",
-      "path": "Periodic Table Image.png"
-    },
-    {
-      "basename": "Monoatomic Ion",
-      "path": "Monoatomic Ion.md"
-    },
-    {
-      "basename": "Molar Mass",
-      "path": "Vault/Permanent/Molar Mass.md"
-    },
-    {
-      "basename": "Atomic Mass Unit",
-      "path": "Atomic Mass Unit.md"
-    },
-    {
-      "basename": "Periodic Table Entry Screenshot",
-      "path": "Other/References/Periodic Table Entry Screenshot.png"
-    },
-    {
-      "basename": "Subatomic Particles",
-      "path": "Subatomic Particles.md"
-    },
-    {
-      "basename": "Polyatomic Ions",
-      "path": "Polyatomic Ions.md"
+      "basename": "Mole",
+      "path": "Vault/Permanent/Mole.md"
     },
     {
       "basename": "Molecule",
       "path": "Vault/Permanent/Molecule.md"
     },
     {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
-      "basename": "Electron",
-      "path": "Electron.md"
+      "basename": "Ion",
+      "path": "Vault/Permanent/Ion.md"
+    },
+    {
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
+    },
+    {
+      "basename": "Molar Mass",
+      "path": "Vault/Permanent/Molar Mass.md"
+    },
+    {
+      "basename": "Periodic Table Entry Screenshot",
+      "path": "Other/References/Periodic Table Entry Screenshot.png"
+    },
+    {
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
       "basename": "Covalent Compound",
@@ -75,10 +51,6 @@
     {
       "basename": "Element",
       "path": "Vault/Permanent/Element.md"
-    },
-    {
-      "basename": "Chemistry",
-      "path": "Chemistry.md"
     },
     {
       "basename": "Kelvin vs. Fahrenheit",
