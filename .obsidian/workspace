@@ -9,8 +9,44 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monoatomic Ion.md",
+            "file": "Atom.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "33baaa474afb279e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Periodic Table.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a676fe872ef5cde0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Subatomic Particles.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "be587b04d3ee20df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atomic Mass Unit.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -79,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monoatomic Ion.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monoatomic Ion.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +213,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ecdf9a0f5015c0a",
+  "active": "33baaa474afb279e",
   "lastOpenFiles": [
+    "Vault/Permanent/Periodic Table.md",
+    "Subatomic Particles.md",
+    "Atom.md",
+    "Atomic Mass Unit.md",
     "Monoatomic Ion.md",
     "Polyatomic Ions.md",
     "Excalidraw/Drawing 2022-06-18 12.36.47.excalidraw.md",
     "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Ionic Compound.md",
-    "Ion.md",
-    "Atoms.md",
-    "Electron.md",
-    "Vault/Permanent/Covalent Compound.md",
-    "Vault/Permanent/Non-Metal.md"
+    "Ion.md"
   ]
 }

@@ -6,3 +6,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
+- Definition
+	- Generally regarded as the smallest unit of an element. However they are made up of [[Subatomic Particles]]

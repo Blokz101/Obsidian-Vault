@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Subatomic Particles",
+      "path": "Subatomic Particles.md"
+    },
+    {
+      "basename": "Atom",
+      "path": "Atom.md"
+    },
+    {
+      "basename": "Atomic Mass Unit",
+      "path": "Atomic Mass Unit.md"
+    },
+    {
       "basename": "Monoatomic Ion",
       "path": "Monoatomic Ion.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "Element",
       "path": "Vault/Permanent/Element.md"
-    },
-    {
-      "basename": "Atom",
-      "path": "Atom.md"
     },
     {
       "basename": "Chemistry",
@@ -187,10 +199,6 @@
     {
       "basename": "Tuesday Jun 7th, 2022",
       "path": "Museum/Journal/Tuesday Jun 7th, 2022.md"
-    },
-    {
-      "basename": "Monday Jun 6th, 2022",
-      "path": "Museum/Journal/Monday Jun 6th, 2022.md"
     }
   ],
   "omittedPaths": [],
