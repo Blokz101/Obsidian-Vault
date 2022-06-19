@@ -9,8 +9,44 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Vault/Permanent/Avogadro's Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f485460e05f7c8c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Vault/Permanent/Mole.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6e4e706e665b7ab7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Conversions.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9ffd16489899e1a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Periodic Table.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -25,14 +61,6 @@
             "mode": "preview",
             "source": true
           }
-        }
-      },
-      {
-        "id": "73d16cfd90219d46",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       },
       {
@@ -98,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a7e2304580c6cd8c",
@@ -211,17 +238,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2cf26cb7f6165ed",
+  "active": "f485460e05f7c8c7",
   "lastOpenFiles": [
     "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Periodic Table.md",
+    "Vault/Permanent/Conversions.md",
+    "Vault/Permanent/Avogadro's Number.md",
+    "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Ion.md",
     "Other/References/Periodic Table Image.png",
     "Atom.md",
     "Ion.md",
-    "Proton.md",
-    "Excalidraw/Drawing 2022-06-19 17.56.52.excalidraw.md",
-    "Periodic Table Image.png"
+    "Proton.md"
   ]
 }

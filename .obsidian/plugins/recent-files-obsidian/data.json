@@ -5,12 +5,20 @@
       "path": "Vault/Permanent/Mole.md"
     },
     {
-      "basename": "Molecule",
-      "path": "Vault/Permanent/Molecule.md"
-    },
-    {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Conversions",
+      "path": "Vault/Permanent/Conversions.md"
+    },
+    {
+      "basename": "Avogadro's Number",
+      "path": "Vault/Permanent/Avogadro's Number.md"
+    },
+    {
+      "basename": "Molecule",
+      "path": "Vault/Permanent/Molecule.md"
     },
     {
       "basename": "Ion",
@@ -67,10 +75,6 @@
     {
       "basename": "Kelvin vs. Celsius",
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
-    },
-    {
-      "basename": "Conversions",
-      "path": "Vault/Permanent/Conversions.md"
     },
     {
       "basename": "Thursday Jun 16th, 2022",
