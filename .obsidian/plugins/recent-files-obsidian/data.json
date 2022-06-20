@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
       "basename": "Chemical Formula",
       "path": "Vault/Permanent/Chemical Formula.md"
+    },
+    {
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
+    },
+    {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Mole",
@@ -43,10 +47,6 @@
     {
       "basename": "Ionic Compound",
       "path": "Vault/Permanent/Ionic Compound.md"
-    },
-    {
-      "basename": "Periodic Table Image",
-      "path": "Other/References/Periodic Table Image.png"
     },
     {
       "basename": "Molar Mass",

@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - Definition
-	- Chart of [[Element|Elements]]
+	- [[Periodic Table Image.png|Chart]] of [[Element|Elements]]
 	  ![[Periodic Table Image.png]]
 - Notes
 	- Arranged by the number of [[Subatomic Particles]] in their [[Atom|Atoms]] and by their properties. 

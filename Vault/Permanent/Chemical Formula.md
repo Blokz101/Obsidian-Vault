@@ -34,6 +34,35 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		       > - $2moles$ of C
 		       > - $6moles$ of H
 		       > - $1mole$ of O
+		       >   
 		       > Find the molar mass of each element
-		       > - 
+		       > - $C=12.011grams$
+		       > - $H=1.008grams$
+		       > - $O=15.999grams$
+		       >   
+		       > Calculate the mass contribution of each element
+		       > - $2molesC*12.011gramsC=24.022gramsC$
+		       > - $6molesH*1.008gramsH=6.048gramsH$
+		       > - $1moleO*15.999gramsO=15.999gramsO$
+		       >
+		       > Calculate the sum of the mass of the elements
+		       > $24.022gramsC+6.048gramsH+15.999gramsO=49.069grams$
 	- Number of [[Atom|Atoms]]
+		- Same thing for mass but instead just multiply by [[Avogadro's Number]]
+			1. Get a list of the [[Mole|Moles]] of each [[Element]] in the [[Compound]].
+			2. Add all the [[Mole|Moles]].
+			3. Multiply by [[Avogadro's Number]].
+
+				> [!Example]
+				> Using the formula above:
+		       > $$C_2H_5OH$$
+		       > List the moles
+		       > - $2moles$ of C
+		       > - $6moles$ of H
+		       > - $1mole$ of O
+		       >   
+		       > Add the moles 
+		       > $2molesC+6molesH+1moleO=9moles$
+		       > 
+		       > Multiple by $6.02*10^{23}$
+		       > 
