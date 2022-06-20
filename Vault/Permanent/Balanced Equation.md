@@ -17,3 +17,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Products
 		- Written on the right of the $\rightarrow$.
 		- What comes out of the reaction.
+- ## Practice
+	- ![[Balanced Equation 2022-06-20 01.39.01.excalidraw|1000]]
