@@ -4,78 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b2cf26cb7f6165ed",
+        "id": "d9dfa69f9fbbc71e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Ionic Compound.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "2037d5d4569b732c",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Other/References/Periodic Table Image.png"
-          }
-        }
-      },
-      {
-        "id": "24fbb9be53865a76",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Mole.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7ebf6115d89b60ae",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "ab23aea9fa0a8cf5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Ion.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6e4e706e665b7ab7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Conversions.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b761200961c29968",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Molecule.md",
+            "file": "Vault/Permanent/Balanced Equation.md",
             "mode": "preview",
             "source": true
           }
@@ -132,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a7e2304580c6cd8c",
@@ -145,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Other/References/Periodic Table Image.png",
+                "file": "Vault/Permanent/Balanced Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/References/Periodic Table Image.png",
+                "file": "Vault/Permanent/Balanced Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2037d5d4569b732c",
+  "active": "d9dfa69f9fbbc71e",
   "lastOpenFiles": [
+    "Vault/Permanent/Balanced Equation.md",
     "Other/References/Periodic Table Image.png",
+    "Vault/Permanent/Conversions.md",
+    "Vault/Permanent/Ion.md",
     "Vault/Permanent/Ionic Compound.md",
     "Vault/Permanent/Tags.md",
     "Vault/Permanent/Molar Mass.md",
     "Vault/Permanent/Proton.md",
     "Vault/Permanent/Molecule.md",
-    "Vault/Permanent/Conversions.md",
-    "Vault/Permanent/Ion.md",
-    "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Avogadro's Number.md"
+    "Vault/Permanent/Mole.md"
   ]
 }
