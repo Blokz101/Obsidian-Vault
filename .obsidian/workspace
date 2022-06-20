@@ -145,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Other/References/Periodic Table Image.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Other/References/Periodic Table Image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,17 +244,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ebf6115d89b60ae",
+  "active": "2037d5d4569b732c",
   "lastOpenFiles": [
+    "Other/References/Periodic Table Image.png",
+    "Vault/Permanent/Ionic Compound.md",
     "Vault/Permanent/Tags.md",
     "Vault/Permanent/Molar Mass.md",
     "Vault/Permanent/Proton.md",
-    "Other/References/Periodic Table Image.png",
     "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Conversions.md",
     "Vault/Permanent/Ion.md",
     "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Avogadro's Number.md",
-    "Vault/Permanent/Ionic Compound.md"
+    "Vault/Permanent/Avogadro's Number.md"
   ]
 }

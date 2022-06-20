@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
+    },
+    {
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
+    },
+    {
       "basename": "Tags",
       "path": "Vault/Permanent/Tags.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Proton",
       "path": "Vault/Permanent/Proton.md"
-    },
-    {
-      "basename": "Periodic Table Image",
-      "path": "Other/References/Periodic Table Image.png"
     },
     {
       "basename": "Molecule",
@@ -35,10 +39,6 @@
     {
       "basename": "Avogadro's Number",
       "path": "Vault/Permanent/Avogadro's Number.md"
-    },
-    {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
       "basename": "Chemical Formula",

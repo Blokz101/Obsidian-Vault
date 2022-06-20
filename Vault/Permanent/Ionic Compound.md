@@ -16,7 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [[Ionic Compound|Ionic Compounds]] **DO NOT FORM** [[Molecule|Molecules]], they are instead referred to as "Formula Units".
 	- ## Names
 		- To find the name for an [[Ionic Compound]] you need to first predict the ratio in which the [[Atom|Atoms]] in the [[Ionic Compound]] will combine in.
-			1. Determine the charge on each of the [[Ion|Ions]]
+			1. Determine the [[Charge]] on each of the [[Ion|Ions]]
 			2. Predict the ratio in which they will combine
 			3. The names are simply combinations of the individual [[Ion|Ions]]
 		> [!Example]
