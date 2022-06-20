@@ -11,10 +11,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- A balanced equation is an equation that describes a [[Chemical Reaction]]. It follows the [[Law of Conservation]] which states that nothing is lost in the reaction; In other what goes in comes out, just in a different form.
 - ## Parts 
-	- Reactants
+	- [[Reactant]]
 		- Written on the left of the $\rightarrow$.
 		- What goes into the reaction.
-	- Products
+	- [[Product]]
 		- Written on the right of the $\rightarrow$.
 		- What comes out of the reaction.
 - ## Practice
