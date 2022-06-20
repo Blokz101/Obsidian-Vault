@@ -6,9 +6,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
+- ## Definition
 	- Used to convert from one unit of measure to another
-- Process - [Useful Video](https://www.youtube.com/watch?v=AQXGvCmt4oQ)
+- ## Process - [Useful Video](https://www.youtube.com/watch?v=AQXGvCmt4oQ)
 	1. Set up the original unit of measure as a fraction.
 	   > [!Example]
 	   > $100mph$ -> $\frac{100miles}{1hour}$

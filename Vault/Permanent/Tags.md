@@ -25,5 +25,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Reference - For notes, annotations, or other things between sources and permanent notes.
 		- [[Reference Note Template]]
 	- Fleeting - For quickly jotting down notes, may be incomplete and ideas may be scattered. Will be deleted after information is filed into the permanent notes.
+		- [[Fleeting Note Template]]
 - Other
 	- 

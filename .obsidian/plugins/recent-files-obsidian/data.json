@@ -1,40 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Chemical Formula",
-      "path": "Vault/Permanent/Chemical Formula.md"
+      "basename": "Tags",
+      "path": "Vault/Permanent/Tags.md"
     },
     {
-      "basename": "Periodic Table Image",
-      "path": "Other/References/Periodic Table Image.png"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Vault/Permanent/Mole.md"
-    },
-    {
-      "basename": "Ion",
-      "path": "Vault/Permanent/Ion.md"
+      "basename": "Molar Mass",
+      "path": "Vault/Permanent/Molar Mass.md"
     },
     {
       "basename": "Proton",
       "path": "Vault/Permanent/Proton.md"
     },
     {
-      "basename": "Electron",
-      "path": "Vault/Permanent/Electron.md"
-    },
-    {
-      "basename": "Covalent Compound",
-      "path": "Vault/Permanent/Covalent Compound.md"
-    },
-    {
-      "basename": "Avogadro's Number",
-      "path": "Vault/Permanent/Avogadro's Number.md"
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
     },
     {
       "basename": "Molecule",
@@ -45,12 +25,36 @@
       "path": "Vault/Permanent/Conversions.md"
     },
     {
+      "basename": "Ion",
+      "path": "Vault/Permanent/Ion.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Vault/Permanent/Mole.md"
+    },
+    {
+      "basename": "Avogadro's Number",
+      "path": "Vault/Permanent/Avogadro's Number.md"
+    },
+    {
       "basename": "Ionic Compound",
       "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
-      "basename": "Molar Mass",
-      "path": "Vault/Permanent/Molar Mass.md"
+      "basename": "Chemical Formula",
+      "path": "Vault/Permanent/Chemical Formula.md"
+    },
+    {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Vault/Permanent/Electron.md"
+    },
+    {
+      "basename": "Covalent Compound",
+      "path": "Vault/Permanent/Covalent Compound.md"
     },
     {
       "basename": "Periodic Table Entry Screenshot",

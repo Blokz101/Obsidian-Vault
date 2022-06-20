@@ -21,7 +21,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > - $6moles$ of H
 		  > - $1mole$ of O
 	- [[Mass]]
-		- Using the moles that we determined above we can use the [[Molar Mass]] of each [[Element]] to determine the [[Mass]] of one [[Mole]] of a compound.
+		- Using the moles that we determined above we can use the [[Molar Mass]] of each [[Element]] to determine the [[Mass]] of one [[Mole]] of a [[Compound]].
 			1. Get a list of the [[Mole|Moles]] of each [[Element]] in the [[Compound]].
 			2. Find the [[Molar Mass]] of each [[Element]] in the [[Compound]].
 			3. Multiple the number of [[Mole|Moles]] of each [[Element]] with its [[Molar Mass]].
@@ -59,10 +59,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		       > List the moles
 		       > - $2moles$ of C
 		       > - $6moles$ of H
-		       > - $1mole$ of O
+		       > - $1moles$ of O
 		       >   
 		       > Add the moles 
-		       > $2molesC+6molesH+1moleO=9moles$
+		       > $2molesC+6molesH+1molesO=9moles$
 		       > 
-		       > Multiple by $6.02*10^{23}$
-		       > 
+		       > Multiply by $6.02*10^{23}$
+		       > $9moles*6.02*10^{23}atoms=5.418*10^{24}atoms$
