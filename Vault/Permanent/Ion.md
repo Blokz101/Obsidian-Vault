@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - Note
 	- **[[Ion|Ions]] are always charged, never neutral**
-		- Positively charged [[Ion|Ions]] are [[Ion|Cations]] while negatively charged [[Ion|Ions]] are [[Ion|Anions]]. If it is neutral it is an [[Atom]]
+		- Positively [[Charge|charged]] [[Ion|Ions]] are [[Ion|Cations]] while negatively [[|charge|charged]] [[Ion|Ions]] are [[Ion|Anions]]. If it is neutral it is an [[Atom]]
 		- The number of [[Proton|Protons]] in an [[Ion]] is constant, however [[Electron|Electrons]] can be added or removed. Given the [[Element]] and charge you can determine the number of [[Electron|Electrons]] the [[Ion]] has
 		  > [!Example]
 		  > $$Cl_{1-}$$

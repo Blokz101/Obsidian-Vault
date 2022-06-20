@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
+      "basename": "Electron",
+      "path": "Vault/Permanent/Electron.md"
     },
     {
-      "basename": "Avogadro's Number",
-      "path": "Vault/Permanent/Avogadro's Number.md"
+      "basename": "Ion",
+      "path": "Vault/Permanent/Ion.md"
     },
     {
-      "basename": "Mole",
-      "path": "Vault/Permanent/Mole.md"
+      "basename": "Covalent Compound",
+      "path": "Vault/Permanent/Covalent Compound.md"
     },
     {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
     },
     {
-      "basename": "Conversions",
-      "path": "Vault/Permanent/Conversions.md"
+      "basename": "Mole",
+      "path": "Vault/Permanent/Mole.md"
+    },
+    {
+      "basename": "Avogadro's Number",
+      "path": "Vault/Permanent/Avogadro's Number.md"
     },
     {
       "basename": "Molecule",
       "path": "Vault/Permanent/Molecule.md"
     },
     {
-      "basename": "Ion",
-      "path": "Vault/Permanent/Ion.md"
+      "basename": "Conversions",
+      "path": "Vault/Permanent/Conversions.md"
+    },
+    {
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
       "basename": "Periodic Table Image",
@@ -39,10 +47,6 @@
     {
       "basename": "Periodic Table Entry Screenshot",
       "path": "Other/References/Periodic Table Entry Screenshot.png"
-    },
-    {
-      "basename": "Covalent Compound",
-      "path": "Vault/Permanent/Covalent Compound.md"
     },
     {
       "basename": "Non-Metal",
