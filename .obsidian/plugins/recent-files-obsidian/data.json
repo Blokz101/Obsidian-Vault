@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Electron",
-      "path": "Vault/Permanent/Electron.md"
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Chemical Formula",
+      "path": "Vault/Permanent/Chemical Formula.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Vault/Permanent/Mole.md"
     },
     {
       "basename": "Ion",
       "path": "Vault/Permanent/Ion.md"
     },
     {
+      "basename": "Proton",
+      "path": "Vault/Permanent/Proton.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Vault/Permanent/Electron.md"
+    },
+    {
       "basename": "Covalent Compound",
       "path": "Vault/Permanent/Covalent Compound.md"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Vault/Permanent/Mole.md"
     },
     {
       "basename": "Avogadro's Number",

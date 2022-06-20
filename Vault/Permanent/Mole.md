@@ -7,8 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - Definition
-	- Basic counting unit used in all sciences.
-	- The standard unit of measure across all others.
+	- Basic counting unit used in all sciences. The standard unit of measure across all others.
+	- Was created to represent [[Avogadro's Number]] of something. 
+		- One [[Mole]] of an [[Atom]] is [[Avogadro's Number]] of [[Atom|Atoms]]. 
+		- One [[Mole]] of marbles is [[Avogadro's Number]] of marbles.
 - Notes
 	- Useful because we want to keep track of the number of [[Atom|Atoms]] in a reaction not the mass, as grams would measure it. 
 	- Quantifying a [[Mole]]
