@@ -9,7 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ![[Balanced Equation Diagram.png]]
 
 - ## Definition
-	- A balanced equation is an equation that describes a chemical reaction. It follows the [[Law of Conservation]] which states that nothing is lost in the reaction; In other what goes in comes out, just in a different form.
+	- A balanced equation is an equation that describes a [[Chemical Reaction]]. It follows the [[Law of Conservation]] which states that nothing is lost in the reaction; In other what goes in comes out, just in a different form.
 - ## Parts 
 	- Reactants
 		- Written on the left of the $\rightarrow$.

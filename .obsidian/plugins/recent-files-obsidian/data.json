@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chemical Reaction",
+      "path": "Vault/Permanent/Chemical Reaction.md"
+    },
+    {
       "basename": "Balanced Equation",
       "path": "Vault/Permanent/Balanced Equation.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "Wednesday Jun 8th, 2022",
       "path": "Museum/Journal/Wednesday Jun 8th, 2022.md"
-    },
-    {
-      "basename": "Motor characterization project 2022-06-08 16.36.44.excalidraw",
-      "path": "Other/References/Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md"
     }
   ],
   "omittedPaths": [],
