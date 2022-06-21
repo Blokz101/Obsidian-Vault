@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
+      "basename": "Avogadro's Number",
+      "path": "Vault/Permanent/Avogadro's Number.md"
+    },
+    {
       "basename": "Limiting Reactant",
       "path": "Vault/Permanent/Limiting Reactant.md"
     },
@@ -57,16 +65,8 @@
       "path": "Vault/Permanent/Mole.md"
     },
     {
-      "basename": "Avogadro's Number",
-      "path": "Vault/Permanent/Avogadro's Number.md"
-    },
-    {
       "basename": "Chemical Formula",
       "path": "Vault/Permanent/Chemical Formula.md"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Electron",
@@ -195,10 +195,6 @@
     {
       "basename": "Thursday Jun 9th, 2022",
       "path": "Museum/Journal/Thursday Jun 9th, 2022.md"
-    },
-    {
-      "basename": "Wednesday Jun 8th, 2022",
-      "path": "Museum/Journal/Wednesday Jun 8th, 2022.md"
     }
   ],
   "omittedPaths": [],
