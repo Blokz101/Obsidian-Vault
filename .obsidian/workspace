@@ -24,6 +24,18 @@
         }
       },
       {
+        "id": "9754719a05ac18dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Conversions.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "09bd7a4640b88108",
         "type": "leaf",
         "state": {
@@ -112,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Periodic Table.md",
+                "file": "Vault/Permanent/Conversions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Periodic Table.md",
+                "file": "Vault/Permanent/Conversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +223,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09bd7a4640b88108",
+  "active": "9754719a05ac18dc",
   "lastOpenFiles": [
+    "Vault/Permanent/Conversions.md",
     "Vault/Permanent/Periodic Table.md",
     "Vault/Permanent/Avogadro's Number.md",
     "Vault/Permanent/Limiting Reactant.md",
@@ -221,7 +234,6 @@
     "Vault/Permanent/Chemical Reaction.md",
     "Metals.md",
     "Museum/Passion Projects/Motor characterization project.md",
-    "References/Balanced Equation 2022-06-20 01.39.01.excalidraw.md",
-    "Other/References/Periodic Table Image.png"
+    "References/Balanced Equation 2022-06-20 01.39.01.excalidraw.md"
   ]
 }

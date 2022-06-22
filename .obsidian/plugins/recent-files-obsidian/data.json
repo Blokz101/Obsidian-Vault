@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Conversions",
+      "path": "Vault/Permanent/Conversions.md"
+    },
+    {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Periodic Table Image",
       "path": "Other/References/Periodic Table Image.png"
-    },
-    {
-      "basename": "Conversions",
-      "path": "Vault/Permanent/Conversions.md"
     },
     {
       "basename": "Ion",
