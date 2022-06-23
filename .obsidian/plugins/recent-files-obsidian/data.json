@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
+      "basename": "Permanent Note Template",
+      "path": "Other/Templates/Permanent Note Template.md"
+    },
+    {
+      "basename": "Solution",
+      "path": "Vault/Permanent/Solution.md"
+    },
+    {
+      "basename": "Gas",
+      "path": "Vault/Permanent/Gas.md"
     },
     {
       "basename": "Kelvin vs. Celsius",
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
+    },
+    {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Conversion Factor",
@@ -23,10 +35,6 @@
     {
       "basename": "Avogadro's Law",
       "path": "Vault/Permanent/Avogadro's Law.md"
-    },
-    {
-      "basename": "Gas",
-      "path": "Vault/Permanent/Gas.md"
     },
     {
       "basename": "Charles' Law",
@@ -191,14 +199,6 @@
     {
       "basename": "Wednesday Jun 1st, 2022",
       "path": "Museum/Journal/Wednesday Jun 1st, 2022.md"
-    },
-    {
-      "basename": "Fleeting Note Template",
-      "path": "Other/Templates/Fleeting Note Template.md"
-    },
-    {
-      "basename": "Daily Journal Timestamp Template",
-      "path": "Other/Templates/Daily Journal Timestamp Template.md"
     }
   ],
   "omittedPaths": [],
