@@ -4,6 +4,18 @@
     "type": "split",
     "children": [
       {
+        "id": "ae4edd00d25c3d77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Periodic Table.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "ea49f2d82ad0a496",
         "type": "leaf",
         "state": {
@@ -22,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Ideal Gas.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -36,48 +48,36 @@
         }
       },
       {
+        "id": "ea2f157de68eb6c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Conversion Factor.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "31a4e4e2ef1d6dbb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Kelvin vs. Celsius.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "ffecdec0b6824e15",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Gas.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "bcdb1539b881d23b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Avogadro's Law.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3eb6b1f0de77494b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Charles' Law.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "9e5752607221b60e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Boyle's Law.md",
             "mode": "source",
             "source": true
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Ideal Gas Law.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -197,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Ideal Gas Law.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,17 +247,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea49f2d82ad0a496",
+  "active": "ae4edd00d25c3d77",
   "lastOpenFiles": [
-    "Vault/Permanent/Ideal Gas Law.md",
+    "Vault/Permanent/Periodic Table.md",
+    "Vault/Permanent/Kelvin vs. Celsius.md",
+    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Ideal Gas.md",
+    "Vault/Permanent/Ideal Gas Law.md",
     "Vault/Permanent/Avogadro's Law.md",
     "Vault/Permanent/Gas.md",
     "Vault/Permanent/Charles' Law.md",
     "Vault/Permanent/Boyle's Law.md",
-    "Vault/Permanent/Avogadro's Number.md",
-    "Vault/Permanent/Conversions.md",
-    "Vault/Permanent/Periodic Table.md",
-    "Vault/Permanent/Limiting Reactant.md"
+    "Vault/Permanent/Avogadro's Number.md"
   ]
 }
