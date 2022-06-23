@@ -7,4 +7,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A [[Homogeneous]] [[Mixture]]
+	- A [[Homogeneous]] [[Mixture]] composed of a [[Solute]] dissolved in a [[Solvent]].
+	- When water is the [[Solute]] it is called an [[Aqueous Solution]].

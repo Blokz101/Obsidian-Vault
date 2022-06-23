@@ -7,4 +7,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A non [[Pure Substance]] made by mixing other substances together without [[chemical]]
+	- A non [[Pure Substance]] made by mixing other substances without [[Chemical Bond|Chemical Bonding]].

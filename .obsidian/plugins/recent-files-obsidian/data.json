@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Molarity",
+      "path": "Vault/Permanent/Molarity.md"
+    },
+    {
+      "basename": "Conversion Factor",
+      "path": "Vault/Permanent/Conversion Factor.md"
+    },
+    {
+      "basename": "Concentration",
+      "path": "Vault/Permanent/Concentration.md"
+    },
+    {
+      "basename": "Solution",
+      "path": "Vault/Permanent/Solution.md"
+    },
+    {
       "basename": "Mixture",
       "path": "Vault/Permanent/Mixture.md"
     },
     {
       "basename": "Homogeneous",
       "path": "Vault/Permanent/Homogeneous.md"
-    },
-    {
-      "basename": "Solution",
-      "path": "Vault/Permanent/Solution.md"
     },
     {
       "basename": "Permanent Note Template",
@@ -27,10 +39,6 @@
     {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Conversion Factor",
-      "path": "Vault/Permanent/Conversion Factor.md"
     },
     {
       "basename": "Ideal Gas",
@@ -191,14 +199,6 @@
     {
       "basename": "Tuesday Jun 14th, 2022",
       "path": "Museum/Journal/Tuesday Jun 14th, 2022.md"
-    },
-    {
-      "basename": "Wednesday Jun 15th, 2022",
-      "path": "Museum/Journal/Wednesday Jun 15th, 2022.md"
-    },
-    {
-      "basename": "Monday Jun 13th, 2022",
-      "path": "Museum/Journal/Monday Jun 13th, 2022.md"
     }
   ],
   "omittedPaths": [],
