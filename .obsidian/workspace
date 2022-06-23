@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Molarity.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -31,8 +31,12 @@
         "id": "eca2cbd22b18960c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Dilution.md",
+            "mode": "source",
+            "source": true
+          }
         }
       },
       {
@@ -112,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
+                "file": "Vault/Permanent/Dilution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -162,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
+                "file": "Vault/Permanent/Dilution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,17 +214,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6acd1725c7fb7ba0",
+  "active": "eca2cbd22b18960c",
   "lastOpenFiles": [
+    "Vault/Permanent/Dilution.md",
     "Vault/Permanent/Molarity.md",
-    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Concentration.md",
+    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Solution.md",
     "Vault/Permanent/Mixture.md",
     "Vault/Permanent/Chemical Bond.md",
     "Vault/Permanent/Homogeneous.md",
     "Other/Templates/Permanent Note Template.md",
-    "Vault/Permanent/Gas.md",
-    "Vault/Permanent/Kelvin vs. Celsius.md"
+    "Vault/Permanent/Gas.md"
   ]
 }

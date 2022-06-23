@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dilution",
+      "path": "Vault/Permanent/Dilution.md"
+    },
+    {
       "basename": "Molarity",
       "path": "Vault/Permanent/Molarity.md"
     },
     {
-      "basename": "Conversion Factor",
-      "path": "Vault/Permanent/Conversion Factor.md"
-    },
-    {
       "basename": "Concentration",
       "path": "Vault/Permanent/Concentration.md"
+    },
+    {
+      "basename": "Conversion Factor",
+      "path": "Vault/Permanent/Conversion Factor.md"
     },
     {
       "basename": "Solution",
@@ -195,10 +199,6 @@
     {
       "basename": "Sunday Jun 12th, 2022",
       "path": "Museum/Journal/Sunday Jun 12th, 2022.md"
-    },
-    {
-      "basename": "Tuesday Jun 14th, 2022",
-      "path": "Museum/Journal/Tuesday Jun 14th, 2022.md"
     }
   ],
   "omittedPaths": [],
