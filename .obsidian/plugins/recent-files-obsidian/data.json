@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Permanent Note Template",
-      "path": "Other/Templates/Permanent Note Template.md"
+      "basename": "Mixture",
+      "path": "Vault/Permanent/Mixture.md"
+    },
+    {
+      "basename": "Homogeneous",
+      "path": "Vault/Permanent/Homogeneous.md"
     },
     {
       "basename": "Solution",
       "path": "Vault/Permanent/Solution.md"
+    },
+    {
+      "basename": "Permanent Note Template",
+      "path": "Other/Templates/Permanent Note Template.md"
     },
     {
       "basename": "Gas",
@@ -191,14 +199,6 @@
     {
       "basename": "Monday Jun 13th, 2022",
       "path": "Museum/Journal/Monday Jun 13th, 2022.md"
-    },
-    {
-      "basename": "Daily Journal Template",
-      "path": "Other/Templates/Daily Journal Template.md"
-    },
-    {
-      "basename": "Wednesday Jun 1st, 2022",
-      "path": "Museum/Journal/Wednesday Jun 1st, 2022.md"
     }
   ],
   "omittedPaths": [],
