@@ -11,7 +11,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  ![[Periodic Table Image.png]]
 - Notes
 	- Arranged by the number of [[Subatomic Particles]] in their [[Atom|Atoms]] and by their properties. 
-	- 
 - Groups vs Periods
 	- Periods are rows, there are 7 periods.
 	- Groups are columns, there are 18 groups.
