@@ -22,9 +22,17 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Molarity.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
+        }
+      },
+      {
+        "id": "eca2cbd22b18960c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -104,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -153,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +209,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6acd1725c7fb7ba0",
+  "active": "eca2cbd22b18960c",
   "lastOpenFiles": [
     "Vault/Permanent/Molarity.md",
     "Vault/Permanent/Conversion Factor.md",

@@ -19,6 +19,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $10^3mL=1L$
 		- $10^6μL=1L$
 - ## Calculating Molarity
-	- 
+	- When a [[Solution]] is created two standard measurements are taken:
+		- [[Mass]] of [[Solute]]
+		- Total [[Volume]] of [[Solution]]
 - ## Symbol
 	- $M$
