@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Ideal Gas",
+      "path": "Vault/Permanent/Ideal Gas.md"
+    },
+    {
+      "basename": "Ideal Gas Law",
+      "path": "Vault/Permanent/Ideal Gas Law.md"
+    },
+    {
+      "basename": "Avogadro's Law",
+      "path": "Vault/Permanent/Avogadro's Law.md"
+    },
+    {
+      "basename": "Gas",
+      "path": "Vault/Permanent/Gas.md"
+    },
+    {
+      "basename": "Charles' Law",
+      "path": "Vault/Permanent/Charles' Law.md"
+    },
+    {
+      "basename": "Boyle's Law",
+      "path": "Vault/Permanent/Boyle's Law.md"
+    },
+    {
+      "basename": "Avogadro's Number",
+      "path": "Vault/Permanent/Avogadro's Number.md"
+    },
+    {
       "basename": "Conversions",
       "path": "Vault/Permanent/Conversions.md"
     },
     {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Avogadro's Number",
-      "path": "Vault/Permanent/Avogadro's Number.md"
     },
     {
       "basename": "Limiting Reactant",
@@ -175,26 +199,6 @@
     {
       "basename": "Daily Journal Timestamp Template",
       "path": "Other/Templates/Daily Journal Timestamp Template.md"
-    },
-    {
-      "basename": "Friday Jun 3rd, 2022",
-      "path": "Museum/Journal/Friday Jun 3rd, 2022.md"
-    },
-    {
-      "basename": "Saturday Jun 11th, 2022",
-      "path": "Museum/Journal/Saturday Jun 11th, 2022.md"
-    },
-    {
-      "basename": "Friday Jun 10th, 2022",
-      "path": "Museum/Journal/Friday Jun 10th, 2022.md"
-    },
-    {
-      "basename": "Commit Part of a File",
-      "path": "Vault/Permanent/Commit Part of a File.md"
-    },
-    {
-      "basename": "Thursday Jun 9th, 2022",
-      "path": "Museum/Journal/Thursday Jun 9th, 2022.md"
     }
   ],
   "omittedPaths": [],
