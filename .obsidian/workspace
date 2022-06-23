@@ -28,6 +28,14 @@
         }
       },
       {
+        "id": "6f8d19457cf5b412",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
         "id": "ffecdec0b6824e15",
         "type": "leaf",
         "state": {
@@ -140,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Ideal Gas.md",
+                "file": "Vault/Permanent/Ideal Gas Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +171,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8263702950477186,
+                  "scale": 0.4478492727010509,
                   "close": true
                 }
               }
@@ -189,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Ideal Gas.md",
+                "file": "Vault/Permanent/Ideal Gas Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,10 +246,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5925435ca0c5cba3",
+  "active": "ea49f2d82ad0a496",
   "lastOpenFiles": [
-    "Vault/Permanent/Ideal Gas.md",
     "Vault/Permanent/Ideal Gas Law.md",
+    "Vault/Permanent/Ideal Gas.md",
     "Vault/Permanent/Avogadro's Law.md",
     "Vault/Permanent/Gas.md",
     "Vault/Permanent/Charles' Law.md",
