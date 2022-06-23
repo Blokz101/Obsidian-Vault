@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Molar]
 Creation Date: Thu June 23rd 2022 12:15:44 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -10,7 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The number of [[Mole|Moles]] of [[Solute]] present per liter of [[Solution]].
 	  > [!Equation]
 	  > $$M=\frac{mol}{L}$$
-	  > $M$ = [[Molarity]]
+	  > $M$ = [[Molarity]]/[[Molarity|Molar]]
 	  > $mol$ = Number of [[Mole|Moles]]
 	  >  $L$ = Liter
 - ## Notes
