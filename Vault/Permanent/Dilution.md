@@ -15,4 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$m_i=m_f$$
 	  > $$m=MV$$
 	  > $$M_iV_i=M_fV_f$$
+	  > $M$ = [[Molarity]] in $\frac{mol}{L}$
+	  > $m$ = Number of [[Mole|Moles]] of [[Solute]]
+	  >  $V$ = Total [[Volume]] of the [[Solution]] in Liters
+	  >  
 	  > This equation relates the [[Molarity]] and [[Volume]] of the initial [[Solution]] to the same for the final [[Solution]].

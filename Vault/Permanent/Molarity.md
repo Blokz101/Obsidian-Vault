@@ -15,7 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $m$ = Number of [[Mole|Moles]] of [[Solute]]
 	  >  $V$ = Total [[Volume]] of the [[Solution]] in Liters ^fd7278
 - ## Notes
-	- [[Molarity]] is commonly measured in solution [[Volume|Volumes]] or milliliters(mL)/microliters(μL).
+	- Total [[Solution]] [[Volume]] is also commonly measured in milliliters(mL)/microliters(μL).
 	- These are the common [[Conversion Factor|Conversion Factors]] for mL and μL:
 		- $10^3mL=1L$
 		- $10^6μL=1L$

@@ -40,6 +40,26 @@
         }
       },
       {
+        "id": "9765d993389f3481",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Periodic Table.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "05ef8b337f37747b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
         "id": "6bff04b38c4deeaa",
         "type": "leaf",
         "state": {
@@ -116,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Conversion Factor.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +159,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4478492727010509,
+                  "scale": 0.5548380715314385,
                   "close": true
                 }
               }
@@ -165,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Conversion Factor.md",
+                "file": "Vault/Permanent/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +234,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6bff04b38c4deeaa",
+  "active": "9765d993389f3481",
   "lastOpenFiles": [
-    "Vault/Permanent/Conversion Factor.md",
-    "Vault/Permanent/Dilution.md",
+    "Vault/Permanent/Periodic Table.md",
     "Vault/Permanent/Molarity.md",
-    "Vault/Permanent/Concentration.md",
+    "Vault/Permanent/Dilution.md",
     "Vault/Permanent/Solution.md",
+    "Vault/Permanent/Conversion Factor.md",
+    "Vault/Permanent/Concentration.md",
     "Vault/Permanent/Mixture.md",
     "Vault/Permanent/Chemical Bond.md",
     "Vault/Permanent/Homogeneous.md",
-    "Other/Templates/Permanent Note Template.md",
-    "Vault/Permanent/Gas.md"
+    "Other/Templates/Permanent Note Template.md"
   ]
 }

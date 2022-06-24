@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Conversion Factor",
-      "path": "Vault/Permanent/Conversion Factor.md"
-    },
-    {
-      "basename": "Dilution",
-      "path": "Vault/Permanent/Dilution.md"
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Molarity",
       "path": "Vault/Permanent/Molarity.md"
     },
     {
-      "basename": "Concentration",
-      "path": "Vault/Permanent/Concentration.md"
+      "basename": "Dilution",
+      "path": "Vault/Permanent/Dilution.md"
     },
     {
       "basename": "Solution",
       "path": "Vault/Permanent/Solution.md"
+    },
+    {
+      "basename": "Conversion Factor",
+      "path": "Vault/Permanent/Conversion Factor.md"
+    },
+    {
+      "basename": "Concentration",
+      "path": "Vault/Permanent/Concentration.md"
     },
     {
       "basename": "Mixture",
@@ -39,10 +43,6 @@
     {
       "basename": "Kelvin vs. Celsius",
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Ideal Gas",
