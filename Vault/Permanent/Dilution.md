@@ -9,4 +9,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The process of adding [[Solvent]] only to a [[Solution]].
 - ## How to calculate
-	- We know that the amount of [[Solute]] will remain constant and only the amount of [[Solvent]] and [[Molarity]] will change. Using this we can relate the before dilution and after dilution equations together using 
+	- We know that the [[Mole|Moles]] of [[Solute]] will remain constant and only the [[Volume]] of the [[Solution]] and [[Molarity]] will change. We can eliminate [[Mole|Moles]] of [[Solute]] from the equation by substitution and relate the final and initial [[Solution|Solutions]] to each other.
+	  
+	  > [!Steps]
+	  > $$m_i=m_f$$
+	  > $$m=MV$$
+	  > $$M_iV_i=M_fV_f$$
+	  > This equation relates the [[Molarity]] and [[Volume]] of the initial [[Solution]] to the same for the final [[Solution]].

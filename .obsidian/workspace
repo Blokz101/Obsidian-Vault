@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Molarity.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -34,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Dilution.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Dilution.md",
+                "file": "Vault/Permanent/Conversion Factor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Dilution.md",
+                "file": "Vault/Permanent/Conversion Factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +214,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eca2cbd22b18960c",
+  "active": "6bff04b38c4deeaa",
   "lastOpenFiles": [
+    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Dilution.md",
     "Vault/Permanent/Molarity.md",
     "Vault/Permanent/Concentration.md",
-    "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Solution.md",
     "Vault/Permanent/Mixture.md",
     "Vault/Permanent/Chemical Bond.md",

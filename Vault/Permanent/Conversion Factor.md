@@ -6,16 +6,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent
 
-- Metric [[Conversion Factor]]
+- Metric [[Conversion Factor]], using $x$ in place of a standard unit (Ex. L, g, etc)
 
 	| Prefix | Symbol | Conversion #1       | Conversion #2        |
 	| ------ | ------ | ------------------- | -------------------- |
-	| Mega   | M      | $\large{\frac{1Mg}{10^6g}}$ | $\large{\frac{1g}{10^-6Mg}}$ |
-	| Kilo   | k      | $\large{\frac{1kg}{10^3g}}$ | $\large{\frac{1g}{10^-3kg}}$ |
-	| NA     | g      | $\large{\frac{1g}{1g}}$     | $\large{\frac{1g}{1g}}$      | 
-	| Milli  | m      | $\large{\frac{1mg}{10^-3g}}$     | $\large{\frac{1g}{10^3mg}}$       |
-	| Micro  | μ      | $\large{\frac{1μg}{10^-6g}}$     | $\large{\frac{1g}{10^6μg}}$      |
-	| Nano   | n      | $\large{\frac{1ng}{10^-9g}}$    | $\large{\frac{1g}{10^9ng}}$      |
+	| Mega   | $Mx$      | $\large{\frac{1Mx}{10^6x}}$ | $\large{\frac{1x}{10^-6Mx}}$ |
+	| Kilo   | $kx$      | $\large{\frac{1kx}{10^3x}}$ | $\large{\frac{1x}{10^-3kx}}$ |
+	| NA     | $1x$     | $\large{\frac{1x}{1x}}$     | $\large{\frac{1x}{1x}}$      | 
+	| Milli  | $mx$      | $\large{\frac{1mx}{10^-3x}}$     | $\large{\frac{1x}{10^3mx}}$       |
+	| Micro  | $μx$      | $\large{\frac{1μx}{10^-6x}}$     | $\large{\frac{1x}{10^6μx}}$      |
+	| Nano   | $nx$      | $\large{\frac{1nx}{10^-9x}}$    | $\large{\frac{1x}{10^9nx}}$      |
 - Temperature [[Conversion Factor]]
 	- [[Kelvin vs. Fahrenheit]]
 	- [[Fahrenheit vs. Celsius]]
