@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Process",
+      "path": "Vault/Permanent/Process.md"
+    },
+    {
+      "basename": "Energy",
+      "path": "Vault/Permanent/Energy.md"
+    },
+    {
+      "basename": "Exothermic Process",
+      "path": "Vault/Permanent/Exothermic Process.md"
+    },
+    {
+      "basename": "Endothermic Process",
+      "path": "Vault/Permanent/Endothermic Process.md"
+    },
+    {
+      "basename": "Dilution",
+      "path": "Vault/Permanent/Dilution.md"
+    },
+    {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Molarity",
       "path": "Vault/Permanent/Molarity.md"
-    },
-    {
-      "basename": "Dilution",
-      "path": "Vault/Permanent/Dilution.md"
     },
     {
       "basename": "Solution",
@@ -183,22 +199,6 @@
     {
       "basename": "Mini Robot Cim Characterization Experiment 2",
       "path": "Other/References/Mini Robot Cim Characterization Experiment 2.md"
-    },
-    {
-      "basename": "Passion Project Template",
-      "path": "Other/Templates/Passion Project Template.md"
-    },
-    {
-      "basename": "Oma's knife sheath project",
-      "path": "Museum/Passion Projects/Oma's knife sheath project.md"
-    },
-    {
-      "basename": "Mami's bench expansion project",
-      "path": "Museum/Passion Projects/Mami's bench expansion project.md"
-    },
-    {
-      "basename": "Sunday Jun 12th, 2022",
-      "path": "Museum/Journal/Sunday Jun 12th, 2022.md"
     }
   ],
   "omittedPaths": [],
