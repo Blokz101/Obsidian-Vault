@@ -9,3 +9,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- A [[Process]] in which the initial state of [[Energy]] is higher then the final.
 			- [[Energy]] is released for the [[Process]].
+	- The opposite of an [[Endothermic Process]].

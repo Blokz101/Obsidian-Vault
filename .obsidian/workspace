@@ -108,6 +108,30 @@
         }
       },
       {
+        "id": "91a63d231e244b2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Endothermic Process.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ba918570b34d47e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Exothermic Process.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "6bff04b38c4deeaa",
         "type": "leaf",
         "state": {
@@ -184,6 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Permanent/Endothermic Process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,6 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Permanent/Endothermic Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,16 +307,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05ef8b337f37747b",
+  "active": "91a63d231e244b2f",
   "lastOpenFiles": [
+    "Vault/Permanent/Endothermic Process.md",
+    "Vault/Permanent/Exothermic Process.md",
     "Vault/Permanent/Physical Process.md",
     "Vault/Permanent/Specific Heat Capacity.md",
     "Vault/Permanent/Heating and Cooling.md",
     "Vault/Permanent/Conversion Factor.md",
     "Vault/Permanent/Process.md",
     "Vault/Permanent/Energy.md",
-    "Vault/Permanent/Exothermic Process.md",
-    "Vault/Permanent/Endothermic Process.md",
     "Vault/Permanent/Dilution.md",
     "Vault/Permanent/Periodic Table.md"
   ]
