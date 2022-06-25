@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Molarity",
+      "path": "Vault/Permanent/Molarity.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Vault/Permanent/Mole.md"
+    },
+    {
+      "basename": "Concentration",
+      "path": "Vault/Permanent/Concentration.md"
+    },
+    {
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
+    },
+    {
       "basename": "Dilution",
       "path": "Vault/Permanent/Dilution.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Gas",
       "path": "Vault/Permanent/Gas.md"
-    },
-    {
-      "basename": "Periodic Table Image",
-      "path": "Other/References/Periodic Table Image.png"
     },
     {
       "basename": "Heating and Cooling",
@@ -39,10 +51,6 @@
     {
       "basename": "pH",
       "path": "Vault/Permanent/pH.md"
-    },
-    {
-      "basename": "Molarity",
-      "path": "Vault/Permanent/Molarity.md"
     },
     {
       "basename": "Logarithm",
@@ -79,10 +87,6 @@
     {
       "basename": "Solution",
       "path": "Vault/Permanent/Solution.md"
-    },
-    {
-      "basename": "Concentration",
-      "path": "Vault/Permanent/Concentration.md"
     },
     {
       "basename": "Mixture",
@@ -155,10 +159,6 @@
     {
       "basename": "Proton",
       "path": "Vault/Permanent/Proton.md"
-    },
-    {
-      "basename": "Mole",
-      "path": "Vault/Permanent/Mole.md"
     },
     {
       "basename": "Chemical Formula",
