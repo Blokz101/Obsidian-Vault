@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "pH",
+      "path": "Vault/Permanent/pH.md"
+    },
+    {
       "basename": "Logarithm",
       "path": "Vault/Permanent/Logarithm.md"
+    },
+    {
+      "basename": "Molecule",
+      "path": "Vault/Permanent/Molecule.md"
     },
     {
       "basename": "Conversion Factor",
@@ -149,10 +157,6 @@
       "path": "Vault/Permanent/Proton.md"
     },
     {
-      "basename": "Molecule",
-      "path": "Vault/Permanent/Molecule.md"
-    },
-    {
       "basename": "Mole",
       "path": "Vault/Permanent/Mole.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fahrenheit vs. Celsius",
       "path": "Vault/Permanent/Fahrenheit vs. Celsius.md"
-    },
-    {
-      "basename": "Thursday Jun 16th, 2022",
-      "path": "Museum/Journal/Thursday Jun 16th, 2022.md"
     }
   ],
   "omittedPaths": [],

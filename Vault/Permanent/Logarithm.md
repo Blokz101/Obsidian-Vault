@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [log]
 Creation Date: Sat June 25th 2022 02:12:16 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -12,6 +12,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $$\large{log_b(a)=c \leftarrow\rightarrow b^c=a}$$
 - ## Rules
 	- > [!Product Rule]
-	  >$log(xy)=log(x)+log(y)$
+	  >$$log(xy)=log(x)+log(y)$$
 	
 	
