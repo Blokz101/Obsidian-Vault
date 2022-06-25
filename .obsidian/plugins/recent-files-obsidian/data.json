@@ -5,6 +5,10 @@
       "path": "Vault/Permanent/pH.md"
     },
     {
+      "basename": "Molarity",
+      "path": "Vault/Permanent/Molarity.md"
+    },
+    {
       "basename": "Logarithm",
       "path": "Vault/Permanent/Logarithm.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Periodic Table",
       "path": "Vault/Permanent/Periodic Table.md"
-    },
-    {
-      "basename": "Molarity",
-      "path": "Vault/Permanent/Molarity.md"
     },
     {
       "basename": "Solution",

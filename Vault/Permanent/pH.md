@@ -11,3 +11,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The negative [[Logarithm|log]] of the [[Molarity|Molar]] concentration of the hydrogen [[Ion]].
 	  > [!Equation]
 	  > $$pH=-log(H^+)$$
+	  > $pH$ = The pH of the [[Solution]]
+	  > $H^+$ = The [[Molarity]] of hydrogen [[Ion|Ions]] in $\frac{mol}{L}$
