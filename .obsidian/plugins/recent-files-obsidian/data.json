@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Logarithm",
+      "path": "Vault/Permanent/Logarithm.md"
+    },
+    {
+      "basename": "Conversion Factor",
+      "path": "Vault/Permanent/Conversion Factor.md"
+    },
+    {
       "basename": "Exothermic Process",
       "path": "Vault/Permanent/Exothermic Process.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Heating and Cooling",
       "path": "Vault/Permanent/Heating and Cooling.md"
-    },
-    {
-      "basename": "Conversion Factor",
-      "path": "Vault/Permanent/Conversion Factor.md"
     },
     {
       "basename": "Process",
@@ -195,10 +199,6 @@
     {
       "basename": "Thursday Jun 16th, 2022",
       "path": "Museum/Journal/Thursday Jun 16th, 2022.md"
-    },
-    {
-      "basename": "Project List",
-      "path": "Museum/Passion Projects/Project List.md"
     }
   ],
   "omittedPaths": [],
