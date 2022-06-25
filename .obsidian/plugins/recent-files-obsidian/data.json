@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Dilution",
+      "path": "Vault/Permanent/Dilution.md"
+    },
+    {
+      "basename": "Ideal Gas Law",
+      "path": "Vault/Permanent/Ideal Gas Law.md"
+    },
+    {
+      "basename": "Gas",
+      "path": "Vault/Permanent/Gas.md"
+    },
+    {
+      "basename": "Periodic Table Image",
+      "path": "Other/References/Periodic Table Image.png"
+    },
+    {
+      "basename": "Heating and Cooling",
+      "path": "Vault/Permanent/Heating and Cooling.md"
+    },
+    {
+      "basename": "Energy",
+      "path": "Vault/Permanent/Energy.md"
+    },
+    {
+      "basename": "Boyle's Law",
+      "path": "Vault/Permanent/Boyle's Law.md"
+    },
+    {
+      "basename": "Ionic Compound",
+      "path": "Vault/Permanent/Ionic Compound.md"
+    },
+    {
+      "basename": "Periodic Table",
+      "path": "Vault/Permanent/Periodic Table.md"
+    },
+    {
       "basename": "pH",
       "path": "Vault/Permanent/pH.md"
     },
@@ -37,24 +73,8 @@
       "path": "Vault/Permanent/Specific Heat Capacity.md"
     },
     {
-      "basename": "Heating and Cooling",
-      "path": "Vault/Permanent/Heating and Cooling.md"
-    },
-    {
       "basename": "Process",
       "path": "Vault/Permanent/Process.md"
-    },
-    {
-      "basename": "Energy",
-      "path": "Vault/Permanent/Energy.md"
-    },
-    {
-      "basename": "Dilution",
-      "path": "Vault/Permanent/Dilution.md"
-    },
-    {
-      "basename": "Periodic Table",
-      "path": "Vault/Permanent/Periodic Table.md"
     },
     {
       "basename": "Solution",
@@ -77,10 +97,6 @@
       "path": "Other/Templates/Permanent Note Template.md"
     },
     {
-      "basename": "Gas",
-      "path": "Vault/Permanent/Gas.md"
-    },
-    {
       "basename": "Kelvin vs. Celsius",
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
     },
@@ -89,20 +105,12 @@
       "path": "Vault/Permanent/Ideal Gas.md"
     },
     {
-      "basename": "Ideal Gas Law",
-      "path": "Vault/Permanent/Ideal Gas Law.md"
-    },
-    {
       "basename": "Avogadro's Law",
       "path": "Vault/Permanent/Avogadro's Law.md"
     },
     {
       "basename": "Charles' Law",
       "path": "Vault/Permanent/Charles' Law.md"
-    },
-    {
-      "basename": "Boyle's Law",
-      "path": "Vault/Permanent/Boyle's Law.md"
     },
     {
       "basename": "Avogadro's Number",
@@ -133,16 +141,8 @@
       "path": "References/Balanced Equation 2022-06-20 01.39.01.excalidraw.md"
     },
     {
-      "basename": "Periodic Table Image",
-      "path": "Other/References/Periodic Table Image.png"
-    },
-    {
       "basename": "Ion",
       "path": "Vault/Permanent/Ion.md"
-    },
-    {
-      "basename": "Ionic Compound",
-      "path": "Vault/Permanent/Ionic Compound.md"
     },
     {
       "basename": "Tags",
