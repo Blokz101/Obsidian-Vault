@@ -4,29 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8d31fce7057578f1",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Other/References/Periodic Table Image.png"
-          }
-        }
-      },
-      {
-        "id": "85e90fa089ed863a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Ideal Gas Law.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "92c1a390df55b66c",
+        "id": "71a7abf8f666832e",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -34,49 +12,13 @@
         }
       },
       {
-        "id": "e397e04c67a6791f",
+        "id": "7706ecb921804293",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Molarity.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3d015828f3ce69fc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Mole.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "49f1c505f201ce67",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Dilution.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "ad945767b2ad7e18",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Molarity.md",
-            "mode": "preview",
+            "file": "Museum/Passion Projects/Motor characterization project.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -133,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a7e2304580c6cd8c",
@@ -146,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
+                "file": "Museum/Passion Projects/Motor characterization project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Molarity.md",
+                "file": "Museum/Passion Projects/Motor characterization project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,17 +187,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e397e04c67a6791f",
+  "active": "7706ecb921804293",
   "lastOpenFiles": [
+    "Museum/Passion Projects/Motor characterization project.md",
+    "[Voltage.md",
+    "Force.md",
+    "Other/Templates/Fleeting Note Template.md",
+    "Vault/Permanent/Density.md",
     "Vault/Permanent/Molarity.md",
+    "Vault/Permanent/Dilution.md",
     "Vault/Permanent/Mole.md",
     "Vault/Permanent/Concentration.md",
-    "Other/References/Periodic Table Image.png",
-    "Vault/Permanent/Dilution.md",
-    "Vault/Permanent/Ideal Gas Law.md",
-    "Vault/Permanent/Gas.md",
-    "Vault/Permanent/Heating and Cooling.md",
-    "Vault/Permanent/Energy.md",
-    "Vault/Permanent/Boyle's Law.md"
+    "Other/References/Periodic Table Image.png"
   ]
 }

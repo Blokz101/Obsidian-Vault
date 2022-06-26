@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Motor characterization project",
+      "path": "Museum/Passion Projects/Motor characterization project.md"
+    },
+    {
+      "basename": "Density",
+      "path": "Vault/Permanent/Density.md"
+    },
+    {
       "basename": "Molarity",
       "path": "Vault/Permanent/Molarity.md"
+    },
+    {
+      "basename": "Dilution",
+      "path": "Vault/Permanent/Dilution.md"
     },
     {
       "basename": "Mole",
@@ -15,10 +27,6 @@
     {
       "basename": "Periodic Table Image",
       "path": "Other/References/Periodic Table Image.png"
-    },
-    {
-      "basename": "Dilution",
-      "path": "Vault/Permanent/Dilution.md"
     },
     {
       "basename": "Ideal Gas Law",
@@ -137,10 +145,6 @@
       "path": "Vault/Permanent/Chemical Reaction.md"
     },
     {
-      "basename": "Motor characterization project",
-      "path": "Museum/Passion Projects/Motor characterization project.md"
-    },
-    {
       "basename": "Balanced Equation 2022-06-20 01.39.01.excalidraw",
       "path": "References/Balanced Equation 2022-06-20 01.39.01.excalidraw.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Element",
       "path": "Vault/Permanent/Element.md"
-    },
-    {
-      "basename": "Kelvin vs. Fahrenheit",
-      "path": "Vault/Permanent/Kelvin vs. Fahrenheit.md"
-    },
-    {
-      "basename": "Fahrenheit vs. Celsius",
-      "path": "Vault/Permanent/Fahrenheit vs. Celsius.md"
     }
   ],
   "omittedPaths": [],
