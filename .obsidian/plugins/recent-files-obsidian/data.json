@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Clean the shop",
+      "path": "Museum/Passion Projects/Clean the shop.md"
+    },
+    {
+      "basename": "Project List",
+      "path": "Museum/Passion Projects/Project List.md"
+    },
+    {
       "basename": "Motor characterization project",
       "path": "Museum/Passion Projects/Motor characterization project.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Metal",
       "path": "Vault/Permanent/Metal.md"
-    },
-    {
-      "basename": "Element",
-      "path": "Vault/Permanent/Element.md"
     }
   ],
   "omittedPaths": [],

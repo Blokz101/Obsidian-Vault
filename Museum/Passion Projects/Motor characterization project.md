@@ -94,7 +94,7 @@ Im going to do the test with a 3lb weight.
 Just finished the math above, going to test it now.
 
 **June 8th 2022 - 05:55:29 pm** 
-I have the experiment set up, but for some reason the motor is not working anymore. I dropped the battery on the ground earlier but it looked ok. Ive checked connectivity though all the cables with the [[Multimeter]] and they all work, I also get 12v output from the battery. The weird thing is that when I measure [[[Voltage]] from the battery to the motor, it registers as 12v until I hook up the motor; Then it drops to something like 0.3 millivolts. I think the issue is with the motor... This is a rather annoying delay however.
+I have the experiment set up, but for some reason the motor is not working anymore. I dropped the battery on the ground earlier but it looked ok. Ive checked connectivity though all the cables with the [[Multimeter]] and they all work, I also get 12v output from the battery. The weird thing is that when I measure [[Voltage]] from the battery to the motor, it registers as 12v until I hook up the motor; Then it drops to something like 0.3 millivolts. I think the issue is with the motor... This is a rather annoying delay however.
 
 **June 8th 2022 - 06:02:45 pm** 
 I yanked the power wire out of the terminal on the battery, I guess it was just coincidence that it disconnected only when I pulled it to plug it into the motor. It should not be too much trouble to solder it back on.
