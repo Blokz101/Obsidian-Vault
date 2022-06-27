@@ -8,10 +8,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 ## Goals
 - [ ] Clean the main area of the shop.
-	- [ ] Remove all extra objects.
-		- [ ] 
-	- [ ] Build tables.
+	- [x] Remove all extra objects.
+		- [x] Take trash to the dump
+		- [x] Take random items upstairs
 	- [ ] Organize tools and leftover materials.
+		- [ ] Create plan
+		- [ ] Organize tools and materials
+		- [ ] Build tables
+			- [ ] Design tables
+			- [ ] Build tables
 
 ## Progress
 **June 27th 2022 - 12:07:00 pm** 
