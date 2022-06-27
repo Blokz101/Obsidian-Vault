@@ -13,3 +13,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [ ] Organize tools and leftover materials.
 
 ## Progress
+**June 27th 2022 - 12:07:00 pm** 
+Just got the trailer attached, going to begin making dump runs
+

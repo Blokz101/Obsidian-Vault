@@ -5,6 +5,10 @@
       "path": "Museum/Passion Projects/Clean the shop.md"
     },
     {
+      "basename": "Monday Jun 27th, 2022",
+      "path": "Museum/Journal/Monday Jun 27th, 2022.md"
+    },
+    {
       "basename": "Project List",
       "path": "Museum/Passion Projects/Project List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Compound",
       "path": "Vault/Permanent/Compound.md"
-    },
-    {
-      "basename": "Metal",
-      "path": "Vault/Permanent/Metal.md"
     }
   ],
   "omittedPaths": [],

@@ -10,6 +10,30 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "d81b79a67cc51fb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Museum/Journal/Monday Jun 27th, 2022.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a637be51ee3bb114",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Museum/Passion Projects/Clean the shop.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,6 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Museum/Passion Projects/Clean the shop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Museum/Passion Projects/Clean the shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +199,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e5331749b273954",
+  "active": "a637be51ee3bb114",
   "lastOpenFiles": [
     "Museum/Passion Projects/Clean the shop.md",
+    "Museum/Journal/Monday Jun 27th, 2022.md",
     "Museum/Passion Projects/Project List.md",
     "Museum/Passion Projects/Motor characterization project.md",
     "[Voltage.md",
@@ -183,7 +210,6 @@
     "Other/Templates/Fleeting Note Template.md",
     "Vault/Permanent/Density.md",
     "Vault/Permanent/Molarity.md",
-    "Vault/Permanent/Dilution.md",
-    "Vault/Permanent/Mole.md"
+    "Vault/Permanent/Dilution.md"
   ]
 }
