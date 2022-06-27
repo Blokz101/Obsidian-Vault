@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71a7abf8f666832e",
+        "id": "5e5331749b273954",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "0d8150c2699443cb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Museum/Passion Projects/Clean the shop.md",
-            "mode": "preview",
-            "source": true
-          }
         }
       }
     ],
@@ -88,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Museum/Passion Projects/Clean the shop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Museum/Passion Projects/Clean the shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +173,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d8150c2699443cb",
+  "active": "5e5331749b273954",
   "lastOpenFiles": [
     "Museum/Passion Projects/Clean the shop.md",
     "Museum/Passion Projects/Project List.md",

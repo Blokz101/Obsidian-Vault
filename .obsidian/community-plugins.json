@@ -1,12 +1,6 @@
 [
-  "obsidian-git",
-  "better-word-count",
-  "recent-files-obsidian",
-  "obsidian-outliner",
-  "calendar",
-  "sliding-panes-obsidian",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
-  "maximise-active-pane-obsidian"
+  "sliding-panes-obsidian",
+  "recent-files-obsidian",
+  "obsidian-outliner"
 ]
