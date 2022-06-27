@@ -9,6 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ## Goals
 - [ ] Clean the main area of the shop.
 	- [ ] Remove all extra objects.
+		- [ ] 
 	- [ ] Build tables.
 	- [ ] Organize tools and leftover materials.
 
@@ -16,3 +17,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 **June 27th 2022 - 12:07:00 pm** 
 Just got the trailer attached, going to begin making dump runs
 
+**June 27th 2022 - 04:17:06 pm** 
+Made the first dump run, took random items upstairs, took video inventory of tools.
