@@ -12,3 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- They would then have the full [[Volume]] of the container that they are in to [[Pressure|Pressurize]].
 		- The [[Gas]] moves randomly.
 		- All collisions between two [[Molecule|Molecules]] or between a [[Molecule]] and the container wall are [[Elastic Collision|Fully Elastic]].
+		- ![[Ideal Gas 2022-07-01 22.29.57.excalidraw]]

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Element",
+      "path": "Vault/Permanent/Element.md"
+    },
+    {
+      "basename": "Element 2022-07-01 22.31.59.excalidraw",
+      "path": "References/Element 2022-07-01 22.31.59.excalidraw.md"
+    },
+    {
+      "basename": "Ideal Gas",
+      "path": "Vault/Permanent/Ideal Gas.md"
+    },
+    {
       "basename": "Clean the shop",
       "path": "Museum/Passion Projects/Clean the shop.md"
     },
@@ -125,10 +137,6 @@
       "path": "Vault/Permanent/Kelvin vs. Celsius.md"
     },
     {
-      "basename": "Ideal Gas",
-      "path": "Vault/Permanent/Ideal Gas.md"
-    },
-    {
       "basename": "Avogadro's Law",
       "path": "Vault/Permanent/Avogadro's Law.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Periodic Table Entry Screenshot",
       "path": "Other/References/Periodic Table Entry Screenshot.png"
-    },
-    {
-      "basename": "Non-Metal",
-      "path": "Vault/Permanent/Non-Metal.md"
-    },
-    {
-      "basename": "Compound",
-      "path": "Vault/Permanent/Compound.md"
     }
   ],
   "omittedPaths": [],
