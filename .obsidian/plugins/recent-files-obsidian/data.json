@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Molecule",
+      "path": "Vault/Permanent/Molecule.md"
+    },
+    {
       "basename": "Element",
       "path": "Vault/Permanent/Element.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Logarithm",
       "path": "Vault/Permanent/Logarithm.md"
-    },
-    {
-      "basename": "Molecule",
-      "path": "Vault/Permanent/Molecule.md"
     },
     {
       "basename": "Conversion Factor",

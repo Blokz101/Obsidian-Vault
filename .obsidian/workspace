@@ -7,8 +7,12 @@
         "id": "5e5331749b273954",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Molecule.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
