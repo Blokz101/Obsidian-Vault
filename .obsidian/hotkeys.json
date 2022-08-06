@@ -40,14 +40,7 @@
       "key": "T"
     }
   ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [],
   "editor:delete-paragraph": [],
   "obsidian-excalidraw-plugin:fullscreen": [
     {
@@ -107,5 +100,14 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": []
 }
