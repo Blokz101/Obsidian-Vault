@@ -1,9 +1,10 @@
 [
-  "templater-obsidian",
-  "recent-files-obsidian",
-  "obsidian-outliner",
   "obsidian-git",
-  "maximise-active-pane-obsidian",
   "obsidian-excalidraw-plugin",
-  "sliding-panes-obsidian"
+  "table-editor-obsidian",
+  "better-word-count",
+  "dataview",
+  "maximise-active-pane-obsidian",
+  "obsidian-outliner",
+  "templater-obsidian"
 ]
