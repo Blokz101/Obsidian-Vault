@@ -18,3 +18,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Example]
 	  > Integers = {..., -2, -1, 0, 1, 2, ...}
 	  > Days of the week = {Monday, Tuesday, Wednesday, ..., Sunday}
+	- Statements about a variable in the [[Set]] can be written as `{x|statement}` or `{x : statement}` where x is the list of variables in the [[Set]].
+	  > [!Example]
+	  > `{Monday, Tuesday, ..., Sunday | Begins with T}` is the same as `{Tuesday, Thursday}`
+	  > 
+	  > `{x | `$x^3-2x-3x=0$`}` is the same as the roots of $x^3-2x-3x=0$ or `{-1, 0, 3}`
