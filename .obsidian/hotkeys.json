@@ -109,5 +109,13 @@
       "key": "D"
     }
   ],
-  "obsidian-excalidraw-plugin:insert-link-to-element": []
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "templater-obsidian:Other/Templates/Permanent Note Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }

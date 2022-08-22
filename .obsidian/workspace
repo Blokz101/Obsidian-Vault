@@ -7,8 +7,12 @@
         "id": "3f543a4b19c28357",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Untitled.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -68,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Permanent/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Permanent/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Permanent/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,15 +173,15 @@
   },
   "active": "3f543a4b19c28357",
   "lastOpenFiles": [
+    "Vault/Permanent/Untitled 1.md",
+    "Vault/Permanent/Untitled.md",
+    "Vault/Permanent/Element.md",
+    "Set.md",
+    "Vault/Permanent/Ionic Compound.md",
+    "Vault/Permanent/Ion.md",
     "Museum/Journal/Saturday Aug 6th, 2022.md",
     "Excalidraw/Drawing 2022-08-06 10.36.19.excalidraw.md",
     "Vault/Permanent/Molecule.md",
-    "Vault/Permanent/Compound.md",
-    "Vault/Permanent/Chemical Reaction.md",
-    "Vault/Permanent/Atom.md",
-    "Vault/Permanent/Endothermic Process.md",
-    "Vault/Permanent/Electron.md",
-    "Vault/Permanent/Conversion Factor.md",
-    "Vault/Permanent/pH.md"
+    "Vault/Permanent/Compound.md"
   ]
 }

@@ -6,8 +6,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
+- ## Definition
 	- The smallest unit of an [[Element]] is an [[Atom]]
 	- Some [[Element|Elements]] exist naturally as a [[Compound]] of two [[Atom|Atoms]] of the same [[Element]]
-- Notes
+- ## Notes
 	- **[[Element|Elements]] are always neutral**
+
+# <%+ tp.file.title %>
+#Permanent [[Calculus]]
+
+- ## Definition
+	- An item in a [[Set]].
