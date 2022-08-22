@@ -7,7 +7,7 @@
         "id": "3f543a4b19c28357",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -164,34 +164,7 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "5d61fea4871c6fe1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f59b913ab899c936",
-        "type": "window",
-        "children": [
-          {
-            "id": "e443aa0633a6be93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 909,
-        "y": 426,
-        "width": 1324,
-        "height": 1024,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e443aa0633a6be93",
+  "active": "3f543a4b19c28357",
   "lastOpenFiles": [
     "Museum/Journal/Saturday Aug 6th, 2022.md",
     "Excalidraw/Drawing 2022-08-06 10.36.19.excalidraw.md",
