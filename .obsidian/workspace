@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3f543a4b19c28357",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "In.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "b7bfe00c55d3f8d1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Vault/Permanent/Upper and Lower Bound.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "702610bb416e6a18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Greatest Lower Bound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e34c6f04b530564a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Least Upper Bound.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -61,6 +73,26 @@
             "mode": "preview",
             "source": true
           }
+        }
+      },
+      {
+        "id": "6544f4c3c47ac802",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Function.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "50d879cdd67e29be",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -120,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Upper and Lower Bound.md",
+                "file": "Vault/Permanent/Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Upper and Lower Bound.md",
+                "file": "Vault/Permanent/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Permanent/Upper and Lower Bound.md",
+                "file": "Vault/Permanent/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,24 +244,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b7bfe00c55d3f8d1",
+  "active": "6544f4c3c47ac802",
   "lastOpenFiles": [
-    "In.md",
+    "Vault/Permanent/Function.md",
+    "Vault/Permanent/Subset.md",
+    "Vault/Permanent/Least Upper Bound.md",
+    "Vault/Permanent/Greatest Lower Bound.md",
     "Vault/Permanent/Upper and Lower Bound.md",
+    "In.md",
     "Real Number.md",
     "Vault/Permanent/Intersection.md",
     "Vault/Permanent/Union.md",
-    "Vault/Permanent/Subset.md",
-    "Set.md",
-    "Vault/Permanent/Molecule.md",
-    "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Avogadro's Number.md"
+    "Set.md"
   ]
 }

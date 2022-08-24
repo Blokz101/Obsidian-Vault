@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [⊆, C over a line]
 Creation Date: Wed August 24th 2022 10:38:22 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
