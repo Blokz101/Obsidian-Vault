@@ -16,3 +16,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Memory Aid]
 	  > [[Union]] $\cup$ opens up, it is all inclusive
 	  > [[Intersection]] $\cap$  opens down, it is very exclusive
+	- ## Reference

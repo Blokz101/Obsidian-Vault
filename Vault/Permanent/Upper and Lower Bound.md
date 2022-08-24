@@ -11,3 +11,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Example]
 	  > {0, 1, 2, 3, 4, ...} has a [[Upper and Lower Bound|Lower Bound]] of {..., -4, -3, -2, -1, 0}
 	  > {-1, 0, 1} has an [[Upper and Lower Bound|Upper Bound]] of {1, 2, 3, 4, ...} and a [[Upper and Lower Bound|Lower Bound]] of {..., -4, -3, -2, -1}.
+- ## Reference
+	- [[Greatest Lower Bound]] is a type of [[Upper and Lower Bound|Bound]].
+	- [[Least Upper Bound]] is a type of [[Upper and Lower Bound|Bound]].

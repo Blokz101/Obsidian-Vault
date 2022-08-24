@@ -18,3 +18,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Notated with $\subseteq$
 	  > [!Example]
 	  > S is a [[Subset]] of T $\rightarrow$ S $\subseteq$ T
+- ## Reference

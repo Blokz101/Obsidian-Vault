@@ -4,78 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b7bfe00c55d3f8d1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Upper and Lower Bound.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "702610bb416e6a18",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Greatest Lower Bound.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e34c6f04b530564a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Least Upper Bound.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3948b08ed7491432",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Real Number.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "fd05b4bb0967ddf8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Union.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7ebc8afb367d5859",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Subset.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "6544f4c3c47ac802",
         "type": "leaf",
         "state": {
@@ -88,7 +16,31 @@
         }
       },
       {
-        "id": "50d879cdd67e29be",
+        "id": "17db97e8708c1a18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Range.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "67d811ba994e49f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Domain.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8865644115e1d71f",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -254,15 +206,15 @@
   },
   "active": "6544f4c3c47ac802",
   "lastOpenFiles": [
+    "Vault/Permanent/Untitled.md",
     "Vault/Permanent/Function.md",
+    "Vault/Permanent/Range.md",
     "Vault/Permanent/Subset.md",
-    "Vault/Permanent/Least Upper Bound.md",
-    "Vault/Permanent/Greatest Lower Bound.md",
-    "Vault/Permanent/Upper and Lower Bound.md",
-    "In.md",
-    "Real Number.md",
-    "Vault/Permanent/Intersection.md",
     "Vault/Permanent/Union.md",
-    "Set.md"
+    "Rational Numbers.md",
+    "Integers.md",
+    "Irrational Numbers.md",
+    "Real Number.md",
+    "Vault/Permanent/Least Upper Bound.md"
   ]
 }

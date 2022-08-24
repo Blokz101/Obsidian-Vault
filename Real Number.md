@@ -4,7 +4,7 @@ Creation Date: Mon August 22nd 2022 04:03:13 pm
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
-#Permanent [[Calculus]]
+#Permanent [[Calculus]] [[Type of Number]]
 
 - ## Definition
 	- The [[Set]] of all [[Rational Numbers]] and [[Irrational Numbers]].
@@ -13,3 +13,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > or
 	  > (-∞, ∞)
 	- Notated with the symbol ℝ
+- ## Reference

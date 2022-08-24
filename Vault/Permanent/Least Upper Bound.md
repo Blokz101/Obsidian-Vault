@@ -11,5 +11,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Example]
 	  > {-1, 0, 1} has a [[Least Upper Bound]] of 1.
 	- There can only be one [[Least Upper Bound]] per [[Set]].
-- ## References
+- ## Reference
 	- Opposite of [[Greatest Lower Bound]].
