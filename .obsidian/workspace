@@ -4,47 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6544f4c3c47ac802",
+        "id": "847e08dd05844083",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Function.md",
+            "file": "Vault/Permanent/Conic Section.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "17db97e8708c1a18",
+        "id": "946dc4b3aa197c1c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Range.md",
-            "mode": "preview",
+            "file": "Vault/Permanent/Parabola.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "67d811ba994e49f8",
+        "id": "7bd82658fae3b1d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Domain.md",
-            "mode": "preview",
+            "file": "Vault/Permanent/Ellipse.md",
+            "mode": "source",
             "source": true
           }
-        }
-      },
-      {
-        "id": "8865644115e1d71f",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -104,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Function.md",
+                "file": "Vault/Permanent/Parabola.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Function.md",
+                "file": "Vault/Permanent/Parabola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Permanent/Function.md",
+                "file": "Vault/Permanent/Parabola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,17 +196,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6544f4c3c47ac802",
+  "active": "946dc4b3aa197c1c",
   "lastOpenFiles": [
-    "Vault/Permanent/Untitled.md",
-    "Vault/Permanent/Function.md",
+    "Vault/Permanent/Ellipse.md",
+    "Excalidraw/Drawing 2022-08-24 13.34.27.excalidraw.md",
+    "Vault/Permanent/Parabola.md",
+    "Vault/Permanent/Conic Section.md",
+    "Excalidraw/Drawing 2022-08-24 13.20.24.excalidraw.md",
+    "Vault/Permanent/Domain.md",
     "Vault/Permanent/Range.md",
-    "Vault/Permanent/Subset.md",
-    "Vault/Permanent/Union.md",
-    "Rational Numbers.md",
-    "Integers.md",
-    "Irrational Numbers.md",
-    "Real Number.md",
-    "Vault/Permanent/Least Upper Bound.md"
+    "Vault/Permanent/Function.md",
+    "Vault/Permanent/Untitled.md",
+    "Vault/Permanent/Subset.md"
   ]
 }
