@@ -7,8 +7,12 @@
         "id": "3f543a4b19c28357",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Molecule.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -21,7 +25,7 @@
       {
         "id": "dae726d40aa05d44",
         "type": "tabs",
-        "dimension": 77.77777777777779,
+        "dimension": 68.22222222222221,
         "children": [
           {
             "id": "c8e5db5b4ff26463",
@@ -60,7 +64,7 @@
       {
         "id": "a159a763226231d6",
         "type": "tabs",
-        "dimension": 22.22222222222222,
+        "dimension": 31.77777777777778,
         "children": [
           {
             "id": "1455581ec92828ed",
@@ -68,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -90,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5548380715314385,
+                  "scale": 1.1093867377022297,
                   "close": true
                 }
               }
@@ -100,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Permanent/Molecule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,15 +172,15 @@
   },
   "active": "3f543a4b19c28357",
   "lastOpenFiles": [
+    "Vault/Permanent/Mole.md",
+    "Vault/Permanent/Avogadro's Number.md",
+    "Vault/Permanent/Avogadro's Law.md",
     "Irrational Numbers.md",
     "Vault/Permanent/Conversions.md",
     "Real Numbers.md",
     "Rational Numbers.md",
     "Natural Numbers.md",
     "Integers.md",
-    "Set.md",
-    "Excalidraw/Drawing 2022-08-22 15.44.43.excalidraw.md",
-    "In.md",
-    "Vault/Permanent/Untitled.md"
+    "Set.md"
   ]
 }
