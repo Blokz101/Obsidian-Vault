@@ -34,6 +34,42 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "e34e742c498150b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Avogadro's Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e01f863d7060656d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Periodic Table.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "db1e931073eb194f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Mole.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -92,6 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Permanent/Avogadro's Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Permanent/Avogadro's Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Permanent/Avogadro's Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4e4adc89fbc978",
+  "active": "e34e742c498150b9",
   "lastOpenFiles": [
+    "Vault/Permanent/Periodic Table.md",
+    "Vault/Permanent/Molar Mass.md",
+    "Vault/Permanent/Mole.md",
     "Vault/Permanent/Hyperbola.md",
     "Excalidraw/Drawing 2022-08-24 13.59.06.excalidraw.md",
     "Vault/Permanent/Ellipse.md",
     "Vault/Permanent/Parabola.md",
     "Vault/Permanent/Conic Section.md",
     "Excalidraw/Drawing 2022-08-24 13.34.27.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-24 13.20.24.excalidraw.md",
-    "Vault/Permanent/Domain.md",
-    "Vault/Permanent/Range.md",
-    "Vault/Permanent/Function.md"
+    "Excalidraw/Drawing 2022-08-24 13.20.24.excalidraw.md"
   ]
 }
