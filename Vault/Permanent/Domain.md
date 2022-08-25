@@ -12,3 +12,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Cannot include even roots of negative numbers.
 - ## Reference
 	- Similar to [[Range]]
+- ## Practice
+	- [[Drawing 2022-08-24 21.53.58.excalidraw]]
