@@ -3,9 +3,9 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "better-word-count",
-  "dataview",
   "maximise-active-pane-obsidian",
+  "sliding-panes-obsidian",
   "obsidian-outliner",
-  "templater-obsidian",
-  "sliding-panes-obsidian"
+  "dataview",
+  "templater-obsidian"
 ]

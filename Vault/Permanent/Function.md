@@ -25,11 +25,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > This is not a function because -3 points to two values:
 	  > {(3, 2), (-3, 1), (4, 2), (-3, 3)}
-- ## One to One
-	- A type of [[Function]] in witch each y value cannot point to the same x value.
-	  > [!Example]
-	  > Example of One to One: Standard lines, Exponential, etc
-	  > Not an example of One to One: Parabola, etc
-	  > 
-	  > Think [[Vertical Line Test]] but horizontal.
 - ## Reference
