@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asymptote.md",
+            "file": "Vault/Permanent/Inverse.md",
             "mode": "source",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "d1dd47f9094ac8e7",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md"
           }
         }
       }
@@ -72,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Asymptote.md",
+                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -105,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asymptote.md",
+                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asymptote.md",
+                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "473a9b9ea504c3ec",
+  "active": "d1dd47f9094ac8e7",
   "lastOpenFiles": [
+    "Vault/Permanent/Inverse.md",
+    "Asymptote.md",
+    "Excalidraw/Drawing 2022-08-25 10.44.22.excalidraw.md",
     "Vault/Permanent/Of.md",
     "Vault/Permanent/Function.md",
     "Vault/Permanent/One to One.md",
     "Vault/Permanent/Difference Quotient.md",
     "Vault/Permanent/Exponential.md",
     "Vault/Permanent/Logarithm.md",
-    "Vault/Permanent/Inverse.md",
-    "Vault/Permanent/Limiting Reactant.md",
-    "Excalidraw/Drawing 2022-08-24 22.03.57.excalidraw.md",
-    "Vault/Permanent/Domain.md"
+    "Vault/Permanent/Limiting Reactant.md"
   ]
 }

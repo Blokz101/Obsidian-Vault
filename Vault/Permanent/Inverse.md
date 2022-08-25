@@ -14,3 +14,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Notated with this symbol $f^{-1}(x)$
 - ## Reference
 	- [[Logarithm|Logarithms]] have a special [[Inverse]] that can be found on the [[Logarithm|Logarithms]] note.
+- ## Practice
+	- 
