@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "473a9b9ea504c3ec",
+        "id": "a78b48d70e74b813",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Permanent/Inverse.md",
-            "mode": "source",
+            "file": "Vault/Permanent/One to One.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "d1dd47f9094ac8e7",
+        "id": "b981eee3c6695310",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md"
+            "file": "Vault/Permanent/Logarithm.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -82,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
+                "file": "Vault/Permanent/Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
+                "file": "Vault/Permanent/Logarithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
+                "file": "Vault/Permanent/Logarithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1dd47f9094ac8e7",
+  "active": "b981eee3c6695310",
   "lastOpenFiles": [
+    "Vault/Permanent/One to One.md",
+    "Excalidraw/Drawing 2022-08-25 11.10.47.excalidraw.md",
     "Vault/Permanent/Inverse.md",
+    "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
     "Asymptote.md",
     "Excalidraw/Drawing 2022-08-25 10.44.22.excalidraw.md",
     "Vault/Permanent/Of.md",
     "Vault/Permanent/Function.md",
-    "Vault/Permanent/One to One.md",
     "Vault/Permanent/Difference Quotient.md",
-    "Vault/Permanent/Exponential.md",
-    "Vault/Permanent/Logarithm.md",
-    "Vault/Permanent/Limiting Reactant.md"
+    "Vault/Permanent/Exponential.md"
   ]
 }
