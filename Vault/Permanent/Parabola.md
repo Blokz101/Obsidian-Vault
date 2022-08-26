@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Calculus]] [[Conic Section]]
 
-- ## Definition
+- ## Definition ^91c6a4
 	- ![[Drawing 2022-08-24 13.20.24.excalidraw|150]]
 	- Orientation
 		- You can tell the orientation by looking at the variable(x or y) that is not squared. If **y is not squared then it is vertical** and if **x is not squared then it is horizontal**.

@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- There are three main types of [[Conic Section|Conic Sections]]
-		- [[Parabola]]
+		- ![[Parabola]]
 		- [[Hyperbola]]
 		- [[Ellipse]]
 	- All [[Conic Section|Conic Sections]] have their center at (h, k).
