@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b11364b179380f1a",
+        "id": "38e4437e84df1d28",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unit Circle.md",
-            "mode": "source",
+            "file": "Law of Sines.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1f610f58a5431cc7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Law of Cosines.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -72,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Law of Cosines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Law of Cosines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Law of Cosines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b11364b179380f1a",
+  "active": "1f610f58a5431cc7",
   "lastOpenFiles": [
-    "Unit Circle.md",
+    "Law of Sines.md",
+    "Law of Cosines.md",
     "Untitled.md",
+    "Unit Circle.md",
     "Trigonometric Identities.md",
     "Trigonometric Sum and Difference.md",
     "Vault/Permanent/Logarithm.md",
     "Pythagorean Identities.md",
     "Reciprocal Identities.md",
-    "Quotient Identities.md",
-    "Vault/Permanent/Conic Section.md",
-    "Parametric Curve.md"
+    "Quotient Identities.md"
   ]
 }
