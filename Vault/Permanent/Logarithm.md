@@ -17,8 +17,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  ---|---
 		  [[Logarithm]] form|$y=log_{a}(x)$
 		  [[Exponential]] form|$x=a^y$
-	- Product Rule
-		- $log(xy)=log(x)+log(y)$
+	- Product and quotient Rule
+		- $log(x*y)=log(x)+log(y)$
+		- $log(x/y)=log(x)-log(y)$
+		- $log(x^a)=a*log(x)$
 	- ## Reference
 		- [[Natural Logarithm]] is a type of [[Logarithm]].
 		- Is the [[Inverse]] of a [[Exponential]] [[Function]]
