@@ -15,4 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  ![[Quotient Identities#^a9d7ab]]
 	- [[Pythagorean Identities]]
 	  ![[Pythagorean Identities#^cca7b3]]
+	- [[Trigonometric Sum and Difference|Sum and Difference]]
+	  ![[Trigonometric Sum and Difference#^b45e0d]]
+- ## Note to self
+	- God help my sanity when I have to memorize all this shit
 - ## Reference
