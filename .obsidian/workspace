@@ -4,47 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9c707edaa268f987",
+        "id": "4c6310381f16f0cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parametric Curve.md",
+            "file": "Trigonometric Identities.md",
             "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "369f16020dea1487",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-08-26 10.55.03.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "5f283324de71324b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Conic Section.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "617f8e920e3eee4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Parabola.md",
-            "mode": "preview",
             "source": true
           }
         }
@@ -106,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Conic Section.md",
+                "file": "Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Conic Section.md",
+                "file": "Trigonometric Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Permanent/Conic Section.md",
+                "file": "Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f283324de71324b",
+  "active": "4c6310381f16f0cc",
   "lastOpenFiles": [
-    "Vault/Permanent/Parabola.md",
     "Vault/Permanent/Conic Section.md",
-    "Excalidraw/Drawing 2022-08-26 10.55.03.excalidraw.md",
-    "Vault/Permanent/Hyperbola.md",
     "Parametric Curve.md",
+    "Excalidraw/Drawing 2022-08-26 10.55.03.excalidraw.md",
+    "Vault/Permanent/Parabola.md",
+    "Vault/Permanent/Ellipse.md",
+    "Vault/Permanent/Hyperbola.md",
     "Para.md",
     "Vault/Permanent/Logarithm.md",
     "Vault/Permanent/One to One.md",
-    "Vault/Permanent/Quadratic Formula.md",
-    "Vault/Permanent/Molecule.md"
+    "Vault/Permanent/Quadratic Formula.md"
   ]
 }

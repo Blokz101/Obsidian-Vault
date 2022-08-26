@@ -13,5 +13,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $x=f(t)$
 	  > $y=f(t)$
 - ## Example
-	- 
+	- ![[Drawing 2022-08-26 10.55.03.excalidraw|1000]]
 - ## Reference
+- Appear to often form [[Conic Section|Conic Sections]]

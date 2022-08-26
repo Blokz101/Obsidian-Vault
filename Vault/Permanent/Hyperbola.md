@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Calculus]] [[Conic Section]]
 
-- ## Definition
+- ## Definition ^d3a7e7
 	- ![[Drawing 2022-08-24 13.59.06.excalidraw|150]]
 	- Orientation
 		- You can tell the orientation by looking at which variable(x or y) is part of the positive fraction. **If y is part of the positive fraction then it is vertical** and **if x is part of the positive function then it is horizontal**.

@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Calculus]] [[Conic Section]]
 
-- ## Definition
+- ## Definition ^54ba47
 	- ![[Drawing 2022-08-24 13.34.27.excalidraw|150]]
 	- Normally a > b, however if a ≯ b then the [[Ellipse]] is a [[Circle]].
 	- Orientation
