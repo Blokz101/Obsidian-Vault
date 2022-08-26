@@ -9,3 +9,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The number of grams that one [[Mole]] of a substance weighs.
 - ## Reference
+	- Link to compound molar mass calculator: https://scilearn.sydney.edu.au/fychemistry/iChem/molar_mass.shtml
