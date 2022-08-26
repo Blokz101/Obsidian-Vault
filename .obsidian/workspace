@@ -38,6 +38,30 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "39b73abf4f81055f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Molecule.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9ab218e61396ec16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Permanent/Compound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Quadratic Formula.md",
+                "file": "Vault/Permanent/Compound.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Quadratic Formula.md",
+                "file": "Vault/Permanent/Compound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Permanent/Quadratic Formula.md",
+                "file": "Vault/Permanent/Compound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15dce05f9daec035",
+  "active": "9ab218e61396ec16",
   "lastOpenFiles": [
-    "Vault/Permanent/Logarithm.md",
+    "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Quadratic Formula.md",
+    "Vault/Permanent/Logarithm.md",
     "Vault/Permanent/One to One.md",
     "Excalidraw/Drawing 2022-08-25 11.10.47.excalidraw.md",
     "Vault/Permanent/Inverse.md",
     "Excalidraw/Drawing 2022-08-25 10.47.39.excalidraw.md",
     "Asymptote.md",
     "Excalidraw/Drawing 2022-08-25 10.44.22.excalidraw.md",
-    "Vault/Permanent/Of.md",
-    "Vault/Permanent/Function.md"
+    "Vault/Permanent/Of.md"
   ]
 }
