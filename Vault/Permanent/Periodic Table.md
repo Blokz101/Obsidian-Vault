@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
+- ## Definition
 	- [[Periodic Table Image.png|Chart]] of [[Element|Elements]]
 	  ![[Periodic Table Image.png]]
 - Notes
@@ -23,3 +23,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The symbol in the middle identifies the [[Element]].
 	- The [[Atomic Number]] tells you how many [[Proton|Protons]] there are in an [[Atom]] of a given [[Element]].
 	- The [[Molar Mass]] or [[Molar Mass|Average Atomic Mass]]
+- ## Reference
+	- [[Mass Number]] deals with information directly from this table.
