@@ -20,7 +20,19 @@
           "type": "markdown",
           "state": {
             "file": "Parametric Curve.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3fc75e5bf151f91b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trigonometric Identities.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -184,6 +196,7 @@
   },
   "active": "a0ebdff0ca7d3de1",
   "lastOpenFiles": [
+    "Trigonometric Identities.md",
     "Parametric Curve.md",
     "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
     "Vault/Permanent/Limiting Reactant.md",
@@ -192,7 +205,6 @@
     "Vault/Permanent/Molecule.md",
     "Vault/Permanent/Mass Number.md",
     "Other/References/Periodic Table Image.png",
-    "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md",
-    "Vault/Permanent/Molar Mass.md"
+    "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md"
   ]
 }
