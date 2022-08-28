@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ebdff0ca7d3de1",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "efced2ed6cacce97",
         "type": "leaf",
         "state": {
@@ -94,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Parametric Curve.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Parametric Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Parametric Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +184,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0ebdff0ca7d3de1",
+  "active": "efced2ed6cacce97",
   "lastOpenFiles": [
     "Trigonometric Identities.md",
-    "Parametric Curve.md",
     "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+    "Parametric Curve.md",
     "Vault/Permanent/Limiting Reactant.md",
     "Vault/Permanent/Mole.md",
     "Vault/Permanent/Periodic Table.md",
