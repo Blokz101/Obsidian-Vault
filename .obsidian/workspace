@@ -4,85 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "38e4437e84df1d28",
+        "id": "3db7eb7e4dfb6cec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Law of Sines.md",
-            "mode": "preview",
-            "source": true
+            "file": "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md"
           }
         }
       },
       {
-        "id": "1f610f58a5431cc7",
+        "id": "3d4d565b415b250d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Law of Cosines.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "fe340f8a0b96109b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Unit Circle.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "19d4bcde84fdcdec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Binomial Expansion Formula.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "8417703be8705916",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Molar Mass.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "42e5879c4384a5e9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Mole.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e477ab57d52bf238",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Permanent/Avogadro's Number.md",
-            "mode": "preview",
+            "file": "Vault/Permanent/Limiting Reactant.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -144,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Permanent/Avogadro's Number.md",
+                "file": "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Permanent/Avogadro's Number.md",
+                "file": "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Permanent/Avogadro's Number.md",
+                "file": "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e477ab57d52bf238",
+  "active": "3db7eb7e4dfb6cec",
   "lastOpenFiles": [
+    "Vault/Permanent/Limiting Reactant.md",
+    "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md",
     "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Avogadro's Number.md",
     "Vault/Permanent/Molar Mass.md",
     "Vault/Permanent/Binomial Expansion Formula.md",
-    "Other/References/Periodic Table Image.png",
-    "Vault/Permanent/Periodic Table.md",
-    "Vault/Permanent/Element.md",
     "Unit Circle.md",
-    "Vault/Permanent/google.com.md",
-    "mathsisfun.com/algebra/binomial-theorem.html.md"
+    "Law of Cosines.md",
+    "Law of Sines.md",
+    "Vault/Permanent/Avogadro's Number.md",
+    "Other/References/Periodic Table Image.png"
   ]
 }
