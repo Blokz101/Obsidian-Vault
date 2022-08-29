@@ -10,18 +10,20 @@
           "type": "markdown",
           "state": {
             "file": "Continuity.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "79a01aff9b0ff287",
+        "id": "7d348b016c57163a",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md"
+            "file": "Vault/Limit.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -82,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79a01aff9b0ff287",
+  "active": "7d348b016c57163a",
   "lastOpenFiles": [
+    "Vault/Limiting Reactant.md",
     "Continuity.md",
+    "References/Excalidraw/Drawing 2022-08-29 12.26.58.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.24.09.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.22.47.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.21.29.excalidraw.md",
     "Vault/Process.md",
     "<% tp.file.cursor(1) %>.md",
-    "Vault/Ideal Gas.md",
-    "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
-    "Vault/Unit Circle.md",
-    "References/Saturday Aug 6th, 2022 2022-08-06 10.12.37.excalidraw.md"
+    "Vault/Ideal Gas.md"
   ]
 }

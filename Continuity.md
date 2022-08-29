@@ -16,5 +16,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Infinite Discontinuity
 		- ![[Drawing 2022-08-29 12.24.09.excalidraw|200]]
 - ## Practice
-	- 
+	- [[Drawing 2022-08-29 12.26.58.excalidraw]]
 - ## Reference
