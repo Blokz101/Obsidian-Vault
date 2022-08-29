@@ -14,6 +14,16 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "79a01aff9b0ff287",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Continuity.md",
+                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuity.md",
+                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuity.md",
+                "file": "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be4f828908a7d384",
+  "active": "79a01aff9b0ff287",
   "lastOpenFiles": [
+    "Continuity.md",
+    "References/Excalidraw/Drawing 2022-08-29 12.24.09.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-08-29 12.22.47.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-08-29 12.21.29.excalidraw.md",
     "Vault/Process.md",
     "<% tp.file.cursor(1) %>.md",
     "Vault/Ideal Gas.md",
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
     "Vault/Unit Circle.md",
-    "References/Saturday Aug 6th, 2022 2022-08-06 10.12.37.excalidraw.md",
-    "References/Saturday Aug 6th, 2022 2022-08-06 10.09.58.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
-    "References/Excalidraw/Asymptote.md",
-    "References/Excalidraw/Drawing 2022-08-25 10.44.22.excalidraw.md"
+    "References/Saturday Aug 6th, 2022 2022-08-06 10.12.37.excalidraw.md"
   ]
 }
