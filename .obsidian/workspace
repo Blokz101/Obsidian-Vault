@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efced2ed6cacce97",
+        "id": "5259ec463265b65d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Parametric Curve.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3fc75e5bf151f91b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Trigonometric Identities.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Parametric Curve.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parametric Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parametric Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efced2ed6cacce97",
+  "active": "5259ec463265b65d",
   "lastOpenFiles": [
-    "Trigonometric Identities.md",
-    "Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
-    "Parametric Curve.md",
-    "Vault/Permanent/Limiting Reactant.md",
-    "Vault/Permanent/Mole.md",
-    "Vault/Permanent/Periodic Table.md",
-    "Vault/Permanent/Molecule.md",
-    "Vault/Permanent/Mass Number.md",
-    "Other/References/Periodic Table Image.png",
-    "Excalidraw/Drawing 2022-08-28 11.21.52.excalidraw.md"
+    "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+    "Vault/Unit Circle.md",
+    "References/Saturday Aug 6th, 2022 2022-08-06 10.12.37.excalidraw.md",
+    "References/Saturday Aug 6th, 2022 2022-08-06 10.09.58.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-06-08 12.11.23.excalidraw.md",
+    "References/Excalidraw/Asymptote.md",
+    "References/Excalidraw/Drawing 2022-08-25 10.44.22.excalidraw.md",
+    "References/Excalidraw/Motor characterization project 2022-06-08 16.36.44.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-08-06 10.34.40.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-08-06 10.14.06.excalidraw.md"
   ]
 }

@@ -15,4 +15,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- [[Logarithm|Logarithms]] have a special [[Inverse]] that can be found on the [[Logarithm|Logarithms]] note.
 - ## Practice
-	- 
+	- [[Drawing 2022-08-25 10.47.39.excalidraw]]

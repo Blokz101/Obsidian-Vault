@@ -119,5 +119,13 @@
     }
   ],
   "file-explorer:new-file": [],
-  "editor:insert-embed": []
+  "editor:insert-embed": [],
+  "templater-obsidian:Templates/Permanent Note Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }
