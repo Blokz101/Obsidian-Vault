@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "5259ec463265b65d",
+        "id": "be4f828908a7d384",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -165,7 +165,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5259ec463265b65d",
+  "active": "be4f828908a7d384",
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
     "Vault/Unit Circle.md",
