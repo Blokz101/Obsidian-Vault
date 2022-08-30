@@ -1,5 +1,5 @@
 ---
-Alias: [Left Hand Limit, Right Hand Limit]
+Alias: [Limits, Left Hand Limit, Right Hand Limit]
 Creation Date: Mon August 29th 2022 12:32:59 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -20,3 +20,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}=L}}$
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}=L}}$
 - ## Reference
+	- The basis for [[Derivative|Derivatives]]

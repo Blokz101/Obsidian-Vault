@@ -21,6 +21,26 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Vault/Secant Line.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1326ff4a27f9c793",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "5578950ffc07178e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Vault/Limit.md",
             "mode": "preview",
             "source": true
@@ -84,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Continuity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d348b016c57163a",
+  "active": "be4f828908a7d384",
   "lastOpenFiles": [
+    "Vault/Limit.md",
+    "Vault/Tangent Line.md",
+    "Vault/Secant Line.md",
     "Vault/Limiting Reactant.md",
     "Continuity.md",
     "References/Excalidraw/Drawing 2022-08-29 12.26.58.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.26.47.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.24.09.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-29 12.22.47.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-08-29 12.21.29.excalidraw.md",
-    "Vault/Process.md",
-    "<% tp.file.cursor(1) %>.md",
-    "Vault/Ideal Gas.md"
+    "References/Excalidraw/Drawing 2022-08-29 12.21.29.excalidraw.md"
   ]
 }
