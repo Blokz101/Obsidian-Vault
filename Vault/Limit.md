@@ -9,5 +9,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- States that the value of a function as the input to that function becomes arbitrarily close to some number.
 	  > [!Example]
-	  > As $f(x)$ becomes arbitrarily close to a single value L, $x$
+	  > As $x$ in the function $f(x)
 - ## Reference
