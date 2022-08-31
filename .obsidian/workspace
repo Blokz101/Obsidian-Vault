@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e702db1f2bf91f93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Limit.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "e227466f45f70fa7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Vault/Proving a Limit.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "c2854803ef1a0a3a",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md"
           }
         }
       }
@@ -186,15 +184,15 @@
   },
   "active": "e227466f45f70fa7",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
+    "Vault/Proving a Limit.md",
+    "References/Excalidraw/Drawing 2022-08-31 15.46.43.excalidraw.md",
     "Vault/Limit.md",
     "Vault/Secant Line.md",
     "Vault/Tangent Line.md",
     "Vault/Binomial Expansion Formula.md",
     "Visiable Light.md",
     "Speed of Light.md",
-    "Spectrum of Light.md",
-    "Wavelength.md",
-    "Frequency.md",
-    "Vault/Energy.md"
+    "Spectrum of Light.md"
   ]
 }
