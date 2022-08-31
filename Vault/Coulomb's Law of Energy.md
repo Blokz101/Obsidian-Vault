@@ -7,5 +7,24 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- 
+	- Derived from [[Coulomb's Law of Force]]. States that the electric force of one charge on another depends on the magnitude of the charges and the distance between them.
+	  > [!How to derive]
+	  > [[Coulomb's Law of Force]]:
+	  > $\large{F=\frac{kq_1q_2}{Ɛr^2}}$
+	  > 
+	  > [[Energy]]:
+	  > $E=rF$
+	  > 
+	  > Therefore:
+	  > $\large{r*F=\frac{kq_1q_2}{Ɛr}}$ (Multiply by $r$)
+	  > $\large{E=\frac{kq_1q_2}{Ɛr}}$ (Substitute in [[Energy]])
+	  
+	  > [!Equation]
+	  > $$\large{E=\frac{kq_1q_2}{Ɛr}}$$
+	  > $E$ = [[Energy]]
+	  > $k$ = [[Coulomb's Constant]] = ($8.9875e9\frac{Nm^2}{C^2}$)
+	  > $q$ = [[Charge]] (Coulombs)
+	  > $Ɛ$ = [[Dielectric Constant]]
+	  > $r$ = Distance
+	- Same as [[Coulomb's Law of Force]], the more **negative the [[Energy]], the more attractive**, and **the more positive, the more repulsive**.
 - ## Reference
