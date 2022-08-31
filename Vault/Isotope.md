@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Isotopes]
 Creation Date: Wed August 31st 2022 11:31:40 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -7,5 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- [[Atom|Atoms]] of the same [[Element]] but with different [[Mass Number]]
+	- [[Atom|Atoms]] of the same [[Element]] but with different [[Mass Number|Mass Numbers]].
 - ## Reference
+	- [[Molar Mass|Average Atomic Mass]] is calculated with a weighted average of the weight of its [[Isotope|Isotopes]].
