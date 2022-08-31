@@ -13,7 +13,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   $$\lim_{x\rightarrow x_0}f(x)=L$$
 	   ![[Drawing 2022-08-31 15.46.43.excalidraw|400]]
 	2. Let $\epsilon$ be an infinitesimally small value, therefore let $\epsilon+L$ and $\epsilon-L$ be two $f(x)$ values that are each the same distance from $L$ on the y-axis.
-	   
-	3. 
+	   ![[Drawing 2022-08-31 15.56.30.excalidraw|400]]
+	3. Let the two $x$ values that $\epsilon+L$ and $\epsilon-L$ be $x_0+a$ and $x_0-b$ respectively.
+	   ![[Drawing 2022-08-31 16.02.02.excalidraw|400]]
+	4. Let $\delta$ be the minimum of $a$ and $b$. In our case above it would be $b$.
 - ## Reference
 	- Proves the [[Limit]].
