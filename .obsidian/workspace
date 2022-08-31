@@ -4,97 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "40466340eebfa508",
+        "id": "6ae0575a13c836fd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "d205d9a31d779053",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Rutherford's Nuclear Theory.md",
+            "file": "Visiable Light.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "e02ee1af14ef76b9",
+        "id": "35236421c7d46efa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Subatomic Particles.md",
-            "mode": "preview",
+            "file": "Spectrum of Light.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "15910904d24e31fe",
+        "id": "92ec2a9986e18e53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Periodic Table.md",
-            "mode": "preview",
+            "file": "Frequency.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "5966ccadc0fcb2d3",
+        "id": "96f7f569a659df06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Isotope.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "1ffae3e7aee523d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Ion.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "83d84cf71f6da8fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Molar Mass.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "333440d3d9af9e2d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Coulomb's Law of Force.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "076fed54fcc20a93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Coulomb's Law of Energy.md",
-            "mode": "preview",
+            "file": "Wavelength.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -156,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Spectrum of Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Spectrum of Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Spectrum of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ffae3e7aee523d7",
+  "active": "35236421c7d46efa",
   "lastOpenFiles": [
-    "Vault/Isotope.md",
-    "Vault/Ion.md",
-    "Vault/Periodic Table.md",
-    "Vault/Molar Mass.md",
-    "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md",
-    "Vault/Mass Number.md",
-    "Vault/Parametric Curve.md",
-    "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+    "Wavelength.md",
+    "Frequency.md",
+    "Spectrum of Light.md",
+    "Visiable Light.md",
+    "Longest Wavelength.md",
+    "Vault/Coulomb's Law of Force.md",
+    "Vault/Coulomb's Law of Energy.md",
+    "Vault/Rutherford's Nuclear Theory.md",
     "Vault/Subatomic Particles.md",
-    "Vault/Rutherford's Nuclear Theory.md"
+    "Vault/Molar Mass.md"
   ]
 }
