@@ -36,12 +36,48 @@
         }
       },
       {
+        "id": "90271d8a8f30eb21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Energy.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "09000e7a9933f0b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Limit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "92ec2a9986e18e53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Frequency.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9da52b656977706d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wavelength.md",
             "mode": "preview",
             "source": true
           }
@@ -116,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,17 +252,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35236421c7d46efa",
+  "active": "09000e7a9933f0b9",
   "lastOpenFiles": [
-    "Speed of Light.md",
+    "Vault/Energy.md",
     "Frequency.md",
     "Wavelength.md",
     "Spectrum of Light.md",
+    "Speed of Light.md",
     "Visiable Light.md",
     "Longest Wavelength.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Coulomb's Law of Energy.md",
-    "Vault/Rutherford's Nuclear Theory.md",
-    "Vault/Subatomic Particles.md"
+    "Vault/Rutherford's Nuclear Theory.md"
   ]
 }

@@ -8,6 +8,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- How often a wave passes in a second.
-	- 
+- ## Unit
+	- Its unit is $s^{-1}$ or $\frac{1}{s}$.
 - ## Reference
 	- A characteristic if a wave on the [[Spectrum of Light]].
+	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
+	- [[Energy]] and [[Frequency]] are **Directly** related.

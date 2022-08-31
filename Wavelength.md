@@ -11,3 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Notated with this symbol: $\lambda$
 - ## Reference
 	- A characteristic of a wave on the [[Spectrum of Light]].
+	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
