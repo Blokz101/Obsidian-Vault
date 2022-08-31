@@ -13,7 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Arranged by the number of [[Subatomic Particles]] in their [[Atom|Atoms]] and by their properties. 
 - ## Groups vs Periods
 	- Periods are rows, there are 7 periods.
-	- Groups are columns, there are 18 groups.
+	- Groups/Families are columns, there are 18 groups.
 - ## [[Metal|Metals]] vs [[Non-Metal|Non-Metals]]
 	- [[Metal|Metals]] are generally on the left $2/3$s of the table.
 	- [[Metalloid|Metalloids]] are on a diagonal line running from approximately B to At.

@@ -1,5 +1,5 @@
 ---
-Alias: [Particles, Particle]
+Alias: [Particles, Particle, Subatomic Particle]
 Creation Date: Sun June 19th 2022 04:37:52 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
