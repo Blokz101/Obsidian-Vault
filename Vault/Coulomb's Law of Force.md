@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Equation that states that like charges repel and opposite charges attract.
+	- Equation that states that like [[Charge|Charges]] repel and opposite [[Charge|Charges]] attract.
 	  > [!Equation]
 	  > $$\large{F=\frac{kq_1q_2}{Ɛr^2}}$$
 	  > $F$ = Force in [[Newtons]]
@@ -15,8 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $q$ = [[Charge]] (Coulombs)
 	  > $Ɛ$ = [[Dielectric Constant]]
 	  > $r$ = Distance
-	- When the [[Charge|Charges]] of two particles are both positive or both negative the force is **positive and repulsive**
-	- When one particle is positively [[Charge|Charged]] and one is negatively [[Charge|Charged]], the force is **negative and attractive**.
+	- When the [[Charge|Charges]] of two [[Subatomic Particles|Particles]] are both positive or both negative the force is **positive and repulsive**
+	- When one [[Subatomic Particles|Particle]] is positively [[Charge|Charged]] and one is negatively [[Charge|Charged]], the force is **negative and attractive**.
 	- The [[Force]] is the strongest when dealing with two large [[Charge|Charges]] and the atoms are close together.
 - ## Reference
 	- Strongly related to [[Coulomb's Law of Energy]].

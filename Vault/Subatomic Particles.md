@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Particles, Particle]
 Creation Date: Sun June 19th 2022 04:37:52 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -14,6 +14,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		
 		| Particle | Symbol | Mass                | Charge | Location                         |
 		| -------- | ------- | --------------- | ------- | ------------------------ |
-		| [[Proton]]   | $p^+$  | $1amu$            | $+1$    | Inside the [[Nucleus]]    |
-		| [[Neutron]] | $n^0$  | $1amu$            | $0$      | Inside the [[Nucleus]]    |
+		| [[Proton]]   | $p^+$  | $1.0078amu$            | $+1$    | Inside the [[Nucleus]]    |
+		| [[Neutron]] | $n^0$  | $1.0087amu$            | $0$      | Inside the [[Nucleus]]    |
 		| [[Electron]] | $e^-$  | $0.0005amu$ | $-1$    | Outside the [[Nucleus]] |
