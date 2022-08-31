@@ -55,11 +55,9 @@
         "id": "b6178cc8056a95a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Vault/Mass Number.md",
-            "mode": "source",
-            "source": true
+            "file": "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md"
           }
         }
       },
@@ -144,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Isotope.md",
+                "file": "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Isotope.md",
+                "file": "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Isotope.md",
+                "file": "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5966ccadc0fcb2d3",
+  "active": "b6178cc8056a95a0",
   "lastOpenFiles": [
+    "Vault/Isotope.md",
+    "References/Excalidraw/Drawing 2022-08-31 13.35.19.excalidraw.md",
+    "Vault/Mass Number.md",
     "Vault/Parametric Curve.md",
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
-    "Vault/Isotope.md",
-    "Vault/Mass Number.md",
     "Vault/Periodic Table.md",
     "Vault/Subatomic Particles.md",
     "Vault/Rutherford's Nuclear Theory.md",
     "Vault/Coulomb's Law of Energy.md",
-    "Vault/Coulomb's Law of Force.md",
-    "Vault/Charge.md"
+    "Vault/Coulomb's Law of Force.md"
   ]
 }
