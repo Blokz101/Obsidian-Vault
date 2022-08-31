@@ -52,28 +52,6 @@
         }
       },
       {
-        "id": "695910f3155284e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Parametric Curve.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "0e48f4013bb548dd",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "b6178cc8056a95a0",
         "type": "leaf",
         "state": {
@@ -166,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Vault/Isotope.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Vault/Isotope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+                "file": "Vault/Isotope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,9 +244,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e48f4013bb548dd",
+  "active": "5966ccadc0fcb2d3",
   "lastOpenFiles": [
     "Vault/Parametric Curve.md",
+    "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
     "Vault/Isotope.md",
     "Vault/Mass Number.md",
     "Vault/Periodic Table.md",
@@ -276,7 +255,6 @@
     "Vault/Rutherford's Nuclear Theory.md",
     "Vault/Coulomb's Law of Energy.md",
     "Vault/Coulomb's Law of Force.md",
-    "Vault/Charge.md",
-    "Vault/Dielectric Constant.md"
+    "Vault/Charge.md"
   ]
 }
