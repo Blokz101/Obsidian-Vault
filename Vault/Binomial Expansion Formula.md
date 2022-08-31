@@ -16,3 +16,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $(_k^n)$ = Binomial Coefficient of Each Term
 	- This link explains it better then I currently care to: mathsisfun.com/algebra/binomial-theorem.html
 - ## Reference
+	- Uses [[Pascal's Triangle]].

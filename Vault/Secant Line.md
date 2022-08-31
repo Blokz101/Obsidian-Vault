@@ -17,7 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
     > $$m=\frac{f(x+h)-f(x)}{h}$$
     > 
     > $m$ = [[Slope]]
-    > $h$ = The x-axis difference between the two points.
+    > $h$ = The x-axis difference between the two points. ^7b00b6
 - ## Reference
 	- Used with [[Limit|Limits]] to take the [[Derivative]] of a [[Function]].
 	- Used with [[Limit|Limits]] to find the [[Slope]] of a [[Tangent Line]].

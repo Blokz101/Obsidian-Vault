@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A line that touches a single point on a curve and whose slope is equal to that point on the curve.
-	- The [[Slope]] pf a [[Tangent Line]] is the [[equation for the Slope of a Secant Line^]] where $h$ approaches $0$.
+	- The [[Slope]] pf a [[Tangent Line]] is the [[Secant Line#^7b00b6|equation for the Slope of a Secant Line]] where $h$ approaches $0$.
     > [!Equation]
     > $$m=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$$
     > 
