@@ -24,7 +24,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   Then: $|f(x)-L|<\epsilon$
 	6. Therefore for the [[Limit]] exists at $x=x_0$:
 	   
-	   If for every distance where $\epsilon>0$ there is a distance $\delta$ such that $x$ satisfies $0<x-x_0<\delta$ 
+	   If for every distance $\epsilon>0$ there is a distance $\delta>0$ such that if $x$ satisfies $0<|x-x_0|<\delta$ then $f(x)$ satisfies $|f(x)-L|<\epsilon$.
+	   
+	   If for every distance $\epsilon$ there is a distance $\delta$ such that there is some number $x$ that if $x-x_0$ is between $0$ and $\delta$
 	   
 - ## Reference
 	- Proves the [[Limit]].
