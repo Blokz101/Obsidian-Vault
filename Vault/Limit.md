@@ -11,7 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Example and Notation]
 	  > As $x$ in the function $f(x)$ approaches $x_0$, $f(x)$ approaches some value L
 	  > 
-	  > Notated as: $\large{^{lim}_{x\rightarrow x_0=L}}$
+	  >$$\large{\lim_{x\rightarrow x_0}=L}$$
 - ## Right/Left Hand Limits
 	- A function has a [[Limit|Left Hand Limit]] of $L$ at $x_0$ if $x$ approaches from the **left** hand side. 
 	- A function has a [[Limit|Right Hand Limit]] of $L$ at $x_0$ if $x$ approaches from the **right** hand side. 

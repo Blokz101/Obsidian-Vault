@@ -18,6 +18,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Secant Line.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "35dd807894cb6e01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Tangent Line.md",
             "mode": "source",
             "source": true
           }
@@ -80,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Secant Line.md",
+                "file": "Vault/Tangent Line.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Secant Line.md",
+                "file": "Vault/Tangent Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Secant Line.md",
+                "file": "Vault/Tangent Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f188ce00305aba1a",
+  "active": "35dd807894cb6e01",
   "lastOpenFiles": [
+    "Vault/Secant Line.md",
+    "Vault/Tangent Line.md",
+    "Vault/Limit.md",
     "Visiable Light.md",
     "Speed of Light.md",
     "Spectrum of Light.md",
     "Wavelength.md",
     "Frequency.md",
     "Vault/Energy.md",
-    "Vault/Limit.md",
-    "Vault/Subatomic Particles.md",
-    "Vault/Isotope.md",
-    "Vault/Electron.md"
+    "Vault/Subatomic Particles.md"
   ]
 }

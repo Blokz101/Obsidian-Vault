@@ -8,8 +8,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A line passing through two points on a curve.
-	- The slope of a [[Secant Line]] is derived from the equation for [[Slope]] where $y_2$ is $f(x+h)$, $y_1$ is $f(x)$, and $x_2-x_1$ is .
-	  > [!Equation]
-	  > 
+	- The [[Slope]] of a [[Secant Line]] is derived from the equation for [[Slope]] where: 
+		- $y_2$ is $f(x+h)$
+		- $y_1$ is $f(x)$
+		- $x_2-x_1$ is $h$.
+		  
+    > [!Equation]
+    > $$m=\frac{f(x+h)-f(x)}{h}$$
+    > 
+    > $m$ = [[Slope]]
+    > $h$ = The x-axis difference between the two points.
 - ## Reference
 	- Used with [[Limit|Limits]] to take the [[Derivative]] of a [[Function]].
+	- Used with [[Limit|Limits]] to find the [[Slope]] of a [[Tangent Line]].
