@@ -26,7 +26,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   
 	   If for every distance $\epsilon>0$ there is a distance $\delta>0$ such that if $x$ satisfies $0<|x-x_0|<\delta$ then $f(x)$ satisfies $|f(x)-L|<\epsilon$.
 	   
-	   If for every distance $\epsilon$ there is a distance $\delta$ such that there is some number $x$ that if $x-x_0$ is between $0$ and $\delta$
+	   **If for every distance $\epsilon$ there is a distance $\delta$ such that there is some number $x$ that if the distance between $x$ and $x_0$ is between $0$ and $\delta$ then $f(x)$ is less then $\epsilon$ away from $L$.**
 	   
 - ## Reference
 	- Proves the [[Limit]].
