@@ -30,7 +30,7 @@
           "type": "markdown",
           "state": {
             "file": "Spectrum of Light.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -42,19 +42,19 @@
           "type": "markdown",
           "state": {
             "file": "Frequency.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "96f7f569a659df06",
+        "id": "fb9b10edf4975e73",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wavelength.md",
-            "mode": "source",
+            "file": "Speed of Light.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -218,15 +218,15 @@
   },
   "active": "35236421c7d46efa",
   "lastOpenFiles": [
-    "Wavelength.md",
+    "Speed of Light.md",
     "Frequency.md",
+    "Wavelength.md",
     "Spectrum of Light.md",
     "Visiable Light.md",
     "Longest Wavelength.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Coulomb's Law of Energy.md",
     "Vault/Rutherford's Nuclear Theory.md",
-    "Vault/Subatomic Particles.md",
-    "Vault/Molar Mass.md"
+    "Vault/Subatomic Particles.md"
   ]
 }
