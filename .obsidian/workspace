@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e227466f45f70fa7",
+        "id": "955bccfe9a68dfde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Proving a Limit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6e60ed1dab4f490a",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md"
+            "file": "References/Excalidraw/Drawing 2022-08-31 16.07.33.excalidraw.md"
           }
         }
       }
@@ -70,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
+                "file": "Vault/Proving a Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
+                "file": "Vault/Proving a Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
+                "file": "Vault/Proving a Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +181,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e227466f45f70fa7",
+  "active": "955bccfe9a68dfde",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-08-31 16.07.33.excalidraw.md",
     "Vault/Proving a Limit.md",
     "References/Excalidraw/Drawing 2022-08-31 16.02.02.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
@@ -180,7 +192,6 @@
     "Vault/Secant Line.md",
     "Vault/Tangent Line.md",
     "Vault/Binomial Expansion Formula.md",
-    "Visiable Light.md",
-    "Speed of Light.md"
+    "Visiable Light.md"
   ]
 }

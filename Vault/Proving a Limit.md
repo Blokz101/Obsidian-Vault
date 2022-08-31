@@ -17,5 +17,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	3. Let the two $x$ values that $\epsilon+L$ and $\epsilon-L$ be $x_0+a$ and $x_0-b$ respectively.
 	   ![[Drawing 2022-08-31 16.02.02.excalidraw|400]]
 	4. Let $\delta$ be the minimum of $a$ and $b$. In our case above it would be $b$.
+	   ![[Drawing 2022-08-31 16.07.33.excalidraw|400]]
+	5. Therefore we know that if $x$ is between $x_0-\delta$ and $x_0+\delta$, $f(x)$ **MUST** be between $\epsilon-L$ and $\epsilon+L$.
+	   
+	   If: $|x_0-x|<\delta$
+	   Then: $|f(x)-L|<\epsilon$
+	   
 - ## Reference
 	- Proves the [[Limit]].
