@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- A value that a function approaches but never reaches.
+	- A value that a function approaches but never reaches. [[Proving a Limit|See here for Proving a Limit]].
 	  > [!Example and Notation]
 	  > As $x$ in the function $f(x)$ approaches $x_0$, $f(x)$ approaches some value L
 	  > 
@@ -20,4 +20,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}=L}}$
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}=L}}$
 - ## Reference
+	- [[Proving a Limit]]
 	- The basis for [[Derivative|Derivatives]]

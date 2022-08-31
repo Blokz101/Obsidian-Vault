@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Limit.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e227466f45f70fa7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Proving a Limit.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -72,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Vault/Proving a Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Vault/Proving a Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "Vault/Proving a Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +184,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e702db1f2bf91f93",
+  "active": "e227466f45f70fa7",
   "lastOpenFiles": [
+    "Vault/Limit.md",
     "Vault/Secant Line.md",
     "Vault/Tangent Line.md",
     "Vault/Binomial Expansion Formula.md",
-    "Vault/Limit.md",
     "Visiable Light.md",
     "Speed of Light.md",
     "Spectrum of Light.md",
