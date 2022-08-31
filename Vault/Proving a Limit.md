@@ -22,6 +22,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   
 	   If: $|x_0-x|<\delta$
 	   Then: $|f(x)-L|<\epsilon$
+	6. Therefore for the [[Limit]] exists at $x=x_0$:
+	   
+	   If for every distance where $\epsilon>0$ there is a distance $\delta$ such that $x$ satisfies $0<x-x_0<\delta$ 
 	   
 - ## Reference
 	- Proves the [[Limit]].
