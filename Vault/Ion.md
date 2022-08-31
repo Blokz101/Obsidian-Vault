@@ -17,6 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- If it is neutral it is an [[Atom]].
 	- Positively charged [[Ion|Ions]] are [[Ion|Cations]].
 	- Negatively charged [[Ion|Ions]] are [[Ion|Anions]]. 
+- ![[Isotope#^5b210c]]
 - ## Reference
 	- [[Monoatomic Ion]] is a type of [[Ion]].
 	- [[Polyatomic Ions]] is a type of [[Ion]].

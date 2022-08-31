@@ -8,5 +8,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Subatomic Particles|Subatomic Particle]] with a [[Charge]] of $-1$.
-	- To find the number of [[Electron|Electrons]] in an at
 - ## Reference
+	- The number of [[Electron|Electrons]] in an [[Atom]] is equal to the number of [[Proton|Protons]] in that [[Atom]].
+	- The number of [[Electron|Electrons]] in an [[Ion]] is determined by: [[Proton|Protons]]-[[Charge]].
