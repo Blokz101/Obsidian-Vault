@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The number of [[Electron|Electrons]] in an [[Atom|Atoms]] outermost shell.
-	- Determines the chemical properities and reactivity of an [[E]]
+	- Determines the chemical properties and reactivity of an [[Element]].
 	- The number of [[Valence Electron|Valence Electrons]] for the main group of [[Element|Elements]] can be determined by its group or column on the [[Periodic Table]].
 	  
 	  Group | Valence Electrons
