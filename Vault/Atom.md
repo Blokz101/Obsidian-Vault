@@ -6,7 +6,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
+- ## Definition
 	- **[[Atom|Atoms]] are always neutral**
-	- Generally regarded as the smallest unit of an element. However they are made up of [[Subatomic Particles]]
+	- The Atomic Theory states that the atom is the smallest unit of an element. They are made up of [[Subatomic Particles]].
 	- If it is charged it is considered an [[Ion]]
+- ## Reference
+	- [[Atom|Atoms]] combine to form [[Molecule|Molecules]] or [[Compound|Compounds]].
