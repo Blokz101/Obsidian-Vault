@@ -90,7 +90,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Ion.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -212,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Electron.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Electron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Electron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,10 +312,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea550405bc2be911",
+  "active": "1595d0e6df562643",
   "lastOpenFiles": [
-    "Vault/Isotope.md",
     "Vault/Ion.md",
+    "Vault/Isotope.md",
     "Vault/Electron.md",
     "Vault/Subatomic Particles.md",
     "Vault/Periodic Table.md",
