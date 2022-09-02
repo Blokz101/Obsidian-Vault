@@ -16,7 +16,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Equation]
 	  > $$S=\lambda*v$$
 	  > 
-	  > $S$ = [[Speed of Light]] (m/s) = $3.0e8m/s$
-	  > $\lambda$ = [[Wavelength]] (m)
-	  > $v$ = [[Frequency]] ($s^{-1}$)
+	  > $S$ = [[Speed of Light]] (Meters/Second) = $3.0e8m/s$
+	  > $\lambda$ = [[Wavelength]] (Meters)
+	  > $v$ = [[Frequency]] ([[Hertz]])
 - ## Reference
+	- Is a **constant**, however is related to [[Frequency]] and [[Energy]]

@@ -10,8 +10,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- How often a wave passes in a second.
 	  > [!Equation]
 	  > $$v=\frac{S}{\lambda}$$
-- ## Unit
-	- Its unit is $s^{-1}$ or $\frac{1}{s}$.
+	  > 
+	  > $S$ = [[Speed of Light]] (Meters/Second) = $3.0e8m/s$
+	  > $\lambda$ = [[Wavelength]] (Meters)
+	  > $v$ = [[Frequency]] ([[Hertz]])
 - ## Reference
 	- A characteristic if a wave on the [[Spectrum of Light]].
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
