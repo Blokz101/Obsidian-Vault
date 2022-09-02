@@ -19,6 +19,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > Assuming the limit of $L$ is at $x_0$:
 	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}=L}}$
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}=L}}$
+- ## Solving Limits
+	- #### Plug it in
+		- If $x_0$ is within the [[Domain]] of $f(x)$ and $f(x)$ is a function then you can simply plug $x_0$ into $f(x)$.
+	- #### Squeeze Theorem
+		- 
 - ## Reference
 	- [[Proving a Limit]]
 	- The basis for [[Derivative|Derivatives]]

@@ -10,6 +10,18 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "c10a0cf224e3e3a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Limit.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +180,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "955bccfe9a68dfde",
+  "active": "c10a0cf224e3e3a8",
   "lastOpenFiles": [
     "Wavelength.md",
     "Speed of Light.md",
