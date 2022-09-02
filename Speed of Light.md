@@ -16,7 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Equation]
 	  > $$S=\lambda*v$$
 	  > 
-	  > $S$ = [[Speed of Light]]
+	  > $S$ = [[Speed of Light]] = $3.0e8$
 	  > $\lambda$ = [[Wavelength]]
 	  > $v$ = [[Frequency]]
 - ## Reference

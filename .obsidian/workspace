@@ -17,7 +17,43 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References/Excalidraw/Asymptote.md",
+            "file": "Wavelength.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9da25e18408d65b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speed of Light.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9b6033d3bc73859d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spectrum of Light.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "eb0f03177999e50f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Frequency.md",
             "mode": "preview",
             "source": true
           }
@@ -80,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Asymptote.md",
+                "file": "Speed of Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Asymptote.md",
+                "file": "Speed of Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Asymptote.md",
+                "file": "Speed of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba7a072190bf344a",
+  "active": "9da25e18408d65b7",
   "lastOpenFiles": [
+    "Wavelength.md",
+    "Spectrum of Light.md",
+    "Frequency.md",
+    "References/Excalidraw/Asymptote.md",
     "Vault/Parametric Curve.md",
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
-    "References/Excalidraw/Asymptote.md",
     "Vault/Proving a Limit.md",
     "References/Excalidraw/Drawing 2022-08-31 16.07.33.excalidraw.md",
     "References/Excalidraw/Drawing 2022-08-31 16.02.02.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-08-31 15.46.43.excalidraw.md",
-    "Vault/Limit.md",
-    "Vault/Secant Line.md"
+    "References/Excalidraw/Drawing 2022-08-31 15.56.30.excalidraw.md"
   ]
 }
