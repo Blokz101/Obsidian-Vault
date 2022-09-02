@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- > [!Speed of Light]
-	  >$$\large{3.0e8}$$
+	  >$$\large{3.0e8m/s}$$
 	  
 	  The speed at witch light travels.
 - ## Equation
@@ -16,7 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Equation]
 	  > $$S=\lambda*v$$
 	  > 
-	  > $S$ = [[Speed of Light]] = $3.0e8$
-	  > $\lambda$ = [[Wavelength]]
-	  > $v$ = [[Frequency]]
+	  > $S$ = [[Speed of Light]] (m/s) = $3.0e8m/s$
+	  > $\lambda$ = [[Wavelength]] (m)
+	  > $v$ = [[Frequency]] ($s^{-1}$)
 - ## Reference

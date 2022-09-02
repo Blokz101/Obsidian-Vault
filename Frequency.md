@@ -8,6 +8,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- How often a wave passes in a second.
+	  > [!Equation]
+	  > $$v=\frac{S}{\lambda}$$
 - ## Unit
 	- Its unit is $s^{-1}$ or $\frac{1}{s}$.
 - ## Reference

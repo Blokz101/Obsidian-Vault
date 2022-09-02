@@ -24,18 +24,6 @@
         }
       },
       {
-        "id": "9da25e18408d65b7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Speed of Light.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "eb0f03177999e50f",
         "type": "leaf",
         "state": {
@@ -43,6 +31,18 @@
           "state": {
             "file": "Frequency.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e3d3704a8f577f4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speed of Light.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -204,12 +204,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9da25e18408d65b7",
+  "active": "e3d3704a8f577f4a",
   "lastOpenFiles": [
-    "Spectrum of Light.md",
-    "Speed of Light.md",
     "Wavelength.md",
     "Frequency.md",
+    "Speed of Light.md",
+    "Spectrum of Light.md",
     "References/Excalidraw/Asymptote.md",
     "Vault/Parametric Curve.md",
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
