@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "955bccfe9a68dfde",
+        "id": "54298d4623336fde",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -165,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "955bccfe9a68dfde",
+  "active": "54298d4623336fde",
   "lastOpenFiles": [
+    "Vault/Logarithm.md",
     "Vault/Parametric Curve.md",
-    "Vault/Conic Section.md",
     "References/Excalidraw/Drawing 2022-08-28 12.51.48.excalidraw.md",
+    "Vault/Conic Section.md",
     "Vault/Secant Line.md",
     "Vault/Proving a Limit.md",
     "Vault/Limit.md",
     "Wavelength.md",
     "Speed of Light.md",
-    "Frequency.md",
-    "Hertz.md"
+    "Frequency.md"
   ]
 }
