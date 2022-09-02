@@ -21,9 +21,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}=L}}$
 - ## Solving Limits
 	- #### Plug it in
-		- If $x_0$ is within the [[Domain]] of $f(x)$ and $f(x)$ is a function then you can simply plug $x_0$ into $f(x)$.
+		- If $x_0$ is within the [[Domain]] of $f(x)$ and $f(x)$ is a function then you can simply plug $x_0$ into $f(x)$ to find the [[Limit]] of $f(x)$.
 	- #### Squeeze Theorem
-		- 
+		- Let $g(x)<f(x)<h(x)$.
+		- If $g(x)$ and $h(x)$ have the same [[Limit]] $L$, then $f(x)$ will have the same limit because it must stay be between them.
 - ## Reference
 	- [[Proving a Limit]]
 	- The basis for [[Derivative|Derivatives]]
