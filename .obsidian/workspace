@@ -46,30 +46,20 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Atom.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "87a5d497adb5a900",
+        "id": "4b1e0ff091056edd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Rutherford's Model.md",
+            "file": "Vault/Thompson's Plum Pudding.md",
             "mode": "source",
             "source": true
-          }
-        }
-      },
-      {
-        "id": "07ed039b4631d969",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md"
           }
         }
       },
@@ -80,18 +70,6 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Exothermic Process.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "ccdf1a1fb32275e3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Endothermic Process.md",
             "mode": "preview",
             "source": true
           }
@@ -154,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
+                "file": "Vault/Exothermic Process.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
+                "file": "Vault/Exothermic Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
+                "file": "Vault/Exothermic Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07ed039b4631d969",
+  "active": "b207abf24669b781",
   "lastOpenFiles": [
-    "Vault/Rutherford's Model.md",
+    "References/Excalidraw/Drawing 2022-09-03 19.08.57.excalidraw.md",
+    "Vault/Exothermic Process.md",
+    "Vault/Thompson's Plum Pudding.md",
     "Vault/Atom.md",
+    "Vault/Rutherford's Model.md",
+    "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
     "Vault/Energy Levels of an Atom.md",
     "Vault/Rydberg's Equation.md",
     "Spectrum of Light.md",
-    "Vault/Exothermic Process.md",
-    "Vault/Energy.md",
-    "Vault/Endothermic Process.md",
-    "Wavelength.md",
-    "waveLengths.md"
+    "Vault/Energy.md"
   ]
 }

@@ -7,11 +7,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- 
-
-- ## Definition
-	- His experiment lead to the current model of the atom that we have now.
+	- ![[Drawing 2022-09-03 18.57.19.excalidraw|400]]
+	- A model of the [[Atom]] with a small nuclei in the center consisting of [[Protons]] and [[Neutron]], and [[Electron|Electrons]] orbiting it. When they are packed together there is mostly empty space between them.
 - ## Experiment
-	- Shot [[Subatomic Particles|Particles]] at a very thin sheet of gold and observed that many [[Subatomic Particles|Particles]] passed through the sheet while others deflected at specific angles.
-	- Lead him to believe that atoms actually have a lot of empty space with a single hard [[Nucleus]] at their center.
+	- Rutherford shot [[Subatomic Particles]] at a thin sheet of gold and observed that the [[Subatomic Particles|Particles]] deflected in odd ways.
+	- Some of the [[Subatomic Particles|Particles]] passed though the sheet, however many deflected at specific angles.
+	- He realized that much of the atoms was empty space and it lead him to develop the model of the atom above.
 - ## Reference
+	- An early model of the [[Atom]].
