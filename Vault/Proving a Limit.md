@@ -28,5 +28,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   
 	   **Let $\epsilon>0$ and $\delta>0$. If $x$ is between $(x_0-\delta)$ and $(x_0+\delta)$; Then $f(x)$ is between $(L-\epsilon)$ and $(L+\epsilon)$.**
 	   
+- ## Practice
+	- [[Drawing 2022-09-03 18.11.04.excalidraw]]
 - ## Reference
 	- Proves the [[Limit]].
