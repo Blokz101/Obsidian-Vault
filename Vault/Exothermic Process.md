@@ -6,7 +6,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Definition
-	- A [[Process]] in which the initial state of [[Energy]] is higher then the final.
-		- [[Energy]] is released during the [[Process]].
+- ## Definition ^a1df59
+	- This is a **spontaneous** reaction.
+	- A [[Process]] in which the initial state of [[Energy]] is **higher** then the final.
+	- [[Energy]] **is released** during the [[Process]].
+- ## Reference
 	- The opposite of an [[Endothermic Process]].

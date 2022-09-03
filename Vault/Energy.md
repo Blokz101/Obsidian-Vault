@@ -22,6 +22,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Energy Changes
 	- Energy changes in [[Process|Processes]], there are two types:
 		- [[Endothermic Process]]
+		  ![[Endothermic Process#^938bc5]]
 		- [[Exothermic Process]] 
+		  ![[Exothermic Process#^a1df59]]
 - ## Reference
 	- [[Energy]] and [[Frequency]] are **Directly** related.
