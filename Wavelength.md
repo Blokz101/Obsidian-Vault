@@ -14,6 +14,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $S$ = [[Speed of Light]] (Meters/Second) = $3.0e8m/s$
 	  > $\lambda$ = [[Wavelength]] (Meters)
 	  > $v$ = [[Frequency]] ([[Hertz]])
+	- The **longer** the [[Wavelength]].
+		- The **lower** the [[Energy]].
+		- The **lower** the [[Frequency]].
+	- The **shorter** the [[Wavelength]].
+		- The **higher** the [[Energy]].
+		- The **higher** the [[Frequency]].
 - ## Reference
 	- A characteristic of a wave on the [[Spectrum of Light]].
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
