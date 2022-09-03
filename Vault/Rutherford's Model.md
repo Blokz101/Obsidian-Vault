@@ -7,6 +7,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
+	- 
+
+- ## Definition
 	- His experiment lead to the current model of the atom that we have now.
 - ## Experiment
 	- Shot [[Subatomic Particles|Particles]] at a very thin sheet of gold and observed that many [[Subatomic Particles|Particles]] passed through the sheet while others deflected at specific angles.

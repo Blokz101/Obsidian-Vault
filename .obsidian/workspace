@@ -22,6 +22,42 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Rydberg's Equation.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6f60976dc7c434ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Energy Levels of an Atom.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6135d8426a16f29a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Atom.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "87a5d497adb5a900",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Rutherford's Model.md",
             "mode": "source",
             "source": true
           }
@@ -31,11 +67,9 @@
         "id": "07ed039b4631d969",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Spectrum of Light.md",
-            "mode": "source",
-            "source": true
+            "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md"
           }
         }
       },
@@ -97,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sponta",
+                "query": "gold",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -169,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spectrum of Light.md",
+                "file": "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +246,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,15 +255,15 @@
   },
   "active": "07ed039b4631d969",
   "lastOpenFiles": [
+    "Vault/Rutherford's Model.md",
+    "Vault/Atom.md",
+    "Vault/Energy Levels of an Atom.md",
     "Vault/Rydberg's Equation.md",
+    "Spectrum of Light.md",
     "Vault/Exothermic Process.md",
     "Vault/Energy.md",
     "Vault/Endothermic Process.md",
     "Wavelength.md",
-    "waveLengths.md",
-    "Vault/Proving a Limit.md",
-    "Vault/Limit.md",
-    "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
-    "Vault/Mole.md"
+    "waveLengths.md"
   ]
 }
