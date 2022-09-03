@@ -1,12 +1,11 @@
 ---
 Alias: []
-Creation Date: Sat September 3rd 2022 07:08:53 pm 
+Creation Date: Sat September 3rd 2022 07:15:25 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- ![[Drawing 2022-09-03 19.08.57.excalidraw|400]]
+	- 
 - ## Reference
-	- First model of the [[Atom]].
