@@ -14,4 +14,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Some of the [[Subatomic Particles|Particles]] passed though the sheet, however many deflected at specific angles.
 	- He realized that much of the atoms was empty space and it lead him to develop the model of the atom above.
 - ## Reference
-	- An early model of the [[Atom]].
+	- A current model of the [[Atom]].

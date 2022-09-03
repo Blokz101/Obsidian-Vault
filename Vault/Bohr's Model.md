@@ -7,5 +7,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- 
+	- ![[Drawing 2022-09-03 19.15.45.excalidraw|400]]
+	- The same as the [[Rutherford's Model]] but with **6** defined **energy levels** that the [[Electron|Electrons]] must orbit on. 
+	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Spectrum of Light|Light]].
+	- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
 - ## Reference
+	- A current model of the [[Atom]], however it only applies to the [[Element]] **Hydrogen**.

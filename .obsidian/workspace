@@ -40,6 +40,18 @@
         }
       },
       {
+        "id": "122cad6486032a4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Rutherford's Model.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "26c86fcc5a952e32",
         "type": "leaf",
         "state": {
@@ -48,16 +60,6 @@
             "file": "Vault/Bohr's Model.md",
             "mode": "source",
             "source": true
-          }
-        }
-      },
-      {
-        "id": "b207abf24669b781",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md"
           }
         }
       }
@@ -118,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
+                "file": "Vault/Bohr's Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
+                "file": "Vault/Bohr's Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
+                "file": "Vault/Bohr's Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b207abf24669b781",
+  "active": "26c86fcc5a952e32",
   "lastOpenFiles": [
+    "Vault/Electromagnetic Wave.md",
+    "Vault/Bohr's Model.md",
     "Vault/Atom.md",
-    "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
     "Vault/Rutherford's Model.md",
     "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
-    "Vault/Bohr's Model.md",
+    "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
     "Vault/Energy Levels of an Atom.md",
     "Vault/Thompson's Plum Pudding.md",
     "Vault/Exothermic Process.md",
-    "References/Excalidraw/Drawing 2022-09-03 19.08.57.excalidraw.md",
-    "Vault/Rydberg's Equation.md"
+    "References/Excalidraw/Drawing 2022-09-03 19.08.57.excalidraw.md"
   ]
 }
