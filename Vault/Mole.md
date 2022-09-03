@@ -25,3 +25,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > **How many moles of aluminum do $4.90*10^{22}$ aluminum atoms represent?**
 	  > $$4.90*10^{22}atomsAl*\frac{1moleAl}{6.02*10^{23}atomsAl}=8.14*10^{-2}molesAl$$
+- ## Reference
