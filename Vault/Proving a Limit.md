@@ -26,7 +26,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   
 	   If for every distance $\epsilon>0$ there is a distance $\delta>0$ such that if $x$ satisfies $0<|x-x_0|<\delta$ then $f(x)$ satisfies $|f(x)-L|<\epsilon$.
 	   
-	   **Let $\epsilon>0$ and $\delta>0$. If $x$ is between $(x_0-\delta)$ and $(x_0+\delta)$; Then $f(x)$ is between $(L-\epsilon)$ and $(L+\epsilon)$.**
+	   **Let $\epsilon>0$ and $\delta>0$ though both are considered infinitesimally small. If $x$ is between $(x_0-\delta)$ and $(x_0+\delta)$; Then $f(x)$ is between $(L-\epsilon)$ and $(L+\epsilon)$. Therefore the limit exists.**
 	   
 - ## Practice
 	- [[Drawing 2022-09-03 18.11.04.excalidraw]]

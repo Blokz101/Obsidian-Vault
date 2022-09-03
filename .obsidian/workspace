@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "54298d4623336fde",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "63abb1a18c7fac20",
         "type": "leaf",
         "state": {
@@ -94,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +184,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54298d4623336fde",
+  "active": "48eb2092f9ad0fd6",
   "lastOpenFiles": [
     "Vault/Proving a Limit.md",
-    "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+    "Vault/Limit.md",
     "Vault/Mole.md",
     "Vault/Non-Metal.md",
     "Vault/Logarithm.md",
