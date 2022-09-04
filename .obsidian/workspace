@@ -64,6 +64,30 @@
         }
       },
       {
+        "id": "15e26d9bd7673f00",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Rydberg's Equation.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0412a330ca32f9d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Frequency.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "79a7c87a0971446f",
         "type": "leaf",
         "state": {
@@ -132,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Rydberg's Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Rydberg's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Rydberg's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,20 +252,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "26c86fcc5a952e32",
+  "active": "15e26d9bd7673f00",
   "lastOpenFiles": [
-    "Vault/Hydrogen Atom Line Spectra Experiment.md",
-    "Vault/Bohr's Model.md",
+    "Frequency.md",
     "Vault/Rydberg's Equation.md",
+    "Vault/Bohr's Model.md",
+    "Vault/Hydrogen Atom Line Spectra Experiment.md",
     "Vault/Energy Levels of an Atom.md",
     "Vault/Electromagnetic Wave.md",
     "Vault/Atom.md",
     "Vault/Rutherford's Model.md",
     "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md",
-    "Vault/Thompson's Plum Pudding.md"
+    "References/Excalidraw/Drawing 2022-09-03 18.57.19.excalidraw.md"
   ]
 }
