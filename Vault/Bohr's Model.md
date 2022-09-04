@@ -28,13 +28,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Equation]
 		   > $$E_{level}=\frac{-Z^2hR}{n^2}$$
 		   > 
-		   > $E_{level}$ = [[Bohr's Model|Energy Levels of an Atom]]
+		   > $E_{level}$ = [[Energy]] (J)
 		   > $Z$ = [[Atomic Number]]
 		   > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
 		   > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
-		   > 
-		   > Note: The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another.
-		- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
+		   > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
+		   
+		- The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force]].
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
 - ## Reference

@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Definition
+- ## Definition ^5645df
 	- Equation that states that like [[Charge|Charges]] repel and opposite [[Charge|Charges]] attract.
 	  > [!Equation]
 	  > $$\large{F=\frac{kq_1q_2}{Ɛr^2}}$$
