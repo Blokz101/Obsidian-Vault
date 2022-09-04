@@ -40,16 +40,6 @@
         }
       },
       {
-        "id": "5fb0c9cfd7c45a77",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "82810108f39791ef",
         "type": "leaf",
         "state": {
@@ -142,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
+                "file": "Speed of Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -191,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
+                "file": "Speed of Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
+                "file": "Speed of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,10 +231,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fb0c9cfd7c45a77",
+  "active": "82810108f39791ef",
   "lastOpenFiles": [
-    "Speed of Light.md",
     "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
+    "Speed of Light.md",
     "Vault/Conversion Factor.md",
     "Vault/Conversions.md",
     "Wavelength.md",
