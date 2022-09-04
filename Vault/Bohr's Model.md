@@ -13,9 +13,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Interactions
 	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Energy]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
 		- > [!Equation]
-		  > $$E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})$$
-		  
-	![[Planck's Constant#^0cca3d]]
+		  > $$\large{E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})}$$
+		  > 
+		  > $E$ = [[Energy]] (J)
+	      > $h$ = [[Planck's Equation]] = $6.626e-34$ ($Js$).
+		  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
+	      > $n_{lo}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the lowest.
+	      > $n_{hi}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the highest.
+	      
+	      Derived from [[Planck's Equation]] and from [[Rydberg's Equation]]:
+			![[Planck's Equation#^0cca3d]]
+			![[Rydberg's Equation#^cc69a2]]
 	- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]

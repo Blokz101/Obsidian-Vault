@@ -69,6 +69,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Vault/Planck's Equation.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c2b2020e68e5ee73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Vault/Planck's Constant.md",
             "mode": "preview",
             "source": true
@@ -252,20 +264,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "26c86fcc5a952e32",
   "lastOpenFiles": [
-    "Vault/Rydberg's Equation.md",
     "Vault/Planck's Constant.md",
+    "Vault/Planck's Equation.md",
     "Vault/Bohr's Model.md",
+    "Vault/Rydberg's Equation.md",
     "Vault/Energy.md",
     "Frequency.md",
     "Wavelength.md",
     "Vault/Rydberg's Constant.md",
     "Vault/Hydrogen Atom Line Spectra.md",
-    "Vault/Energy Levels of an Atom.md",
-    "Vault/Electromagnetic Wave.md"
+    "Vault/Energy Levels of an Atom.md"
   ]
 }

@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
 	  > $n_{lo}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the lowest.
-	  > $n_{hi}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the highest.
+	  > $n_{hi}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the highest. ^cc69a2
 	- Examples:
 		- Visible Light [[Frequency]]
 			- $n_{lo}=2$, $n_{hi}=3$ $\rightarrow$ $4.57e14s^{-1}$ (Red)

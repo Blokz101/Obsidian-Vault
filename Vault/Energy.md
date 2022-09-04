@@ -11,7 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## [[Spectrum of Light]]
 	- This equation relates [[Energy]] to [[Frequency]].
 	  
-![[Planck's Constant#^0cca3d]]
+![[Planck's Equation#^0cca3d]]
 - ## Units
 	- [[Energy]] is measured in the Calorie and the Joule.
 	- $1cal=4.184J$
