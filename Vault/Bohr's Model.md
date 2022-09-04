@@ -29,7 +29,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\large{r_n=52.92(\frac{n^2}{Z})}$$
 	  > 
 	  > $r_n$ = Radius (picometers or $10e-12$)
-	  > $n^2$ = The energy level (integer)
+	  > $n$ = The energy level (integer)
 	  > $Z$ = [[Atomic Number]]
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
