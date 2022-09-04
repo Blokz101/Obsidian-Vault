@@ -23,6 +23,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		   > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
 		   
 		- The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force]].
+- ## Bohr Radius
+	- If we relate the concept of quantized energy levels above to [[Coul]]
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
 - ## Reference

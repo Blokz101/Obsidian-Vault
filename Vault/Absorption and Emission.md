@@ -28,6 +28,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		
 	- ![[Bohr's Model#^925e1e]]
 
-		- ![[Drawing 2022-09-04 13.49.33.excalidraw|400]]
+		- ![[Drawing 2022-09-04 13.49.33.excalidraw|1000]]
 
 - ## Reference
