@@ -18,5 +18,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- When the [[Charge|Charges]] of two [[Subatomic Particles|Particles]] are both positive or both negative the force is **positive and repulsive**
 	- When one [[Subatomic Particles|Particle]] is positively [[Charge|Charged]] and one is negatively [[Charge|Charged]], the force is **negative and attractive**.
 	- The [[Force]] is the strongest when dealing with two large [[Charge|Charges]] and the atoms are close together.
+- ## Practice
+	- [[Drawing 2022-09-04 14.47.34.excalidraw]]
 - ## Reference
 	- Strongly related to [[Coulomb's Law of Energy]].
