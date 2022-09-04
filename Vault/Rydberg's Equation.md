@@ -13,4 +13,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	  > $R$ = 
+	  > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
 - ## Reference
