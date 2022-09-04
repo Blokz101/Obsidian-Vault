@@ -21,5 +21,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  ![[Endothermic Process#^938bc5]]
 		- [[Exothermic Process]] 
 		  ![[Exothermic Process#^a1df59]]
+- ## Practice
+	- [[Drawing 2022-09-04 15.09.53.excalidraw]]
 - ## Reference
 	- [[Energy]] and [[Frequency]] are **Directly** related.
