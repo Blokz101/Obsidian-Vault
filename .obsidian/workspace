@@ -4,48 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "384639e7ce2273ac",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Subatomic Particles.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "152cc73644a02279",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Vault/Coulomb's Law of Force.md",
-            "mode": "preview",
-            "source": true
+            "file": "References/Excalidraw/Drawing 2022-09-04 14.37.27.excalidraw.md"
           }
         }
       },
       {
-        "id": "26c86fcc5a952e32",
+        "id": "e920f3ea908a20ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Bohr's Model.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3738078d3fe7f970",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Absorption and Emission.md",
+            "file": "Vault/Coulomb's Law of Energy.md",
             "mode": "preview",
             "source": true
           }
@@ -108,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "References/Excalidraw/Drawing 2022-09-04 14.37.27.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "References/Excalidraw/Drawing 2022-09-04 14.37.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "References/Excalidraw/Drawing 2022-09-04 14.37.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3738078d3fe7f970",
+  "active": "152cc73644a02279",
   "lastOpenFiles": [
-    "Vault/Bohr's Model.md",
+    "Vault/Coulomb's Law of Energy.md",
+    "References/Excalidraw/Drawing 2022-09-04 14.37.27.excalidraw.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Absorption and Emission.md",
+    "Vault/Bohr's Model.md",
+    "Vault/Subatomic Particles.md",
     "References/Excalidraw/Drawing 2022-09-04 13.49.33.excalidraw.md",
     "References/Excalidraw/Drawing 2022-09-03 19.15.45.excalidraw.md",
     "Vault/Planck's Equation.md",
-    "Vault/Rydberg's Equation.md",
-    "Vault/Energy.md",
-    "Vault/Subatomic Particles.md",
-    "Vault/Rutherford's Model.md"
+    "Vault/Rydberg's Equation.md"
   ]
 }

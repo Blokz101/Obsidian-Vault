@@ -27,5 +27,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $Ɛ$ = [[Dielectric Constant]]
 	  > $r$ = Distance
 	- Same as [[Coulomb's Law of Force]], the more **negative the [[Energy]], the more attractive**, and **the more positive, the more repulsive**.
+- ## Practice
+	- [[Drawing 2022-09-04 14.37.27.excalidraw]]
 - ## Reference
 	- Derived from [[Coulomb's Law of Force]].
