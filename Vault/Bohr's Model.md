@@ -24,7 +24,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	      Derived from [[Planck's Equation]] and from [[Rydberg's Equation]]:
 			![[Planck's Equation#^0cca3d]]
 			![[Rydberg's Equation#^cc69a2]]
-	- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
+	- Each [[Bohr's Model|Energy Levels of an Atom]] has a measurable [[Energy]] given by this equation.
+		- > [!Equation]
+		   > $$E_{level}=\frac{-Z^2hR}{n^2}$$
+		   > 
+		   > $E_{level}$ = [[Bohr's Model|Energy Levels of an Atom]]
+		   > $Z$ = [[Atomic Number]]
+		   > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
+		   > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
+		   > 
+		   > Note: The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another.
+		- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
 - ## Reference

@@ -12,6 +12,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$E=h*v$$
 	  > 
 	  > $E$ = [[Energy]] (J)
-	  > $h$ = [[Planck's Equation]] = $6.626e-34$ ($Js$).
+	  > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
 	  > $v$ = [[Frequency]] ($s^{-1}$ ). ^0cca3d
 - ## Reference
