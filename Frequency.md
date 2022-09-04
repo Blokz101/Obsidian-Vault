@@ -16,6 +16,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	  > 
 	  > The speed of light is **CONSTANT**
+- ## Practice
+	- [[Drawing 2022-09-04 15.09.53.excalidraw]]
 - ## Reference
 	- A characteristic if a wave on the [[Spectrum of Light]].
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
