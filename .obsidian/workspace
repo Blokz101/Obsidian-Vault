@@ -34,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Bohr's Model.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -46,7 +46,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Absorption and Emission.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Vault/Bohr's Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Vault/Bohr's Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Vault/Bohr's Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2aca340215d1ff2",
+  "active": "26c86fcc5a952e32",
   "lastOpenFiles": [
+    "Vault/Planck's Equation.md",
     "Vault/Bohr's Model.md",
+    "Vault/Rydberg's Equation.md",
+    "Vault/Energy.md",
     "Vault/Absorption and Emission.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Subatomic Particles.md",
     "Vault/Rutherford's Model.md",
-    "Vault/Rydberg's Equation.md",
     "Vault/Planck's Constant.md",
-    "Vault/Hydrogen Atom Line Spectra.md",
-    "Vault/Atom.md",
-    "Vault/Charge.md"
+    "Vault/Hydrogen Atom Line Spectra.md"
   ]
 }

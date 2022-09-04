@@ -9,9 +9,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- [[Electron|Electrons]] can jump from energy level to energy level.
 		- When it **absorbs** energy it jumps from a **lower energy level to a higher one**.
-		- When it **releases** energy it drops from a **higher energy level to a lower one**.
-	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Energy]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
-		- > [!Equation]
+		- When it **releases** energy it drops from a **higher energy level to a lower one** and  emits [[Energy]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
+			- > [!Equation]
 		  > $$\large{E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})}$$
 		  > 
 		  > $E$ = [[Energy]] (J)
