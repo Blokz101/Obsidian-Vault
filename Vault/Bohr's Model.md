@@ -12,6 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Significant because it showed that [[Electron|Electrons]] move in quantized[^1] [[Energy]] transitions.
 - ## Interactions
 	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Spectrum of Light|Light]] at a specific [[Frequency]].
+	  [[]]
 	- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]

@@ -34,6 +34,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Bohr's Model.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7730520f53fbe725",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Energy.md",
             "mode": "preview",
             "source": true
           }
@@ -46,7 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Rydberg's Equation.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -70,7 +82,7 @@
           "type": "markdown",
           "state": {
             "file": "Frequency.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -144,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Rydberg's Equation.md",
+                "file": "Frequency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Rydberg's Equation.md",
+                "file": "Frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Rydberg's Equation.md",
+                "file": "Frequency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,16 +254,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "15e26d9bd7673f00",
+  "active": "0412a330ca32f9d5",
   "lastOpenFiles": [
+    "Vault/Bohr's Model.md",
+    "Vault/Energy.md",
+    "Vault/Rydberg's Equation.md",
     "Vault/Planck's Constant.md",
     "Wavelength.md",
-    "Vault/Rydberg's Equation.md",
-    "Vault/Energy.md",
     "Frequency.md",
     "Vault/Rydberg's Constant.md",
     "Vault/Hydrogen Atom Line Spectra.md",
-    "Vault/Bohr's Model.md",
     "Vault/Energy Levels of an Atom.md",
     "Vault/Electromagnetic Wave.md"
   ]
