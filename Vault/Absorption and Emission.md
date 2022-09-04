@@ -25,4 +25,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			
 		> [!Warning]
 		> Not sure if the above equations are in the correct places, the other one below I am sure of.
+		
+![[Bohr's Model#^925e1e]]
+
+
 - ## Reference

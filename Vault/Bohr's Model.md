@@ -11,8 +11,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The same as the [[Rutherford's Model]] but with **6** defined **energy levels** that the [[Electron|Electrons]] must orbit on. 
 	- Significant because it showed that [[Electron|Electrons]] move in quantized[^1] [[Energy]] transitions.
 - ## Interactions
-	- 
-	- Each [[Bohr's Model|Energy Levels of an Atom]] has a measurable [[Energy]] given by this equation.
+	- [[Electron|Electrons]] can jump between energy levels via the process of [[Absorption and Emission]].
+	- Each [[Bohr's Model|Energy Levels of an Atom]] has a measurable [[Energy]] given by this equation. ^925e1e
 		- > [!Equation]
 		   > $$E_{level}=\frac{-Z^2hR}{n^2}$$
 		   > 
