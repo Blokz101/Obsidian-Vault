@@ -64,6 +64,18 @@
         }
       },
       {
+        "id": "ca62f09d825d871c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Absorption and Emission.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "cd7b44b412d77853",
         "type": "leaf",
         "state": {
@@ -144,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +255,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7714d2f3546ec550",
+  "active": "ca62f09d825d871c",
   "lastOpenFiles": [
+    "Vault/Bohr's Model.md",
     "Speed of Light.md",
     "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
     "Vault/Conversion Factor.md",
@@ -253,7 +266,6 @@
     "Vault/Energy.md",
     "Frequency.md",
     "Vault/Coulomb's Law of Force.md",
-    "References/Excalidraw/Drawing 2022-09-04 14.47.34.excalidraw.md",
-    "Vault/Coulomb's Law of Energy.md"
+    "References/Excalidraw/Drawing 2022-09-04 14.47.34.excalidraw.md"
   ]
 }
