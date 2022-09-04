@@ -1,5 +1,5 @@
 ---
-Alias: [Energy Levels of an Atom]
+Alias: [Energy Levels of an Atom, Bohr Radius]
 Creation Date: Sat September 3rd 2022 07:15:25 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -24,7 +24,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		   
 		- The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force]].
 - ## Bohr Radius
-	- If we relate the concept of quantized energy levels above to [[Coul]]
+	- If we relate the concept of quantized energy levels above to [[Coulomb's Law of Force]] we can determine the radius of each of the energy levels.
+	- > [!Equation]
+	  > $$\large{r_n=52.92(\frac{n^2}{Z})}$$
+	  > 
+	  > $r_n$ = Radius (picometers or $10e-12$)
+	  > $n^2$ = The energy level (integer)
+	  > $Z$ = [[Atomic Number]]
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
 - ## Reference
