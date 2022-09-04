@@ -12,6 +12,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\large{v=R(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})}$$
 	  > 
 	  > $v$ = [[Frequency]] ([[Hertz]])
-	  > $R$ = 
+	  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
 	  > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
 - ## Reference
