@@ -7,21 +7,29 @@
         "id": "6135d8426a16f29a",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "384639e7ce2273ac",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Atom.md",
-            "mode": "preview",
+            "file": "Vault/Subatomic Particles.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "122cad6486032a4e",
+        "id": "152cc73644a02279",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Rutherford's Model.md",
+            "file": "Vault/Coulomb's Law of Force.md",
             "mode": "preview",
             "source": true
           }
@@ -40,48 +48,12 @@
         }
       },
       {
-        "id": "15e26d9bd7673f00",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Rydberg's Equation.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "c2b2020e68e5ee73",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Planck's Constant.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "0412a330ca32f9d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Frequency.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "79a7c87a0971446f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Hydrogen Atom Line Spectra.md",
             "mode": "preview",
             "source": true
           }
@@ -144,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Subatomic Particles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Subatomic Particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Subatomic Particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26c86fcc5a952e32",
+  "active": "384639e7ce2273ac",
   "lastOpenFiles": [
+    "Vault/Coulomb's Law of Force.md",
+    "Vault/Subatomic Particles.md",
+    "Vault/Rutherford's Model.md",
     "Vault/Rydberg's Equation.md",
-    "Vault/Bohr's Model.md",
-    "Vault/Planck's Equation.md",
-    "Vault/Energy.md",
     "Vault/Planck's Constant.md",
-    "Frequency.md",
-    "Wavelength.md",
-    "Vault/Rydberg's Constant.md",
     "Vault/Hydrogen Atom Line Spectra.md",
-    "Vault/Energy Levels of an Atom.md"
+    "Vault/Bohr's Model.md",
+    "Vault/Atom.md",
+    "Vault/Charge.md",
+    "Vault/Planck's Equation.md"
   ]
 }

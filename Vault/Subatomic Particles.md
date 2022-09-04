@@ -6,10 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
-	- 
-- Notes
-	- Make up [[Atom|Atoms]]. The number of [[Subatomic Particles]] in each atom defines its characteristics and properties. 
+- ## Definition
+	- They make up [[Atom|Atoms]]. The number of [[Subatomic Particles]] in each atom defines its characteristics and properties. 
 	- There are three [[Subatomic Particles]] of interest:
 		
 		| Particle | Symbol | Mass                | Charge | Location                         |
@@ -17,3 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		| [[Proton]]   | $p^+$  | $1.0078amu$            | $+1$    | Inside the [[Nucleus]]    |
 		| [[Neutron]] | $n^0$  | $1.0087amu$            | $0$      | Inside the [[Nucleus]]    |
 		| [[Electron]] | $e^-$  | $0.0005amu$ | $-1$    | Outside the [[Nucleus]] |
+		
+- ## Interaction
+	- [[Coulomb's Law of Force]] dictates how [[Subatomic Particles]] interact with each other.
+	- 
+- ## Reference

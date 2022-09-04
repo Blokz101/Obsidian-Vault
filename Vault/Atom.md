@@ -7,9 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- **[[Atom|Atoms]] are always neutral**
-	- The Atomic Theory states that the atom is the smallest unit of an element. They are made up of [[Subatomic Particles]].
-	- If it is charged it is considered an [[Ion]].
+	- **[[Atom|Atoms]] are always neutral**, if it is charged it is considered an [[Ion]].
+	- The Atomic Theory states that the atom is the smallest unit of an [[Element]]. They are made up of [[Subatomic Particles]].
 - ## Models of the Atom
 	- [[Thompson's Plum Pudding]] - 1903
 	- [[Rutherford's Model]] - 1911
