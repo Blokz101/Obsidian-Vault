@@ -22,4 +22,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	      Derived from [[Planck's Equation]] and from [[Rydberg's Equation]]:
 			![[Planck's Equation#^0cca3d]]
 			![[Rydberg's Equation#^cc69a2]]
+			
+		> [!Warning]
+		> Not sure if the above equations are in the correct places, the other one below I am sure of.
 - ## Reference

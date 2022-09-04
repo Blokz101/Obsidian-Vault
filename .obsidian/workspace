@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Vault/Absorption and Emission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26c86fcc5a952e32",
+  "active": "e2aca340215d1ff2",
   "lastOpenFiles": [
-    "Vault/Planck's Equation.md",
     "Vault/Bohr's Model.md",
+    "Vault/Planck's Equation.md",
     "Vault/Rydberg's Equation.md",
     "Vault/Energy.md",
     "Vault/Absorption and Emission.md",
