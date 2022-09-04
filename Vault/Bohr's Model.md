@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Energy Levels of an Atom]
 Creation Date: Sat September 3rd 2022 07:15:25 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -16,6 +16,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra Experiment]]
 - ## Reference
-	- A current model of the [[Atom]], however it only applies to the [[Element]] **Hydrogen**.
+	- A current model of the [[Atom]].
+	  > [!Warning]
+	  > This model only holds true for the [[Element]] Hydrogen and other [[Ion|Ions]] that have only one [[Electron]].
 
 [^1]: To be able to put numerical values to something.

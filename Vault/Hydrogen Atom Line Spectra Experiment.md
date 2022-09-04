@@ -11,5 +11,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- When this light passes though a prism it fractures into the [[Spectrum of Light]] however only a few lines of it. This is known as the [[Hydrogen Atom Line Spectra Experiment|Hydrogen Atom Line Spectra]].
 	- ![[Screen Shot 2022-09-03 at 7.57.36 PM.png|400]]
 - ## Explanation
-	- The reason for the differing lines of light has to do with excited [[elec]]
+	- The reason for the differing lines of light has to do with excited [[Electron|Electrons]] jumping between [[Bohr's Model|Energy Levels of an Atom]].
+	- When the [[Electron]] gets excited it jumps from specific energy levels to other specific energy levels and releases [[Spectrum of Light|Light]] as it does so. Because of the specific levels it is jumping between it releases a different [[Frequency]] for each specific jump. This is why we only see some stripes of the [[Spectrum of Light]].
+	  > [!What If?]
+	  > If the [[Electron]] jumped to a random energy level every time, we would see the full [[Spectrum of Light]].
 - ## Reference
+	- Lead to the development of the [[Bohr's Model]] of the [[Atom]].
