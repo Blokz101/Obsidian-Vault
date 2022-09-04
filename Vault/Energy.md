@@ -9,13 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The ability to do [[Work]].
 - ## [[Spectrum of Light]]
-	- This equation relates [[Energy]] to [[Frequency]].
-	  > [!Equation]
-	  > $$E=h*v$$
-	  > 
-	  > $E$ = [[Energy]] (J)
-	  > $h$ = Plank's Constant = $6.626e-34$ ($Js$).
-	  > $v$ = [[Frequency]] ($s^{-1}$ ).
+  ![[Planck's Constant#^103390]]
 - ## Units
 	- [[Energy]] is measured in the Calorie and the Joule.
 	- $1cal=4.184J$

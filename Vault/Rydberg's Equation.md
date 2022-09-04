@@ -13,5 +13,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
-	  > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
+	  > $n_{lo}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
 - ## Reference
