@@ -34,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Bohr's Model.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Planck's Constant.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -82,7 +82,7 @@
           "type": "markdown",
           "state": {
             "file": "Frequency.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frequency.md",
+                "file": "Vault/Planck's Constant.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frequency.md",
+                "file": "Vault/Planck's Constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frequency.md",
+                "file": "Vault/Planck's Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,16 +252,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0412a330ca32f9d5",
+  "active": "4a2a6407f5208f25",
   "lastOpenFiles": [
-    "Vault/Bohr's Model.md",
-    "Vault/Energy.md",
     "Vault/Rydberg's Equation.md",
+    "Vault/Bohr's Model.md",
     "Vault/Planck's Constant.md",
-    "Wavelength.md",
+    "Vault/Energy.md",
     "Frequency.md",
+    "Wavelength.md",
     "Vault/Rydberg's Constant.md",
     "Vault/Hydrogen Atom Line Spectra.md",
     "Vault/Energy Levels of an Atom.md",

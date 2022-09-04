@@ -15,7 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $\lambda$ = [[Wavelength]] (m)
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	  > 
-	  > **The sp**
+	  > The speed of light is **CONSTANT**
 - ## Reference
 	- A characteristic if a wave on the [[Spectrum of Light]].
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
