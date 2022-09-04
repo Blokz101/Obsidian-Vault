@@ -22,4 +22,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > This tells us that $27.56moleO_2$ is required to fully exhaust the supply of  $13.78moleCH_4$. Because this is more than the amount of $O_2$ provided we know that $O_2$ is the limiting reactant.
 - ## Practice
 	- [[Drawing 2022-08-28 11.21.52.excalidraw]]
+	- [[Drawing 2022-09-04 18.50.30.excalidraw]]
 - ## Reference
