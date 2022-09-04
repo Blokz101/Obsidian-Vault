@@ -9,7 +9,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The ability to do [[Work]].
 - ## [[Spectrum of Light]]
-  ![[Planck's Constant#^103390]]
+	- This equation relates [[Energy]] to [[Frequency]].
+	  
+![[Planck's Constant#^0cca3d]]
 - ## Units
 	- [[Energy]] is measured in the Calorie and the Joule.
 	- $1cal=4.184J$

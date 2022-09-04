@@ -11,8 +11,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The same as the [[Rutherford's Model]] but with **6** defined **energy levels** that the [[Electron|Electrons]] must orbit on. 
 	- Significant because it showed that [[Electron|Electrons]] move in quantized[^1] [[Energy]] transitions.
 - ## Interactions
-	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Spectrum of Light|Light]] at a specific [[Frequency]].
-	  ![[Planck's Constant#^0cca3d]]
+	- [[Electron|Electrons]] can jump from level to level and when they do they emit [[Energy]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
+		- > [!Equation]
+		  > $$E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})$$
+		  
+	![[Planck's Constant#^0cca3d]]
 	- The [[Energy]] of an [[Electron]] any orbit around a [[Nucleus]] will have negative [[Energy]] compared an [[Electron]] that is not in orbit.
 - ## Experiment
 	- [[Hydrogen Atom Line Spectra]]
