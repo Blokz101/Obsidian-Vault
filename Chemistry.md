@@ -8,6 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Table of Contents
 ```dataview
-LIST "File Path: " + file.path FROM "Vault"
-GROUP BY file.link
+LIST "File Path: " + file.path 
+FROM "Vault"
+SORT file.ctime ASCENDING
 ```
