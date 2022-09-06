@@ -52,6 +52,18 @@
         }
       },
       {
+        "id": "3407f83671217a7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wavelength.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "7714d2f3546ec550",
         "type": "leaf",
         "state": {
@@ -144,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Speed of Light.md",
+                "file": "Wavelength.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speed of Light.md",
+                "file": "Wavelength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speed of Light.md",
+                "file": "Wavelength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,15 +255,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82810108f39791ef",
+  "active": "3407f83671217a7d",
   "lastOpenFiles": [
+    "Speed of Light.md",
     "Vault/Absorption and Emission.md",
     "Vault/Limiting Reactant.md",
     "Vault/Avogadro's Number.md",
     "Vault/Molar Mass.md",
     "References/Excalidraw/Drawing 2022-09-04 18.50.30.excalidraw.md",
     "Vault/Bohr's Model.md",
-    "Speed of Light.md",
     "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
     "Vault/Conversion Factor.md",
     "Vault/Conversions.md"
