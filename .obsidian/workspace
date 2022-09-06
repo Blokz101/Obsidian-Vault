@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Speed of Light.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Speed of Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Absorption and Emission.md",
+                "file": "Speed of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,13 +243,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca62f09d825d871c",
+  "active": "82810108f39791ef",
   "lastOpenFiles": [
+    "Vault/Absorption and Emission.md",
     "Vault/Limiting Reactant.md",
     "Vault/Avogadro's Number.md",
     "Vault/Molar Mass.md",
     "References/Excalidraw/Drawing 2022-09-04 18.50.30.excalidraw.md",
-    "Vault/Absorption and Emission.md",
     "Vault/Bohr's Model.md",
     "Speed of Light.md",
     "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
