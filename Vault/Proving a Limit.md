@@ -30,5 +30,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   
 - ## Practice
 	- [[Drawing 2022-09-03 18.11.04.excalidraw]]
+	- [[Drawing 2022-09-06 15.03.37.excalidraw]]
 - ## Reference
 	- Proves the [[Limit]].
