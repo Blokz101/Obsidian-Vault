@@ -4,96 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "82813a3f54c6af27",
+        "id": "901728d2c4ce4248",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Coulomb's Law of Force.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "00f83bc69afd6ae7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Frequency.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "17533a1beb627262",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Energy.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "82810108f39791ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Speed of Light.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3407f83671217a7d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wavelength.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7714d2f3546ec550",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Bohr's Model.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "ca62f09d825d871c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Absorption and Emission.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cd7b44b412d77853",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Conversion Factor.md",
+            "file": "Vault/Limit.md",
             "mode": "preview",
             "source": true
           }
@@ -156,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wavelength.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wavelength.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wavelength.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3407f83671217a7d",
+  "active": "901728d2c4ce4248",
   "lastOpenFiles": [
-    "Speed of Light.md",
-    "Vault/Absorption and Emission.md",
-    "Vault/Limiting Reactant.md",
-    "Vault/Avogadro's Number.md",
-    "Vault/Molar Mass.md",
-    "References/Excalidraw/Drawing 2022-09-04 18.50.30.excalidraw.md",
-    "Vault/Bohr's Model.md",
-    "References/Excalidraw/Drawing 2022-09-04 15.09.53.excalidraw.md",
+    "limi.md",
     "Vault/Conversion Factor.md",
-    "Vault/Conversions.md"
+    "Vault/Absorption and Emission.md",
+    "Vault/Bohr's Model.md",
+    "Frequency.md",
+    "Vault/Coulomb's Law of Force.md",
+    "Speed of Light.md",
+    "Wavelength.md",
+    "Vault/Energy.md",
+    "Vault/Limiting Reactant.md"
   ]
 }
