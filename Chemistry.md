@@ -8,6 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Table of Contents
 ```dataview
-LIST file.cday as "Date Create" FROM "Vault"
-SORT file.cday ASC
+TABLE file.cday as "Date Created", file.ctime as "Time Created"
+FROM [[Chemistry]]
+SORT file.cday DESC
 ```
