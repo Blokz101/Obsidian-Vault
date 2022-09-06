@@ -14,16 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "b74aad4407838e1e",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +171,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b74aad4407838e1e",
+  "active": "46d986da88da8456",
   "lastOpenFiles": [
-    "References/Excalidraw/Asymptote.md",
     "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
+    "References/Excalidraw/Asymptote.md",
     "Vault/Limit.md",
     "Vault/Proving a Limit.md",
     "References/Excalidraw/Drawing 2022-09-06 15.03.37.excalidraw.md",
