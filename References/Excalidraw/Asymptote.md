@@ -35,3 +35,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Are a characteristic of some [[Function|Functions]]
 - ## Practice
 	- [[Drawing 2022-08-25 10.44.22.excalidraw]]
+	- [[Drawing 2022-09-06 15.30.33.excalidraw]]
+- ## Reference
