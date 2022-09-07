@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  $n$|[[Principle Quantum Number]] 
 		 $\ell$|[[Orbital Angular Momentum Quantum Number]]
 		 $m_l$|[[Magnetic Orbital Quantum Number]]
-		 $m_s$|[[Spin]]
+		 $m_s$|[[Spin Quantum Number]]
 - ## [[Sublevel|Sublevels]]
 	- Each [[Sublevel]] is given by an identifier consisting of $\large{n\ell}$.
 	  > [!Example]
