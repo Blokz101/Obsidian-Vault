@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Differentiation, Differentiable, ]
 Creation Date: Wed September 7th 2022 11:08:40 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -10,4 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A real number given by the slope of a the [[Tangent Line]] at that point. Notated as $f'(x)$
 	  > [!Equation]
 	  > $$f'(x)=\lim_{h \rightarrow 0}\frac{f(x-h)-f(x)}{h}$$
+	  > 
+	  > Provided that the limit exists.
+	- This is called [[Derivative|Differentiation]]. 
 - ## Reference

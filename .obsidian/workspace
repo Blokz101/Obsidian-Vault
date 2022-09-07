@@ -4,26 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "eafa36b378191e5e",
+        "id": "924bf679a45e97cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative.md",
-            "mode": "preview",
+            "file": "Schrodinger Model.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "599e83f15575a756",
+        "id": "dc9e5e18d4ca74a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Tangent Line.md",
-            "mode": "preview",
+            "file": "Vibrating String.md",
+            "mode": "source",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "328b0cbcd4112c0c",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md"
           }
         }
       }
@@ -84,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eafa36b378191e5e",
+  "active": "328b0cbcd4112c0c",
   "lastOpenFiles": [
-    "Vault/Tangent Line.md",
-    "Vault/Limit.md",
-    "Derivative.md",
+    "Vibrating String.md",
+    "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md",
     "Chemistry.md",
+    "Schrodinger Model.md",
+    "Vault/Tangent Line.md",
+    "Derivative.md",
+    "Vault/Limit.md",
     "Vault/Visible Light.md",
     "Vault/Bohr's Model.md",
-    "Vault/Atom.md",
-    "Vault/Integers.md",
-    "Vault/In.md",
-    "Vault/Frequency.md"
+    "Vault/Atom.md"
   ]
 }
