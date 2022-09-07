@@ -15,5 +15,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > If $\ell=2$
 	   > Then $m_l=+2,+1,0,-1,-2$ 
 - ## Reference
+	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
 
 [^1]:[[Orbital Angular Momentum Quantum Number|Orbital Angular Momentum]]

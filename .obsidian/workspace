@@ -34,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Spin Quantum Number.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spin Quantum Number.md",
+                "file": "Schrodinger Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spin Quantum Number.md",
+                "file": "Schrodinger Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spin Quantum Number.md",
+                "file": "Schrodinger Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,11 +231,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54a4334673d74530",
+  "active": "403c4a0ac7689ec1",
   "lastOpenFiles": [
-    "Magnetic Orbital Quantum Number.md",
     "Spin Quantum Number.md",
     "Schrodinger Model.md",
+    "Magnetic Orbital Quantum Number.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Principle Quantum Number.md",
     "Vibrating String.md",
