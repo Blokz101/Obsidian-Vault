@@ -35,7 +35,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	    
 - ## Electron Orbital Occupation Rules
 	- Electrons will always seek the lowest energy available [[Orbital]].
-	- [[Pa]]
+	- [[Pauli Exclusion Principle]]
+	![[Pauli Exclusion Principle#^31c667]]
+	- [[Hund's Rule]]
+	![[Hund's Rule#^cc262a]]
+- ## Atomic States
+	- Ground State
+		- All [[Electron|Electrons]] are at their lowest orbital and [[Electron|Electrons]] in the same [[Sublevel]] are fully spread out. Unpaired [[Electron|Electrons]] are [[Spin Quantum Number|Spinning]]
+	- Excited State
+	- Not Allowed
 - ## Reference
 	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 

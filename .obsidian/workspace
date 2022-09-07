@@ -7,12 +7,8 @@
         "id": "eecbe1f6aa4e3804",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vibrating String.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -35,6 +31,30 @@
           "state": {
             "file": "Schrodinger Model.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "fe4f3b13c6143a0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spin Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "cd7245f10c82a733",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pauli Exclusion Principle.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -257,15 +277,15 @@
   },
   "active": "5ec1a3752d27efb2",
   "lastOpenFiles": [
-    "Sublevel.md",
     "Orbital.md",
-    "Schrodinger Model.md",
     "Spin Quantum Number.md",
+    "Schrodinger Model.md",
+    "Vibrating String.md",
+    "Pauli Exclusion Principle.md",
+    "Hund's Rule.md",
+    "Sublevel.md",
     "Magnetic Orbital Quantum Number.md",
     "Orbital Angular Momentum Quantum Number.md",
-    "Principle Quantum Number.md",
-    "Vibrating String.md",
-    "Vault/Integer.md",
-    "References/Excalidraw/Drawing 2022-09-07 11.20.58.excalidraw.md"
+    "Principle Quantum Number.md"
   ]
 }
