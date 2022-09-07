@@ -17,8 +17,21 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		 $m_s$|[[Spin Quantum Number]]
 		 
 	- When put together the [[Quantum Number|Quantum Numbers]] create these Probability Regions[^1]
-	  ![[IMG_7BCA789CA91E-1.jpeg]]
-	  And create these [[Sublevel|Sublevels]] with their [[Orbital|Orbitals]] shown as boxes
+		- ![[IMG_7BCA789CA91E-1.jpeg]]
+   - They also create these [[Sublevel|Sublevels]].
+	   - ![[IMG_4A3D74F6069C-1.jpeg]]
+	   - [[Sublevel|Sublevels]] are shown as rows of boxes.
+	   - [[Orbital|Orbitals]] are shown as boxes.
+	     > [!Example]-
+	     > What are the [[Quantum Number|Quantum Numbers]] of this [[Electron]].
+	     > ![[IMG_96B8B2E75073-1.jpeg|300]]
+	     > > [!Answer]-
+	     > > $n$|$2$|
+	     > > ---|---|
+	     > > $\ell$|$1$|
+	     > > $m_l$|$-1,0,1$|
+	     > > $m_s$|$1/2$|
+	     
 - ## [[Sublevel|Sublevels]]
 	- Each [[Sublevel]] is given by an identifier consisting of $\large{n\ell}$.
 	  > [!Example]
@@ -27,7 +40,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $n$ ([[Principle Quantum Number|Principle]]) = 3
 	  > $\ell$ ([[Orbital Angular Momentum Quantum Number|Orbital Angular Momentum]]) = 2
 	  
-  - Energy increases with each [[Sublevel]].
+  - Energy increases with each [[Sublevel]] listed in order of energy.
 	  - If there is a tie between [[Sublevel]] [[Energy]], the [[Sublevel]] with the highest [[Principle Quantum Number|Principle]] wins.
 - ## Reference
 	- 
