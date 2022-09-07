@@ -17,33 +17,27 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		 $m_s$|[[Spin Quantum Number]]
 		 
 	- When put together the [[Quantum Number|Quantum Numbers]] create these Probability Regions[^1]
-		- ![[IMG_7BCA789CA91E-1.jpeg]]
+		- ![[IMG_7BCA789CA91E-1.jpeg|400]]
    - They also create these [[Sublevel|Sublevels]].
-	   - ![[IMG_4A3D74F6069C-1.jpeg]]
+	   - ![[IMG_4A3D74F6069C-1.jpeg|300]]
 	   - [[Sublevel|Sublevels]] are shown as rows of boxes.
 	   - [[Orbital|Orbitals]] are shown as boxes.
 	     > [!Example]-
 	     > What are the [[Quantum Number|Quantum Numbers]] of this [[Electron]].
-	     > ![[IMG_96B8B2E75073-1.jpeg|300]]
+	     > ![[IMG_96B8B2E75073-1.jpeg|150]]
 	     > > [!Answer]-
-	     > > $n$|$2$|
-	     > > ---|---|
-	     > > $\ell$|$1$|
-	     > > $m_l$|$-1,0,1$|
-	     > > $m_s$|$1/2$|
-	     
-- ## [[Sublevel|Sublevels]]
-	- Each [[Sublevel]] is given by an identifier consisting of $\large{n\ell}$.
-	  > [!Example]
-	  > $$\large{3d}$$
-	  > 
-	  > $n$ ([[Principle Quantum Number|Principle]]) = 3
-	  > $\ell$ ([[Orbital Angular Momentum Quantum Number|Orbital Angular Momentum]]) = 2
-	  
-  - Energy increases with each [[Sublevel]] listed in order of energy.
-	  - If there is a tie between [[Sublevel]] [[Energy]], the [[Sublevel]] with the highest [[Principle Quantum Number|Principle]] wins.
+	     > > QN|Answer|Explination
+	     > > ---|---|---
+	     > > $n$|$2$|The first number in $2p$ is $2$.
+	     > > $\ell$|$1$|$p$ is equal to $1$.
+	     > > $m_l$|$-1,0,1$|Because $ell$ is $1$, this includes numbers from $\ell$ to $-\ell$.
+	     > > $m_s$|$-1/2$|The arrow is pointing down.
+	    
+- ## Electron Orbital Occupation Rules
+	- Electrons will always seek the lowest energy available [[Orbital]].
+	- [[Pa]]
 - ## Reference
-	- 
+	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 
 
 [^1]: Probability Region: The region where an [[Electron]] can be found.
