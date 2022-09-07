@@ -8,8 +8,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The [[Bohr's Model]] lacked some complexities that fully describe the behavior of an atom. The new theory, the [[Schrodinger Model]] uses coordinate systems, trigonometry, [[Calculus]] and more math to model atoms other than just Hydrogen.
-	- Resulted in the [[Schrodinger Equation]] and 4 Quantum Numbers that describe the probability region[^1].
-		- START HERE
+	- Resulted in the [[Schrodinger Equation]] and 4 [[Quantum Number|Quantum Numbers]] that describe the probability region[^1].
+		- 
+		  
+		- $n$ - [[Principle]] [[Quantum Number]]
+		- $\ell$ - [[Orbital Angular Momentum]] [[Quantum Number]]
+		- $m_l$ - [[Magnetic Orbital]] [[Quantum Number]]
+		- $m_s$ - [[Spin]] [[Quantum Number]]
 - ## Reference
 	- 
 
