@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d811d0aeebc059",
+        "id": "eafa36b378191e5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry.md",
-            "mode": "source",
+            "file": "Derivative.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "7b4013ce56041f60",
+        "id": "599e83f15575a756",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry.md",
+            "file": "Vault/Tangent Line.md",
             "mode": "preview",
             "source": true
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Derivative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5a374cea586811e",
+  "active": "eafa36b378191e5e",
   "lastOpenFiles": [
-    "Vault/Visible Light.md",
+    "Vault/Tangent Line.md",
+    "Vault/Limit.md",
+    "Derivative.md",
     "Chemistry.md",
+    "Vault/Visible Light.md",
     "Vault/Bohr's Model.md",
     "Vault/Atom.md",
     "Vault/Integers.md",
     "Vault/In.md",
-    "Vault/Frequency.md",
-    "Vault/Limit.md",
-    "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
-    "References/Excalidraw/Asymptote.md"
+    "Vault/Frequency.md"
   ]
 }
