@@ -7,5 +7,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]] [[Type of Number]]
 
 - ## Definition
-	- The [[Set]] of all **positive** [[Integers]].
+	- The [[Set]] of all **positive** [[Integer]].
 	- Notated with the symbol ℕ
