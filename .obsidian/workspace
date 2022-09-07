@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -185,15 +184,15 @@
   },
   "active": "a7d811d0aeebc059",
   "lastOpenFiles": [
-    "Vault/Bohr's Model.md",
+    "Vault/Visible Light.md",
     "Chemistry.md",
+    "Vault/Bohr's Model.md",
     "Vault/Atom.md",
     "Vault/Integers.md",
     "Vault/In.md",
     "Vault/Frequency.md",
     "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
-    "References/Excalidraw/Asymptote.md",
-    "Vault/Proving a Limit.md"
+    "References/Excalidraw/Asymptote.md"
   ]
 }
