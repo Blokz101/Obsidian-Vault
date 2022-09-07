@@ -32,19 +32,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	     > > $\ell$|$1$|$p$ is equal to $1$.
 	     > > $m_l$|$-1,0,1$|Because $ell$ is $1$, this includes numbers from $\ell$ to $-\ell$.
 	     > > $m_s$|$-1/2$|The arrow is pointing down.
-	    
-- ## Electron Orbital Occupation Rules
-	- Electrons will always seek the lowest energy available [[Orbital]].
-	- [[Pauli Exclusion Principle]]
-	![[Pauli Exclusion Principle#^31c667]]
-	- [[Hund's Rule]]
-	![[Hund's Rule#^cc262a]]
-- ## Atomic States
-	- Ground State
-		- All [[Electron|Electrons]] are at their lowest orbital and [[Electron|Electrons]] in the same [[Sublevel]] are fully spread out. Unpaired [[Electron|Electrons]] are [[Spin Quantum Number|Spinning]]
-	- Excited State
-	- Not Allowed
+
 - ## Reference
+	- [[Electron|Electrons]] can have several different [[Atomic States]] within the [[Schrodinger Model]].
+	- [[Electron Orbital Occupation]] rules determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
 	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 
 

@@ -30,7 +30,31 @@
           "type": "markdown",
           "state": {
             "file": "Schrodinger Model.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "180647a88422eb3f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electron Orbital Occupation.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e11d226284def9bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atomic States.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -176,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Electron Orbital Occupation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Electron Orbital Occupation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Electron Orbital Occupation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,17 +299,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ec1a3752d27efb2",
+  "active": "180647a88422eb3f",
   "lastOpenFiles": [
+    "Schrodinger Model.md",
+    "Electron Orbital Occupation.md",
+    "Atomic States.md",
     "Orbital.md",
     "Spin Quantum Number.md",
-    "Schrodinger Model.md",
     "Vibrating String.md",
     "Pauli Exclusion Principle.md",
     "Hund's Rule.md",
     "Sublevel.md",
-    "Magnetic Orbital Quantum Number.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Principle Quantum Number.md"
+    "Magnetic Orbital Quantum Number.md"
   ]
 }
