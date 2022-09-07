@@ -17,6 +17,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		 $m_s$|[[Spin Quantum Number]]
 		 
 	- When put together the [[Quantum Number|Quantum Numbers]] create these Probability Regions[^1]
+	  ![[IMG_7BCA789CA91E-1.jpeg]]
+	  And create these [[Sublevel|Sublevels]] with their [[Orbital|Orbitals]] shown as boxes
 - ## [[Sublevel|Sublevels]]
 	- Each [[Sublevel]] is given by an identifier consisting of $\large{n\ell}$.
 	  > [!Example]

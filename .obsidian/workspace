@@ -16,24 +16,24 @@
         }
       },
       {
-        "id": "403c4a0ac7689ec1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Schrodinger Model.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "54a4334673d74530",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Spin Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "bfccb6a00b9ee0e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Schrodinger Model.md",
             "mode": "preview",
             "source": true
           }
@@ -231,7 +231,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "403c4a0ac7689ec1",
+  "active": "bfccb6a00b9ee0e0",
   "lastOpenFiles": [
     "Spin Quantum Number.md",
     "Schrodinger Model.md",
