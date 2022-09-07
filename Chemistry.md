@@ -7,69 +7,59 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Table of Contents
-	- Chemistry
-	- Absorption and Emission
-	- Planck's Constant
-	- Planck's Equation
-	- Rydberg's Constant
-	- Hydrogen Atom Line Spectra
-	- Bohr's Model
-	- Thompson's Plum Pudding
-	- Rydberg's Equation
-	- Hertz
-	- Valence Electron
-	- Speed of Light
-	- Frequency
-	- Wavelength
-	- Spectrum of Light
-	- Visible Light
-	- Isotope
-	- Rutherford's Model
-	- Coulomb's Law of Energy
-	- Dielectric Constant
-	- Coulomb's Law of Force
-	- pH
-	- Solution
-	- Subatomic Particles
-	- Proton
-	- Polyatomic Ions
-	- Periodic Table
-	- Non-Metal
-	- Mole
-	- Molecule
-	- Monoatomic Ion
-	- Metal
-	- Mixture
-	- Molar Mass
-	- Molarity
-	- Limiting Reactant
-	- Mass Number
-	- Ion
-	- Ionic Compound
-	- Homogeneous
-	- Ideal Gas Law
-	- Ideal Gas
-	- Gas
-	- Endothermic Process
-	- Energy
-	- Exothermic Process
-	- Electron
-	- Element
-	- Density
-	- Dilution
-	- Concentration
-	- Conversions
-	- Covalent Compound
-	- Compound
-	- Chemical Reaction
-	- Boyle's Law
-	- Charles' Law
-	- Chemical Formula
-	- Atomic Mass Unit
-	- Avogadro's Law
-	- Avogadro's Number
-	- Balanced Equation
-	- Atom
+	- [[Absorption and Emission]]
+	- [[Hydrogen Atom Line Spectra]]
+		- [[Planck's Equation]]
+			- [[Planck's Constant]]
+		- [[Rydberg's Equation]]
+			- [[Rydberg's Constant]]
+	- Models of the Atom
+		- [[Bohr's Model]]
+		- [[Rutherford's Model]]
+		- [[Thompson's Plum Pudding]]
+	- [[Hertz]]
+	- [[Wavelength]]
+	- [[Frequency]]
+	- [[Valence Electron]]
+	- [[Spectrum of Light]]
+		- [[Speed of Light]]
+		- [[Visible Light]]
+	- [[Coulomb's Law of Force]]
+		- [[Dielectric Constant]]
+	- [[Coulomb's Law of Energy]]
+	- [[Subatomic Particles]]
+		- [[Proton]]
+		- [[Electron]]
+	- [[Periodic Table]]
+		- [[Mass Number]]
+		- [[Non-Metal]]
+		- [[Metal]]
+		- [[Molar Mass]]
+		- [[Isotope]]
+	- [[Mole]]
+	- [[Molecule]]
+	- [[Ion]]
+		- [[Monoatomic Ion]]
+		- [[Polyatomic Ions]]
+	- [[Limiting Reactant]]
+	- [[Ionic Compound]]
+	- [[Energy]]
+		- [[Endothermic Process]]
+		- [[Exothermic Process]]
+	- [[Element]]
+	- [[Density]]
+	- [[Conversions]]
+	- [[Covalent Compound]]
+	- [[Compound]]
+	- [[Chemical Reaction]]
+	- [[Boyle's Law]]
+	- [[Charles' Law]]
+	- [[Chemical Formula]]
+	- [[Atomic Mass Unit]]
+	- [[Avogadro's Law]]
+	- [[Avogadro's Number]]
+	- [[Balanced Equation]]
+	- [[Atom]]
 - ## Raw Files
 	- ```dataview
 		TABLE file.ctime as "Time Created"

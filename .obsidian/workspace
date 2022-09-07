@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -182,7 +183,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7d811d0aeebc059",
+  "active": "c5a374cea586811e",
   "lastOpenFiles": [
     "Vault/Visible Light.md",
     "Chemistry.md",
