@@ -19,11 +19,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Notation
 	- #### DEFAULT Notation
 		- Write out each [[Sublevel]] for an [[Element]]. Each [[Orbital]] will have the number of [[Electron|Electrons]] in it written in the exponents place.
-		  > [!Example]
+		  > [!Example]-
 		  > Given the neutral atom Si, [[Atomic number]] = 14
 		  > 
 		  > We know there are 14 [[Electron|Electrons]] because it is neutral.
 		  > ![[IMG_0472B7CACFC2-1.jpeg|200]]
-		  > We write out each [[Sublevel]]
+		  > So its configuration would be: $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^2$
 - ## Reference
 	- [[Electron Orbital Occupation]] determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
