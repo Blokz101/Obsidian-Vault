@@ -22,6 +22,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "da62dd69fff850a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Proving a Limit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -80,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Proving a Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Proving a Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Proving a Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +191,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08896b0544b51c80",
+  "active": "da62dd69fff850a8",
   "lastOpenFiles": [
+    "Vault/Ion.md",
     "Vault/Continuity.md",
     "Intermediate Value Theorem.md",
     "Vault/Limit.md",
@@ -189,7 +202,6 @@
     "Vault/Trigonometric Identities.md",
     "Vault/Trigonometric Sum and Difference.md",
     "Vault/Conic Section.md",
-    "Vault/Domain.md",
-    "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md"
+    "Vault/Domain.md"
   ]
 }
