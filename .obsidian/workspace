@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f347aa3bd2d46968",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Continuity.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "a4a2e1642deea05c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intermediate Value Theorem.md",
+            "file": "Vault/Continuity.md",
             "mode": "preview",
             "source": true
           }
@@ -183,11 +171,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f347aa3bd2d46968",
+  "active": "a4a2e1642deea05c",
   "lastOpenFiles": [
-    "Vault/Limit.md",
-    "Vault/Continuity.md",
     "Intermediate Value Theorem.md",
+    "Vault/Continuity.md",
+    "Vault/Limit.md",
     "Vault/Unit Circle.md",
     "Vault/Parametric Curve.md",
     "Vault/Trigonometric Identities.md",
