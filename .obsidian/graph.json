@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Templates",
@@ -32,14 +32,14 @@
       "query": "line:([[Chemistry]])",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 16737792
       }
     },
     {
       "query": "line:([[Git]])",
       "color": {
         "a": 1,
-        "rgb": 8650946
+        "rgb": 852162
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25925956871912725,
-  "close": true
+  "scale": 0.8569136789519282,
+  "close": false
 }
