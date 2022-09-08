@@ -7,6 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The number of [[Proton|Protons]] + the number of [[Electron|Electrons]] of an [[Element|Elements]].
+	- The number of [[Proton|Protons]] + the number of [[Neutron|Neutrons]] of an [[Element|Elements]].
 - ## Reference
 	- Information required for this can be read from the [[Periodic Table]].

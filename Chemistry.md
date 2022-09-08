@@ -22,7 +22,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				- [[Pauli Exclusion Principle]]
 	- [[Absorption and Emission]]
 	- [[Spectrum of Light]]
-		- [[Speed of Light]]
+		- [[Speed of Light]] (3e8 m/s)
 		- [[Visible Light]]
 		- Wavelength, Frequency, and Energy
 			- [[Wavelength]]
@@ -33,7 +33,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				- [[Exothermic Process]]
 			- [[Planck's Equation]] (Relates energy to frequency)
 				- [[Planck's Constant]]
-			- [[Rydberg's Equation]] (Used to perdict the wavelength emitted by an electron  )
+			- [[Rydberg's Equation]] (Used to predict the wavelength emitted by an electron changing energy levels)
 				- [[Rydberg's Constant]]
 	- Models of the Atom
 		- [[Schrodinger Model]] (Also shown above because there is so much under this topic)
@@ -73,10 +73,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Limiting Reactant]]
 	- [[Conversions]]
 		- [[Mole]]
-		- [[Avogadro's Number]]
+		- [[Avogadro's Number]] ($6.022e23$ per mol)
 	- Other
 		- [[Avogadro's Law]]
-		- [[Density]]
+		- [[Density]] ($d=\frac{m}{v}$)
 - ## Raw Files
 	- ```dataview
 		TABLE file.ctime as "Time Created"
