@@ -34,6 +34,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "3e7d4879dc774edf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Planck's Equation.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Vault/Planck's Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Vault/Planck's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Vault/Planck's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da62dd69fff850a8",
+  "active": "3e7d4879dc774edf",
   "lastOpenFiles": [
+    "Vault/Proving a Limit.md",
+    "Vault/Unit Circle.md",
     "Vault/Ion.md",
     "Vault/Continuity.md",
     "Intermediate Value Theorem.md",
     "Vault/Limit.md",
-    "Vault/Unit Circle.md",
     "Vault/Parametric Curve.md",
     "Vault/Trigonometric Identities.md",
     "Vault/Trigonometric Sum and Difference.md",
-    "Vault/Conic Section.md",
-    "Vault/Domain.md"
+    "Vault/Conic Section.md"
   ]
 }
