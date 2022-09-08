@@ -14,16 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "8bf9c0372a34984d",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
+                "file": "Electron Orbital Occupation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
+                "file": "Electron Orbital Occupation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
+                "file": "Electron Orbital Occupation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bf9c0372a34984d",
+  "active": "5aaecefc3f07cfb9",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
     "Electron Orbital Occupation.md",
     "Chemistry.md",
     "Vault/Mass Number.md",
@@ -190,7 +181,6 @@
     "Vault/Density.md",
     "Vault/Planck's Equation.md",
     "Vault/Rydberg's Equation.md",
-    "Vault/Ion.md",
-    "Vault/Proving a Limit.md"
+    "Vault/Ion.md"
   ]
 }
