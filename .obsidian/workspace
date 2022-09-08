@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Continuity.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -185,15 +185,15 @@
   },
   "active": "f347aa3bd2d46968",
   "lastOpenFiles": [
-    "Intermediate Value Theorem.md",
+    "Vault/Limit.md",
     "Vault/Continuity.md",
+    "Intermediate Value Theorem.md",
     "Vault/Unit Circle.md",
     "Vault/Parametric Curve.md",
     "Vault/Trigonometric Identities.md",
     "Vault/Trigonometric Sum and Difference.md",
     "Vault/Conic Section.md",
     "Vault/Domain.md",
-    "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
-    "Vault/Limit.md"
+    "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md"
   ]
 }

@@ -21,7 +21,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  Log|$log(x)$
 	  Tragicomic|$sin,cos,tan,etc$
 	  
-	  and $x_0$ is on 
+	  then it is **[[Continuity|Continuous]] on its [[Domain]]**. 
 	  
 - ## Types of Discontinuity
 	- Jump Discontinuity
