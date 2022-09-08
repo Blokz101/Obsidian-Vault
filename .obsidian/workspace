@@ -7,8 +7,22 @@
         "id": "5aaecefc3f07cfb9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electron Orbital Occupation.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8bf9c0372a34984d",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md"
+          }
         }
       }
     ],
@@ -68,6 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -117,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +180,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5aaecefc3f07cfb9",
+  "active": "8bf9c0372a34984d",
   "lastOpenFiles": [
+    "Electron Orbital Occupation.md",
     "Chemistry.md",
     "Vault/Mass Number.md",
     "Vault/Neutron.md",
@@ -174,7 +191,6 @@
     "Vault/Planck's Equation.md",
     "Vault/Rydberg's Equation.md",
     "Vault/Ion.md",
-    "Vault/Proving a Limit.md",
-    "Vault/Unit Circle.md"
+    "Vault/Proving a Limit.md"
   ]
 }
