@@ -4,65 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c21bb07fd4e6c679",
+        "id": "c315a9c9e4c38d4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Unit Circle.md",
-            "mode": "preview",
+            "file": "Intermediate Value Theorem.md",
+            "mode": "source",
             "source": true
           }
         }
-      },
-      {
-        "id": "71064fc0d82fbe63",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Parametric Curve.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "e48913adefd5ddf5"
-      },
-      {
-        "id": "aabe20d206eca449",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Vault/Parametric Curve.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.1198026912126904,
-              "close": true
-            }
-          }
-        },
-        "group": "e48913adefd5ddf5"
       }
     ],
     "direction": "vertical"
@@ -121,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Parametric Curve.md",
+                "file": "Intermediate Value Theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Parametric Curve.md",
+                "file": "Intermediate Value Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Parametric Curve.md",
+                "file": "Intermediate Value Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71064fc0d82fbe63",
+  "active": "c315a9c9e4c38d4b",
   "lastOpenFiles": [
+    "Vault/Continuity.md",
+    "Intermediate Value Theorem.md",
+    "Vault/Unit Circle.md",
+    "Vault/Parametric Curve.md",
     "Vault/Trigonometric Identities.md",
     "Vault/Trigonometric Sum and Difference.md",
     "Vault/Conic Section.md",
-    "Vault/Unit Circle.md",
-    "Vault/Continuity.md",
     "Vault/Domain.md",
     "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
-    "Vault/Limit.md",
-    "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
-    "Orbital.md"
+    "Vault/Limit.md"
   ]
 }
