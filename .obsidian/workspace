@@ -4,141 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "eecbe1f6aa4e3804",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "54a4334673d74530",
+        "id": "d362f5a741af1773",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spin Quantum Number.md",
+            "file": "Vault/Planck's Constant.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "5ec1a3752d27efb2",
+        "id": "b7ef077336486876",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Schrodinger Model.md",
+            "file": "Vault/Planck's Equation.md",
             "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "180647a88422eb3f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electron Orbital Occupation.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e11d226284def9bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atomic States.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "fe4f3b13c6143a0d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Spin Quantum Number.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cd7245f10c82a733",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pauli Exclusion Principle.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "f516e1b68b2b0325",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Orbital.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "7b9e0b308f79f8a9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sublevel.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "1d8e17924557d44e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Magnetic Orbital Quantum Number.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "dfe3872102e8f850",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Orbital Angular Momentum Quantum Number.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "d2c7b65d927e53a4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Principle Quantum Number.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -200,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electron Orbital Occupation.md",
+                "file": "Vault/Planck's Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron Orbital Occupation.md",
+                "file": "Vault/Planck's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electron Orbital Occupation.md",
+                "file": "Vault/Planck's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "180647a88422eb3f",
+  "active": "b7ef077336486876",
   "lastOpenFiles": [
-    "Schrodinger Model.md",
-    "Electron Orbital Occupation.md",
-    "Atomic States.md",
-    "Orbital.md",
-    "Spin Quantum Number.md",
-    "Vibrating String.md",
-    "Pauli Exclusion Principle.md",
-    "Hund's Rule.md",
+    "Vault/Planck's Constant.md",
+    "Principle Quantum Number.md",
+    "Orbital Angular Momentum Quantum Number.md",
+    "Magnetic Orbital Quantum Number.md",
     "Sublevel.md",
-    "Magnetic Orbital Quantum Number.md"
+    "Pauli Exclusion Principle.md",
+    "Spin Quantum Number.md",
+    "Orbital.md",
+    "Atomic States.md",
+    "Schrodinger Model.md"
   ]
 }
