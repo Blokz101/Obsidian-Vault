@@ -4,12 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1193c14bdfde7b",
+        "id": "6d5e0e057dd537ee",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "c21bb07fd4e6c679",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Limit.md",
+            "file": "Vault/Domain.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "55fea3acd5d020eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Continuity.md",
             "mode": "preview",
             "source": true
           }
@@ -72,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b1193c14bdfde7b",
+  "active": "6d5e0e057dd537ee",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
+    "Vault/Continuity.md",
+    "Vault/Domain.md",
+    "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
     "Vault/Limit.md",
+    "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
     "Orbital.md",
     "Schrodinger Model.md",
     "Sublevel.md",
     "Vault/Planck's Constant.md",
-    "Vault/Planck's Equation.md",
-    "Principle Quantum Number.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Magnetic Orbital Quantum Number.md"
+    "Vault/Planck's Equation.md"
   ]
 }

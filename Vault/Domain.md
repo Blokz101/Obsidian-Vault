@@ -14,3 +14,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Similar to [[Range]]
 - ## Practice
 	- [[Drawing 2022-08-24 21.53.58.excalidraw]]
+	- [[Drawing 2022-09-07 21.22.18.excalidraw]]
