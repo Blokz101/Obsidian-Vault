@@ -26,6 +26,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "b81a08e19e8a0326",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schrodinger Model.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +195,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9d369c56ad97793",
+  "active": "b81a08e19e8a0326",
   "lastOpenFiles": [
+    "Schrodinger Model.md",
     "Electron Orbital Occupation.md",
     "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
     "Chemistry.md",
@@ -193,7 +206,6 @@
     "Vault/Wavelength.md",
     "Vault/Density.md",
     "Vault/Planck's Equation.md",
-    "Vault/Rydberg's Equation.md",
-    "Vault/Ion.md"
+    "Vault/Rydberg's Equation.md"
   ]
 }
