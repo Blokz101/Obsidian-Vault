@@ -15,3 +15,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
 	  > $v$ = [[Frequency]] ($s^{-1}$ ). ^0cca3d
 - ## Reference
+	- A characteristic of a wave on the [[Spectrum of Light]].
+	- [[Energy]] and [[Frequency]] are **directly** related.
+	- [[Frequency]] and [[Wavelength]] are **Inversely** related (See [[Wavelength|Wavelengths]]).

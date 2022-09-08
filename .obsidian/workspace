@@ -24,6 +24,18 @@
         }
       },
       {
+        "id": "18db194f0c9189c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Planck's Equation.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "9f6b19ea99bfa543",
         "type": "leaf",
         "state": {
@@ -193,15 +205,15 @@
   },
   "active": "9f6b19ea99bfa543",
   "lastOpenFiles": [
-    "Vault/Ion.md",
+    "Vault/Planck's Equation.md",
     "Vault/Wavelength.md",
     "Chemistry.md",
-    "Vault/Planck's Equation.md",
+    "Vault/Rydberg's Equation.md",
+    "Vault/Ion.md",
     "Vault/Proving a Limit.md",
     "Vault/Unit Circle.md",
     "Vault/Continuity.md",
     "Intermediate Value Theorem.md",
-    "Vault/Limit.md",
-    "Vault/Parametric Curve.md"
+    "Vault/Limit.md"
   ]
 }

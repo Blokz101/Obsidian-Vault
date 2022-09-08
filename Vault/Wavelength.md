@@ -22,4 +22,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The **higher** the [[Frequency]].
 - ## Reference
 	- A characteristic of a wave on the [[Spectrum of Light]].
+	- [[Energy]] and [[Frequency]] are **directly** related (See [[Planck's Equation]]).
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
