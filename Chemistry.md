@@ -7,6 +7,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Table of Contents
+	- [[Schrodinger Model]]
+		- [[Electron Orbital Occupation]]
+			- [[Atomic States]]
+			- [[Hund's Rule]]
+			- [[Pauli Exclusion Principle]]
+	- [[Orbital]]
+	- [[Sublevel]]
+	- [[Spin Quantum Number]]
+	- [[Magnetic Orbital Quantum Number]]
+	- [[Orbital Angular Momentum Quantum Number]]
+	- [[ Principle Quantum Number]]
 	- [[Absorption and Emission]]
 	- Wavelength, Frequency, and Energy
 		- [[Wavelength]]
