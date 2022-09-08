@@ -10,7 +10,19 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A [[Function]] is a [[Continuity|Continuous]] for its [[Domain]] if it can be sketched without the need to left your pencil.
 	- If the [[Limit|Right Hand Limit]], [[Limit|Left Hand Limit]], and function itself are defined at an $x$ then the function is continuous at that $x$.
 - ## Continuous functions
-	- $^{lim}_{x\rightarrow x_0}=f(x_0)$  
+	- If the function is one of the following
+	  
+	  Function|Equation
+	  ---|---
+	  Polynomial|$ax^3+bx+c$
+	  Rational|$\frac{1}{x}$
+	  Exponential|$a^x$
+	  Root|$\sqrt{x}$
+	  Log|$log(x)$
+	  Tragicomic|$sin,cos,tan,etc$
+	  
+	  and $x_0$ is on 
+	  
 - ## Types of Discontinuity
 	- Jump Discontinuity
 		- ![[Drawing 2022-08-29 12.21.29.excalidraw|200]]
