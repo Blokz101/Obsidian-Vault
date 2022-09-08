@@ -11,5 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $f(x)$ is [[Continuity|Continuous]] on the closed interval $[a,b]$.
 		- $f(a)≠f(b)$
 		- $N$ is any [[Real Number]] on the interval $(a,b)$
+	 > [!Warning]
+	 > $a$, $b$, and $N$ are numbers on the $x$ axis.
 - ## Reference
 	- Useful for proving that roots exists in place.
