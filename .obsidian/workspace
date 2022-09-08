@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Wavelength.md",
+                "file": "Vault/Planck's Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Wavelength.md",
+                "file": "Vault/Planck's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Wavelength.md",
+                "file": "Vault/Planck's Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +203,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f6b19ea99bfa543",
+  "active": "18db194f0c9189c7",
   "lastOpenFiles": [
-    "Vault/Planck's Equation.md",
     "Vault/Wavelength.md",
+    "Vault/Planck's Equation.md",
     "Chemistry.md",
     "Vault/Rydberg's Equation.md",
     "Vault/Ion.md",
