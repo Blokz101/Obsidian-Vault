@@ -83,15 +83,7 @@
       "key": "X"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
+  "app:toggle-left-sidebar": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [

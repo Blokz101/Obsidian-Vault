@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [IVT]
 Creation Date: Wed September 7th 2022 09:57:13 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -11,5 +11,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $f(x)$ is [[Continuity|Continuous]] on the closed interval $[a,b]$.
 		- $f(a)≠f(b)$
 		- $N$ is any [[Real Number]] on the interval $(a,b)$
-	- Basically, if there $f(x)$ is [[Continuity|Continuous]] along an interval and $f(a)$ is "above" $f(b)$.
 - ## Reference
+	- Useful for proving that roots exists in place.

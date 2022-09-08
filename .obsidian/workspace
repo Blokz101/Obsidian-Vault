@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c315a9c9e4c38d4b",
+        "id": "f347aa3bd2d46968",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Intermediate Value Theorem.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intermediate Value Theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intermediate Value Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intermediate Value Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c315a9c9e4c38d4b",
+  "active": "f347aa3bd2d46968",
   "lastOpenFiles": [
-    "Vault/Continuity.md",
     "Intermediate Value Theorem.md",
+    "Vault/Continuity.md",
     "Vault/Unit Circle.md",
     "Vault/Parametric Curve.md",
     "Vault/Trigonometric Identities.md",
