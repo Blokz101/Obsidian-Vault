@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Trigonometric Identities.md",
+            "file": "Vault/Parametric Curve.md",
             "mode": "preview",
             "source": true
           }
@@ -34,20 +34,20 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Vault/Trigonometric Identities.md",
+            "file": "Vault/Parametric Curve.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
-              "localJumps": 1,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": false,
+              "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": false,
+              "collapse-display": true,
               "showArrow": false,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
@@ -57,8 +57,8 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.799257121069658,
-              "close": false
+              "scale": 1.1198026912126904,
+              "close": true
             }
           }
         },
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Parametric Curve.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Parametric Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Parametric Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aabe20d206eca449",
+  "active": "71064fc0d82fbe63",
   "lastOpenFiles": [
+    "Vault/Trigonometric Identities.md",
+    "Vault/Trigonometric Sum and Difference.md",
+    "Vault/Conic Section.md",
     "Vault/Unit Circle.md",
     "Vault/Continuity.md",
     "Vault/Domain.md",
     "References/Excalidraw/Drawing 2022-09-07 21.22.18.excalidraw.md",
     "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
-    "Orbital.md",
-    "Schrodinger Model.md",
-    "Sublevel.md",
-    "Vault/Planck's Constant.md"
+    "Orbital.md"
   ]
 }
