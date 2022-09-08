@@ -1,5 +1,5 @@
 ---
-Alias: [Limits, Left Hand Limit, Right Hand Limit]
+Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 Creation Date: Mon August 29th 2022 12:32:59 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---

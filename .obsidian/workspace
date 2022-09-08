@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7f466f14a9d88e28",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "3b1193c14bdfde7b",
         "type": "leaf",
         "state": {
@@ -82,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +171,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f466f14a9d88e28",
+  "active": "3b1193c14bdfde7b",
   "lastOpenFiles": [
-    "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
+    "Vault/Limit.md",
     "Orbital.md",
     "Schrodinger Model.md",
     "Sublevel.md",
