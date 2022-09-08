@@ -7,8 +7,10 @@
         "id": "7f466f14a9d88e28",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md"
+          }
         }
       },
       {
@@ -80,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Limit.md",
+                "file": "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b1193c14bdfde7b",
+  "active": "7f466f14a9d88e28",
   "lastOpenFiles": [
+    "Vault/Limit.md",
+    "References/Excalidraw/Drawing 2022-09-07 21.08.59.excalidraw.md",
     "Orbital.md",
     "Schrodinger Model.md",
     "Sublevel.md",
@@ -188,8 +192,6 @@
     "Vault/Planck's Equation.md",
     "Principle Quantum Number.md",
     "Orbital Angular Momentum Quantum Number.md",
-    "Magnetic Orbital Quantum Number.md",
-    "Pauli Exclusion Principle.md",
-    "Spin Quantum Number.md"
+    "Magnetic Orbital Quantum Number.md"
   ]
 }
