@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Periodic Table.md",
+                "file": "Vault/Mass Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Periodic Table.md",
+                "file": "Vault/Mass Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Periodic Table.md",
+                "file": "Vault/Mass Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c04f30d10fa700a2",
+  "active": "953378b1ca5c009f",
   "lastOpenFiles": [
-    "Vault/Subatomic Particles.md",
     "Vault/Periodic Table.md",
+    "Vault/Subatomic Particles.md",
     "Vault/Mass Number.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Schrodinger Model.md",
