@@ -8,9 +8,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## [[Element|Elemental]] [[Electron]] [[Orbital]] Configuration
 	- Each [[Element]] follows the same rules that are defined by its [[Quantum Number|Quantum Numbers]] and place on the [[Periodic Table]].
-		- $n$[^1] defines the [[Principle Quantum Number|Energy Level]]
-		- $\ell$[^2] defines the [[Orbital Angular Momentum Quantum Number|Sublevel]] in each [[Principle Quantum Number|Energy Level]].
-		- $m_l$[^3] defines the [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
+		- $n$[^1] defines the [[Principle Quantum Number|Energy Levels]].
+			- Defined by location on the the [[Periodic Table]] (Explained later).
+		- $\ell$[^2] defines the number of [[Orbital Angular Momentum Quantum Number|Sublevel]] in each [[Principle Quantum Number|Energy Level]].
+			- There are $0$ to $n-1$ [[Orbital Angular Momentum Quantum Number|Sublevels]].
+		- $m_l$[^3] defines the number of [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
+			- There are $2\ell+1$ [[Orbital|Orbitals]] per 
+	- The result ends up looking like this:
+	  ![[IMG_7B7D47C3A246-1.jpeg|400]]
+	  
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]

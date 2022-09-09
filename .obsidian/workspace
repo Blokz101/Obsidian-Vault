@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Electron Orbital Configuration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Electron Orbital Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Electron Orbital Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +244,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e772f5d4c50b99c4",
+  "active": "bc89f7027ac3ba79",
   "lastOpenFiles": [
-    "Orbital.md",
     "Orbital Angular Momentum Quantum Number.md",
+    "Orbital.md",
     "Magnetic Orbital Quantum Number.md",
     "Electron Orbital Configuration.md",
     "Schrodinger Model.md",
