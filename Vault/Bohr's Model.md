@@ -12,7 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Significant because it showed that [[Electron|Electrons]] move in quantized[^1] [[Energy]] transitions.
 - ## Interactions
 	- [[Electron|Electrons]] can jump between energy levels via the process of [[Absorption and Emission]].
-	- Each energy levels of an atom has a measurable [[Energy]] given by this equation. ^925e1e
+	- Each energy levels has a measurable [[Energy]] given by this equation. ^925e1e
 		- > [!Equation]
 		   > $$E_{level}=\frac{-Z^2hR}{n^2}$$
 		   > 

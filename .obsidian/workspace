@@ -58,31 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "Principle Quantum Number.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6347bebe52602d04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Bohr's Model.md",
             "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3150d49775ff7f42",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Bohr's Model.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -94,18 +70,6 @@
           "type": "markdown",
           "state": {
             "file": "Magnetic Orbital Quantum Number.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "5086ed108bde585d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Orbital.md",
             "mode": "preview",
             "source": true
           }
@@ -145,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"energy levels of an atom\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Electron Orbital Configuration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -217,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Electron Orbital Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bohr's Model.md",
+                "file": "Electron Orbital Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3150d49775ff7f42",
+  "active": "bc89f7027ac3ba79",
   "lastOpenFiles": [
-    "Vault/Absorption and Emission.md",
-    "Vault/Periodic Table.md",
+    "Principle Quantum Number.md",
     "Electron Orbital Configuration.md",
-    "Vault/Mass Number.md",
-    "Orbital.md",
     "Magnetic Orbital Quantum Number.md",
     "Vault/Bohr's Model.md",
-    "Principle Quantum Number.md",
-    "Schrodinger Model.md",
-    "Vault/Subatomic Particles.md"
+    "Orbital.md",
+    "Vault/Rydberg's Equation.md",
+    "Vault/Hydrogen Atom Line Spectra.md",
+    "Vault/Spectrum of Light.md",
+    "Vault/Absorption and Emission.md",
+    "Vault/Periodic Table.md"
   ]
 }
