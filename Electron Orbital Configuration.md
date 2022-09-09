@@ -9,11 +9,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## [[Element|Elemental]] [[Electron]] [[Orbital]] Configuration
 	- Each [[Element]] follows the same rules that are defined by its [[Quantum Number|Quantum Numbers]] and place on the [[Periodic Table]].
 		- $n$[^1] defines the [[Principle Quantum Number|Energy Levels]].
-			- Defined by location on the the [[Periodic Table]] (Explained later).
-		- $\ell$[^2] defines the number of [[Orbital Angular Momentum Quantum Number|Sublevel]] in each [[Principle Quantum Number|Energy Level]].
+			- Defined by its **row** on the the [[Periodic Table]] (Explained below).
+		- $\ell$[^2] defines the number of [[Orbital Angular Momentum Quantum Number|Sublevels]] in each [[Principle Quantum Number|Energy Level]].
 			- There are $0$ to $n-1$ [[Orbital Angular Momentum Quantum Number|Sublevels]].
+			- Lettered with [[Orbital Angular Momentum Quantum Number#^46c827|This Chart]].
 		- $m_l$[^3] defines the number of [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
 			- There are $2\ell+1$ [[Orbital|Orbitals]] per [[Orbital Angular Momentum Quantum Number|Sublevel]].
+			- Numbered from $-\ell$ to $\ell$.
 	- The order of the [[Orbital Angular Momentum Quantum Number|Sublevels]] and the value of $n$ is defined by the [[Element|Element's]] location on the [[Periodic Table]].
 		- ![[Pasted image 20220908155935.png]]
 		- Let $r$ be the **row number**:

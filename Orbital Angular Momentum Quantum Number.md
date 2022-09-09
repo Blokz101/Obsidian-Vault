@@ -15,7 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  2|d
 		  3|f
 		  4|g
-		  5|h
+		  5|h ^46c827
 	- There can be from 0 to $n-1$[^1].
 	- Secondary indicator of [[Energy]] after [[Principle Quantum Number|Principle]].
 	- Notated as $\ell$

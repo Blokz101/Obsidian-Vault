@@ -28,18 +28,6 @@
         }
       },
       {
-        "id": "bc89f7027ac3ba79",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electron Orbital Configuration.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "04d4a686cb247cc9",
         "type": "leaf",
         "state": {
@@ -58,6 +46,18 @@
           "type": "markdown",
           "state": {
             "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "b293693b22f4cf9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electron Orbital Configuration.md",
             "mode": "preview",
             "source": true
           }
@@ -244,12 +244,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc89f7027ac3ba79",
+  "active": "b293693b22f4cf9a",
   "lastOpenFiles": [
     "Orbital Angular Momentum Quantum Number.md",
+    "Electron Orbital Configuration.md",
     "Orbital.md",
     "Magnetic Orbital Quantum Number.md",
-    "Electron Orbital Configuration.md",
     "Schrodinger Model.md",
     "Principle Quantum Number.md",
     "Hund's Rule.md",
