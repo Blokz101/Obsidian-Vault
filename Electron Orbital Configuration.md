@@ -34,25 +34,29 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $\ell$ = [[Orbital Angular Momentum Quantum Number]]
 		  > $x$ = The number of [[Electrons]] filling the [[Orbital Angular Momentum Quantum Number|Sublevel]].
 		- Move from the [[Orbital Angular Momentum Quantum Number|Sublevel]] with the least energy to the one with the most. This is **from left to right then top to bottom**.
-		- > [!Example]-
+		- > [!Example]
       	   > Electron configuration for $_{35}Br$:
       	> ![[IMG_EF59AD52784B-1.jpeg]]
 
 		- > [!Example]-
+		   > ![[IMG_6BACE09882E5-1.jpeg]]
+		   > Can generally combine [[Orbital Angular Momentum Quantum Number|Sublevels]] that are split by other [[Orbital Angular Momentum Quantum Number|Sublevels]]. Such as $5d^1$ and $5d^5$ in the example above.
+         
+		- > [!Example]-
       	   > Electron configuration for $_{14}Si$:
             > ![[IMG_0472B7CACFC2-1.jpeg|200]]
             > So its configuration would be: $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^2$
-
+- ## Shorthand Notation
+	- Instead of writing out all the pervious row's fully filled [[Electron]] configurations, you can simply abbreviate it with the [[Noble Gas]] in the [[Element]].
+		- > [!Example]-
+		> ![[IMG_4A0CD6A1CB71-1.jpeg]]
+		
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]
 	![[Pauli Exclusion Principle#^31c667]]
 	- [[Hund's Rule]]
 	![[Hund's Rule#^cc262a]]
-- ## Shorthand Notation
-	- Instead of writing out all the pervious row's fully filled [[Electron]] configurations, you can simply abbreviate it with the [[Noble Gas]] in the [[Element]].
-		> [!Example]
-		> 
 - ## Reference
 
 [^1]: $n$: [[Principle Quantum Number]]
