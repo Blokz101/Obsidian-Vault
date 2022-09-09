@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]] [[Quantum Number]]
 
 - ## Definition
-	- Designates the shape of the [[Orbital]] and is often referred to as the [[Orbital Angular Momentum Quantum Number|Sublevel]].
+	- Designates the shape of the [[Orbital]] configuration and is often referred to as the [[Orbital Angular Momentum Quantum Number|Sublevel]].
 		 - $\ell$ Value|Letter
 		  ---|---
 		  0|s

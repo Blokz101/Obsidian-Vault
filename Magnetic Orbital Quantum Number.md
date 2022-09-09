@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]] [[Quantum Number]]
 
 - ## Definition
-	- Designates the orientation of the [[Orbital Angular Momentum Quantum Number|Sublevel]].
+	- Designates the number of [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
 	- There are **$2\ell+1$[^1]**  [[Orbital|Orbitals]] in each the [[Orbital Angular Momentum Quantum Number|Sublevel]].
 		- Can have [[Integer]] values equal to or between $\ell$[^1] and $-\ell$[^1].
 	   > [!Example]
