@@ -11,5 +11,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Only two [[Electron|Electrons]] are allowed per [[Orbital]].
 		- When there are two they are referred to as paired.
 		- They must be [[Spin Quantum Number|Spinning]] in opposite directions to be paired.
+		- Often represented as single boxes in diagrams.
 - ## Reference
-	- Rows of [[Orbital|Orbitals]] make up [[Sublevel|Sublevels]].
+	- The number of [[Orbital|Orbitals]] in a [[Sublevel]] is defined by the [[Magnetic Orbital Quantum Number]].

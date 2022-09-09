@@ -35,7 +35,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Reference
 	- [[Electron|Electrons]] can have several different [[Atomic States]] within the [[Schrodinger Model]].
-	- [[Electron Orbital Occupation]] rules determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
+	- [[Electron Orbital Configuration]] rules determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
 	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 
 

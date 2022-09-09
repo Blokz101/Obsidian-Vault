@@ -13,7 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- [[Magnetic Orbital Quantum Number]]
 			- [[Orbital Angular Momentum Quantum Number]]
 			- [[ Principle Quantum Number]]
-		- [[Electron Orbital Occupation]]
+		- [[Electron Orbital Configuration]]
 			- [[Atomic States]]
 			- [[Orbital]]
 			- [[Sublevel]]
