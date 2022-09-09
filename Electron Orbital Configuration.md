@@ -24,7 +24,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- When mapped to the [[Periodic Table]] it looks like this:
 			- ![[Pasted image 20220908155935.png]]
 		- And when mapped to the [[Schrodinger Model]] with [[Orbital Angular Momentum Quantum Number|Sublevels]] in order of Energy from **least to greatest (Right to left then top to bottom on the [[Periodic Table]])**:
-			- ![[IMG_C1B7D4955DEC-1]]
+			- ![[IMG_C1B7D4955DEC-1.jpeg|250]]
 	- #### Writing the Configuration:
 		- Write the [[Orbital Angular Momentum Quantum Number|Sublevels]] in this format:
 		  - > [!Equation]
@@ -35,28 +35,24 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $x$ = The number of [[Electrons]] filling the [[Orbital Angular Momentum Quantum Number|Sublevel]].
 		- Move from the [[Orbital Angular Momentum Quantum Number|Sublevel]] with the least energy to the one with the most. This is **from left to right then top to bottom**.
 		- > [!Example]-
-      	   > Electron configuration for Br:
+      	   > Electron configuration for $_{35}Br$:
       	> ![[IMG_EF59AD52784B-1.jpeg]]
-	  
+
+		- > [!Example]-
+      	   > Electron configuration for $_{14}Si$:
+            > ![[IMG_0472B7CACFC2-1.jpeg|200]]
+            > So its configuration would be: $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^2$
+
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]
 	![[Pauli Exclusion Principle#^31c667]]
 	- [[Hund's Rule]]
 	![[Hund's Rule#^cc262a]]
-- ## Periodic Table and [[Electron Orbital Configuration]]
-	- [[Element|Elements]] in the same group on the [[Periodic Table]] have the same outer [[Electron]] configuration and therefore the same chemical properties and reactivity.
-		- ![[IMG_C1B7D4955DEC-1.jpeg|300]]
-		- ![[Pasted image 20220908155935.png]]
-- ## Notation
-	- #### DEFAULT Notation
-		- Write out each [[Orbital Angular Momentum Quantum Number|Sublevel]] for an [[Element]]. Each [[Orbital]] will have the number of [[Electron|Electrons]] in it written in the exponents place.
-		  > [!Example]-
-		  > Given the neutral atom Si, [[Atomic number]] = 14
-		  > 
-		  > We know there are 14 [[Electron|Electrons]] because it is neutral.
-		  > ![[IMG_0472B7CACFC2-1.jpeg|200]]
-		  > So its configuration would be: $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^2$
+- ## Shorthand Notation
+	- Instead of writing out all the pervious row's fully filled [[Electron]] configurations, you can simply abbreviate it with the [[Noble Gas]] in the [[Element]].
+		> [!Example]
+		> 
 - ## Reference
 
 [^1]: $n$: [[Principle Quantum Number]]
