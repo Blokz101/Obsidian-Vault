@@ -13,9 +13,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $\ell$[^2] defines the number of [[Orbital Angular Momentum Quantum Number|Sublevel]] in each [[Principle Quantum Number|Energy Level]].
 			- There are $0$ to $n-1$ [[Orbital Angular Momentum Quantum Number|Sublevels]].
 		- $m_l$[^3] defines the number of [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
-			- There are $2\ell+1$ [[Orbital|Orbitals]] per 
-	- The result ends up looking like this:
-	  ![[IMG_7B7D47C3A246-1.jpeg|400]]
+			- There are $2\ell+1$ [[Orbital|Orbitals]] per [[Orbital Angular Momentum Quantum Number|Sublevel]].
+	- The order of the [[Orbital Angular Momentum Quantum Number|Sublevels]] and the value of $n$ is defined by the [[Element|Element's]] location on the [[Periodic Table]].
+		- ![[Pasted image 20220908155935.png]]
+		- Let $r$ be the **row number**:
+			- The $n$ value for the $s$ and $p$ block is $r$
+			- The $n$ value for the $d$ block is $r-1$.
+			- The $n$ value for the $f$ block is $r-2$.
 	  
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
