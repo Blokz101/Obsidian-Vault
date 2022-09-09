@@ -38,6 +38,30 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "953378b1ca5c009f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Mass Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c04f30d10fa700a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Periodic Table.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Vault/Periodic Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Vault/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orbital Angular Momentum Quantum Number.md",
+                "file": "Vault/Periodic Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b81a08e19e8a0326",
+  "active": "c04f30d10fa700a2",
   "lastOpenFiles": [
+    "Vault/Subatomic Particles.md",
+    "Vault/Periodic Table.md",
+    "Vault/Mass Number.md",
+    "Orbital Angular Momentum Quantum Number.md",
     "Schrodinger Model.md",
     "Electron Orbital Occupation.md",
     "References/Excalidraw/Drawing 2022-09-08 15.22.24.excalidraw.md",
     "Chemistry.md",
-    "Vault/Mass Number.md",
     "Vault/Neutron.md",
-    "Vault/Wavelength.md",
-    "Vault/Density.md",
-    "Vault/Planck's Equation.md",
-    "Vault/Rydberg's Equation.md"
+    "Vault/Wavelength.md"
   ]
 }

@@ -13,10 +13,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Periods are rows, there are 7 periods.
 	- Groups/Families are columns, there are 18 groups.
 - ## Periodic Table Entry
-	- ![[Periodic Table Entry Screenshot.png]]
-	- The symbol in the middle identifies the [[Element]].
-	- The [[Atomic Number]] tells you how many [[Proton|Protons]] there are in an [[Atom]] of a given [[Element]].
-	- The [[Molar Mass]] or [[Molar Mass|Average Atomic Mass]]
+	- #### Standard
+		- ![[Periodic Table Entry Screenshot.png]]
+		- The symbol in the middle identifies the [[Element]].
+		- The [[Atomic Number]] tells you how many [[Proton|Protons]] there are in an [[Atom]] of a given [[Element]].
+		- The [[Molar Mass]] or [[Molar Mass|Average Atomic Mass]]
+	- #### Other
+		- Might also see [[Element|Elements]] notated like this:
+		  $$\large{^{56}_{26}Fe}$$
+		  The top number is the [[Mass Number]] while the bottom number is the [[Atomic number]].
 - ## Reactivity and Properties 
 	- [[Element|Elements]] with less [[Electron|Electrons]] in their outermost shell are more reactive.
 	- Reactivity goes from the top-right (most stable, least reactive) to the bottom-left (least stable, more reactive).
