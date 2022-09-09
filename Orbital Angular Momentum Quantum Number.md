@@ -16,9 +16,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  3|f
 		  4|g
 		  5|h
-	- There can be from 0 to $n-1$.
+	- There can be from 0 to $n-1$[^1].
 	- Secondary indicator of [[Energy]] after [[Principle Quantum Number|Principle]].
 	- Notated as $\ell$
 	- This is a lot of the complexity that the [[Bohr's Model]] lacked.
 - ## Reference
 	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
+
+[^1]: 

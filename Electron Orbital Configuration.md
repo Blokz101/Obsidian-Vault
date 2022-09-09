@@ -6,12 +6,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Standard [[Electron]] [[Orbital]] Configuration
+- ## [[Element|Elemental]] [[Electron]] [[Orbital]] Configuration
 	- Each [[Element]] follows the same rules that are defined by its [[Quantum Number|Quantum Numbers]] and place on the [[Periodic Table]].
-		- First, a few relationships to understand.
-			- Each [[Principle Quantum Number|Energy Level]] of the configuration has [[Sublevel|Sublevels]] and each [[Sublevel]] has [[Orbital|Orbitals]].
-				- The [[Principle Quantum Number|Energy Level]] is defined by the [[Principle Quantum Number]].
-				- Each [[Principle Quantum Number|Energy Level]] has a different number of [[Sublevel|Sublevels]]
+	- Firstly there is a hierarchy of 
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]

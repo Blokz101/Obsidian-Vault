@@ -40,6 +40,18 @@
         }
       },
       {
+        "id": "ee626f74775a55b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "bc89f7027ac3ba79",
         "type": "leaf",
         "state": {
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electron Orbital Configuration.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron Orbital Configuration.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electron Orbital Configuration.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,17 +243,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc89f7027ac3ba79",
+  "active": "ee626f74775a55b3",
   "lastOpenFiles": [
-    "Principle Quantum Number.md",
+    "Schrodinger Model.md",
     "Electron Orbital Configuration.md",
+    "Principle Quantum Number.md",
     "Magnetic Orbital Quantum Number.md",
     "Vault/Bohr's Model.md",
     "Orbital.md",
     "Vault/Rydberg's Equation.md",
     "Vault/Hydrogen Atom Line Spectra.md",
     "Vault/Spectrum of Light.md",
-    "Vault/Absorption and Emission.md",
-    "Vault/Periodic Table.md"
+    "Vault/Absorption and Emission.md"
   ]
 }
