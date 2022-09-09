@@ -1,5 +1,5 @@
 ---
-Alias: [Energy Levels of an Atom, Bohr Radius]
+Alias: [Bohr Radius]
 Creation Date: Sat September 3rd 2022 07:15:25 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -12,7 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Significant because it showed that [[Electron|Electrons]] move in quantized[^1] [[Energy]] transitions.
 - ## Interactions
 	- [[Electron|Electrons]] can jump between energy levels via the process of [[Absorption and Emission]].
-	- Each [[Bohr's Model|Energy Levels of an Atom]] has a measurable [[Energy]] given by this equation. ^925e1e
+	- Each energy levels of an atom has a measurable [[Energy]] given by this equation. ^925e1e
 		- > [!Equation]
 		   > $$E_{level}=\frac{-Z^2hR}{n^2}$$
 		   > 
@@ -20,7 +20,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		   > $Z$ = [[Atomic Number]]
 		   > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
 		   > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
-		   > $n$ = [[Bohr's Model|Energy Levels of an Atom]] (integer)
+		   > $n$ = Energy Level (integer)
 		   
 		- The [[Energy]] is negative because [[Energy]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force]].
 - ## Bohr Radius

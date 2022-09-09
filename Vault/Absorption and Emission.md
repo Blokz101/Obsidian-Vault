@@ -16,8 +16,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $E$ = [[Energy]] (J)
 	      > $h$ = [[Planck's Equation]] = $6.626e-34$ ($Js$).
 		  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
-	      > $n_{lo}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the lowest.
-	      > $n_{hi}$ = [[Bohr's Model|Energy Levels of an Atom]] (integer) that is the highest.
+	      > $n_{lo}$ = Energy Level (integer) that is the lowest.
+	      > $n_{hi}$ = Energy Level (integer) that is the highest.
 	      
 	      Derived from [[Planck's Equation]] and from [[Rydberg's Equation]]:
 			![[Planck's Equation#^0cca3d]]

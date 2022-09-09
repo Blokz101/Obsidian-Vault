@@ -9,6 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Designates the level or shell that the [[Electron]] is in.
 		- Primary indicator of [[Energy]].
+		- Often referred to as the [[Energy Level]]
 	- [[Integer]] value, and notated as $n$.
 - ## Reference
 	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.

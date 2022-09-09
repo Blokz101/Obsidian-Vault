@@ -6,8 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Elemental [[Orbital]] Configuration
-	- The [[Electron]] configuration of each [[Element]] follows specific rules and are clos
+- ## Standard [[Electron]] [[Orbital]] Configuration
+	- Each [[Element]] has the same configuration of [[Orbital|Orbitals]] for [[Electron|Electrons]] to fill.
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]

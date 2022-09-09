@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Quantum Mechanical Model, Electron Cloud Model]
 Creation Date: Wed September 7th 2022 11:16:21 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -39,4 +39,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 
 
-[^1]: Probability Region: The region where an [[Electron]] can be found.
+	[^1]: Probability Region: The region where an [[Electron]] can be found.
