@@ -7,6 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- States that [[Electron|Electrons]] must fill up each [[Orbital]] in a [[Sublevel]] [[Spin Quantum Number|Spinning]] in the same direction before they can begin to pair. ^cc262a
+	- States that [[Electron|Electrons]] must fill up each [[Orbital]] in a [[Orbital Angular Momentum Quantum Number|Sublevel]] [[Spin Quantum Number|Spinning]] in the same direction before they can begin to pair. ^cc262a
 - ## Reference
 	- To get more information on this check out the [[Schrodinger Model]].

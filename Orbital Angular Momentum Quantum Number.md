@@ -1,5 +1,5 @@
 ---
-Alias: [Orbital Angular Momentum]
+Alias: [Orbital Angular Momentum, Sublevel, Subshell, Sublevels, Subshells]
 Creation Date: Wed September 7th 2022 02:10:39 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]] [[Quantum Number]]
 
 - ## Definition
-	- Designates the shape of the [[Orbital]].
+	- Designates the shape of the [[Orbital]] and is often referred to as the [[Orbital Angular Momentum Quantum Number|Sublevel]].
 		 - $\ell$ Value|Letter
 		  ---|---
 		  0|s
@@ -23,4 +23,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
 
-[^1]: 
+[^1]: $n$: [[Principle Quantum Number]]

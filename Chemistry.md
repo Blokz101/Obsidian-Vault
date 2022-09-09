@@ -15,8 +15,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- [[ Principle Quantum Number]]
 		- [[Electron Orbital Configuration]]
 			- [[Atomic States]]
-			- [[Orbital]]
-			- [[Sublevel]]
 			- Rules for Occupation
 				- [[Hund's Rule]]
 				- [[Pauli Exclusion Principle]]

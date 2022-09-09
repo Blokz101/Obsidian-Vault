@@ -8,10 +8,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A volume of space where where an [[Electron]] is most likely located.
-		- "Places" in a [[Sublevel]] that [[Electron|Electrons]] can reside.
+		- "Places" in a [[Orbital Angular Momentum Quantum Number|Sublevel]] that [[Electron|Electrons]] can reside.
 	- Only two [[Electron|Electrons]] are allowed per [[Orbital]].
 		- When there are two they are referred to as paired.
 		- They must be [[Spin Quantum Number|Spinning]] in opposite directions to be paired.
 		- Often represented as single boxes in diagrams.
 - ## Reference
-	- The number of [[Orbital|Orbitals]] in a [[Sublevel]] is defined by the [[Magnetic Orbital Quantum Number]].
+	- The number of [[Orbital|Orbitals]] in a [[Orbital Angular Momentum Quantum Number|Sublevel]] is defined by the [[Magnetic Orbital Quantum Number]].

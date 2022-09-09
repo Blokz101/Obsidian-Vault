@@ -8,7 +8,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## [[Element|Elemental]] [[Electron]] [[Orbital]] Configuration
 	- Each [[Element]] follows the same rules that are defined by its [[Quantum Number|Quantum Numbers]] and place on the [[Periodic Table]].
-	- Firstly there is a hierarchy of 
+		- $n$[^1] defines the [[Principle Quantum Number|Energy Level]]
+		- $\ell$[^2] defines the [[Orbital Angular Momentum Quantum Number|Sublevel]] in each [[Principle Quantum Number|Energy Level]].
+		- $m_s$ defines the [[Orbital|Orbitals]] in each [[Orbital Angular Momentum Quantum Number|Sublevel]].
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
 	- [[Pauli Exclusion Principle]]
@@ -21,7 +23,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[Pasted image 20220908155935.png]]
 - ## Notation
 	- #### DEFAULT Notation
-		- Write out each [[Sublevel]] for an [[Element]]. Each [[Orbital]] will have the number of [[Electron|Electrons]] in it written in the exponents place.
+		- Write out each [[Orbital Angular Momentum Quantum Number|Sublevel]] for an [[Element]]. Each [[Orbital]] will have the number of [[Electron|Electrons]] in it written in the exponents place.
 		  > [!Example]-
 		  > Given the neutral atom Si, [[Atomic number]] = 14
 		  > 
@@ -29,4 +31,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > ![[IMG_0472B7CACFC2-1.jpeg|200]]
 		  > So its configuration would be: $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^2$
 - ## Reference
-	- [[Electron Orbital Configuration]] determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
+	- [[Electron Orbital Configuration]] determine how [[Electron|Electrons]] occupy [[Orbital Angular Momentum Quantum Number|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
+
+[^1]: $n$: [[Principle Quantum Number]]
+[^2]: $\ell$: [[Orbital Angular Momentum Quantum Number]]

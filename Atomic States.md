@@ -8,12 +8,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- #### Ground State
-		- All [[Electron|Electrons]] are at their lowest [[Orbital]] and [[Electron|Electrons]] in the same [[Sublevel]] are fully spread out. Unpaired [[Electron|Electrons]] are [[Spin Quantum Number|Spinning]] in the same direction.
+		- All [[Electron|Electrons]] are at their lowest [[Orbital]] and [[Electron|Electrons]] in the same [[Orbital Angular Momentum Quantum Number|Sublevel]] are fully spread out. Unpaired [[Electron|Electrons]] are [[Spin Quantum Number|Spinning]] in the same direction.
 	- #### Excited State
-		- [[Electron]] has an empty [[Orbital]] in the [[Sublevel]] below it.
-		- Two or more **unpaired** [[Electron|Electrons]] in the same [[Sublevel]] [[Spin Quantum Number|Spinning]] in different directions.
-		- A [[Sublevel]] with one or more paired [[Electron|Electrons]] when there is still an empty [[Orbital]] in that [[Sublevel]].
+		- [[Electron]] has an empty [[Orbital]] in the [[Orbital Angular Momentum Quantum Number|Sublevel]] below it.
+		- Two or more **unpaired** [[Electron|Electrons]] in the same [[Orbital Angular Momentum Quantum Number|Sublevel]] [[Spin Quantum Number|Spinning]] in different directions.
+		- A [[Orbital Angular Momentum Quantum Number|Sublevel]] with one or more paired [[Electron|Electrons]] when there is still an empty [[Orbital]] in that [[Orbital Angular Momentum Quantum Number|Sublevel]].
 	- #### Not Allowed
 		- Two [[Electron|Electrons]] in the same [[Orbital]] [[Spin Quantum Number|Spinning]] in the same direction.
 - ## Reference
-	- Dictates how [[Electrons]] behave in their [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] within the [[Schrodinger Model]].
+	- Dictates how [[Electrons]] behave in their [[Orbital Angular Momentum Quantum Number|Sublevels]] and [[Orbital|Orbitals]] within the [[Schrodinger Model]].

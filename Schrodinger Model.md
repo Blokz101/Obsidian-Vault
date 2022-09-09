@@ -18,9 +18,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		 
 	- When put together the [[Quantum Number|Quantum Numbers]] create these Probability Regions[^1]
 		- ![[IMG_7BCA789CA91E-1.jpeg|400]]
-   - They also create these [[Sublevel|Sublevels]].
+   - They also create these [[Orbital Angular Momentum Quantum Number|Sublevels]].
 	   - ![[IMG_4A3D74F6069C-1.jpeg|300]]
-	   - [[Sublevel|Sublevels]] are shown as rows of boxes.
+	   - [[Orbital Angular Momentum Quantum Number|Sublevels]] are shown as rows of boxes.
 	   - [[Orbital|Orbitals]] are shown as boxes.
 	     > [!Example]-
 	     > What are the [[Quantum Number|Quantum Numbers]] of this [[Electron]].
@@ -35,8 +35,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Reference
 	- [[Electron|Electrons]] can have several different [[Atomic States]] within the [[Schrodinger Model]].
-	- [[Electron Orbital Configuration]] rules determine how [[Electron|Electrons]] occupy [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] at their ground state.
-	- Has [[Sublevel|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
+	- [[Electron Orbital Configuration]] rules determine how [[Electron|Electrons]] occupy [[Orbital Angular Momentum Quantum Number|Sublevel]] and [[Orbital|Orbitals]] at their ground state.
+	- Has [[Orbital Angular Momentum Quantum Number|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
 
 
 	[^1]: Probability Region: The region where an [[Electron]] can be found.
