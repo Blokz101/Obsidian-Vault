@@ -22,6 +22,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- The $n$ value for the $s$ and $p$ block is $r$
 			- The $n$ value for the $d$ block is $r-1$.
 			- The $n$ value for the $f$ block is $r-2$.
+	
+> [!Example]-
+> Electron configuration for Br.
+	> ![[IMG_EF59AD52784B-1.jpeg]]
 	  
 - ## Filling [[Orbital|Orbitals]]
 	- Electrons will always seek the lowest energy available [[Orbital]].
