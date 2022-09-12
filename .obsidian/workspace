@@ -540,7 +540,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Proton.md",
+                "file": "Electron Orbital Configuration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -590,7 +590,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Proton.md",
+                "file": "Electron Orbital Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -607,7 +607,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Proton.md",
+                "file": "Electron Orbital Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -640,15 +640,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd530746ee0f9522",
+  "active": "6bc9337c30a9fb11",
   "lastOpenFiles": [
+    "Vault/Proton.md",
     "Vault/Coulomb's Law of Energy.md",
     "Vault/Dielectric Constant.md",
     "Vault/Coulomb's Law of Force.md",
     "Chemistry.md",
     "Vault/Valence Electron.md",
     "Vault/Electron.md",
-    "Vault/Proton.md",
     "Vault/Subatomic Particles.md",
     "Vault/Thompson's Plum Pudding.md",
     "Vault/Rutherford's Model.md"
