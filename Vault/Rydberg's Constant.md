@@ -10,3 +10,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A physical constant relating to atomic spectra ([[Hydrogen Atom Line Spectra]]).
 	  $$\large{3.29e15}s^{-1}$$
 - ## Reference
+	- Used in [[Rydberg's Equation]].

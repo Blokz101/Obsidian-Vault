@@ -7,11 +7,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Table of Contents
+	- Trends on the Periodic Table relating to the quantum numbers and electron behavior
+		- [[Effective Nuclear Charge]]
+		- [[Shielding Constant]]
+		- [[Electronegativity]]
+		- [[Ionization Energy]]
+		- [[Atomic Radius]]
 	- [[Schrodinger Model]]
 		- Quantum Numbers
 			- [[Spin Quantum Number]]
-			- [[Magnetic Orbital Quantum Number]]
 			- [[Orbital Angular Momentum Quantum Number]]
+			- [[Magnetic Orbital Quantum Number]]
 			- [[ Principle Quantum Number]]
 		- [[Electron Orbital Configuration]]
 			- [[Atomic States]]

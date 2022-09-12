@@ -35,8 +35,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Reference
 	- [[Electron|Electrons]] can have several different [[Atomic States]] within the [[Schrodinger Model]].
-	- [[Electron Orbital Configuration]] rules determine how [[Electron|Electrons]] occupy [[Orbital Angular Momentum Quantum Number|Sublevel]] and [[Orbital|Orbitals]] at their ground state.
-	- Has [[Orbital Angular Momentum Quantum Number|Sublevels]] and [[Orbital|Orbitals]] instead of just energy levels like the [[Bohr's Model]].
+	- [[Electron Orbital Configuration]] rules determine [[Orbital|Orbitals]], [[Orbital Angular Momentum Quantum Number|Sublevel]], and [[Principle Quantum Number|Energy Levels]] are organized.
 
 
 	[^1]: Probability Region: The region where an [[Electron]] can be found.
