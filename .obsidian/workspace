@@ -540,7 +540,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Coulomb's Law of Force.md",
+                "file": "Vault/Proton.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -590,7 +590,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Coulomb's Law of Force.md",
+                "file": "Vault/Proton.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -607,7 +607,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Coulomb's Law of Force.md",
+                "file": "Vault/Proton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -640,12 +640,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5974423ad07272bb",
+  "active": "dd530746ee0f9522",
   "lastOpenFiles": [
-    "Vault/Dielectric Constant.md",
-    "Chemistry.md",
-    "Vault/Coulomb's Law of Force.md",
     "Vault/Coulomb's Law of Energy.md",
+    "Vault/Dielectric Constant.md",
+    "Vault/Coulomb's Law of Force.md",
+    "Chemistry.md",
     "Vault/Valence Electron.md",
     "Vault/Electron.md",
     "Vault/Proton.md",
