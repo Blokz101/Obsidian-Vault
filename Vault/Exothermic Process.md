@@ -12,3 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Energy]] **is released** during the [[Process]].
 - ## Reference
 	- The opposite of an [[Endothermic Process]].
+	- [[Energy]] is [[Absorption and Emission|Emitted]].

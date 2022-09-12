@@ -12,3 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Energy]] **is required** for the [[Process]].
 - ## Reference
 	- The opposite of an [[Exothermic Process]].
+	- [[Energy]] is [[Absorption and Emission|Absorbed]].
