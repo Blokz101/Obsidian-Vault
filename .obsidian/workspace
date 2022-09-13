@@ -22,19 +22,43 @@
           "type": "markdown",
           "state": {
             "file": "Derivative Constant Multiple Rule.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "60327a776741cb74",
+        "id": "e9b0684d57861eb8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Derivative Product Rule.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "242c69559ded2ee1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Derivative Quotient Rule.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "fa92189b7c6b75cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Derivative Sum Rule.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -96,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative Constant Multiple Rule.md",
+                "file": "Derivative Quotient Rule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Constant Multiple Rule.md",
+                "file": "Derivative Quotient Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative Constant Multiple Rule.md",
+                "file": "Derivative Quotient Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e990a80bb4aa2a09",
+  "active": "242c69559ded2ee1",
   "lastOpenFiles": [
-    "Derivative Sum Rule.md",
     "Derivative Constant Multiple Rule.md",
+    "Derivative Product Rule.md",
+    "Derivative Sum Rule.md",
+    "Derivative Quotient Rule.md",
+    "References/Excalidraw/Drawing 2022-09-13 12.04.16.excalidraw.md",
     "Derivative.md",
     "References/Excalidraw/Drawing 2022-09-13 11.53.19.excalidraw.md",
     "Basic Derivative Rules.md",
     "Effective Nuclear Charge.md",
-    "Shielding Constant.md",
-    "Electronegativity.md",
-    "Ionization Energy.md",
-    "Atomic Radius.md"
+    "Shielding Constant.md"
   ]
 }

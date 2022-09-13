@@ -7,6 +7,6 @@
   "rotateHeaders": true,
   "headerAlt": false,
   "orienation": "mixed",
-  "stackingEnabled": false,
+  "stackingEnabled": true,
   "smoothAnimation": false
 }
