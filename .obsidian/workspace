@@ -38,6 +38,42 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "421f82659acb3429",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Limit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a296d7555a1529ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Proving a Limit.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f609bd77ffd750a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "References/Excalidraw/Asymptote.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Principle Quantum Number.md",
+                "file": "References/Excalidraw/Asymptote.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principle Quantum Number.md",
+                "file": "References/Excalidraw/Asymptote.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principle Quantum Number.md",
+                "file": "References/Excalidraw/Asymptote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,17 +232,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89ee51e5e4c5cf94",
+  "active": "f609bd77ffd750a9",
   "lastOpenFiles": [
+    "Vault/Proving a Limit.md",
+    "Vault/Limit.md",
+    "Principle Quantum Number.md",
     "Vault/Planck's Equation.md",
     "Vault/Energy.md",
     "Atomic Radius.md",
     "Ionization Energy.md",
     "Electronegativity.md",
     "Effective Nuclear Charge.md",
-    "Shielding Constant.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Spin Quantum Number.md",
-    "Magnetic Orbital Quantum Number.md"
+    "Shielding Constant.md"
   ]
 }
