@@ -10,7 +10,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Designates the level or shell that the [[Electron]] is in.
 		- Primary indicator of [[Energy]].
 		- Often referred to as the [[Energy Level]]
-	- Is dependent on the row its element is in on the [[Periodic Table]] and what group it is in.[^1] However can hold up to 
+	- Is dependent on the row its element is in on the [[Periodic Table]] and what group it is in.[^1]. 
+	- There are $2n^2$ spots for [[Electron|Electrons]] in per each [[Principle Quantum Number|Energy Level]]. We dont see them all on the periodic table however because it is only a map of what we know.
 	- [[Integer]] value, and notated as $n$.
 - ## Reference
 	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
