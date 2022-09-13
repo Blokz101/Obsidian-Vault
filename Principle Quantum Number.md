@@ -10,7 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Designates the level or shell that the [[Electron]] is in.
 		- Primary indicator of [[Energy]].
 		- Often referred to as the [[Energy Level]]
-	- Is dependent on the row its element is in on the [[Periodic Table]] and what group it is in.[^1]
+	- Is dependent on the row its element is in on the [[Periodic Table]] and what group it is in.[^1] However can hold up to 
 	- [[Integer]] value, and notated as $n$.
 - ## Reference
 	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
