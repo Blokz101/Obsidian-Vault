@@ -7,10 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-   - > [!Sum Rule]
+  - > [!Sum Rule]
   > If $f(x)$ and $g(x)$ are both [[Derivative|Differentiable]] then:
   > $$\frac{d}{dx}[f+g](x)=\frac{d}{dx}f(x)+\frac{d}{dx}g(x)$$
-  > > [!Proof]
-  > > ![[Drawing 2022-09-13 11.53.19.excalidraw]]
+  > > [!Proof]-
+  > > ![[Drawing 2022-09-13 11.53.19.excalidraw]] ^4d2afd
 - ## Reference
 	- [[Derivative]]

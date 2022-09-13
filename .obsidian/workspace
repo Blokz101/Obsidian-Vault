@@ -4,60 +4,180 @@
     "type": "split",
     "children": [
       {
-        "id": "d37baf37e3d131c7",
+        "id": "642d691a63462901",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative.md",
+            "file": "Effective Nuclear Charge.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "e990a80bb4aa2a09",
+        "id": "23d669fe35d45b18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Constant Multiple Rule.md",
+            "file": "Shielding Constant.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "e9b0684d57861eb8",
+        "id": "7b58fab917ed960e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Product Rule.md",
+            "file": "Electronegativity.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "242c69559ded2ee1",
+        "id": "e148c3051fed4cf1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Quotient Rule.md",
+            "file": "Ionization Energy.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "fa92189b7c6b75cb",
+        "id": "9708e9a4b238bd02",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Sum Rule.md",
+            "file": "Atomic Radius.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "edee3a4ca79a1f09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Schrodinger Model.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "afc179e0a99ee359",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spin Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "4d4513bbb75d197c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6224bcb6b1277e9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Magnetic Orbital Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "17848bbdcc09b65e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Principle Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0f07770cb798fca1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electron Orbital Configuration.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "15d8965a161c17c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atomic States.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9c07be92bf604aee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hund's Rule.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "68420ba5646a6f56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pauli Exclusion Principle.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f79e051001b22b2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Absorption and Emission.md",
             "mode": "preview",
             "source": true
           }
@@ -120,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative Quotient Rule.md",
+                "file": "Effective Nuclear Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Quotient Rule.md",
+                "file": "Effective Nuclear Charge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative Quotient Rule.md",
+                "file": "Effective Nuclear Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,17 +340,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "242c69559ded2ee1",
+  "active": "642d691a63462901",
   "lastOpenFiles": [
-    "Derivative Constant Multiple Rule.md",
-    "Derivative Product Rule.md",
-    "Derivative Sum Rule.md",
-    "Derivative Quotient Rule.md",
-    "References/Excalidraw/Drawing 2022-09-13 12.04.16.excalidraw.md",
-    "Derivative.md",
-    "References/Excalidraw/Drawing 2022-09-13 11.53.19.excalidraw.md",
-    "Basic Derivative Rules.md",
+    "Chemistry.md",
     "Effective Nuclear Charge.md",
-    "Shielding Constant.md"
+    "Shielding Constant.md",
+    "Electronegativity.md",
+    "Ionization Energy.md",
+    "Atomic Radius.md",
+    "Schrodinger Model.md",
+    "Spin Quantum Number.md",
+    "Orbital Angular Momentum Quantum Number.md",
+    "Magnetic Orbital Quantum Number.md"
   ]
 }
