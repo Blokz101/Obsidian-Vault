@@ -8,12 +8,25 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Basic Rules
   
-  > [!Derivative of a Constant]
-  > If $f(x)=k$ where $k$ is constant, is [[Derivative|Differentiable]] then:
-  > $$\frac{d}{dx}[k]=0$$
+  - > [!Derivative of a Constant]
+  > If $f(x)=k$ where $k$ is **constant**, is [[Derivative|Differentiable]] then:
+  > $$\frac{d}{dx}(k)=0$$
   > > [!Proof]
-  > > Definition of a [[Derivative]]:
-  > > $\frac{d}{dx}f(x)=lim_{h\rightarrow 0}\frac{f(x-h)-f(x)}{h}$
-  > > $\frac{d}{dx}f(x)=lim_{h\rightarrow 0}\frac{k-k}{h}$
-  > > $\frac{d}{dx}f(x)=lim_{h\rightarrow 0}\frac{0}{h}$
+  > > Step|Explanation
+  > > ---|---
+  > > $\frac{d}{dx}f(k)=^{lim}_{h\rightarrow 0}\frac{f(x-h)-f(x)}{h}$|Definition of a [[Derivative]]
+  > > $\frac{d}{dx}f(k)=^{lim}_{h\rightarrow 0}\frac{k-k}{h}$|No matter what is plugged into $f(k)$ it will always be $k$
+  > > $\frac{d}{dx}f(k)=^{lim}_{h\rightarrow 0}\frac{0}{h}$|Simplify
+  > > $\frac{d}{dx}f(k)=0$|No matter what $h$ is, $\frac{0}{anything}=0$
+  
+  - > [!Derivative of x]
+  > If $f(x)=x$ is [[Derivative|Differentiable]] then:
+  > $$\frac{d}{dx}(x)=1$$
+  > > [!Proof]
+  > > Step|Explanation
+  > > ---|---
+  > > $\frac{d}{dx}f(x)=^{lim}_{h\rightarrow 0}\frac{f(x-h)-f(x)}{h}$|Definition of a [[Derivative]]
+  > > $\frac{d}{dx}f(x)=^{lim}_{h\rightarrow 0}\frac{x+h-x}{h}$|Plug the values into $f(x)$
+  > > $\frac{d}{dx}f(x)=^{lim}_{h\rightarrow 0}\frac{h}{h}$|Simplify
+  > > $\frac{d}{dx}f(x)=1$|Simplify
 - ## Reference

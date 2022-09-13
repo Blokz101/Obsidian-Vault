@@ -7,14 +7,6 @@
         "id": "d37baf37e3d131c7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "30d892277cf31d02",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
             "file": "Derivative.md",
@@ -24,13 +16,25 @@
         }
       },
       {
-        "id": "9ef968ee41df4463",
+        "id": "9e3d5b9569933e04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Basic Derivative Rules.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "60327a776741cb74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sum Rule.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -92,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basic Derivative Rules.md",
+                "file": "Sum Rule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Derivative Rules.md",
+                "file": "Sum Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Derivative Rules.md",
+                "file": "Sum Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +196,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ef968ee41df4463",
+  "active": "60327a776741cb74",
   "lastOpenFiles": [
+    "Basic Derivative Rules.md",
+    "Sum Rule.md",
     "Derivative.md",
     "Effective Nuclear Charge.md",
     "Shielding Constant.md",
@@ -201,8 +207,6 @@
     "Ionization Energy.md",
     "Atomic Radius.md",
     "Schrodinger Model.md",
-    "Spin Quantum Number.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Magnetic Orbital Quantum Number.md"
+    "Spin Quantum Number.md"
   ]
 }
