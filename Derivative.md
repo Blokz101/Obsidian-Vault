@@ -1,5 +1,5 @@
 ---
-Alias: [Differentiation, Differentiable, ]
+Alias: [Differentiation, Differentiable, Derivatives]
 Creation Date: Wed September 7th 2022 11:08:40 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -14,3 +14,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > Provided that the limit exists.
 	- This is called [[Derivative|Differentiation]]. 
 - ## Reference
+	- [[Basic Derivative Rules]] shows the shortcuts for taking the [[Derivative]] of something.
