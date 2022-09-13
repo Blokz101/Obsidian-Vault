@@ -170,18 +170,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "f79e051001b22b2f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Absorption and Emission.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -342,15 +330,15 @@
   },
   "active": "642d691a63462901",
   "lastOpenFiles": [
-    "Chemistry.md",
+    "Vault/Absorption and Emission.md",
     "Effective Nuclear Charge.md",
+    "Chemistry.md",
     "Shielding Constant.md",
     "Electronegativity.md",
     "Ionization Energy.md",
     "Atomic Radius.md",
     "Schrodinger Model.md",
     "Spin Quantum Number.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Magnetic Orbital Quantum Number.md"
+    "Orbital Angular Momentum Quantum Number.md"
   ]
 }
