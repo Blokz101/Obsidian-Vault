@@ -13,5 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > Provided that the limit exists.
 	- This is called [[Derivative|Differentiation]]. 
+- ## Practice
+	- [[Drawing 2022-09-14 12.58.23.excalidraw]]
 - ## Reference
 	- [[Basic Derivative Rules]] shows the shortcuts for taking the [[Derivative]] of something.
