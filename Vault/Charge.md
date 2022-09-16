@@ -9,5 +9,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- How overall positive or negative an [[Ion]] is.
 	  > [!Equation]
-	  > $$c=$$
+	  > $$c=p-e$$
+	  > 
+	  > $c$ = [[Charge]] (integer)
+	  > $p$ = [[Proton|Protons]] (integer)
+	  > $e$ = [[Electron|Electrons]] (integer)
+- ## Predicting Charges
+	- #### Cation
+		- The [[Charge]] is the number of [[Electron|Electrons]] lost.
+		- This is generally the column number.
+	- #### Anion
+		- The charge is the number of [[Electron|Electrons]] gained.
+		- This is generally the columl 
 - ## Reference
