@@ -6,6 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Notes
+- ## Definition
 	- [[Metal|Metals]] like to loose [[Electron|Electrons]] to become [[Ion|Cations]].
 	- Opposite of [[Non-Metal|Non-Metals]]
+- ## Reference
+	- 

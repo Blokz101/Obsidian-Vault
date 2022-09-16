@@ -11,4 +11,3 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_293B2C503BEA-1.jpeg|200]]
 - ## Reference
 	- A type of [[Ion]].
-	- Has

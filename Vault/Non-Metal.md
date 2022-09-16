@@ -6,6 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Notes
+- ## Definition
 	- [[Non-Metal|Non-Metals]] like to gain [[Electron|Electrons]] to become [[Ion|Anions]]
 	- Opposite of [[Metals]]
+- ## Reference
+	- 
