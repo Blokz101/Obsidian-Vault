@@ -15,6 +15,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $n$ = [[Principle Quantum Number]] ([[Integer]])
 	  > $Z_{eff}$ = [[Effective Nuclear Charge]] (Units Unknown)
 - ## Reference
-	- Trend listed in [[Effective Nuclear Charge#^eb9b1e]].
+	- [[Effective Nuclear Charge Related Trends]]
 	- Mainly determined by the [[Effective Nuclear Charge]].
 	- You can use the same variables to calculate [[Ionization Energy]] and [[Electronegativity]].

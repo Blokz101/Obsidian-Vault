@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "765a097e813deb15",
+        "id": "5c69e4b0264c1cee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Effective Nuclear Charge.md",
-            "mode": "preview",
+            "file": "Vault/Charge.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Effective Nuclear Charge.md",
+                "file": "Vault/Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effective Nuclear Charge.md",
+                "file": "Vault/Charge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effective Nuclear Charge.md",
+                "file": "Vault/Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "765a097e813deb15",
+  "active": "5c69e4b0264c1cee",
   "lastOpenFiles": [
+    "Vault/Ion.md",
+    "Effective Nuclear Charge Related Trends.md",
+    "Atomic Radius.md",
+    "Effective Nuclear Charge.md",
+    "Electronegativity.md",
+    "Ionization Energy.md",
     "Derivative.md",
     "References/Excalidraw/Drawing 2022-09-14 12.58.23.excalidraw.md",
     "Vault/Energy.md",
-    "Chemistry.md",
-    "Vault/Planck's Equation.md",
-    "Principle Quantum Number.md",
-    "Vault/Limit.md",
-    "Vault/Proving a Limit.md",
-    "References/Excalidraw/Asymptote.md",
-    "Atomic Radius.md"
+    "Chemistry.md"
   ]
 }
