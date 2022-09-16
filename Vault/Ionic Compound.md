@@ -7,14 +7,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]] [[Compound]]
 
 - ## Definition
-	- A [[Compound]] between a [[Metal]] and a [[Non-Metal]]. The [[Atoms]] form an [[Ionic Bond]] as the [[Metal]] "gives away/shares" its [[Electron|Electrons]] with the [[Non-Metal]].
+	- A [[Compound]] between a [[Metal]] and a [[Non-Metal]]. The [[Atoms]] form an [[Ionic Bond]] as the [[Metal]] **gives away** its [[Electron|Electrons]] with the [[Non-Metal]].
+		- [[Ionic Compound#^ed6c41|This is the reason that the atoms stick together]].
 	  >[!Memory Aid]
 	  >Its Ironic that Metals and Non-Metals get together.
 - ## Effects of the [[Ionic Bond]]
 	- The [[Metal|Metals]] become [[Ion|Cations]] as they give up [[Electron|Electrons]].
 		- They also get **smaller**.
-	- The [[Non-Metal|Non-Metals]] befomre [[Ion|Anions]] as they gain [[Electron|Electrons]].
+	- The [[Non-Metal|Non-Metals]] before [[Ion|Anions]] as they gain [[Electron|Electrons]].
 		- They get **larger**.
+	- The [[Metal|Metals]] and [[Non-Metal|Non-Metals]] become attracted to each other because of the difference in their charges (one negative and one positive). ^ed6c41
 - ## Names
 	- To find the name for an [[Ionic Compound]] you need to first predict the ratio in which the [[Atom|Atoms]] in the [[Ionic Compound]] will combine in.
 		1. Determine the [[Charge]] on each of the [[Ion|Ions]]
@@ -31,4 +33,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Warning]
 	  > [[Ionic Compound|Ionic Compounds]] **DO NOT FORM** [[Molecule|Molecules]], they are instead referred to as "Formula Units".
 - ## Reference
-	- 
+	- The **Effects of the [[Ionic Bond]]** change the [[Charge]] of the atoms in it.

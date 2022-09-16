@@ -45,8 +45,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Ionic Compound.md",
-            "mode": "preview",
+            "file": "Vault/Oxidation State.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ionic Compound.md",
+                "file": "Vault/Oxidation State.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ionic Compound.md",
+                "file": "Vault/Oxidation State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ionic Compound.md",
+                "file": "Vault/Oxidation State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,6 +234,7 @@
   },
   "active": "e509ad566342a404",
   "lastOpenFiles": [
+    "Vault/Ionic Compound.md",
     "Vault/Compound.md",
     "Vault/Non-Metal.md",
     "Vault/Chemical Bond.md",
@@ -242,7 +243,6 @@
     "Vault/Metal.md",
     "Vault/Charge.md",
     "Vault/Ion.md",
-    "Vault/Isoelectronic Ion.md",
-    "Effective Nuclear Charge Related Trends.md"
+    "Vault/Isoelectronic Ion.md"
   ]
 }
