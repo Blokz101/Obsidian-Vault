@@ -16,16 +16,24 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		> $7$ to $-1$
 - In general a transition [[Element|Element's]] [[Oxidation State|Oxidation Number]] will be $2+$.
 	- Due to a loss of two [[Electron|Electrons]] in its $s$ [[Orbital Angular Momentum Quantum Number|Sublevel]].
-- ## THE MAIN RULES
-	- #### Rule 1
+- ## The Oxidation Rules
+	- #### Rule 1 (The Elemental Rule)
 		- The [[Oxidation State|Oxidation Number]] of atoms in their **Elemental Form** is $0$.
 			- Example: $Fe$, $S_8$, $O_2$
-	- #### Rule 2
+	- #### Rule 2 (The Fluorine Rule)
 		- $F$ or Fluorine is always assigned an [[Oxidation State|Oxidation Number]] of $-1$ due to its high [[Electronegativity|Electronegativity]].
 			- Except if **Rule 1 applies**.
-	- #### Rule 3
-		- [[Oxidation State|Oxidation Number]] of Group 1A is always $+1$.
-		- [[Oxidation State|Oxidation Number]] of Group 
-	- #### Rule 4
-	- #### Rule 5
-- ## Referencee
+	- #### Rule 3 (The Group Rule)
+		- [[Oxidation State|Oxidation Number]] of **Group 1A** is always $+1$.
+		- [[Oxidation State|Oxidation Number]] of **Group 2A** is always $+2$.
+		- [[Oxidation State|Oxidation Number]] of **$Al$** is always $+3$.
+	- #### Rule 4 (The Hydrogen Rule)
+		- [[Oxidation State|Oxidation Number]] of $H$ or **Hydrogen** is:
+			- $+1$ if bonded to a [[Non-Metal]].
+			- $-1$ if bonded to  [[Metal]].
+			- $0$ if bonded to another **Hydrogen** atom.
+	- #### Rule 5 (The Oxygen Rule)
+		- [[Oxidation State|Oxidation Number]] of $O$ or **Oxygen** is $-2$.
+	- #### Rule 6 (The Halogens Rule)
+		- [[Oxidation State|Oxidation Number]] of all [[Halogens]] is $-1$.
+- ## Reference
