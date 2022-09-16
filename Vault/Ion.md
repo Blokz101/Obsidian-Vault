@@ -19,8 +19,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Negatively charged [[Ion|Ions]] are [[Ion|Anions]]. 
 - ## Electron Configuration of Cation
 	- When a [[Ion|Cation]] uses its [[Valence Electron|Valence Electrons]] it gives up its [[Valence Electron|Valence Electrons]] in this order.
-		- [[Valence Electron|Valence Electrons]] with the highest [[Principle Quantum Number]].
-		- [[Valence Electron|Valence Electrons]] with the highest [[Orbital Angular Momentum Quantum Number]].
+		- [[Valence Electron|Valence Electrons]] with the highest $n$ ([[Principle Quantum Number]]).
+		- [[Valence Electron|Valence Electrons]] with the highest $\ell$ ([[Orbital Angular Momentum Quantum Number]]).
+		- > [!Note]
+		  > Generally this means that [[Valence Electron|Valence Electrons]] are generally removed in the order of $p$, $s$, then $d$.
+		  > 
+		  > This is because $p$ and $s$ normally have a higher [[Principle Quantum Number]] and so they go first and then the [[Orbital Angular Momentum Quantum Number|Sublevels]] with a lower [[Principle Quantum Number]].
+	- ![[IMG_A2F82C1017C8-1.jpeg|400]]
+- ## Electron Configuration of Anion
+	- When a [[Ion|Anion]] uses its [[Valence Electron|Valence Electrons]] it gains [[Valence Electron|Valence Electrons]] in the same order that they are filled in normally.
+	- Same as described in [[Electron Orbital Configuration|Electron Configuration]].
+	- ![[IMG_C8D9867731FD-1.jpeg|400]]
 - ## [[Isotope]] vs [[Ion]]
 	- ![[Isotope#^2b6aa8]]
 - ## Reference

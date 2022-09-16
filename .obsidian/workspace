@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Ion.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -22,6 +22,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Charge.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "32386f4de5e84741",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Isoelectronic Ion.md",
             "mode": "source",
             "source": true
           }
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Isoelectronic Ion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Isoelectronic Ion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ion.md",
+                "file": "Vault/Isoelectronic Ion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c69e4b0264c1cee",
+  "active": "32386f4de5e84741",
   "lastOpenFiles": [
     "Vault/Charge.md",
     "Vault/Ion.md",
