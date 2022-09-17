@@ -32,6 +32,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_C8D9867731FD-1.jpeg|400]]
 - ## [[Isotope]] vs [[Ion]]
 	- ![[Isotope#^2b6aa8]]
+- ## Practice
+	- [[Drawing 2022-09-17 17.50.43.excalidraw]]
 - ## Reference
 	- [[Isoelectronic Ion]] is a type of [[Ion]] that all have the same [[Electron Orbital Configuration|Electron Configuration]].
 	- [[Monoatomic Ion]] is a type of [[Ion]].

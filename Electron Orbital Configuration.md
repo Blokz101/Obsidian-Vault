@@ -53,6 +53,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		
 - ## Reference
 	- This can be used to write the [[Electron Orbital Configuration|Electron Configuration]] even in different [[Atomic States]].
+	- There are different ways to write the [[Electron Orbital Configuration|Electron Configuration]] of an [[Ion]], this is located in the [[Ion|Ion Note]]. 
 	- [Useful Article that Explains This](https://texasgateway.org/resource/electron-configuration)
 
 [^1]: $n$: [[Principle Quantum Number]]
