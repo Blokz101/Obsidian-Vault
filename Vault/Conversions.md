@@ -26,3 +26,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > $6.55*10^{23}atomsH*\frac{1moleH}{6.02e23atomsH}*\frac{3molesC}{8molesH}*\frac{12.011gramsC}{1moleC}=4.9gramsC$
 - ## Practice
 	- ![[Raw Conversion Practice.png]]
+- ## Reference
