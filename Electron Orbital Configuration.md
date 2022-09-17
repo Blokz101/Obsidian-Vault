@@ -50,6 +50,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Instead of writing out all the pervious row's fully filled [[Electron]] configurations, you can simply abbreviate it with the [[Noble Gas]] in the row above the current [[Element]].
 		- > [!Example]
 		> ![[IMG_4A0CD6A1CB71-1.jpeg|400]]
+		
 - ## Reference
 	- This can be used to write the [[Electron Orbital Configuration|Electron Configuration]] even in different [[Atomic States]].
 	- [Useful Article that Explains This](https://texasgateway.org/resource/electron-configuration)
