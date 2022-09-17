@@ -22,7 +22,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Valence Electron|Valence Electrons]] with the highest $n$ ([[Principle Quantum Number]]).
 		- [[Valence Electron|Valence Electrons]] with the highest $\ell$ ([[Orbital Angular Momentum Quantum Number]]).
 		- > [!Note]
-		  > Generally this means that [[Valence Electron|Valence Electrons]] are generally removed in the order of $p$, $s$, then $d$.
+		  > Generally this means that [[Valence Electron|Valence Electrons]] are generally removed in the order of $p$, $s$, $d$, then $f$.
 		  > 
 		  > This is because $p$ and $s$ normally have a higher [[Principle Quantum Number]] and so they go first and then the [[Orbital Angular Momentum Quantum Number|Sublevels]] with a lower [[Principle Quantum Number]].
 	- ![[IMG_A2F82C1017C8-1.jpeg|400]]
