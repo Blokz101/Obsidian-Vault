@@ -25,6 +25,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- Except if **Rule 1 applies**.
 	- #### Rule 3 (The Group Rule)
 		- [[Oxidation State|Oxidation Number]] of **Group 1A** is always $+1$.
+			- > [!Warning]
+			> This excludes Hydrogen because of the Hydrogen Rule.
 		- [[Oxidation State|Oxidation Number]] of **Group 2A** is always $+2$.
 		- [[Oxidation State|Oxidation Number]] of **$Al$** is always $+3$.
 	- #### Rule 4 (The Hydrogen Rule)
