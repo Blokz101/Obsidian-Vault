@@ -55,11 +55,9 @@
         "id": "3f0ff1a8a6ee646e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Vault/Charge.md",
-            "mode": "preview",
-            "source": true
+            "file": "References/Excalidraw/Drawing 2022-09-17 17.13.32.excalidraw.md"
           }
         }
       },
@@ -132,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "References/Excalidraw/Drawing 2022-09-17 17.13.32.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "References/Excalidraw/Drawing 2022-09-17 17.13.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "References/Excalidraw/Drawing 2022-09-17 17.13.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509ad566342a404",
+  "active": "3f0ff1a8a6ee646e",
   "lastOpenFiles": [
+    "Vault/Oxidation State.md",
+    "References/Excalidraw/Drawing 2022-09-17 17.13.32.excalidraw.md",
+    "Vault/Ion.md",
     "Vault/Ionic Compound.md",
     "Vault/Compound.md",
     "Vault/Non-Metal.md",
     "Vault/Chemical Bond.md",
     "Vault/Ionic Bond.md",
     "Vault/Covalent Bond.md",
-    "Vault/Metal.md",
-    "Vault/Charge.md",
-    "Vault/Ion.md",
-    "Vault/Isoelectronic Ion.md"
+    "Vault/Metal.md"
   ]
 }
