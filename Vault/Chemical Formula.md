@@ -6,11 +6,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- Definition
+- ## Definition
 	- The formula that tells us what [[Element|Elements]] make up a substance.
 	  > [!Example]
 	  > $$C_2H_5OH$$
-- Extracting Information 
+- ## Extracting Information 
 	- [[Mole|Moles]]
 		- We can easily determine how many [[Mole|Moles]] of each [[Element]] there are.
 		  > [!Example]
@@ -47,6 +47,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		       >
 		       > Calculate the sum of the mass of the elements
 		       > $24.022gramsC+6.048gramsH+15.999gramsO=49.069grams$
+	- 
+	- 
+	- 
+	- 
 	- Number of [[Atom|Atoms]]
 		- Same thing for mass but instead just multiply by [[Avogadro's Number]]
 			1. Get a list of the [[Mole|Moles]] of each [[Element]] in the [[Compound]].
@@ -66,3 +70,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		       > 
 		       > Multiply by $6.02*10^{23}$
 		       > $9moles*6.02*10^{23}atoms=5.418*10^{24}atoms$
+		       
+- ## Reference
+	- [[Predicting Chemical Formulas]]
