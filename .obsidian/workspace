@@ -58,7 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Conversions.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Conic Section.md",
+                "file": "Vault/Conversions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Conic Section.md",
+                "file": "Vault/Conversions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Conic Section.md",
+                "file": "Vault/Conversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a39106bdd4265d0",
+  "active": "2457ad7f625907be",
   "lastOpenFiles": [
+    "Vault/Conic Section.md",
     "Vault/Conversions.md",
     "References/Excalidraw/Drawing 2022-09-17 18.38.50.excalidraw.md",
     "Vault/Conversion Factor.md",
@@ -242,7 +243,6 @@
     "Electron Orbital Configuration.md",
     "Vault/Valence Electron.md",
     "Vault/Ionic Compound.md",
-    "Vault/Oxidation State.md",
-    "Atomic States.md"
+    "Vault/Oxidation State.md"
   ]
 }
