@@ -7,10 +7,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Steps if the Group **IS NOT** 7
-	- The highest [[Oxidation State]] gets the ending **-ate** and everything else gets the ending **-ite**.
+	- The highest [[Oxidation State]] gets the postfix **-ate** and everything else gets the ending **-ite**.
 	- ![[IMG_DEDE0A8C7024-1.jpeg]]
 - ## Steps if the Group **IS** 7
-	- 
+	1. The highest [[Oxidation State]] gets the prefix **per-** and postfix **ate**.
+	2. The highest **minus ONE Oxygen** gets no prefix and the postfix **-ate**.
+	3. The highest **minus TWO Oxygen** gets no prefix and the postfix **-ite**.
+	4. The highest **minus THREE Oxygen** gets the prefix **hypo-** and the postfix **-ite**.
+	- ![[IMG_AC4317B6C20B-1.jpeg|400]]
 - ## Steps the [[Oxanion]] includes Hydrogen
-	- 
+	1. Remove 
 - ## Reference
