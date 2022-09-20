@@ -8,5 +8,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Reference
 	- [[Naming Monoatomic Ions]]
-	- [[Naming of Polyatomic Ions]]
-	- 
+	- [[Naming Polyatomic Ions]]
+	- [[Naming Oxanions]]
+	- [[Naming Ionic Compounds]]
