@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Steps (If the molecule has a [[Transition Metal]])
+- ## Steps (If the molecule has a [[Transition Metal]] or is in Group 3-5)
 	1. List the [[Non-Metal]] last and give it the postfix **-ide**.
 	2. Put the [[Oxidation State]] of the [[Transition Metal]] in () and in roman numerals in front of the [[Transition Metal]].
 	- ![[IMG_A54394B6DF4F-1.jpeg|400]]
