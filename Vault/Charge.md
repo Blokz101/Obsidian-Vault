@@ -23,4 +23,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- This is generally the column number minus 8.
 - ## Reference
 	- Is dependent on [[Proton|Protons]] and [[Electron|Electrons]].
-	- [[Charge]] applies to [[Molecule|Molecules]] and [[Oxidation State|Oxidation Number]] applies to [[element]]
+	- [[Charge]] applies to [[Molecule|Molecules]] and [[Oxidation State|Oxidation Number]] applies to [[Element|Elements]].

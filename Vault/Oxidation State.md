@@ -41,3 +41,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-09-17 17.13.32.excalidraw]]
 - ## Reference
+	- [[Charge]] applies to [[Molecule|Molecules]] and [[Oxidation State|Oxidation Number]] applies to [[Element|Elements]].
+	- Needed in [[Predicting Chemical Formulas]].
