@@ -9,7 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Monoatomic means they derive from a single [[Atom]] where [[Electron|Electrons]] have been added or removed.
 - ## Notes
-	- [[Charge|Charges]]
+	- [[Charge|Charges]] ^bd0b9a
 		- They like to gain or loose enough [[Electron|Electrons]] to be equal to the number of [[Electron|Electrons]] of the nearest [[Noble Gas]].
 		- The chart below shows the charges of each [[Monoatomic Ion]].
 		  ![[Periodic Table Image.png]]

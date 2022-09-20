@@ -7,8 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Steps
-	- For an [[Ion|Anion]] change the ending to **-ide**.
-	- For a [[Ion|Cation]] **dont change the ending**.
+	- For an [[Ion|Anion]] change the ending to **-ide**. ^6ff1e5
+	- For a [[Ion|Cation]] **dont change the ending**. ^a255b9
 	- ![[IMG_7592E109B4F9-1.jpeg|400]]
 - ## Reference
 	- Know what a [[Monoatomic Ion]] is.
