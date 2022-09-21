@@ -57,7 +57,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Naming Things.md",
+            "file": "Intermediate Value Theorem.md",
             "mode": "preview",
             "source": true
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Intermediate Value Theorem.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Intermediate Value Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Intermediate Value Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,11 +222,11 @@
   },
   "active": "f750520adf7df583",
   "lastOpenFiles": [
+    "Naming Things.md",
     "Naming Monoatomic Ions.md",
     "Newtons.md",
     "Naming Ionic Compounds.md",
     "Naming Oxanions.md",
-    "Naming Things.md",
     "Naming Polyatomic Ions.md",
     "Vault/Monoatomic Ion.md",
     "Oxanion.md",
