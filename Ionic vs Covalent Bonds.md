@@ -8,8 +8,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The type of bond is dependent on how the [[Electron|Electrons]] between the two [[Element|Elements]] are shared, and this depends on the [[Electronegativity]] of each [[Element]]. 
-		- [[Electron]] sharing is **not equal** and will always favor the [[Element]] with a higher [[Electronegativity]].
+		- [[Electron]] sharing is **not equal** and the [[Electron|Electrons]] will be drawn closer towards witch ever element has a higher [[Electronegativity]].
+	- #### Electronegativity Difference Threshold
 		- 
 - ## Reference
-	- [[Ionic Compound]]
-	- [[Covalent Compound]]
+	- [[Ionic Compound|Ionic Bond]]
+	- [[Covalent Compound|Covalent Bond]]
