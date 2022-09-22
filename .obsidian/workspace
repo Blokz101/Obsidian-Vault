@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "451a2948f32b5bd5",
+        "id": "1e92349ec9094eb0",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "References/Excalidraw/Review1.excalidraw.md"
+            "file": "Vault/Calculus.md",
+            "mode": "preview",
+            "source": true
           }
         }
       },
@@ -82,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Calculus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Calculus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +184,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "451a2948f32b5bd5",
+  "active": "1e92349ec9094eb0",
   "lastOpenFiles": [
-    "Vault/Conic Section.md",
     "References/Excalidraw/Review1.excalidraw.md",
-    "Naming Ionic Compounds.md",
     "Vault/Calculus.md",
+    "Vault/Conic Section.md",
+    "Naming Ionic Compounds.md",
     "Naming Oxanions.md",
     "Naming Things.md",
     "Chemistry.md",

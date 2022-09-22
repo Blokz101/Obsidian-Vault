@@ -107396,6 +107396,52 @@ tags: [excalidraw]
 			]
 		},
 		{
+			"id": "5A-QA5y2C8lX16M_4RgQE",
+			"type": "freedraw",
+			"x": 371.8621826171875,
+			"y": 4964.916910807291,
+			"width": 0,
+			"height": 2.464599609375,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1157305817,
+			"version": 5,
+			"versionNonce": 399520665,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1663813002623,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					2.464599609375
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				2.464599609375
+			]
+		},
+		{
 			"id": "cgr07EVDnegYGHZvcvvc0",
 			"type": "freedraw",
 			"x": -316.0234375,
