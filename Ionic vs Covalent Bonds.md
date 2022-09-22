@@ -8,8 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The type of bond is dependent on how the [[Electron|Electrons]] between the two [[Element|Elements]] are shared, and this depends on the [[Electronegativity]] of each [[Element]]. 
-		- If one [[Element]] is very [[Electronegativity|Electronegative]] and the other is not, then the [[Electronegativity|Electronegative]] [[Element]] steals the [[Electron]] from the other and the **bond is [[Ionic Compound|Ionic]]**.
-		- If both [[Element|Elements]] have the same [[Electronegativity]] then they share the [[Electron]] and the **bond is [[Covalent Compound|Covalent]]**.
+		- [[Electron]] sharing is **not equal** and will always favor the [[Element]] with a higher [[Electronegativity]].
 		- 
 - ## Reference
 	- [[Ionic Compound]]
