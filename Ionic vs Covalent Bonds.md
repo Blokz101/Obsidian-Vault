@@ -10,7 +10,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The type of bond is dependent on how the [[Electron|Electrons]] between the two [[Element|Elements]] are shared, and this depends on the [[Electronegativity]] of each [[Element]]. 
 		- [[Electron]] sharing is **not equal** and the [[Electron|Electrons]] will be drawn closer towards witch ever element has a higher [[Electronegativity]].
 	- #### Electronegativity Difference Threshold
-		- 
+		- $\Delta x ≤0.4$ = [[Covalent Compound|Covalent Bond]]
+		- $\Delta x ≥1.8$ = [[Ionic Compound|Ionic Bond]]
+		- $0.4≤\Delta x ≤1.8$ = [[Polar Covalent Bond]]
 - ## Reference
 	- [[Ionic Compound|Ionic Bond]]
 	- [[Covalent Compound|Covalent Bond]]
