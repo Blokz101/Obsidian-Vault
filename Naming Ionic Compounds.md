@@ -7,13 +7,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Steps (If the molecule has a [[Transition Metal]] or is in Group 3-5)
-	1. List the [[Non-Metal]] last and give it the postfix **-ide**.
+	1. List the [[Non-Metal]] last and give it the suffix **-ide**.
 	2. Put the [[Oxidation State]] of the [[Transition Metal]] in () and in roman numerals in front of the [[Transition Metal]].
 	- ![[IMG_A54394B6DF4F-1.jpeg|400]]
 	- > [!Explanation]-
 	  > We place the [[Oxidation State]] in front of the [[Transition Metal]] because they can have so many [[Oxidation State|Oxidation Numbers]], basically we have to specify what that number is.
 - ## Exceptions
-	- $Zn^{2+}$, $Ag^{+}$, $Cd^{2+}$ Each have a single [[Oxidation State]] and therefore  do not need that state specified after it. Simply change the postfix of the [[Non-Metal]] to **-ide**.
+	- $Zn^{2+}$, $Ag^{+}$, $Cd^{2+}$ Each have a single [[Oxidation State]] and therefore  do not need that state specified after it. Simply change the suffix of the [[Non-Metal]] to **-ide**.
+- ## Steps (If the [[Molecule]] has a [[Polyatomic Ions|Polyatomic]] in it)
+	- Simply use the name of the [[Polyatomic Ions|Polyatomic Ion]] as is and if the [[Element]] comes last add the suffix **-ide**.
+	- ![[IMG_8EAECE3C6B17-1.jpeg|300]]
 - ## Reference
 	- Know what a [[Transition Metal]] is.
 	- [[Naming Things]]

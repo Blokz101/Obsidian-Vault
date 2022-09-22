@@ -7,13 +7,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Steps (If the Group **IS NOT** 7)
-	- The highest [[Oxidation State]] of the other [[Element]] gets the postfix **-ate** and everything else gets the ending **-ite**.
+	- The highest [[Oxidation State]] of the other [[Element]] gets the suffix **-ate** and everything else gets the ending **-ite**.
 	- ![[IMG_DEDE0A8C7024-1.jpeg]]
 - ## Steps (If the Group **IS** 7)
-	1. The highest [[Oxidation State]] of the other [[Element]] gets the prefix **per-** and postfix **ate**.
-	2. The highest **minus ONE Oxygen** gets no prefix and the postfix **-ate**.
-	3. The highest **minus TWO Oxygen** gets no prefix and the postfix **-ite**.
-	4. The highest **minus THREE Oxygen** gets the prefix **hypo-** and the postfix **-ite**.
+	1. The highest [[Oxidation State]] of the other [[Element]] gets the prefix **per-** and suffix **ate**.
+	2. The highest **minus ONE Oxygen** gets no prefix and the suffix **-ate**.
+	3. The highest **minus TWO Oxygen** gets no prefix and the suffix **-ite**.
+	4. The highest **minus THREE Oxygen** gets the prefix **hypo-** and the suffix **-ite**.
 	- ![[IMG_AC4317B6C20B-1.jpeg|400]]
 - ## Steps (If the [[Oxanion]] has Hydrogen)
 	1. Use the main steps above to determine the base name, but ignore the Hydrogen and subtract 1 from the overall [[Charge]] for each Hydrogen Atom.
