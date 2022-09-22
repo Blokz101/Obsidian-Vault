@@ -9,7 +9,55 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Calculus.md",
+            "file": "Vault/Real Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "b6d44619000c8f3e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Irrational Numbers.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "05e2ea90701498fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Logarithm.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "08ecad4a3fcf4921",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Difference Quotient.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ac8d745a07b48362",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Rational Numbers.md",
             "mode": "preview",
             "source": true
           }
@@ -96,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Logarithm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Logarithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,17 +244,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4827b0c68fb7780f",
+  "active": "05e2ea90701498fd",
   "lastOpenFiles": [
-    "Vault/Trigonometric Sum and Difference.md",
-    "Vault/Calculus.md",
-    "Derivative.md",
-    "Basic Derivative Rules.md",
-    "References/Excalidraw/Review1.excalidraw.md",
     "Vault/Conic Section.md",
-    "Naming Ionic Compounds.md",
-    "Naming Oxanions.md",
-    "Naming Things.md",
-    "Chemistry.md"
+    "Vault/Calculus.md",
+    "Vault/Logarithm.md",
+    "Vault/Difference Quotient.md",
+    "Vault/Irrational Numbers.md",
+    "Vault/Real Number.md",
+    "Vault/Rational Numbers.md",
+    "Vault/Trigonometric Identities.md",
+    "Vault/Trigonometric Sum and Difference.md",
+    "Derivative.md"
   ]
 }
