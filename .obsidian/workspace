@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3de900ac4a4ac373",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Things.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "f057f6d3985c613a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Ionic Compounds.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "3bfd92daa47d3a97",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Oxanions.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "451a2948f32b5bd5",
         "type": "leaf",
         "state": {
@@ -50,13 +14,13 @@
         }
       },
       {
-        "id": "7474de0ded8ea841",
+        "id": "d410e993e38f09f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Calculus.md",
-            "mode": "source",
+            "file": "Vault/Conic Section.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -118,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Conic Section.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Conic Section.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Review1.excalidraw.md",
+                "file": "Vault/Conic Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "451a2948f32b5bd5",
+  "active": "d410e993e38f09f2",
   "lastOpenFiles": [
-    "Vault/Calculus.md",
     "References/Excalidraw/Review1.excalidraw.md",
+    "Naming Ionic Compounds.md",
+    "Vault/Calculus.md",
+    "Naming Oxanions.md",
+    "Naming Things.md",
     "Chemistry.md",
     "Vault/Conic Section.md",
     "Vault/Parametric Curve.md",
     "References/Excalidraw/Drawing 2022-09-21 08.55.26.excalidraw.md",
-    "Intermediate Value Theorem.md",
-    "Naming Things.md",
-    "Naming Monoatomic Ions.md",
-    "Newtons.md"
+    "Intermediate Value Theorem.md"
   ]
 }
