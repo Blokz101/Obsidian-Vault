@@ -13,6 +13,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $\Delta x ≤0.4$ = [[Covalent Compound|Covalent Bond]]
 		- $\Delta x ≥1.8$ = [[Ionic Compound|Ionic Bond]]
 		- $0.4≤\Delta x ≤1.8$ = [[Polar Covalent Bond]]
+- ## Percent of Ionic Characteristics
+	- ![[IMG_0474BD1DCE2D-1.jpeg|400]]
 - ## Practice
 	- [[Drawing 2022-09-23 12.16.59.excalidraw]]
 - ## Reference

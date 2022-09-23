@@ -48,6 +48,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "bc30ee6c39700d8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ionic vs Covalent Bonds.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Ionic vs Covalent Bonds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Ionic vs Covalent Bonds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Ionic vs Covalent Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,10 +218,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02e85b20c5453a26",
+  "active": "bc30ee6c39700d8c",
   "lastOpenFiles": [
-    "Ionic vs Covalent Bonds.md",
     "Polar Covalent Bond.md",
+    "Ionic vs Covalent Bonds.md",
     "Vault/dark.md",
     "Vault/Spectrum of Light.md",
     "Vault/Covalent Compound.md",
