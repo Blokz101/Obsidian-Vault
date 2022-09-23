@@ -15,7 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $n$ = [[Principle Quantum Number]] ([[Integer]])
 	  > $Z_{eff}$ = [[Effective Nuclear Charge]] (Units Unknown)
 	- List of [[Electronegativity]] by [[Element]]
-	  
+	  ![[IMG_82E255ABAD4B-1.jpeg|300]]
 - ## Reference
 	- [[Effective Nuclear Charge Related Trends]]
 	- Directly related to [[Effective Nuclear Charge]], they describe only slightly different things.

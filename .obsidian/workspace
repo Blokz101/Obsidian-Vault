@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Electronegativity.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -235,6 +235,7 @@
   "active": "226f08e7846ead41",
   "lastOpenFiles": [
     "Ionic vs Covalent Bonds.md",
+    "Electronegativity.md",
     "Polar Covalent Bond.md",
     "Vault/Ionic Compound.md",
     "Vault/Covalent Compound.md",
@@ -242,7 +243,6 @@
     "Vault/Covalent Bond.md",
     "Ionic Bond.md",
     "Naming Things.md",
-    "Naming Ionic Compounds.md",
-    "Naming Oxanions.md"
+    "Naming Ionic Compounds.md"
   ]
 }
