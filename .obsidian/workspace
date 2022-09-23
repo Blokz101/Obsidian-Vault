@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Naming Things.md",
+            "file": "Electronegativity.md",
             "mode": "preview",
             "source": true
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Electronegativity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Electronegativity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naming Things.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,6 +246,7 @@
   },
   "active": "2070b4b6428b1e57",
   "lastOpenFiles": [
+    "Naming Things.md",
     "Electronegativity.md",
     "Ionic vs Covalent Bonds.md",
     "Polar Covalent Bond.md",
@@ -254,7 +255,6 @@
     "Vault/Lewis Symbol.md",
     "Vault/Covalent Bond.md",
     "Ionic Bond.md",
-    "Naming Things.md",
     "Naming Ionic Compounds.md"
   ]
 }
