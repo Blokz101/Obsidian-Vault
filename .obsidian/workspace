@@ -38,6 +38,30 @@
         }
       },
       {
+        "id": "b6bd8125869b22d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Naming Ionic Compounds.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c0e0e7679021118b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Naming Covalent Compounds.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "02e85b20c5453a26",
         "type": "leaf",
         "state": {
@@ -118,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ionic vs Covalent Bonds.md",
+                "file": "Naming Covalent Compounds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic vs Covalent Bonds.md",
+                "file": "Naming Covalent Compounds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ionic vs Covalent Bonds.md",
+                "file": "Naming Covalent Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc30ee6c39700d8c",
+  "active": "c0e0e7679021118b",
   "lastOpenFiles": [
-    "Polar Covalent Bond.md",
+    "Naming Ionic Compounds.md",
+    "Naming Things.md",
+    "Naming Covalent Compounds.md",
     "Ionic vs Covalent Bonds.md",
+    "Polar Covalent Bond.md",
     "Vault/dark.md",
     "Vault/Spectrum of Light.md",
     "Vault/Covalent Compound.md",
     "Vault/Lewis Symbol.md",
-    "Naming Things.md",
-    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
-    "Electronegativity.md",
-    "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md"
+    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md"
   ]
 }

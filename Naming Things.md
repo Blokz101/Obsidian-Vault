@@ -11,6 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Naming Polyatomic Ions]]
 	- [[Naming Oxanions]]
 	- [[Naming Ionic Compounds]]
+	- [[Naming Covalent Compounds]]
 - ## Practice
 	- [[Drawing 2022-09-23 12.27.47.excalidraw]]
 - ## Reference
