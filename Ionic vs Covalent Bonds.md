@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $\Delta x ≥1.8$ = [[Ionic Compound|Ionic Bond]]
 		- $0.4≤\Delta x ≤1.8$ = [[Polar Covalent Bond]]
 - ## Practice
-	- 
+	- [[Drawing 2022-09-23 12.16.59.excalidraw]]
 - ## Reference
 	- List of [[Electronegativity]] by [[Element]] in the [[Electronegativity]] note.
 	- [[Ionic Compound|Ionic Bond]]

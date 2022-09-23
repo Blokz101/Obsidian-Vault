@@ -15,3 +15,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[Lewis Symbol#^80a733]]
 - ## Reference
 	- Opposite of [[Ionic Compound|Ionic Bonds]].
+
+
+feafa

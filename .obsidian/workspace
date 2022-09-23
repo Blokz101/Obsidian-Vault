@@ -10,28 +10,6 @@
           "type": "markdown",
           "state": {
             "file": "Ionic vs Covalent Bonds.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "226f08e7846ead41",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "b20a334bf4b0651f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electronegativity.md",
             "mode": "preview",
             "source": true
           }
@@ -41,9 +19,19 @@
         "id": "c3c4df81b992e95d",
         "type": "leaf",
         "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "b20a334bf4b0651f",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Ionic Compound.md",
+            "file": "Naming Things.md",
             "mode": "preview",
             "source": true
           }
@@ -68,18 +56,6 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Covalent Compound.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "5244af0292c906c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Lewis Symbol.md",
             "mode": "preview",
             "source": true
           }
@@ -142,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md",
+                "file": "Vault/Covalent Compound.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md",
+                "file": "Vault/Covalent Compound.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md",
+                "file": "Vault/Covalent Compound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "226f08e7846ead41",
+  "active": "bf3032f5b4fb0bc4",
   "lastOpenFiles": [
-    "Electronegativity.md",
-    "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md",
-    "Ionic vs Covalent Bonds.md",
-    "Naming Things.md",
     "Polar Covalent Bond.md",
+    "Vault/Lewis Symbol.md",
+    "Naming Things.md",
+    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
+    "Electronegativity.md",
+    "Ionic vs Covalent Bonds.md",
+    "References/Excalidraw/Drawing 2022-09-23 12.16.59.excalidraw.md",
     "Vault/Ionic Compound.md",
     "Vault/Covalent Compound.md",
-    "Vault/Lewis Symbol.md",
-    "Vault/Covalent Bond.md",
-    "Ionic Bond.md"
+    "Vault/Covalent Bond.md"
   ]
 }
