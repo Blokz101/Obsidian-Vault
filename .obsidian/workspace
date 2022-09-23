@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "226f08e7846ead41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electronegativity.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "c3c4df81b992e95d",
         "type": "leaf",
         "state": {
@@ -120,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Electronegativity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Electronegativity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +232,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02e85b20c5453a26",
+  "active": "226f08e7846ead41",
   "lastOpenFiles": [
-    "Vault/Ionic Compound.md",
-    "Polar Covalent Bond.md",
     "Ionic vs Covalent Bonds.md",
+    "Polar Covalent Bond.md",
+    "Vault/Ionic Compound.md",
     "Vault/Covalent Compound.md",
     "Vault/Lewis Symbol.md",
     "Vault/Covalent Bond.md",
