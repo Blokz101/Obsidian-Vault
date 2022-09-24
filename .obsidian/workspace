@@ -16,16 +16,6 @@
         }
       },
       {
-        "id": "c3c4df81b992e95d",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "b20a334bf4b0651f",
         "type": "leaf",
         "state": {
@@ -154,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
+                "file": "Polar Covalent Bond.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
+                "file": "Polar Covalent Bond.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
+                "file": "Polar Covalent Bond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,12 +244,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3c4df81b992e95d",
+  "active": "02e85b20c5453a26",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
     "Polar Covalent Bond.md",
     "Electronegativity.md",
     "Ionic vs Covalent Bonds.md",
-    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
     "Naming Covalent Compounds.md",
     "Naming Ionic Compounds.md",
     "Naming Things.md",
