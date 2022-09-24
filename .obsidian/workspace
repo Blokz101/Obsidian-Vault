@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,15 +254,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02e85b20c5453a26",
+  "active": "c3c4df81b992e95d",
   "lastOpenFiles": [
+    "Polar Covalent Bond.md",
     "Electronegativity.md",
     "Ionic vs Covalent Bonds.md",
     "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
     "Naming Covalent Compounds.md",
     "Naming Ionic Compounds.md",
     "Naming Things.md",
-    "Polar Covalent Bond.md",
     "Vault/dark.md",
     "Vault/Spectrum of Light.md",
     "Vault/Covalent Compound.md"
