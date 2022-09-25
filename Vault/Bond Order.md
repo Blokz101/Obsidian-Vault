@@ -7,5 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The number of **bonds** between two [[Atom|Atoms]]
+	- The number of **bonds** between two [[Atom|Atoms]]. A higher [[Bond Order]] means:
+		- The closer the [[Atom|Atoms]] / Shorter the **bond**.
+		- The stronger the **bond**.
+		- The higher the **bond** energy.
 - ## Reference
