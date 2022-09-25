@@ -70,6 +70,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Lewis Dot Structure.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c42670a582601488",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Formal Charge.md",
             "mode": "source",
             "source": true
           }
@@ -180,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Formal Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Formal Charge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Formal Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +291,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bb7bbb74d46a588",
+  "active": "c42670a582601488",
   "lastOpenFiles": [
-    "Vault/Bond Order.md",
     "Vault/Lewis Dot Structure.md",
+    "Vault/Bond Order.md",
     "Vault/Covalent Compound.md",
     "Polar Covalent Bond.md",
     "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",

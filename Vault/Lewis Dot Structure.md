@@ -36,7 +36,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	4. Write the [[Atom|Atoms]] on paper, the first [[Element]] listed is generally the central [[Element]].
 	5. Connect the electrons in such a way that each [[Atom]] has access to an **octet** or in **Hydrogen's** case, access to a **doublet** .
 	6. Write the [[Formal Charge]] for each [[Atom]] if it has one.
-		- Simply the number of 
+		- Simply the number of number of [[Proton|Protons]] in the [[Element]] minus the number of [[Electron|Electrons]] the [[Atom]] has possession of in the structure.
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
 	- [[Bond Order]]
