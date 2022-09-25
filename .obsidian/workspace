@@ -64,6 +64,30 @@
         }
       },
       {
+        "id": "9bb7bbb74d46a588",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Lewis Dot Structure.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c6076f52b6f9fadd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Covalent Compound.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "bc30ee6c39700d8c",
         "type": "leaf",
         "state": {
@@ -144,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,12 +218,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "finfe",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polar Covalent Bond.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,25 +260,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "02e85b20c5453a26",
+  "active": "9bb7bbb74d46a588",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
+    "Vault/Covalent Compound.md",
+    "Vault/Lewis Dot Structure.md",
     "Polar Covalent Bond.md",
+    "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
     "Electronegativity.md",
     "Ionic vs Covalent Bonds.md",
     "Naming Covalent Compounds.md",
     "Naming Ionic Compounds.md",
     "Naming Things.md",
-    "Vault/dark.md",
-    "Vault/Spectrum of Light.md",
-    "Vault/Covalent Compound.md"
+    "Vault/dark.md"
   ]
 }

@@ -10,9 +10,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A bond where two [[Element]] "share" [[Electron|Electrons]].
 		- This is because both [[Element|Elements]] are equally [[Electronegativity|Electronegative]] and so neither can "steal" the [[Electron|Electrons]].
 		- Generally between two [[Non-Metal|Non-Metals]].
-	- A [[Covalent Compound|Covalent Bond]] can be drawn with the [[Lewis Symbol]].
-		- ![[Lewis Symbol#^be503c]]
-		- ![[Lewis Symbol#^80a733]]
+	- A [[Covalent Compound|Covalent Bond]] can be drawn with the [[Lewis Dot Structure]].
+		- ![[Lewis Dot Structure#^935dc7]]
 - ## Reference
 	- Opposite of [[Ionic Compound|Ionic Bonds]].
 
