@@ -29,9 +29,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > $e^-required$ = [[Electron|Electrons]] required.
 	   > $e^-$ = [[Electron|Electrons]] we currently have.
 		- > [!Equation]
-	   > $$e^-pairs=\large{\frac{e^-required-e^-}{2}}$$
-	   > $e^-pairs$ = [[Valence Electron]] pairs
-	   > $e^-required$ = [[Electron|Electrons]] required.
+	   > $$e^-lonepairs=\large{\frac{e^--2e^-pairs}{2}}$$
+	   > $e^-lonepairs$ = [[Valence Electron]] lone pairs
 	   > $e^-$ = [[Electron|Electrons]] we currently have.
+	   > $e^-pairs$ = [[Valence Electron]] pairs.
+	4. Write the [[Atom|Atoms]] on paper, the first [[Element]] listed is generally the central [[Element]].
+	5. Connect the electrons in such a way that each [[Atom]] has access to an **octet**.d
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
