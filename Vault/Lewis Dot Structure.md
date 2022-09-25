@@ -14,17 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Warning]
 	  > Never use this to represent an [[Ionic Compound|Ionic Bond]]
 - ## Determining the Structure
-	1. Find the number of [[Valence Electrons]] each [[Atom]] needs to have an **octet**.
-	   > [!Equation]
-	   > $$e^-required=2H+8E$$
-	   > $r$ = [[Valence Electron]] required
-	   > $H$ = Number of **Hydrogen** atoms in the [[Compound]]
-	   > $E$ = Number of other [[Element|Elements]] in the [[Compound]]
-	2. Find how many [[Valence Electron]] you have currently.
-	   > [!Equation]
-	   > $$e^-=2H+8E$$
-	   > $e^-$ = Number of current [[Valence Electron]]
-	   > $H$ = Number of **Hydrogen** atoms in the [[Compound]]
-	   > $E$ = Number of other [[Element|Elements]] in the [[Compound]]
+	1. Find the number of **[[Valence Electron|Valence Electrons]] required** for each [[Atom]] to have an **octet**.
+	2. Find how many [[Valence Electron]] you have currently by adding the 
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
