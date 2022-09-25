@@ -34,6 +34,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > $e^-$ = [[Electron|Electrons]] we currently have.
 	   > $e^-pairs$ = [[Valence Electron]] pairs.
 	4. Write the [[Atom|Atoms]] on paper, the first [[Element]] listed is generally the central [[Element]].
-	5. Connect the electrons in such a way that each [[Atom]] has access to an **octet**.d
+	5. Connect the electrons in such a way that each [[Atom]] has access to an **octet** or in **Hydrogen's** case, access to a **doublet** .
+	6. 
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
+	- [[Bond Order]]
