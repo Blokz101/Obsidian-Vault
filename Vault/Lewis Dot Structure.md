@@ -21,6 +21,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	   > $H$ = Number of **Hydrogen** atoms in the [[Compound]]
 	   > $E$ = Number of other [[Element|Elements]] in the [[Compound]]
 	2. Find how many [[Valence Electron]] you have currently have.
-		1. Add the num
+		- Add the [[Valence Electron|Valence Electrons]] of each [[Atom]].
+	3. Find the number of [[Valence Electron]] pairs and the number of lone [[Valence Electron]] pairs.
+		- > [!Equation]
+	   > $$e^-pairs=\large{\frac{e^-required-e^-}{2}}$$
+	   > $e^-pairs$ = [[Valence Electron]] pairs
+	   > $e^-required$ = [[Electron|Electrons]] required.
+	   > $e^-$ = [[Electron|Electrons]] we currently have.
+		- > [!Equation]
+	   > $$e^-pairs=\large{\frac{e^-required-e^-}{2}}$$
+	   > $e^-pairs$ = [[Valence Electron]] pairs
+	   > $e^-required$ = [[Electron|Electrons]] required.
+	   > $e^-$ = [[Electron|Electrons]] we currently have.
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
