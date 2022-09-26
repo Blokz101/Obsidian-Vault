@@ -12,3 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The stronger the **bond**.
 		- The higher the **bond** energy.
 - ## Reference
+	- Counts bonds in a [[Lewis Dot Structure]].

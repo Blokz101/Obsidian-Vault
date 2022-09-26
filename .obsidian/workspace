@@ -94,7 +94,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Oxidation State.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -106,7 +106,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Bond Order.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Bond Order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Bond Order.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Bond Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,11 +303,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c33e46e51680a647",
+  "active": "6557a49fe47674c2",
   "lastOpenFiles": [
-    "Vault/Lewis Dot Structure.md",
     "Vault/Oxidation State.md",
     "Vault/Formal Charge.md",
+    "Vault/Lewis Dot Structure.md",
     "Vault/Bond Order.md",
     "Vault/Covalent Compound.md",
     "Polar Covalent Bond.md",
