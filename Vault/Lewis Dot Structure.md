@@ -39,4 +39,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Simply the number of number of [[Proton|Protons]] in the [[Element]] minus the number of [[Electron|Electrons]] the [[Atom]] has possession of in the structure.
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
-	- [[Bond Order]]
+	- [[Formal Charge]] and [[Oxidation State|Oxidation Number]] can be determined from a [[Lewis Dot Structure]].
+	- [[Bond Order]].

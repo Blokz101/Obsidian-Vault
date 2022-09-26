@@ -82,6 +82,18 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Formal Charge.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c33e46e51680a647",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Oxidation State.md",
             "mode": "source",
             "source": true
           }
@@ -192,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Formal Charge.md",
+                "file": "Vault/Oxidation State.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Formal Charge.md",
+                "file": "Vault/Oxidation State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Formal Charge.md",
+                "file": "Vault/Oxidation State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,17 +303,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c42670a582601488",
+  "active": "c33e46e51680a647",
   "lastOpenFiles": [
     "Vault/Lewis Dot Structure.md",
+    "Vault/Oxidation State.md",
+    "Vault/Formal Charge.md",
     "Vault/Bond Order.md",
     "Vault/Covalent Compound.md",
     "Polar Covalent Bond.md",
     "References/Excalidraw/Drawing 2022-09-23 12.27.47.excalidraw.md",
     "Electronegativity.md",
     "Ionic vs Covalent Bonds.md",
-    "Naming Covalent Compounds.md",
-    "Naming Ionic Compounds.md",
-    "Naming Things.md"
+    "Naming Covalent Compounds.md"
   ]
 }

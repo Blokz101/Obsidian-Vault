@@ -38,6 +38,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Oxidation State|Oxidation Number]] of $O$ or **Oxygen** is $-2$.
 	- #### Rule 6 (The Halogens Rule)
 		- [[Oxidation State|Oxidation Number]] of all [[Halogens]] is $-1$.
+- ## Determining the Oxidation Number from a [[Lewis Dot Structure]]
+	- Same as the [[Formal Charge]]
+	  [[Formal Charge]]
 - ## Practice
 	- [[Drawing 2022-09-17 17.13.32.excalidraw]]
 - ## Reference
