@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Molecular Shape.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Molecular Shape.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Molecular Shape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +231,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89413e9ee52633c5",
+  "active": "8a519f67723cdc6b",
   "lastOpenFiles": [
-    "Vault/Bond Region.md",
     "Vault/Electron Region.md",
+    "Vault/Bond Region.md",
     "Vault/Bond Order.md",
     "Vault/Molecular Shape.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
