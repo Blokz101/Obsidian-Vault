@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "E.md",
-            "mode": "preview",
+            "file": "Vault/Logarithm.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "E.md",
+                "file": "Vault/Logarithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E.md",
+                "file": "Vault/Logarithm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E.md",
+                "file": "Vault/Logarithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +217,9 @@
   },
   "active": "df163cd9418c00b9",
   "lastOpenFiles": [
+    "E.md",
     "Derivative Rules.md",
     "Derivative Quotient Rule.md",
-    "E.md",
     "Derivative.md",
     "Vault/Parametric Curve.md",
     "Derivative Sum Rule.md",

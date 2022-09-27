@@ -11,16 +11,19 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > [!Equation]
 	  > $$\large{y=log_a(x)}$$
 	- The [[Common Logarithm]] is simply a [[Logarithm]] with a base of 10.
-- ## Rules
+- ## Conversion to [[Exponential]]
 	- Conversion to [[Exponential]] follows this process.
 		- Form|Equation
 		  ---|---
 		  [[Logarithm]] form|$y=log_{a}(x)$
 		  [[Exponential]] form|$x=a^y$
-	- Product and quotient Rule
-		- $log(x*y)=log(x)+log(y)$
-		- $log(x/y)=log(x)-log(y)$
-		- $log(x^a)=a*log(x)$
-	- ## Reference
-		- [[Natural Logarithm]] is a type of [[Logarithm]].
-		- Is the [[Inverse]] of a [[Exponential]] [[Function]]
+- ## Laws of Logs
+	
+	$\large{log_a(a^x)=x}$|
+	$\large{a^{log_a(x)}=x}$|
+	$\large{log(x^a)=a*log(x)}$|
+	$\large{log(x*y)=log(x)+log(y)}$|
+	$\large{log(x/y)=log(x)-log(y)}$|
+- ## Reference
+	- [[Natural Logarithm]] is a type of [[Logarithm]].
+	- Is the [[Inverse]] of a [[Exponential]] [[Function]]
