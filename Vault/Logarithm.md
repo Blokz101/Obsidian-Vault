@@ -18,12 +18,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  [[Logarithm]] form|$y=log_{a}(x)$
 		  [[Exponential]] form|$x=a^y$
 - ## Laws of Logs
-	
-	$\large{log_a(a^x)=x}$|
-	$\large{a^{log_a(x)}=x}$|
-	$\large{log(x^a)=a*log(x)}$|
-	$\large{log(x*y)=log(x)+log(y)}$|
-	$\large{log(x/y)=log(x)-log(y)}$|
+	- Rule|Law
+	---|---
+	Conversion|$\large{log_a(a^x)=x}$
+	Conversion|$\large{a^{log_a(x)}=x}$
+	Constant Rule|$\large{log(x^a)=a*log(x)}$
+	Product Rule|$\large{log(x*y)=log(x)+log(y)}$
+	Quotient Rule|$\large{log(x/y)=log(x)-log(y)}$
 - ## Reference
 	- [[Natural Logarithm]] is a type of [[Logarithm]].
 	- Is the [[Inverse]] of a [[Exponential]] [[Function]]
