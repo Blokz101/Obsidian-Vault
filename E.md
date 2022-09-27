@@ -17,7 +17,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> > Step|Explanation
 	> > ---|---
 	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h+x}-e^x}{h}$|Given
-	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h}e^{x}-e^x}{h}$|
-	> > 
+	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h}e^{x}-e^x}{h}$|Exponent rules
+	> > $\frac{d}{dx}e^x=e^x*^{lim}_{h\rightarrow0}\frac{e^{h}-1}{h}$|Pull $e^x$ out of the limit.
+	> > $\frac{d}{dx}e^x=e^x*1$|Evaluate the limit with the rule above
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].
