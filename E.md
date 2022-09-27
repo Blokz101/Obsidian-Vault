@@ -14,6 +14,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> [!E Rule]
 	> $$\frac{d}{dx}e^x=e^x$$
 	> > [!Proof]-
+	> > Step|Explanation
+	> > ---|---
+	> > $\frac{d}{dx}$|Given
 	> > 
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].
