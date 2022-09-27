@@ -18,7 +18,7 @@
           "type": "markdown",
           "state": {
             "file": "Implicit Differentiation.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -30,7 +30,7 @@
           "type": "markdown",
           "state": {
             "file": "L Hopital's Rule.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L Hopital's Rule.md",
+                "file": "Implicit Differentiation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L Hopital's Rule.md",
+                "file": "Implicit Differentiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L Hopital's Rule.md",
+                "file": "Implicit Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +191,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d75ca2afb89723b",
+  "active": "0084cc400b3d0a79",
   "lastOpenFiles": [
+    "L Hopital's Rule.md",
     "Implicit Differentiation.md",
     "Differentiate.md",
-    "L Hopital's Rule.md",
     "Derivative.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
