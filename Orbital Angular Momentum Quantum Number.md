@@ -21,6 +21,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Notated as $\ell$
 	- This is a lot of the complexity that the [[Bohr's Model]] lacked.
 - ## Reference
-	- A [[Quantum Number]] in the [[Schrodinger Model]] of the Atom.
+	- A [[Quantum Number]] in the [[Schrodinger Model]] of the [[Atom]].
 
 [^1]: $n$: [[Principle Quantum Number]]
