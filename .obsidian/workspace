@@ -40,6 +40,18 @@
         }
       },
       {
+        "id": "05420b3370861694",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Lewis Dot Structure.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "cc6f6146a33d4cb3",
         "type": "leaf",
         "state": {
@@ -144,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +255,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d76b7b6cf11c068c",
+  "active": "05420b3370861694",
   "lastOpenFiles": [
+    "Electronegativity.md",
     "Naming Oxanions.md",
     "Naming Things.md",
     "Naming Monoatomic Ions.md",
@@ -253,7 +266,6 @@
     "Naming Ionic Compounds.md",
     "Derivative Rules.md",
     "Vault/Periodic Table.md",
-    "Vault/Molecular Shape.md",
-    "Vault/Logarithm Derivative Rules.md"
+    "Vault/Molecular Shape.md"
   ]
 }
