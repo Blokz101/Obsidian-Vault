@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b77213306a10ca15",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "0084cc400b3d0a79",
+        "id": "df163cd9418c00b9",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "9d75ca2afb89723b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "L Hopital's Rule.md",
-            "mode": "preview",
-            "source": true
-          }
         }
       }
     ],
@@ -88,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "L Hopital's Rule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L Hopital's Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L Hopital's Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0084cc400b3d0a79",
+  "active": "df163cd9418c00b9",
   "lastOpenFiles": [
-    "Implicit Differentiation.md",
     "L Hopital's Rule.md",
+    "Implicit Differentiation.md",
     "Vault/Logarithm.md",
     "Differentiate.md",
     "Derivative.md",
