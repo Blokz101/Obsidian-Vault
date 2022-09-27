@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- An area of electron density between two atoms
-	- Determines the **name** of the 
+	- Determines the **name** of the [[Molecular Shape]].
 - ## Reference
 	- Sorta the same as [[Electron Region|Electron Regions]].
 	- Used to calculate [[Bond Order]].
