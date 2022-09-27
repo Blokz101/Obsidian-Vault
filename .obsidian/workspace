@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "Derivative Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df163cd9418c00b9",
+  "active": "6c18eddf297cb5b1",
   "lastOpenFiles": [
+    "Vault/Logarithm.md",
     "E.md",
     "Derivative Rules.md",
     "Derivative Quotient Rule.md",
@@ -225,7 +226,6 @@
     "Derivative Sum Rule.md",
     "Derivative Constant Multiple Rule.md",
     "Natural Logarithm.md",
-    "Implicit Differentiation.md",
-    "L Hopital's Rule.md"
+    "Implicit Differentiation.md"
   ]
 }
