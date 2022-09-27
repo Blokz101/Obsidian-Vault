@@ -1,0 +1,14 @@
+---
+Alias: []
+Creation Date: Tue September 27th 2022 09:57:12 am 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Calculus]]
+
+- ## Definition
+	- A special number such that:
+	  > [!Equation]
+	  > $$^{lim}_{h\rightarrow0}\frac{e^h-1}{h}=1$$
+- ## Reference
+	- Related to [[Natural Logarithm|Natural Logs]].
