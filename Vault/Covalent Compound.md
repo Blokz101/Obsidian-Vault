@@ -1,5 +1,5 @@
 ---
-Alias: [Covalent Bond]
+Alias: [Covalent Bond, Covalent Compounds]
 Creation Date: Sat June 18th 2022 01:03:22 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---

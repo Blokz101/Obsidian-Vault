@@ -37,7 +37,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	5. Connect the electrons in such a way that each [[Atom]] has access to an **octet** or in **Hydrogen's** case, access to a **doublet** .
 	6. Write the [[Formal Charge]] for each [[Atom]] if it has one.
 		- Simply the number of number of [[Proton|Protons]] in the [[Element]] minus the number of [[Electron|Electrons]] the [[Atom]] has possession of in the structure.
+- ## Practice
+	- [[Drawing 2022-09-26 12.12.45.excalidraw]]
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
 	- [[Formal Charge]] and [[Oxidation State|Oxidation Number]] can be determined from a [[Lewis Dot Structure]].
 	- [[Bond Order]].
+	- Basically a 2d [[Valence Shell Electron Pair Repulsion Model|VSEPR]].

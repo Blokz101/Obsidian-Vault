@@ -11,5 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The [[Formal Charge]] assumes that the [[Valence Electron|Valence Electrons]] are shared equally between the two [[Atom|Atoms]].
 	- ![[IMG_F4F21551730F-1 1.jpeg]]
 	- ![[IMG_BAF5C2C479EE-1.jpeg]]
+- ## Practice
+	- [[Drawing 2022-09-26 11.12.54.excalidraw]]
 - ## Reference
 	- Can be determined from a [[Lewis Dot Structure]].
