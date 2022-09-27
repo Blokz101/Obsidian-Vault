@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "d76b7b6cf11c068c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electronegativity.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "cc6f6146a33d4cb3",
         "type": "leaf",
         "state": {
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Naming Oxanions.md",
+                "file": "Electronegativity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naming Oxanions.md",
+                "file": "Electronegativity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naming Oxanions.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +243,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80f7dba5246ce75f",
+  "active": "d76b7b6cf11c068c",
   "lastOpenFiles": [
+    "Naming Oxanions.md",
     "Naming Things.md",
     "Naming Monoatomic Ions.md",
     "Naming Polyatomic Ions.md",
@@ -241,7 +254,6 @@
     "Derivative Rules.md",
     "Vault/Periodic Table.md",
     "Vault/Molecular Shape.md",
-    "Vault/Logarithm Derivative Rules.md",
-    "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md"
+    "Vault/Logarithm Derivative Rules.md"
   ]
 }
