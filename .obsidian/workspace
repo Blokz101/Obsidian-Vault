@@ -7,20 +7,20 @@
         "id": "db9b8c449344d82e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Resonance Structure.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
-        "id": "d6295460d6013f5c",
+        "id": "e878914c0b4c6fa4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Lewis Dot Structure.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       },
       {
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6295460d6013f5c",
+  "active": "e878914c0b4c6fa4",
   "lastOpenFiles": [
-    "Chemistry.md",
+    "References/Excalidraw/Drawing 2022-09-26 12.12.45.excalidraw.md",
+    "Vault/Lewis Dot Structure.md",
     "Vault/Bond Region.md",
+    "Vault/Resonance Structure.md",
+    "Chemistry.md",
     "Vault/Calculus.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Vault/test.md",
-    "Vault/Resonance Structure.md",
     "Vault/Oxidation State.md",
-    "Vault/Vertical Line Test.md",
-    "Vault/Formal Charge.md",
-    "Vault/Valence Shell Electron Pair Repulsion Model.md"
+    "Vault/Vertical Line Test.md"
   ]
 }
