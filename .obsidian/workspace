@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "6c18eddf297cb5b1",
+        "id": "2d7facffa2b28d2a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Rules.md",
+            "file": "Naming Things.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "2d7facffa2b28d2a",
+        "id": "42c641084e0d26f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Molecular Shape.md",
+            "file": "Naming Covalent Compounds.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c787ee90e94a8eb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Naming Ionic Compounds.md",
             "mode": "preview",
             "source": true
           }
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "Naming Covalent Compounds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "Naming Covalent Compounds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "Naming Covalent Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +195,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d7facffa2b28d2a",
+  "active": "42c641084e0d26f3",
   "lastOpenFiles": [
-    "Vault/Logarithm Derivative Rules.md",
+    "Naming Things.md",
+    "Naming Ionic Compounds.md",
     "Derivative Rules.md",
+    "Vault/Periodic Table.md",
+    "Vault/Molecular Shape.md",
+    "Vault/Logarithm Derivative Rules.md",
     "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md",
     "Derivative Sum Rule.md",
     "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md",
-    "Vault/Logarithm.md",
-    "E.md",
-    "Derivative Quotient Rule.md",
-    "Derivative.md"
+    "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md"
   ]
 }
