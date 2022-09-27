@@ -25,13 +25,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- 3 [[Atom|Atoms]] about a central [[Atom]].
 		- 2d plane.
 	- #### Bent
-		- 
+		- ![[IMG_815BC80D0ADC-1.jpeg|200]]
 		- [[Electron Region|Electron Regions]] = 3
 		- Angle = $<120^{\circ}$
 		- 2 [[Atom|Atoms]] about a central [[Atom]], but repulsed by a **lone pair** of electrons occupying a third [[Electron Region]].
 		- 2d plane
 	- #### Tetrahedral
-		- 
+		- ![[IMG_CB9F5D36874D-1.jpeg|200]]
 		- [[Electron Region|Electron Regions]] = 4
 		- Angle = $109^{\circ}$
 		- 4 [[Atom|Atoms]] about a central [[Atom]].
