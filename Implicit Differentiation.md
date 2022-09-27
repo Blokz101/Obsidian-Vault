@@ -7,6 +7,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- Use the same step
+	- Use the same steps for [[Derivative|Derivatives]] except that when you need to take the [[Derivative]] of $f(x)$, simply write it as $\frac{dy}{dx}$ or $f'(x)$.
+	- Then solve for $\frac{dy}{dx}$ or $f'(x)$.
+- ## Practice
+	- 
 - ## Reference
 	- Same as [[Derivative|Differentiation]] but works with $f(x)$ in on both sides.

@@ -1,5 +1,5 @@
 ---
-Alias: [Differentiation, Differentiable, Derivatives]
+Alias: [Differentiation, Differentiable, Derivatives, Differentiate]
 Creation Date: Wed September 7th 2022 11:08:40 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---

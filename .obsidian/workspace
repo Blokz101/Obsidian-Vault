@@ -22,6 +22,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "9d75ca2afb89723b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "L Hopital's Rule.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -80,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Implicit Differentiation.md",
+                "file": "L Hopital's Rule.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implicit Differentiation.md",
+                "file": "L Hopital's Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implicit Differentiation.md",
+                "file": "L Hopital's Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0084cc400b3d0a79",
+  "active": "9d75ca2afb89723b",
   "lastOpenFiles": [
+    "Implicit Differentiation.md",
+    "Differentiate.md",
+    "L Hopital's Rule.md",
+    "Derivative.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Vault/Bond Order.md",
     "Vault/Bond Region.md",
     "Vault/Electron Region.md",
-    "Vault/Molecular Shape.md",
-    "References/Excalidraw/Drawing 2022-09-26 12.12.45.excalidraw.md",
-    "Vault/Resonance Structure.md",
-    "Chemistry.md",
-    "Vault/Calculus.md"
+    "Vault/Molecular Shape.md"
   ]
 }
