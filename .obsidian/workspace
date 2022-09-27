@@ -4,14 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "db9b8c449344d82e",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "e878914c0b4c6fa4",
         "type": "leaf",
         "state": {
@@ -24,13 +16,37 @@
         }
       },
       {
-        "id": "78551cfc6caa9b43",
+        "id": "839b5b5cfe5da268",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Lewis Dot Structure.md",
+            "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8a519f67723cdc6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Molecular Shape.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "89413e9ee52633c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Electron Region.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -116,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Electron Region.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Electron Region.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Lewis Dot Structure.md",
+                "file": "Vault/Electron Region.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e878914c0b4c6fa4",
+  "active": "89413e9ee52633c5",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-09-26 12.12.45.excalidraw.md",
-    "Vault/Lewis Dot Structure.md",
     "Vault/Bond Region.md",
+    "Vault/Electron Region.md",
+    "Vault/Molecular Shape.md",
+    "Vault/Valence Shell Electron Pair Repulsion Model.md",
+    "Vault/Lewis Dot Structure.md",
+    "References/Excalidraw/Drawing 2022-09-26 12.12.45.excalidraw.md",
     "Vault/Resonance Structure.md",
     "Chemistry.md",
     "Vault/Calculus.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Vault/test.md",
-    "Vault/Oxidation State.md",
-    "Vault/Vertical Line Test.md"
+    "Orbital Angular Momentum Quantum Number.md"
   ]
 }
