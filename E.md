@@ -16,7 +16,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> > [!Proof]-
 	> > Step|Explanation
 	> > ---|---
-	> > $\frac{d}{dx}$|Given
+	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h+x}-e^x}{h}$|Given
+	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h}e^{x}-e^x}{h}$
 	> > 
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].

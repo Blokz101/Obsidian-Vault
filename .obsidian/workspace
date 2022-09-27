@@ -10,9 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "E.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
+        }
+      },
+      {
+        "id": "bbb91c9b6f6b7593",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -108,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,12 +215,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df163cd9418c00b9",
+  "active": "bbb91c9b6f6b7593",
   "lastOpenFiles": [
+    "E.md",
     "Derivative Rules.md",
     "Derivative Sum Rule.md",
     "Derivative Constant Multiple Rule.md",
-    "E.md",
     "Derivative.md",
     "Natural Logarithm.md",
     "Implicit Differentiation.md",
