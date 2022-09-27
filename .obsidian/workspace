@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Logarithm.md",
-            "mode": "preview",
+            "file": "Vault/Logarithm Derivative Rules.md",
+            "mode": "source",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "c3694eda4c0552db",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md"
           }
         }
       },
@@ -108,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,17 +217,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df163cd9418c00b9",
+  "active": "c3694eda4c0552db",
   "lastOpenFiles": [
-    "Derivative Rules.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Vault/Logarithm.md",
+    "Derivative Sum Rule.md",
+    "Derivative Rules.md",
     "E.md",
     "Derivative Quotient Rule.md",
     "Derivative.md",
     "Vault/Parametric Curve.md",
-    "Derivative Sum Rule.md",
     "Derivative Constant Multiple Rule.md",
-    "Natural Logarithm.md",
-    "Implicit Differentiation.md"
+    "Natural Logarithm.md"
   ]
 }
