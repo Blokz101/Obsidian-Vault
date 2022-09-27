@@ -58,7 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Bond Region.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Bond Region.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Bond Region.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Electron Region.md",
+                "file": "Vault/Bond Region.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89413e9ee52633c5",
+  "active": "b274a6ace6b35ac5",
   "lastOpenFiles": [
-    "Vault/Bond Region.md",
     "Vault/Electron Region.md",
+    "Vault/Bond Region.md",
+    "Vault/Bond Order.md",
     "Vault/Molecular Shape.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Vault/Lewis Dot Structure.md",
     "References/Excalidraw/Drawing 2022-09-26 12.12.45.excalidraw.md",
     "Vault/Resonance Structure.md",
     "Chemistry.md",
-    "Vault/Calculus.md",
-    "Orbital Angular Momentum Quantum Number.md"
+    "Vault/Calculus.md"
   ]
 }
