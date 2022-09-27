@@ -7,8 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Lone pairs, single, double, or triple bonds (EDIT THIS SHIT LATER WITH BETTER EXPLANATION)
-	- Determines the **angle** of bonds.
+	- Regions where [[Electron|Electrons]] can reside, this **includes bonded and lone pairs**.
+	- Determines the **angle** of.
 	- ![[IMG_DA2BE042FA47-1.jpeg|400]]
 - ## Reference
 	- Sorta the same as [[Bond Region|Bond Regions]]
