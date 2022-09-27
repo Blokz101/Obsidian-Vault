@@ -10,5 +10,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A special number such that:
 	  > [!Equation]
 	  > $$^{lim}_{h\rightarrow0}\frac{e^h-1}{h}=1$$
+- ## [[Derivative]] of [[E]]
+	> [!E Rule]
+	> $$\frac{d}{dx}$$
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].
