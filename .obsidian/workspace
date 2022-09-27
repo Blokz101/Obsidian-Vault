@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "E.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "E.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,10 +215,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c18eddf297cb5b1",
+  "active": "df163cd9418c00b9",
   "lastOpenFiles": [
-    "Derivative Quotient Rule.md",
     "Derivative Rules.md",
+    "Derivative Quotient Rule.md",
     "E.md",
     "Derivative.md",
     "Vault/Parametric Curve.md",
