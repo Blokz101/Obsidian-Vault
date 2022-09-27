@@ -25,6 +25,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	Constant Rule|$\large{log(x^a)=a*log(x)}$
 	Product Rule|$\large{log(x*y)=log(x)+log(y)}$
 	Quotient Rule|$\large{log(x/y)=log(x)-log(y)}$
+- ## Deriving With [[Logarithm|Logarithms]]
+	> [!Derivative of a Log]
+	> 
 - ## Reference
 	- [[Natural Logarithm]] is a type of [[Logarithm]].
 	- Is the [[Inverse]] of a [[Exponential]] [[Function]]
