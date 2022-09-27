@@ -12,6 +12,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$^{lim}_{h\rightarrow0}\frac{e^h-1}{h}=1$$
 - ## [[Derivative]] of [[E]]
 	> [!E Rule]
-	> $$\frac{d}{dx}$$
+	> $$\frac{d}{dx}e^x=e^x$$
+	> > [!Proof]-
+	> > 
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].
