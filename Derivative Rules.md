@@ -34,9 +34,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
   - ![[Derivative Constant Multiple Rule#^59944b|Constant Multiple Rule]]
   - ![[Derivative Product Rule#^e36c72|Product Rule]]
   - ![[Derivative Quotient Rule#^11e7f0|Quotient Rule]]
+  - ![[E#^97869e]]
 - ## Reference
 	- Rules
 		- [[Derivative Sum Rule|Sum Rule]]
 		- [[Derivative Constant Multiple Rule|Constant Multiple Rule]]
 		- [[Derivative Product Rule|Product Rule]]
 		- [[Derivative Quotient Rule|Quotient Rule]]
+		- [[E|E Rule]]

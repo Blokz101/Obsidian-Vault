@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-  - > [!Product Rule]
+  - > [!Quotient Rule]
   > If $f(x)$ and $g(x)$ are both [[Derivative|Differentiable]] then:
   > $$\frac{d}{dx}[f/g](x)=\large{\frac{f(x)*\frac{d}{dx}g(x)-g(x)*\frac{d}{dx}f(x)}{g(x)^2}}$$
   > 

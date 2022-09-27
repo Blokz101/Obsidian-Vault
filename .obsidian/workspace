@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "E.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E.md",
+                "file": "Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df163cd9418c00b9",
+  "active": "6c18eddf297cb5b1",
   "lastOpenFiles": [
-    "Derivative.md",
-    "E.md",
-    "Vault/Parametric Curve.md",
+    "Derivative Quotient Rule.md",
     "Derivative Rules.md",
+    "E.md",
+    "Derivative.md",
+    "Vault/Parametric Curve.md",
     "Derivative Sum Rule.md",
     "Derivative Constant Multiple Rule.md",
     "Natural Logarithm.md",
     "Implicit Differentiation.md",
-    "L Hopital's Rule.md",
-    "Vault/Logarithm.md"
+    "L Hopital's Rule.md"
   ]
 }

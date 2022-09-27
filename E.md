@@ -6,12 +6,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Calculus]]
 
-- ## Definition
+- ## Definition ^78951c
 	- A special number such that:
 	  > [!Equation]
 	  > $$^{lim}_{h\rightarrow0}\frac{e^h-1}{h}=1$$
 - ## [[Derivative]] of [[E]]
-	> [!E Rule]
+	- > [!E Rule]
 	> $$\frac{d}{dx}e^x=e^x$$
 	> > [!Proof]-
 	> > Step|Explanation
@@ -19,6 +19,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h+x}-e^x}{h}$|Given
 	> > $\frac{d}{dx}e^x=^{lim}_{h\rightarrow0}\frac{e^{h}e^{x}-e^x}{h}$|Exponent rules
 	> > $\frac{d}{dx}e^x=e^x*^{lim}_{h\rightarrow0}\frac{e^{h}-1}{h}$|Pull $e^x$ out of the limit.
-	> > $\frac{d}{dx}e^x=e^x*1$|Evaluate the limit with the rule above
+	> > $\frac{d}{dx}e^x=e^x*1$|Evaluate the limit with the rule above: [[E#^78951c]] ^97869e
 - ## Reference
 	- Related to [[Natural Logarithm|Natural Logs]].
