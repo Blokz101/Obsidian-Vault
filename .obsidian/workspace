@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "df163cd9418c00b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Logarithm Derivative Rules.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "ebcc65f8b2613068",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "6c18eddf297cb5b1",
         "type": "leaf",
         "state": {
@@ -38,14 +16,24 @@
         }
       },
       {
-        "id": "f5d10a7245ddb8f5",
+        "id": "2d7facffa2b28d2a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Derivative Sum Rule.md",
+            "file": "Vault/Logarithm Derivative Rules.md",
             "mode": "preview",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "f5d10a7245ddb8f5",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md"
           }
         }
       }
@@ -106,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebcc65f8b2613068",
+  "active": "f5d10a7245ddb8f5",
   "lastOpenFiles": [
     "Vault/Logarithm Derivative Rules.md",
+    "References/Excalidraw/Drawing 2022-09-27 12.50.52.excalidraw.md",
+    "Derivative Rules.md",
+    "Derivative Sum Rule.md",
     "References/Excalidraw/Drawing 2022-09-27 12.44.02.excalidraw.md",
     "References/Excalidraw/Drawing 2022-09-27 12.39.39.excalidraw.md",
     "Vault/Logarithm.md",
-    "Derivative Sum Rule.md",
-    "Derivative Rules.md",
     "E.md",
     "Derivative Quotient Rule.md",
-    "Derivative.md",
-    "Vault/Parametric Curve.md"
+    "Derivative.md"
   ]
 }
