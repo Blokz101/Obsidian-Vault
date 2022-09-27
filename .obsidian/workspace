@@ -16,13 +16,21 @@
         }
       },
       {
-        "id": "313e8581e7f0768f",
+        "id": "3109f2fd61c484b5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "d6295460d6013f5c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
-            "mode": "source",
+            "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -120,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bond Region.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +227,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b274a6ace6b35ac5",
+  "active": "3109f2fd61c484b5",
   "lastOpenFiles": [
+    "Vault/Resonance Structure.md",
+    "Orbital Angular Momentum Quantum Number.md",
+    "Vault/Bond Region.md",
+    "Vault/Formal Charge.md",
+    "Vault/Oxidation State.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "References/IMG_135F092BE4D1-1.jpeg",
     "Vault/Lewis Dot Structure.md",
-    "Vault/Bond Region.md",
     "Vault/Covalent Compound.md",
-    "Vault/Resonance Structure.md",
-    "Vault/Bond Order.md",
-    "Vault/Formal Charge.md",
-    "Electronegativity.md",
-    "Naming Covalent Compounds.md"
+    "Vault/Bond Order.md"
   ]
 }
