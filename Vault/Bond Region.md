@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- An area of electron density between two atoms
+	- An area of electron density between two atoms. (EDIT THIS SHIT LATER WITH BETTER EXPLANATION)
 	- Determines the **name** of the [[Molecular Shape]].
 - ## Reference
 	- Sorta the same as [[Electron Region|Electron Regions]].
