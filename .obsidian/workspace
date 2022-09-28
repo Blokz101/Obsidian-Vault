@@ -4,87 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38f93a73b1e9cc36",
+        "id": "de4f90e5f4ec175d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Molecular Shape.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "2d2957f60999567c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Lewis Dot Structure.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b247f487f725c297",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Resonance Structure.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "dac3316c4a3e1a20",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Bond Order.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "778c750316772e6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Resonance Structure.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "1efb64b2fdf1ed2f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ring.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e0543e44ea69d789",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -144,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Resonance Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Resonance Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Resonance Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,15 +164,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "778c750316772e6e",
+  "active": "de4f90e5f4ec175d",
   "lastOpenFiles": [
-    "Ring.md",
-    "Vault/Resonance Structure.md",
-    "Vault/Lewis Dot Structure.md",
     "Vault/Molecular Shape.md",
+    "Vault/Lewis Dot Structure.md",
+    "Vault/Valence Shell Electron Pair Repulsion Model.md",
+    "Vault/Resonance Structure.md",
+    "Ring.md",
     "Vault/Bond Order.md",
     "Vibrating String.md",
-    "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Naming Ionic Compounds.md",
     "Naming Covalent Compounds.md",
     "Naming Polyatomic Ions.md"
