@@ -17,7 +17,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Have the same[[Formal Charge]] distribution.
 		- Be equally stable.
 		- Be equally representative.
-	- ![[IMG_D9B86D63D5BB-1.jpeg|400]]
+	- ![[IMG_D9B86D63D5BB-1.jpeg]]|![[IMG_F95BD51CE791-1 1.jpeg]]
+	  ---|---
 - ## Best [[Resonance Structure]]
 	- Sometimes there are multiple [[Resonance Structure|Resonance Structures]] that are technically correct, but one is more stable then the rest. This is the **Best Resonance Structure**.
 	- A **Best Resonance Structure**:

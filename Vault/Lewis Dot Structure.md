@@ -11,7 +11,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Except for Hydrogen, which only needs two [[Electron|Electrons]] to reach a stable state.
 	- **Bonds** or two [[Electron|Electrons]] shared between two [[Element|Elements]] can be represented by the following:
 		- ![[IMG_D05C73BF5481-1.jpeg|100]]
-		- 
+		- Normal Lines: Shows a bond that is on the same plane as the paper.
+		- Solid Wedge: Shows a bound that is pointing towards the viewer.
+		- Dashed Wedge: Shows a bond that is pointing away from the viewer.
 	- > [!Warning]
 	  > Never use this to represent an [[Ionic Compound|Ionic Bond]]
 - ## Drawing the Structure (Freehand way)
