@@ -14,9 +14,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- All the bonds in the image above are the same length even though some are double bonds.
 - ## Equivalent [[Resonance Structure|Resonance Structures]]
 	- Equivalent [[Resonance Structure|Resonance Structures]] must all:
-		- Have the same[[Formal Charge]] distribution.
+		- Have the same [[Formal Charge]] distribution.
 		- Be equally stable.
 		- Be equally representative.
+	- Remember that there is a special way  to calculate [[Bond Order]] for these.
 	- ![[IMG_D9B86D63D5BB-1.jpeg]]|![[IMG_F95BD51CE791-1 1.jpeg]]
 	  ---|---
 - ## Best [[Resonance Structure]]

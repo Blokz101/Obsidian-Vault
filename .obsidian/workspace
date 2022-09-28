@@ -70,7 +70,7 @@
           "type": "markdown",
           "state": {
             "file": "Ring.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ring.md",
+                "file": "Vault/Resonance Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ring.md",
+                "file": "Vault/Resonance Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ring.md",
+                "file": "Vault/Resonance Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,13 +243,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1efb64b2fdf1ed2f",
+  "active": "778c750316772e6e",
   "lastOpenFiles": [
+    "Ring.md",
     "Vault/Resonance Structure.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Molecular Shape.md",
     "Vault/Bond Order.md",
-    "Ring.md",
     "Vibrating String.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Naming Ionic Compounds.md",
