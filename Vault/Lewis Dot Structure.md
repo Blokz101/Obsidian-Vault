@@ -13,7 +13,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_0A22F70EEFAB-1.jpeg|400]]
 	- > [!Warning]
 	  > Never use this to represent an [[Ionic Compound|Ionic Bond]]
-- ## Determining the Structure
+- ## Drawing the Structure (Freehand way)
+	- 
+- ## Drawing the Structure (Calculation Way)
+	- > [!Warning]
+	> Works for most [[Compound|Compounds]] but not all, be careful when using.
 	1. Find the number of [[Valence Electrons]] required for each [[Atom]] needs to have an **octet**.
 	   - > [!Equation]
 	   > $$e^-required=2H+8E$$
