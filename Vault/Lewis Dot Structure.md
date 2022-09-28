@@ -1,5 +1,5 @@
 ---
-Alias: [Lewis Dot Symbol]
+Alias: [Lewis Dot Symbol, Lewis Dot Structures]
 Creation Date: Thu September 22nd 2022 05:47:08 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -41,6 +41,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Drawing 2022-09-26 12.12.45.excalidraw]]
 - ## Reference
 	- Used to draw [[Covalent Compound|Covalent Bonds]].
+	- Multiple of the same correct versions of a [[Lewis Dot Structure]] is a [[Resonance Structure]].
 	- [[Formal Charge]] and [[Oxidation State|Oxidation Number]] can be determined from a [[Lewis Dot Structure]].
 	- [[Bond Order]].
 	- Basically a 2d [[Valence Shell Electron Pair Repulsion Model|VSEPR]].
