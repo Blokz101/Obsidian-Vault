@@ -13,8 +13,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_F6848EF77954-1.jpeg|400]]
 		- All the bonds in the image above are the same length even though some are double bonds.
 - ## Equivalent [[Resonance Structure|Resonance Structures]]
-	- Equivalent [[Resonance Structure|Resonance Structures]] must all have the same:
-		- [[Formal Charge]] dist 
+	- Equivalent [[Resonance Structure|Resonance Structures]] must all:
+		- Have the same[[Formal Charge]] distribution.
+		- Be equally stable.
+		- Be equally representative.
+	- ![[IMG_D9B86D63D5BB-1.jpeg|400]]
 - ## Best [[Resonance Structure]]
 	- Sometimes there are multiple [[Resonance Structure|Resonance Structures]] that are technically correct, but one is more stable then the rest. This is the **Best Resonance Structure**.
 	- A **Best Resonance Structure**:

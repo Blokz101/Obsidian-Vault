@@ -9,8 +9,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition ^935dc7
 	- A method of drawing compounds that shows how its [[Valence Electron|Valence Electrons]] combine to form a **octet** for each [[Element]].
 		- Except for Hydrogen, which only needs two [[Electron|Electrons]] to reach a stable state.
-	- Two [[Electron|Electrons]] shared between two [[Element|Elements]] is represented by a dash.
-		- ![[IMG_0A22F70EEFAB-1.jpeg|400]]
+	- **Bonds** or two [[Electron|Electrons]] shared between two [[Element|Elements]] can be represented by the following:
+		- ![[IMG_D05C73BF5481-1.jpeg|100]]
+		- 
 	- > [!Warning]
 	  > Never use this to represent an [[Ionic Compound|Ionic Bond]]
 - ## Drawing the Structure (Freehand way)
