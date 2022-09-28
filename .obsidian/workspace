@@ -7,8 +7,24 @@
         "id": "de4f90e5f4ec175d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pi Bond.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6e3862284e222054",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sigma Bond.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -68,6 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Pi Bond.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pi Bond.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pi Bond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +185,8 @@
   },
   "active": "de4f90e5f4ec175d",
   "lastOpenFiles": [
+    "Sigma Bond.md",
+    "Pi Bond.md",
     "Vault/Molecular Shape.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
@@ -173,8 +194,6 @@
     "Ring.md",
     "Vault/Bond Order.md",
     "Vibrating String.md",
-    "Naming Ionic Compounds.md",
-    "Naming Covalent Compounds.md",
-    "Naming Polyatomic Ions.md"
+    "Naming Ionic Compounds.md"
   ]
 }
