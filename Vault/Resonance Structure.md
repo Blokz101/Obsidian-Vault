@@ -8,10 +8,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The [[Lewis Dot Structure]] when there are more then one [[Lewis Dot Structure]] that can represent the [[Molecule]].
+	- ![[IMG_B6031489C3A9-1.jpeg|400]]
 	- The [[Bond Order|Bonding Order]] for [[Resonance Structure|Resonance Structures]] is the number of **identical** bonds divided by the number of [[Bond Region|Bonding Regions]].
 		- ![[IMG_F6848EF77954-1.jpeg|400]]
 		- All the bonds in the image above are the same length even though some are double bonds.
-	- ![[IMG_B6031489C3A9-1.jpeg|400]]
+- ## Equivalent [[Resonance Structure|Resonance Structures]]
+	- Equivalent [[Resonance Structure|Resonance Structures]] must all have the same:
+		- [[Formal Charge]] dist 
 - ## Best [[Resonance Structure]]
 	- Sometimes there are multiple [[Resonance Structure|Resonance Structures]] that are technically correct, but one is more stable then the rest. This is the **Best Resonance Structure**.
 	- A **Best Resonance Structure**:

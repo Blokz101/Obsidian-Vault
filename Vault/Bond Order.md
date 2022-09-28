@@ -24,5 +24,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		> $B$ = Number of bonds between the central atom of the [[Resonance Structure]] and the surrounding ones.
 		> $BR$ = [[Bond Region|Bonding Regions]].
 	- ![[IMG_7A95104273AF-1.jpeg|400]]
+	- Despite the individual number of **bonds** between the atoms of the [[Resonance Structure]], the length and other characteristics will remain the same.
 - ## Reference
 	- Counts bonds in a [[Lewis Dot Structure]].

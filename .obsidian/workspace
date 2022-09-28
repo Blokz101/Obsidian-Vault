@@ -52,6 +52,18 @@
         }
       },
       {
+        "id": "778c750316772e6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Resonance Structure.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "1efb64b2fdf1ed2f",
         "type": "leaf",
         "state": {
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Bond Order.md",
+                "file": "Vault/Resonance Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Bond Order.md",
+                "file": "Vault/Resonance Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Bond Order.md",
+                "file": "Vault/Resonance Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +243,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dac3316c4a3e1a20",
+  "active": "778c750316772e6e",
   "lastOpenFiles": [
+    "Vault/Bond Order.md",
     "Vault/Resonance Structure.md",
     "Ring.md",
     "Vault/Lewis Dot Structure.md",
@@ -241,7 +254,6 @@
     "Vault/Molecular Shape.md",
     "Naming Ionic Compounds.md",
     "Naming Covalent Compounds.md",
-    "Naming Polyatomic Ions.md",
-    "Naming Monoatomic Ions.md"
+    "Naming Polyatomic Ions.md"
   ]
 }
