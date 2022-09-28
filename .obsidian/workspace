@@ -4,111 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7facffa2b28d2a",
+        "id": "38f93a73b1e9cc36",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Things.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "80f7dba5246ce75f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Oxanions.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "d76b7b6cf11c068c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electronegativity.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "05420b3370861694",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Lewis Dot Structure.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "beddbe60e79d4f93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault/Molecular Shape.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cc6f6146a33d4cb3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Monoatomic Ions.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b43d5ab82b77e8bb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Polyatomic Ions.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "42c641084e0d26f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Covalent Compounds.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "c787ee90e94a8eb1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Naming Ionic Compounds.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -168,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Molecular Shape.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Molecular Shape.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Molecular Shape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "beddbe60e79d4f93",
+  "active": "38f93a73b1e9cc36",
   "lastOpenFiles": [
-    "Vault/Lewis Dot Structure.md",
-    "Electronegativity.md",
-    "Naming Oxanions.md",
-    "Naming Things.md",
-    "Naming Monoatomic Ions.md",
-    "Naming Polyatomic Ions.md",
-    "Naming Covalent Compounds.md",
     "Naming Ionic Compounds.md",
-    "Derivative Rules.md",
-    "Vault/Periodic Table.md"
+    "Naming Covalent Compounds.md",
+    "Naming Polyatomic Ions.md",
+    "Naming Monoatomic Ions.md",
+    "Naming Things.md",
+    "Naming Oxanions.md",
+    "Electronegativity.md",
+    "Vault/Lewis Dot Structure.md",
+    "Vault/Molecular Shape.md",
+    "Derivative Rules.md"
   ]
 }
