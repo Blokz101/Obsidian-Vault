@@ -10,6 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Pi Bond.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "65ea35095afff7aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hybridization.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "Sigma Bond.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pi Bond.md",
+                "file": "Hybridization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pi Bond.md",
+                "file": "Hybridization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pi Bond.md",
+                "file": "Hybridization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de4f90e5f4ec175d",
+  "active": "65ea35095afff7aa",
   "lastOpenFiles": [
-    "Sigma Bond.md",
     "Pi Bond.md",
+    "Sigma Bond.md",
     "Vault/Molecular Shape.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",

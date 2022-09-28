@@ -7,7 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A [[Covalent Compound|Covalent Bond]] between the **p** [[Orbital|Orbitals]] of two [[Atom|Atoms]].
-	- The **s** [[Orbital|Orbitals]] extend and overlap to share the [[Electron|Electrons]].
+	- A [[Covalent Compound|Covalent Bond]] where the [[Orbital|Orbitals]] rest above and below the [[Atom|Atoms]] when sharing [[Electron|Electrons]].
 	- **THERE CAN ONLY BE SIGMA BONDS AFTER THE [[Pi Bond|PI BOND]].**
+	- ![[IMG_9DACB54812A7-1.jpeg]]
 - ## Reference
+	- Related to [[Pi Bond|Pi Bonds]].
