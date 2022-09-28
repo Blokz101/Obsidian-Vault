@@ -12,6 +12,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The angles between [[Bond Region|Bonding Regions]] depend on the [[Electron Region|Electron Regions]].
 	- ![[IMG_6FBA472381DE-1.jpeg]]
 - ## Shapes
+	- > [!Warning]
+	> Note that lone [[Electron]] pairs have a more repulsive force than a normal [[Electron]] bond.
 	- #### Linear
 		- ![[IMG_6571DD5D5FDC-1.jpeg|200]]
 		- [[Electron Region|Electron Regions]] = 2
