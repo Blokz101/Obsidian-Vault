@@ -14,7 +14,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Warning]
 	  > Never use this to represent an [[Ionic Compound|Ionic Bond]]
 - ## Drawing the Structure (Freehand way)
-	- 
+	- Find how many [[Valence Electron]] you have currently have.
+		- Add the [[Valence Electron|Valence Electrons]] of each [[Atom]].
+	- Draw the structure
+		- First [[Element]] or  the [[Element]] with the least [[Valence Electron|Valence Electrons]] is generally in the center.
+		- Make sure that each [[Atom]] has access to an **octet**.
+		- The more [[Electronegativity|Electronegative]] [[Element|Elements]] will generally get the lone pairs.
 - ## Drawing the Structure (Calculation Way)
 	- > [!Warning]
 	> Works for most [[Compound|Compounds]] but not all, be careful when using.

@@ -17,6 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A **Best Resonance Structure**:
 		- Has the lowest average [[Formal Charge]]
 		- Has the **negative charge** on the most [[Electronegativity|Electronegative]] atom.
+			- This means generally the most **lone pairs** on that [[Atom]].
 	- ![[IMG_2D96917927DA-1.jpeg|400]]
 - ## Reference
 	- Based on the [[Lewis Dot Structure]].

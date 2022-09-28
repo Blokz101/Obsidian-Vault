@@ -10,3 +10,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- 6 atoms connected by bonds in a hexagonal ring.
 	- ![[IMG_5AD26B3FF869-1.jpeg|300]]
 - ## Reference
+	- Drawn as a [[Lewis Dot Structure]].
