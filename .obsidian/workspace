@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Lewis Dot Structure.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -35,6 +35,18 @@
           "state": {
             "file": "Vault/Resonance Structure.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1efb64b2fdf1ed2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ring.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -108,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Resonance Structure.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Resonance Structure.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Resonance Structure.md",
+                "file": "Vault/Lewis Dot Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b247f487f725c297",
+  "active": "2d2957f60999567c",
   "lastOpenFiles": [
+    "Ring.md",
+    "Vibrating String.md",
+    "Vault/Resonance Structure.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Vault/Molecular Shape.md",
     "Naming Ionic Compounds.md",
     "Naming Covalent Compounds.md",
     "Naming Polyatomic Ions.md",
-    "Naming Monoatomic Ions.md",
-    "Naming Things.md",
-    "Naming Oxanions.md",
-    "Electronegativity.md"
+    "Naming Monoatomic Ions.md"
   ]
 }
