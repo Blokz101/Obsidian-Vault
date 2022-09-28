@@ -18,4 +18,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## [[Pi Bond|Pi Bonds]] and [[Sigma Bond|Sigma Bonds]]
 	- Pure [[Orbital|Orbitals]] are used for [[Pi Bond|Pi Bonds]].
 	- [[Hybridization|Hybrid Orbitals]] are used for [[Sigma Bond|Sigma Bonds]] and **lone pairs**.
+- ## Practice
+	- [[IMG_D00D7BB49B97-1.jpeg]]
 - ## Reference
+	- [[Pi Bond|Pi Bonds]].
+	- [[Sigma Bond|Sigma Bonds]].

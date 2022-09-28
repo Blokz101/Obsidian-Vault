@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Hybridization.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -197,15 +197,15 @@
   },
   "active": "65ea35095afff7aa",
   "lastOpenFiles": [
-    "Pi Bond.md",
     "Sigma Bond.md",
+    "Pi Bond.md",
+    "Hybridization.md",
     "Vault/Molecular Shape.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Vault/Resonance Structure.md",
     "Ring.md",
     "Vault/Bond Order.md",
-    "Vibrating String.md",
-    "Naming Ionic Compounds.md"
+    "Vibrating String.md"
   ]
 }
