@@ -14,6 +14,16 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "ca40169af61894e1",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Molecular Shape.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92084996eb56ab5e",
+  "active": "ca40169af61894e1",
   "lastOpenFiles": [
+    "Vault/Molecular Shape.md",
+    "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
     "Sigma Bond.md",
     "Pi Bond.md",
     "Hybridization.md",
     "References/IMG_D00D7BB49B97-1.jpeg",
-    "Vault/Molecular Shape.md",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Vault/Resonance Structure.md",
-    "Ring.md",
-    "Vault/Bond Order.md"
+    "Ring.md"
   ]
 }

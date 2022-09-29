@@ -44,6 +44,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Angle = $<109^{\circ}$
 		- 3 [[Atom|Atoms]] about a central [[Atom]].
 		- 1 of the bonds are on the same plane, and the last 2 are facing towards or away from you.
+- ## Practice
+	- [[Drawing 2022-09-29 10.55.54.excalidraw]]
 - ## Reference
 	- We draw them as [[Lewis Dot Structure|Lewis Dot Structures]] on paper.
 	- Depends heavily on [[Bond Region|Bond Regions]] and [[Electron Region|Electron Regions]].
