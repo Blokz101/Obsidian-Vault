@@ -16,12 +16,14 @@
         }
       },
       {
-        "id": "ca40169af61894e1",
+        "id": "72d634b3479a2971",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md"
+            "file": "Electronegativity.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -82,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
+                "file": "Electronegativity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
+                "file": "Electronegativity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca40169af61894e1",
+  "active": "72d634b3479a2971",
   "lastOpenFiles": [
     "Vault/Molecular Shape.md",
     "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
