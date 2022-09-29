@@ -7,11 +7,9 @@
         "id": "92084996eb56ab5e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Vault/Molecular Shape.md",
-            "mode": "preview",
-            "source": true
+            "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md"
           }
         }
       },
@@ -84,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronegativity.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +181,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72d634b3479a2971",
+  "active": "92084996eb56ab5e",
   "lastOpenFiles": [
     "Vault/Molecular Shape.md",
+    "Electronegativity.md",
     "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
     "Sigma Bond.md",
     "Pi Bond.md",
@@ -193,7 +192,6 @@
     "References/IMG_D00D7BB49B97-1.jpeg",
     "Vault/Lewis Dot Structure.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
-    "Vault/Resonance Structure.md",
-    "Ring.md"
+    "Vault/Resonance Structure.md"
   ]
 }
