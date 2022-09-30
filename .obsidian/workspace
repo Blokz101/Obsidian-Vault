@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Derivative.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a3fc79254fbc001e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Law of Cosines.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -82,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
+                "file": "Vault/Law of Cosines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
+                "file": "Vault/Law of Cosines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
+                "file": "Vault/Law of Cosines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1efac7be0f8b6858",
+  "active": "a3fc79254fbc001e",
   "lastOpenFiles": [
     "Derivative.md",
+    "Vault/Law of Sines.md",
+    "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
     "Vault/Trigonometric Identities.md",
     "Electronegativity.md",
     "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
     "Vault/Molecular Shape.md",
     "Sigma Bond.md",
     "Pi Bond.md",
-    "Hybridization.md",
-    "References/IMG_D00D7BB49B97-1.jpeg",
-    "Vault/Lewis Dot Structure.md"
+    "Hybridization.md"
   ]
 }

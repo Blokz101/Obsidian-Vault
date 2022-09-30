@@ -17,6 +17,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > The function must be [[Continuity|Continuous]] at the point that you want to take the [[Derivative]] of. The limit may exist, but [[Continuity]] is required for [[Derivative|Differentiation]].
 - ## Practice
 	- [[Drawing 2022-09-14 12.58.23.excalidraw]]
-	- 
+	- [[Drawing 2022-09-29 19.57.44.excalidraw]]
 - ## Reference
 	- [[Derivative Rules]] shows the shortcuts for taking the [[Derivative]] of something.
