@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Law of Cosines.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Law of Cosines.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Law of Cosines.md",
+                "file": "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +193,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3fc79254fbc001e",
+  "active": "1efac7be0f8b6858",
   "lastOpenFiles": [
+    "Vault/Law of Cosines.md",
     "Derivative.md",
     "Vault/Law of Sines.md",
     "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
@@ -203,7 +204,6 @@
     "References/Excalidraw/Drawing 2022-09-29 10.55.54.excalidraw.md",
     "Vault/Molecular Shape.md",
     "Sigma Bond.md",
-    "Pi Bond.md",
-    "Hybridization.md"
+    "Pi Bond.md"
   ]
 }
