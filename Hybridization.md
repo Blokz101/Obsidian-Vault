@@ -21,6 +21,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Bonding Visualized
 	- ![[Drawing 2022-10-01 14.39.04.excalidraw|1000]]
 	- The [[Sigma Bond|Sigma Bonds]] are between the [[Hybridization|Hybrid Orbitals]] and the [[Pi Bond|Pi Bonds]] are between the two [[Hybridization|Unhybridized Orbitals]].
+	- #### More Examples
+		- ![[IMG_22F89C279537-1.jpeg]]|![[IMG_7187B687D6CD-1.jpeg]]
+		  ---|---
 - ## Practice
 	- [[IMG_D00D7BB49B97-1.jpeg]]
 - ## Reference

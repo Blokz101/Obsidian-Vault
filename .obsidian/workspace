@@ -4,7 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "521d34a01e8e815a",
+        "id": "75fc86400229959b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "5e79759a8523900f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -171,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "521d34a01e8e815a",
+  "active": "5e79759a8523900f",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
+    "References/IMG_22F89C279537-1.jpeg",
     "Hybridization.md",
+    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
     "Vault/Related Rates.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.00.excalidraw.md",
     "Vault/Law of Cosines.md",
     "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
     "Derivative.md",
-    "Vault/Law of Sines.md",
-    "Vault/Trigonometric Identities.md"
+    "Vault/Law of Sines.md"
   ]
 }
