@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Hybridization Theory.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Hybridization Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Hybridization Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Hybridization Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b308418a1dcd2222",
+  "active": "5e79759a8523900f",
   "lastOpenFiles": [
+    "Molecular Orbital Theory.md",
     "Hybridization Theory.md",
     "References/IMG_22F89C279537-1.jpeg",
     "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
@@ -193,7 +194,6 @@
     "References/Excalidraw/Drawing 2022-09-30 17.02.00.excalidraw.md",
     "Vault/Law of Cosines.md",
     "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
-    "Derivative.md",
-    "Vault/Law of Sines.md"
+    "Derivative.md"
   ]
 }
