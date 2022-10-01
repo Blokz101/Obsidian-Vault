@@ -19,10 +19,20 @@
         "id": "b308418a1dcd2222",
         "type": "leaf",
         "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "c88d01ce3482d8f9",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Molecular Orbital Theory.md",
-            "mode": "source",
+            "file": "Implicit Differentiation.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -84,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +193,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e79759a8523900f",
+  "active": "b308418a1dcd2222",
   "lastOpenFiles": [
+    "Implicit Differentiation.md",
+    "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
     "Molecular Orbital Theory.md",
     "Hybridization Theory.md",
     "References/IMG_22F89C279537-1.jpeg",
@@ -192,8 +204,6 @@
     "Vault/Related Rates.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.00.excalidraw.md",
-    "Vault/Law of Cosines.md",
-    "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
-    "Derivative.md"
+    "Vault/Law of Cosines.md"
   ]
 }
