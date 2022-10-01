@@ -1,5 +1,5 @@
 ---
-Alias: [Hybrid Orbital, Hybrid Orbitals]
+Alias: [Hybridization, Hybrid Orbital, Hybrid Orbitals]
 Creation Date: Wed September 28th 2022 05:01:16 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -30,6 +30,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[IMG_D00D7BB49B97-1.jpeg]]
 - ## Reference
-	- [[Hybridization Theory]] and [[Molecular Orbital Theory]]
+	- [[Hybridization Theory]] and [[Molecular Orbital Theory]] are the **two main theories** that  describe how [[Electron|Electrons]] act in **bonds**.
 	- [[Pi Bond|Pi Bonds]].
 	- [[Sigma Bond|Sigma Bonds]].
