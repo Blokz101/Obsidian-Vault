@@ -12,4 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_59FAFECD334D-1.jpeg]]
 - ## Reference
 	- Related to [[Sigma Bond|Sigma Bonds]].
-	- [[Hybridization]].
+	- [[Hybridization Theory]].

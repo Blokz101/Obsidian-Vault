@@ -17,8 +17,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hybridization.md",
-            "mode": "preview",
+            "file": "Hybridization Theory.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hybridization.md",
+                "file": "Hybridization Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybridization.md",
+                "file": "Hybridization Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybridization.md",
+                "file": "Hybridization Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
   "active": "5e79759a8523900f",
   "lastOpenFiles": [
     "References/IMG_22F89C279537-1.jpeg",
-    "Hybridization.md",
+    "Hybridization Theory.md",
     "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
     "Vault/Related Rates.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md",

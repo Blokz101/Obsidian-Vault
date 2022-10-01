@@ -12,4 +12,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_9DACB54812A7-1.jpeg]]
 - ## Reference
 	- Related to [[Pi Bond|Pi Bonds]].
-	- [[Hybridization]].
+	- [[Hybridization Theory]].
