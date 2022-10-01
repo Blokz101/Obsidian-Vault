@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "83afd321a8785ede",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "521d34a01e8e815a",
         "type": "leaf",
         "state": {
@@ -82,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
+                "file": "Hybridization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
+                "file": "Hybridization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
+                "file": "Hybridization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83afd321a8785ede",
+  "active": "521d34a01e8e815a",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
     "Hybridization.md",
     "Vault/Related Rates.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md",
@@ -191,7 +182,6 @@
     "References/Excalidraw/Drawing 2022-09-29 19.57.44.excalidraw.md",
     "Derivative.md",
     "Vault/Law of Sines.md",
-    "Vault/Trigonometric Identities.md",
-    "Electronegativity.md"
+    "Vault/Trigonometric Identities.md"
   ]
 }
