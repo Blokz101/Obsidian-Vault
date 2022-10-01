@@ -26,6 +26,18 @@
         }
       },
       {
+        "id": "7ec6c3c42b899994",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Logarithm Derivative Rules.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "c88d01ce3482d8f9",
         "type": "leaf",
         "state": {
@@ -94,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b308418a1dcd2222",
+  "active": "7ec6c3c42b899994",
   "lastOpenFiles": [
-    "Implicit Differentiation.md",
+    "Derivative Rules.md",
+    "Derivative.md",
     "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+    "Implicit Differentiation.md",
     "Molecular Orbital Theory.md",
     "Hybridization Theory.md",
     "References/IMG_22F89C279537-1.jpeg",
     "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
     "Vault/Related Rates.md",
-    "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-09-30 17.02.00.excalidraw.md",
-    "Vault/Law of Cosines.md"
+    "References/Excalidraw/Drawing 2022-09-30 17.02.03.excalidraw.md"
   ]
 }
