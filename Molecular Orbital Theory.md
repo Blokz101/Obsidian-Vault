@@ -21,6 +21,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
-	  > [!Equation]
-	  > $$BO=\frac{}(B-A)$$
+	  - > [!Equation]
+	  > $$BO=\frac{B-A}{2}$$
+	  > 
+	  > $BO$ = [[Bond Order]]
+	  > $B$ = Number of **bonds**.
+	  > $A$ = Number of **anti bonds**.
+	- 
 - ## Reference
