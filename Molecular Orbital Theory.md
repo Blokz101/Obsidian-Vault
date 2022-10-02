@@ -18,5 +18,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- When the "waves" are the opposites they form a **anti bond** and a [[Node]] between the two.
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 - ## Bonds
-	- Each 
+	- Each [[Electron]] creates a **bond** and then an **anti bond**.
 - ## Reference
