@@ -16,16 +16,6 @@
         }
       },
       {
-        "id": "b308418a1dcd2222",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "7ec6c3c42b899994",
         "type": "leaf",
         "state": {
@@ -50,14 +40,24 @@
         }
       },
       {
-        "id": "c88d01ce3482d8f9",
+        "id": "3d25f1365c1725cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Implicit Differentiation.md",
-            "mode": "preview",
+            "file": "Vault/Limit.md",
+            "mode": "source",
             "source": true
+          }
+        }
+      },
+      {
+        "id": "c88d01ce3482d8f9",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md"
           }
         }
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,17 +217,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b308418a1dcd2222",
+  "active": "c88d01ce3482d8f9",
   "lastOpenFiles": [
+    "Vault/Limit.md",
     "Vault/Logarithm.md",
-    "Vault/Logarithm Derivative Rules.md",
     "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Derivative Rules.md",
     "Derivative.md",
     "Implicit Differentiation.md",
     "Molecular Orbital Theory.md",
     "Hybridization Theory.md",
-    "References/IMG_22F89C279537-1.jpeg",
-    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md"
+    "References/IMG_22F89C279537-1.jpeg"
   ]
 }
