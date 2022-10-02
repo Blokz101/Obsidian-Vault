@@ -60,6 +60,18 @@
             "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md"
           }
         }
+      },
+      {
+        "id": "91617c9d7803c0cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "E.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -219,6 +231,8 @@
   },
   "active": "c88d01ce3482d8f9",
   "lastOpenFiles": [
+    "E.md",
+    "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
     "Vault/Limit.md",
     "Vault/Logarithm.md",
     "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
@@ -226,8 +240,6 @@
     "Derivative Rules.md",
     "Derivative.md",
     "Implicit Differentiation.md",
-    "Molecular Orbital Theory.md",
-    "Hybridization Theory.md",
-    "References/IMG_22F89C279537-1.jpeg"
+    "Molecular Orbital Theory.md"
   ]
 }
