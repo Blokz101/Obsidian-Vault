@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Molecular Orbital Theory.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -185,15 +185,15 @@
   },
   "active": "f76bd9153010c1e4",
   "lastOpenFiles": [
-    "Hybridization Theory.md",
+    "Node.md",
     "Molecular Orbital Theory.md",
+    "Hybridization Theory.md",
     "E.md",
     "Vault/Logarithm.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-01 16.50.33.excalidraw.md",
-    "Derivative Rules.md",
-    "Derivative.md"
+    "Derivative Rules.md"
   ]
 }
