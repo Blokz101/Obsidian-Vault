@@ -46,18 +46,8 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Limit.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
-          }
-        }
-      },
-      {
-        "id": "c88d01ce3482d8f9",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md"
           }
         }
       },
@@ -130,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +219,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c88d01ce3482d8f9",
+  "active": "3d25f1365c1725cc",
   "lastOpenFiles": [
     "E.md",
     "References/Excalidraw/Drawing 2022-10-01 19.57.48.excalidraw.md",

@@ -28,7 +28,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-09-06 15.30.33.excalidraw]]
 	- [[Drawing 2022-09-07 21.08.59.excalidraw]] (Squeeze Theorem)
-	- 
 - ## Reference
 	- [[Proving a Limit]]
 	- The basis for [[Derivative|Derivatives]]
