@@ -27,5 +27,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $BO$ = [[Bond Order]]
 	  > $B$ = Number of **bonds**.
 	  > $A$ = Number of **anti bonds**.
-	- 
+	- #### CONTINUE WORK HERE
 - ## Reference
