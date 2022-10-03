@@ -28,6 +28,30 @@
         }
       },
       {
+        "id": "f4b0886ed94b6061",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orbital.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e2521ba705c2747d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orbital Angular Momentum Quantum Number.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "df13c7b4e5ea8783",
         "type": "leaf",
         "state": {
@@ -156,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Orbital Angular Momentum Quantum Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86c090c421e7a3df",
+  "active": "e2521ba705c2747d",
   "lastOpenFiles": [
-    "Diatomic.md",
+    "Orbital.md",
     "Molecular Orbital Theory.md",
+    "Diatomic.md",
     "Vault/Oxidation State.md",
     "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
     "Naming Ionic Compounds.md",
     "Naming Monoatomic Ions.md",
     "Naming Oxanions.md",
     "Naming Things.md",
-    "Vault/Ionic Compound.md",
-    "Vault/Bond Order.md"
+    "Vault/Ionic Compound.md"
   ]
 }

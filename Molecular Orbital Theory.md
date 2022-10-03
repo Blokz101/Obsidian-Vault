@@ -20,10 +20,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- When the [[Orbital|Orbitals]] are the opposites they form a **anti bond** and a [[Node]] between the two.
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
-		- When the [[Orbital|Orbitals]] are on totaly different axis.
+		- When the [[Orbital|Orbitals]] are on totaly different axis they will not interact and therefore cannot form an **anti bond** or **bond**.
 - ## Visualizing [[Orbital|Orbitals]]
-	- This is what the 
-	- ![[IMG_F2787B5197D4-1.jpeg]]
+	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
+		- ![[IMG_F2787B5197D4-1.jpeg]]
+		- The **2s** [[Orbital|Orbitals]] are the lowest energy by default and then the **2p**
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
