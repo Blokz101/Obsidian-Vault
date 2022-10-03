@@ -24,7 +24,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Visualizing [[Orbital|Orbitals]]
 	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
 		- ![[IMG_F2787B5197D4-1.jpeg]]
-		- The **2s** [[Orbital|Orbitals]] are the lowest energy by default and then the **2p**
+		- The **2s** [[Orbital|Orbitals]] are the lowest energy by default and then the **2p**.
+		- The **bonds** come first because they are more stable and therefore lower [[Energy]].
+		- The **anti sigma bond** is higher in [[Energy]] then the **anti pi bonds**.
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
