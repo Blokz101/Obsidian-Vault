@@ -21,6 +21,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
 		- When the [[Orbital|Orbitals]] are on totaly different axis.
+- ## Bonding for Diatomics
+	- 
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
