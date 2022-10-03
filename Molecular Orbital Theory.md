@@ -13,12 +13,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Destructive means the two waves cancel each other out.
 	- #### Bonding
 		- When the "waves" are the same they are constructive and form a **bond**.
-		- **Bonds** pull the [[Nucleus]] together.
 		- ![[IMG_F20CE3FD8C75-1.jpeg|400]]
 	- #### Anti Bonding
-		- When the "waves" are the opposites they form a **anti bond** and a [[Node]] between the two.
-		- **Anti bonds** push the [[Nucleus]] apart.
+		- When the orbitals are the opposites they form a **anti bond** and a [[Node]] between the two.
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
+	- #### Non Bonding
+		- When the 
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
