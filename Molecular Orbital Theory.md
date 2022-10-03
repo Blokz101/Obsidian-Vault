@@ -29,6 +29,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The **anti sigma bond** is higher in [[Energy]] then the **anti pi bonds**.
 - ## Bonding and Anti Bonding
 	- If there are more **bonds** then **anti bonds**, then the [[Molecule]] is considered to be **bonding**.
+	- If there are more **anti bonds** then **bonds**, then the [[Molecule]] is considered to be **anti bonding**.
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
