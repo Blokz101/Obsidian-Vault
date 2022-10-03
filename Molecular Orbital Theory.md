@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- One of **two theories** that describes how [[Electron|Electrons]] act in **bonds**.
+	- One of **two theories** that describes how [[Electron|Electrons]] act in **bonds** of a [[Molecule]].
 	- The addition of "waves" in orbitals is either constructive or destructive.
 		- Constructive means the two waves amplify each other.
 		- Destructive means the two waves cancel each other out.
@@ -27,6 +27,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The **2s** [[Orbital|Orbitals]] are the lowest energy by default and then the **2p**.
 		- The **bonds** come first because they are more stable and therefore lower [[Energy]].
 		- The **anti sigma bond** is higher in [[Energy]] then the **anti pi bonds**.
+- ## Bonding and Anti Bonding
+	- If there are more **bonds** then **anti bonds**, then the [[Molecule]] is considered to be **bonding**.
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
@@ -35,5 +37,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $BO$ = [[Bond Order]]
 	  > $B$ = Number of **bonds**.
 	  > $A$ = Number of **anti bonds**.
-	- #### CONTINUE WORK HERE
+	- If there is more then zero **bonds** then the atoms can **bond**, otherwise they wont **bond**.
 - ## Reference
+	- 
