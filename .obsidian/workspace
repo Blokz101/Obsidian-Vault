@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "f2f6c86203d104d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Oxidation State.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "6b76d11de38edee3",
         "type": "leaf",
         "state": {
@@ -120,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Vault/Oxidation State.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Vault/Oxidation State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Vault/Oxidation State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86c090c421e7a3df",
+  "active": "f2f6c86203d104d8",
   "lastOpenFiles": [
-    "Vault/Law of Cosines.md",
     "Molecular Orbital Theory.md",
+    "Vault/Isoelectronic Ion.md",
+    "Vault/Law of Cosines.md",
     "Naming Things.md",
     "Naming Polyatomic Ions.md",
     "Vault/Polyatomic Ions.md",
     "Vault/Bond Order.md",
     "Hybridization Theory.md",
     "Nucleus.md",
-    "Node.md",
-    "E.md"
+    "Node.md"
   ]
 }

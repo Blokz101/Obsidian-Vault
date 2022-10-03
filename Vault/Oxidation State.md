@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The hypothetical [[Charge]] of an [[Atom]] if all of its bonds to different atoms were [[Ionic Bond]].
+	- The [[Charge]] that reflects the number of [[Electron|Electrons]] an [[Element]] must gain or lose to bond with another [[Atom]].
 	- In general a main group [[Element|Element's]] [[Oxidation State|Oxidation Number]] will range from: **the group of the [[Element]] to the group of the [[Element]] minus 8**.
 		- > [!Example]-
 		> $Cl$ is in group $7A$:

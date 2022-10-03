@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A set of [[Ion|Ions]] with the same [[Electron Orbital Configuration|Electron Configuration]].
+	- A set of [[Ion|Ions]] with the same [[Electron Orbital Configuration|Valence Electron Configuration]].
 	- ![[IMG_293B2C503BEA-1.jpeg|200]]
 - ## Reference
 	- A type of [[Ion]].
