@@ -22,18 +22,8 @@
           "type": "markdown",
           "state": {
             "file": "Molecular Orbital Theory.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
-          }
-        }
-      },
-      {
-        "id": "72afc6100005f173",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md"
           }
         }
       },
@@ -166,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
+                "file": "Molecular Orbital Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
+                "file": "Molecular Orbital Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
+                "file": "Molecular Orbital Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,8 +255,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72afc6100005f173",
+  "active": "86c090c421e7a3df",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
     "Molecular Orbital Theory.md",
     "Vault/Oxidation State.md",
     "Naming Ionic Compounds.md",
@@ -275,7 +266,6 @@
     "Naming Things.md",
     "Vault/Ionic Compound.md",
     "Vault/Bond Order.md",
-    "Oxanion.md",
-    "Naming Polyatomic Ions.md"
+    "Oxanion.md"
   ]
 }
