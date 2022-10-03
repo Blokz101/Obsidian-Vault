@@ -14,11 +14,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- #### Bonding
 		- The [[Orbital|Orbitals]]
 		- When the [[Orbital|Orbitals]] are the same they are constructive and form a **bond**.
-		- ![[IMG_F20CE3FD8C75-1.jpeg|400]]
+		- 
+		- [[IMG_F20CE3FD8C75-1.jpeg|400]]
 	- #### Anti Bonding
 		- 
 		- When the [[Orbital|Orbitals]] are the opposites they form a **anti bond** and a [[Node]] between the two.
-		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
+		- [[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
 		- When the [[Orbital|Orbitals]] are on totaly different axis.
 - ## [[Bond Order]]
