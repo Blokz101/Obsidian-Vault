@@ -12,13 +12,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Constructive means the two waves amplify each other.
 		- Destructive means the two waves cancel each other out.
 	- #### Bonding
-		- When the "waves" are the same they are constructive and form a **bond**.
+		- The [[Orbital|Orbitals]]
+		- When the [[Orbital|Orbitals]] are the same they are constructive and form a **bond**.
 		- ![[IMG_F20CE3FD8C75-1.jpeg|400]]
 	- #### Anti Bonding
-		- When the orbitals are the opposites they form a **anti bond** and a [[Node]] between the two.
+		- 
+		- When the [[Orbital|Orbitals]] are the opposites they form a **anti bond** and a [[Node]] between the two.
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
-		- When the 
+		- When the [[Orbital|Orbitals]] are on totaly different axis.
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
