@@ -14,4 +14,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- This can also be represented with an arrow with a line though it pointing at the more [[Electronegativity|Electronegative]] [[Element]].
 		- ![[IMG_CB199BDC7C3B-1.jpeg|400]]
 - ## Reference
+	- [[Polarity|Polar]] Covalent means that it is a [[Covalent Compound|Covalent Bond]] but shares unequally.
 	- In the middle of a [[Covalent Compound|Covalent Bond]] and [[Ionic Compound|Ionic Bond]].
