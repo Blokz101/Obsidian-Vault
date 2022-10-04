@@ -28,7 +28,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Increase the number of **nodes** by one to get each [[Orbital]].
 		- **Nodes** are spaced equally.
 		- Mix as many of the [[Orbital|Orbitals]] as possible.
-		- 
+		- In a system with an odd number of [[Atom|Atoms]] a **node** may have to be at the center of that atom. This [[Orbital]] cannot be mixed then.
 - ## Visualizing [[Orbital|Orbitals]]
 	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
 		- ![[IMG_F2787B5197D4-1.jpeg]]
