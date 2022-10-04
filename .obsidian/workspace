@@ -79,7 +79,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References/Excalidraw/Linear Approximation.md",
+            "file": "References/Excalidraw/Newton's Method.md",
             "mode": "source",
             "source": true
           }
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,9 +335,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79e363cf5ba46612",
+  "active": "f39957ce91dd9a2c",
   "lastOpenFiles": [
     "References/Excalidraw/Linear Approximation.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "Polar Covalent Bond.md",
     "Vault/Related Rates.md",
@@ -345,7 +346,6 @@
     "Vault/Ionic Compound.md",
     "Electronegativity.md",
     "Naming Monoatomic Ions.md",
-    "Naming Things.md",
-    "Molecular Orbital Theory.md"
+    "Naming Things.md"
   ]
 }
