@@ -40,5 +40,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $B$ = Number of **bonds**.
 	  > $A$ = Number of **anti bonds**.
 	- If there is more then zero **bonds** then the atoms can **bond**, otherwise they wont **bond**.
+- ## [[Diatomic|Bonding in Diatomics]]
+	- ![[Diatomic#^aad43a]]
 - ## Reference
 	- [[Diatomic|Bonding in Diatomics]]
