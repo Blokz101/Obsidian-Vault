@@ -7,7 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- A way to approximate a root for a function.
-	- 
-	- ![[Drawing 2022-10-04 16.22.31.excalidraw]]
+	- A way to approximate a root for a function by using this formula repeatedly.
+	- > [!Equation]
+	> $$\large{x_{x+1}=x_n-\frac{f(x_n)}{f'(x_n)}}$$
+	> 
+	> $n$ = The number of the current iteration
+	- ![[Drawing 2022-10-04 16.22.31.excalidraw|1000]]
 - ## Reference

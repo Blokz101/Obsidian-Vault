@@ -64,34 +64,14 @@
         }
       },
       {
-        "id": "413dbe032567f06d",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md"
-          }
-        }
-      },
-      {
         "id": "f39957ce91dd9a2c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "References/Excalidraw/Newton's Method.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
-          }
-        }
-      },
-      {
-        "id": "b37a0df79354d479",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md"
           }
         }
       },
@@ -337,9 +317,9 @@
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
+    "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "Polar Covalent Bond.md",
     "Vault/Related Rates.md",
     "Polarity.md",
