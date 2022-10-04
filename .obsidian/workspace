@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,8 +333,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b37a0df79354d479",
+  "active": "f39957ce91dd9a2c",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
@@ -343,7 +344,6 @@
     "Vault/Related Rates.md",
     "Polarity.md",
     "Vault/Ionic Compound.md",
-    "Electronegativity.md",
-    "Naming Monoatomic Ions.md"
+    "Electronegativity.md"
   ]
 }

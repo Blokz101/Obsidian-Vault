@@ -9,4 +9,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- A way to approximate a root for a function.
 	- 
+	- ![[Drawing 2022-10-04 16.22.31.excalidraw]]
 - ## Reference
