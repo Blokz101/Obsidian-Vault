@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Molecular Orbital Theory.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diatomic.md",
+                "file": "Molecular Orbital Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diatomic.md",
+                "file": "Molecular Orbital Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diatomic.md",
+                "file": "Molecular Orbital Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +279,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b37a0df79354d479",
+  "active": "86c090c421e7a3df",
   "lastOpenFiles": [
-    "Molecular Orbital Theory.md",
     "Diatomic.md",
+    "Molecular Orbital Theory.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Orbital.md",
     "Schrodinger Model.md",

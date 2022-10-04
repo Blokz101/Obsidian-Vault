@@ -21,6 +21,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
 		- When the [[Orbital|Orbitals]] are on totaly different axis they will not interact and therefore cannot form an **anti bond** or **bond**.
+- ## Shorthand
+	- 
 - ## Visualizing [[Orbital|Orbitals]]
 	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
 		- ![[IMG_F2787B5197D4-1.jpeg]]
