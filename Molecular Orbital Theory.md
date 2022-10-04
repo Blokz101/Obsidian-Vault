@@ -30,6 +30,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Bonding and Anti Bonding
 	- If there are more **bonds** then **anti bonds**, then the [[Molecule]] is considered to be **bonding**.
 	- If there are more **anti bonds** then **bonds**, then the [[Molecule]] is considered to be **anti bonding**.
+	- If the **bonding is balanced**  then it is **non bonding** because there are no bonds to hold it together.
 - ## [[Bond Order]]
 	- The [[Bond Order]] can be calculated by:
 	  - > [!Equation]
