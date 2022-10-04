@@ -22,7 +22,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- #### Non Bonding
 		- When the [[Orbital|Orbitals]] are on totaly different axis they will not interact and therefore cannot form an **anti bond** or **bond**.
 - ## Shorthand
-	- 
+	- Each [[Atom]] in a [[Pi Bond]] has one [[Hybridization Theory|Unhybridized]] **p** [[Orbital]].
+	- The system will have as many [[Molecular Orbital Theory|Molecular Orbitals]] as [[Atom|Atomic]] [[Orbital|Orbitals]].
+	- The lowest [[Energy]] [[Orbital]] is the one with **0 nodes**.
+	- Increase the number of **nodes** by one to get each [[Orbital]].
+		- **Nodes** are spaced equally.
+		- Mix as many of the [[Orbital|Orbitals]] as possible.
+		- 
 - ## Visualizing [[Orbital|Orbitals]]
 	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
 		- ![[IMG_F2787B5197D4-1.jpeg]]
