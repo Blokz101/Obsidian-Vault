@@ -9,5 +9,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 - ## Practice
 	- [[Drawing 2022-09-30 17.02.03.excalidraw]]
+	- [[Drawing 2022-10-04 15.45.11.excalidraw]]
 - ## Reference
 	- [[Derivative]]
