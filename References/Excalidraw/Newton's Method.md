@@ -7,5 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	-  
+	- A way to approximate a root for a function.
+	- 
 - ## Reference
