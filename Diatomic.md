@@ -8,4 +8,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- Bonding between two of the same [[Atom|Atoms]].
+- ## Bonding
+	- 
 - ## Reference

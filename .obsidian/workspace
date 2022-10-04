@@ -22,6 +22,18 @@
           "type": "markdown",
           "state": {
             "file": "Molecular Orbital Theory.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "b37a0df79354d479",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diatomic.md",
             "mode": "source",
             "source": true
           }
@@ -168,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Diatomic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Diatomic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Diatomic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,13 +279,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86c090c421e7a3df",
+  "active": "b37a0df79354d479",
   "lastOpenFiles": [
+    "Molecular Orbital Theory.md",
+    "Diatomic.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Orbital.md",
     "Schrodinger Model.md",
-    "Molecular Orbital Theory.md",
-    "Diatomic.md",
     "Vault/Oxidation State.md",
     "References/Excalidraw/Drawing 2022-10-03 18.00.09.excalidraw.md",
     "Naming Ionic Compounds.md",
