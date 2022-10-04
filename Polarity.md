@@ -8,7 +8,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- How great the difference is [[Electronegativity]] is between two [[Atom|Atoms]].
-	- If the [[Atom]] 
+	- If the **difference($\Delta x$)** is:
+		- **$\Delta x≥1.8$** then its a [[Ionic Compound|Ionic Bond]]
+		- **$0.4<\Delta x<1.8$** its a [[Polar Covalent Bond]]
+		- **$\Delta x<0.4$** its a [[Covalent Compound|Covalent Bond]]
 	- ![[IMG_12D066C1D991-1.jpeg]]
 - ## Reference
 	- 100% dependent on [[Electronegativity]].
