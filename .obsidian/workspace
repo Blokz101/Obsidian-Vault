@@ -64,6 +64,16 @@
         }
       },
       {
+        "id": "efd4b03ca92d6c9e",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md"
+          }
+        }
+      },
+      {
         "id": "f39957ce91dd9a2c",
         "type": "leaf",
         "state": {
@@ -214,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,15 +323,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f39957ce91dd9a2c",
+  "active": "efd4b03ca92d6c9e",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
+    "Vault/Related Rates.md",
     "References/Excalidraw/Newton's Method.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
     "Polar Covalent Bond.md",
-    "Vault/Related Rates.md",
     "Polarity.md",
     "Vault/Ionic Compound.md",
     "Electronegativity.md"
