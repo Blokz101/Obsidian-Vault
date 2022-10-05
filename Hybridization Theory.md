@@ -17,7 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_993936AD7AF3-1.jpeg]]|![[IMG_F91F42023D4F-1.jpeg]]
 	  ---|---
 - ## [[Pi Bond|Pi Bonds]] and [[Sigma Bond|Sigma Bonds]]
-	- Pure [[Orbital|Orbitals]] are used for [[Pi Bond|Pi Bonds]].
+	- Pure or [[Hybridization Theory|Unhybridized]] [[Orbital|Orbitals]] are used for [[Pi Bond|Pi Bonds]].
 	- [[Hybridization Theory|Hybrid Orbitals]] are used for [[Sigma Bond|Sigma Bonds]] and **lone pairs**.
 	- When looking at a [[Lewis Dot Structure]] the first **bond** in each [[Electron Region]] is always a [[Sigma Bond]] and all other bonds in that [[Electron Region|Electron Regions]] are [[Pi Bond|Pi Bonds]].
 - ## Bonding Visualized
