@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Naming Monoatomic Ions.md",
+            "file": "Hybridization Theory.md",
             "mode": "preview",
             "source": true
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Naming Monoatomic Ions.md",
+                "file": "Hybridization Theory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naming Monoatomic Ions.md",
+                "file": "Hybridization Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naming Monoatomic Ions.md",
+                "file": "Hybridization Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,6 +233,8 @@
   },
   "active": "341862249cdaa108",
   "lastOpenFiles": [
+    "Molecular Orbital Theory.md",
+    "Naming Monoatomic Ions.md",
     "Naming Things.md",
     "Naming Covalent Compounds.md",
     "Naming Ionic Compounds.md",
@@ -240,8 +242,6 @@
     "Vault/Formal Charge.md",
     "Vault/Bond Order.md",
     "Hybridization Theory.md",
-    "Vault/Ionic Compound.md",
-    "Naming Oxanions.md",
-    "Orbital Angular Momentum Quantum Number.md"
+    "Vault/Ionic Compound.md"
   ]
 }
