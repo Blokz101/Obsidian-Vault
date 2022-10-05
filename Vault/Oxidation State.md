@@ -39,9 +39,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- #### Rule 6 (The Halogens Rule)
 		- [[Oxidation State|Oxidation Number]] of all [[Halogens]] is $-1$.
 - ## Determining the Oxidation Number from a [[Lewis Dot Structure]]
-	- Same as the [[Formal Charge]]
-	  ![[Formal Charge#^f70e43]]
-	  Just the more [[Electronegativity|Electronegative]] [[Element]] gets possession of both [[Valence Electron|Valence Electrons]] and the charge is calculated accordingly.
+	- The more [[Electronegativity|Electronegative]] [[Element]] gets possession of both [[Valence Electron|Valence Electrons]] and the charge is calculated accordingly.
+	- Very similar to [[Formal Charge]], but the [[Valence Electron|Valence Electrons]] are split equally between the two [[Atom|Atoms]].l
 	- ![[IMG_1140E6CBFDDC-1.jpeg|400]]
 - ## Practice
 	- [[Drawing 2022-09-17 17.13.32.excalidraw]]

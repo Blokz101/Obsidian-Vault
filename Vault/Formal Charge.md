@@ -14,4 +14,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-09-26 11.12.54.excalidraw]]
 - ## Reference
+	- Very similar to [[Oxidation State]], but with [[Oxidation State]] the more [[Electronegativity|Electronegative]] [[Atom]] gets both [[Valence Electron|Valence Electrons]].
 	- Can be determined from a [[Lewis Dot Structure]].
