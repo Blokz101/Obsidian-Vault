@@ -14,8 +14,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		> [!Equation]
 		> $$p_{outside}=p_{gas}-\Delta H$$
 		> 
-		> $p_{outside}$ = Outside gas [[Pressure]] in mm hg
-		> $p_{gas}$ = 
+		> $p_{outside}$ = Outside gas [[Pressure]] in [[Pressure|mm hg]].
+		> $p_{gas}$ = Trapped gas [[Pressure]] in [[Pressure|mm hg]].
+		> $\Delta H$ = Difference between the liquid level in contact with the outside and the liquid level in contact with the trapped gas in (mm).
 - ## Reference
 	- Used for measuring [[Pressure]]
 	- More commonly used then the [[Barometer]]
