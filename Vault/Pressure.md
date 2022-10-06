@@ -7,10 +7,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- f
+	- 
 - ## Units
 	- Atmosphere (atm)
 	- Millimeter Mercury (mm hg)
-		- $1atm=f$
-	- Torr = 
+		- $1\ atm=\large{\frac{1}{760\ mm\ hg}}$
+	- Torr
+		- $1\ atm=\large{\frac{1}{760\ torr}}$ 
 - ## Reference

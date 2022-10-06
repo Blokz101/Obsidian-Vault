@@ -14,6 +14,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $V$ = [[Volume]] in L
 	  > $n$ = The number of [[Mole|Moles]]
 	  > $R$ = The [[Ideal Gas]] constant is **0.0821** $\frac{L-atm}{K-mol}$
-	  > $T$ = Temperature in K
+	  > $T$ = [[Temperature]] in K
 - ## Notes
 	- $R$ is always known, we only need to solve for the other three.
