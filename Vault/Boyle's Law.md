@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- States that the relationship between [[Pressure]] and [[Volume]] is inversely proportional.
-	> [!Equation]
+	- > [!Equation]
 	> $$p_1v_1=p_2v_2$$
 	> 
 	> $p_1$ = First [[Pressure]] in [[Pressure|atm]].
