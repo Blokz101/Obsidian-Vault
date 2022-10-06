@@ -14,8 +14,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Units
 	- Atmosphere (atm)
 	- Millimeter Mercury (mm hg)
-		- $1atm=760mmhg$
-		- $1mmhg=\frac{1}{760atm}$
+		- $atm=760mmhg$
+		- $mmhg=\large{\frac{1}{760atm}}$
 	- Torr
-		- $1\ atm=\large{\frac{1}{760\ torr}}$ 
+		- $atm=760torr$ 
+		- $torr=\large{\frac{1}{760atm}}$
 - ## Reference
