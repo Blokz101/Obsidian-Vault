@@ -17,4 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $T$ = [[Temperature]] in [[Temperature|f]]
 	- $R$ is always known, we only need to solve for the other three.
 - ## Reference
-	- Multiple other laws can be derifed from 
+	- Multiple other laws can be derived from the [[Ideal Gas Law]]:
+		- [[Boyle's Law]]
+		- [[Charles' Law]]
+		- [[Avogadro's Law]]

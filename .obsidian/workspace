@@ -89,7 +89,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Ideal Gas Law.md",
+            "file": "Vault/Daltons's Law.md",
             "mode": "source",
             "source": true
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Vault/Daltons's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Vault/Daltons's Law.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Vault/Daltons's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,12 +301,12 @@
   },
   "active": "4346c3823dccbd70",
   "lastOpenFiles": [
+    "Vault/Ideal Gas Law.md",
     "Vault/Avogadro's Law.md",
     "Vault/Charles' Law.md",
     "Vault/Temperature.md",
     "Vault/Boyle's Law.md",
     "Vault/Volume.md",
-    "Vault/Ideal Gas Law.md",
     "Vault/Pressure.md",
     "Vault/Open End Manometer.md",
     "Vault/Barometer.md",
