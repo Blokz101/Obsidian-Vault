@@ -15,6 +15,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $v_1$ = First  [[Volume]] in [[Volume|L]].
 	> $t_2$ = Second [[Temperature]] in [[Temperature|K]].
 	> $v_2$ = Second [[Volume]] in [[Volume|L]].
-	- Lead to 
 - ## Reference
 	- Can be derived from the [[Ideal Gas Law]].
