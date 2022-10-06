@@ -90,7 +90,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Daltons's Law.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -301,15 +301,15 @@
   },
   "active": "4346c3823dccbd70",
   "lastOpenFiles": [
+    "Vault/Boyle's Law.md",
+    "Vault/Daltons's Law.md",
     "Vault/Ideal Gas Law.md",
     "Vault/Avogadro's Law.md",
     "Vault/Charles' Law.md",
     "Vault/Temperature.md",
-    "Vault/Boyle's Law.md",
     "Vault/Volume.md",
     "Vault/Pressure.md",
     "Vault/Open End Manometer.md",
-    "Vault/Barometer.md",
-    "Vault/Ideal Gas.md"
+    "Vault/Barometer.md"
   ]
 }
