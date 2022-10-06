@@ -8,5 +8,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- States that the relationship between [[Pressure]] and [[Volume]] is inversely proportional.
-	  > [!Warning] 
-	  > The relationship can only be measured when the number of [[Mole|Moles]] and [[Temperature]] are held constant.
+	> [!Equation]
+	> $$p_1v_1=p_2v_2$$
+	> 
+	> $p_1$ = First [[Pressure]] in [[Pressure|atm]].
+	> $v_1$ = First [[Volume]] in [[Volume|L]].
+	> $p_2$ = Second [[Pressure]] in [[Pressure|atm]].
+	> $v_2$ = Second [[Volume]] in [[Volume|L]].
+- ## Reference
+	- Can be derived from the [[Ideal Gas Law]].
