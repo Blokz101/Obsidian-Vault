@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccd7c2bebad18f69",
+        "id": "e7a1d1f3eb6b7fa7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +164,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccd7c2bebad18f69",
+  "active": "e7a1d1f3eb6b7fa7",
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "Vault/Formal Charge.md",
