@@ -72,6 +72,18 @@
         }
       },
       {
+        "id": "73f3a823e27dc39f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Open End Manometer.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "8c6f05402d59d7cf",
         "type": "leaf",
         "state": {
@@ -241,15 +253,15 @@
   },
   "active": "6298b840958d11b3",
   "lastOpenFiles": [
+    "Vault/Open End Manometer.md",
     "Vault/Barometer.md",
-    "Vault/Temperature.md",
     "Vault/Pressure.md",
+    "Vault/Temperature.md",
     "Vault/Ideal Gas.md",
     "Vault/Volume.md",
     "Vault/Ideal Gas Law.md",
     "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
     "Vault/Formal Charge.md",
-    "Naming Covalent Compounds.md",
-    "Vault/Avogadro's Number.md"
+    "Naming Covalent Compounds.md"
   ]
 }

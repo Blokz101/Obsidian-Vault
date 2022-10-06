@@ -1,0 +1,16 @@
+---
+Alias: []
+Creation Date: Thu October 6th 2022 06:21:30 pm 
+Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
+---
+# <%+ tp.file.title %>
+#Permanent [[Chemistry]]
+
+- ## Definition
+	- An instrument for measuring [[Pressure]].
+	- ![[IMG_C1AE4CBCA7AE-1.jpeg|300]]
+	- As the [[Pressure]] changes it compresses or decompresses the trapped gas and moves the liquid level accordingly.
+	- You can determine the [[Pressure]] by 
+- ## Reference
+	- Used for measuring [[Pressure]]
+	- More commonly used then the [[Barometer]]
