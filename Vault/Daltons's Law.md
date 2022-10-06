@@ -11,7 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Equation]
 	> $$p_{mix}=p_{a}+p_{b}=\frac{n_a}{v_a}RT+\frac{n_b}{v_b}RT$$
 	> 
-	> $p_{mix}$ = [[Pressure]] of the [[Mixture]] in unknown
+	> $p_{mix}$ = [[Pressure]] of the [[Mixture]] in [[Pressure|atm]]
 	> $p_a$ = Pressure of gas a
 	> $p_b$ = Pressure of gas b
 	> $n$ = Amount in [[Mole|Moles]]

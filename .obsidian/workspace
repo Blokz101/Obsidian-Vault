@@ -4,14 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a1d1f3eb6b7fa7",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "9f4815ff6164e3e2",
         "type": "leaf",
         "state": {
@@ -90,7 +82,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Daltons's Law.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -200,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Volume.md",
+                "file": "Vault/Daltons's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Volume.md",
+                "file": "Vault/Daltons's Law.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Volume.md",
+                "file": "Vault/Daltons's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,15 +291,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c6f05402d59d7cf",
+  "active": "4346c3823dccbd70",
   "lastOpenFiles": [
+    "Vault/Avogadro's Law.md",
+    "Vault/Volume.md",
     "Vault/Daltons's Law.md",
     "Vault/Boyle's Law.md",
     "Vault/Ideal Gas Law.md",
-    "Vault/Avogadro's Law.md",
     "Vault/Charles' Law.md",
     "Vault/Temperature.md",
-    "Vault/Volume.md",
     "Vault/Pressure.md",
     "Vault/Open End Manometer.md",
     "Vault/Barometer.md"
