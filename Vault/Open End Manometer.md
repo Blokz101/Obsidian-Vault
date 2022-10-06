@@ -10,7 +10,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- An instrument for measuring [[Pressure]].
 	- ![[IMG_C1AE4CBCA7AE-1.jpeg|300]]
 	- As the [[Pressure]] changes it compresses or decompresses the trapped gas and moves the liquid level accordingly.
-	- You can determine the [[Pressure]] by 
+	- You can determine the [[Pressure]] using the following formula:
+		> [!Equation]
+		> $$p_{outside}=p_{gas}-\Delta H$$
+		> 
+		> $p_{outside}$ = Outside gas [[Pressure]] in mm hg
+		> $p_{gas}$ = 
 - ## Reference
 	- Used for measuring [[Pressure]]
 	- More commonly used then the [[Barometer]]
