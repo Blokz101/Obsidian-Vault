@@ -9,5 +9,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Defines how the [[Pressure]] of a [[Mixture]] of gasses can be determined.
 	> [!Equation]
-	> $$p_{mix}=\fra$$
+	> $$p_{mix}=\frac{n_a}{v_a}$$
 - ## Reference
