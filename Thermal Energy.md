@@ -12,7 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\Delta E_{thermal}\approx RT$$
 	  > $\Delta E_{thermal}$ = [[Energy]] in J
 	  > $R$ = [[Ideal Gas Law|Ideal Gas Constant]]
-	  > $T$ = [[Temperature]] in 
+	  > $T$ = [[Temperature]] in [[Temperature|K]]
 - ## Units
 	- $\frac{kJ}{mol}$
 - ## Reference

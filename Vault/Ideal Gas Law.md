@@ -1,5 +1,5 @@
 ---
-Alias: [Ideal Gas Constant]
+Alias: []
 Creation Date: Thu June 23rd 2022 01:36:05 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -13,7 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $P$ = [[Pressure]] in [[atm]]
 	  > $V$ = [[Volume]] in [[Volume|l]]
 	  > $n$ = The amount in [[Mole|Moles]]
-	  > $R$ = The [[Ideal Gas]] constant is **0.0821** $\frac{L-atm}{K-mol}$
+	  > $R$ = The [[Ideal Gas Constant]]
 	  > $T$ = [[Temperature]] in [[Temperature|f]]
 	- $R$ is always known, we only need to solve for the other three.
 - ## Reference
