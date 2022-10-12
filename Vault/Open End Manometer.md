@@ -14,9 +14,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		> [!Equation]
 		> $$p_{outside}=p_{gas}-\Delta H$$
 		> 
-		> $p_{outside}$ = Outside gas [[Pressure]] in [[Pressure|mm hg]].
-		> $p_{gas}$ = Trapped gas [[Pressure]] in [[Pressure|mm hg]].
-		> $\Delta H$ = Difference between the liquid level in contact with the outside and the liquid level in contact with the trapped gas in (mm).
+		> **$p_{outside}$** = Outside gas [[Pressure]] in [[Pressure|mm hg]].
+		> **$p_{gas}$** = Trapped gas [[Pressure]] in [[Pressure|mm hg]].
+		> **$\Delta H$** = Difference between the liquid level in contact with the outside and the liquid level in contact with the trapped gas in (mm).
+		> - If the level of the outside liquid is higher then the level of the inside liquid then  **$\Delta H$** positive
+		> - If the level of the inside liquid is higher then the level of the outside liquid then  **$\Delta H$** is negative.
 - ## Reference
 	- Used for measuring [[Pressure]]
 	- More commonly used then the [[Barometer]]
