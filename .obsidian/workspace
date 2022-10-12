@@ -52,6 +52,18 @@
         }
       },
       {
+        "id": "0cc87ce37a1b5022",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Kelvin vs. Celsius.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "3732d32de1c3d270",
         "type": "leaf",
         "state": {
@@ -156,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thermal Energy vs. Interaction Energy.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermal Energy vs. Interaction Energy.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermal Energy vs. Interaction Energy.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,11 +267,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2772f96e9f2bba9b",
+  "active": "0cc87ce37a1b5022",
   "lastOpenFiles": [
+    "Thermal Energy vs. Interaction Energy.md",
     "Thermal Energy.md",
     "Interaction Energy.md",
-    "Thermal Energy vs. Interaction Energy.md",
     "Vault/Ideal Gas Constant.md",
     "Vault/Ideal Gas Law.md",
     "Vault/Temperature.md",
