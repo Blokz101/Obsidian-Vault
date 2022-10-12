@@ -20,7 +20,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		> - If the level of the outside liquid is higher then the level of the inside liquid then  **$\Delta H$** positive
 		> - If the level of the inside liquid is higher then the level of the outside liquid then  **$\Delta H$** is negative.
 - ## Practice
-	- 
+	- [[Drawing 2022-10-12 13.15.42.excalidraw]]
 - ## Reference
 	- Used for measuring [[Pressure]]
 	- More commonly used then the [[Barometer]]

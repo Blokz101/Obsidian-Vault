@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Partial Pressure]
 Creation Date: Thu October 6th 2022 06:59:07 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -18,5 +18,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $v$ = [[Volume]] in [[Volume|L]]
 	> $T$ = [[Temperature]] in [[Temperature|K]]
 	> $R$ = [[Ideal Gas Law|Ideal Gas Constant]]
+- ## Practice
+	- 
 - ## Reference
 	- Can be derived from the [[Ideal Gas Law]].
