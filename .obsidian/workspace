@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a341ea2a18b95c7",
+        "id": "23a727eff3d15c55",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Ideal Gas Law.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -68,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vault/Ideal Gas Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Ideal Gas Law.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Ideal Gas Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5a374cea586811e",
+  "active": "23a727eff3d15c55",
   "lastOpenFiles": [
+    "Vault/Kelvin vs. Celsius.md",
     "References/Excalidraw/Drawing 2022-10-12 11.50.53.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-12 11.50.52.excalidraw.md",
     "Vault/Ideal Gas Law.md",
@@ -173,7 +182,6 @@
     "Vault/Open End Manometer.md",
     "Vault/Pressure.md",
     "Vault/Temperature.md",
-    "Vault/Charles' Law.md",
-    "Vault/Boyle's Law.md"
+    "Vault/Charles' Law.md"
   ]
 }
