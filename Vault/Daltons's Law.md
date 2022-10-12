@@ -19,6 +19,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $T$ = [[Temperature]] in [[Temperature|K]]
 	> $R$ = [[Ideal Gas Law|Ideal Gas Constant]]
 - ## Practice
-	- 
+	- [[Drawing 2022-10-12 13.30.33.excalidraw]]
 - ## Reference
 	- Can be derived from the [[Ideal Gas Law]].
