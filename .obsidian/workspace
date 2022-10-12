@@ -26,6 +26,18 @@
         }
       },
       {
+        "id": "4cb33fd047ed4bee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Kelvin vs. Celsius.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "0ed9f5d2488721c0",
         "type": "leaf",
         "state": {
@@ -94,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md",
+                "file": "Vault/Kelvin vs. Celsius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,10 +205,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b4cefa21bb9c036",
+  "active": "4cb33fd047ed4bee",
   "lastOpenFiles": [
-    "Vault/Daltons's Law.md",
     "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md",
+    "Vault/Daltons's Law.md",
     "Vault/Open End Manometer.md",
     "References/Excalidraw/Drawing 2022-10-12 13.15.42.excalidraw.md",
     "Vault/Molarity.md",
