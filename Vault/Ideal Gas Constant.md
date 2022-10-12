@@ -7,9 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	> [!Ideal Gas Constant]
+	- > [!Ideal Gas Constant]
 	> $$\large{0.0821}\frac{L-atm}{K-mol}$$
 	> $$\large{OR}$$
 	> $$\large{8.31447\frac{J}{K*mol}}$$
+	- Same number but different units
 - ## Reference
 	- Used in the [[Ideal Gas Law]]

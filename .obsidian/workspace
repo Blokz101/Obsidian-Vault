@@ -22,7 +22,19 @@
           "type": "markdown",
           "state": {
             "file": "Thermal Energy.md",
-            "mode": "preview",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "3492df1e0fa38618",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Interaction Energy.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -34,7 +46,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault/Ideal Gas Law.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Interaction Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Interaction Energy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ideal Gas Law.md",
+                "file": "Interaction Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,17 +243,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3732d32de1c3d270",
+  "active": "3492df1e0fa38618",
   "lastOpenFiles": [
+    "Thermal Energy.md",
+    "Interaction Energy.md",
     "Vault/Ideal Gas Constant.md",
     "Vault/Ideal Gas Law.md",
-    "Thermal Energy.md",
     "Vault/Temperature.md",
     "Kinetic Molecular Theory.md",
     "Vault/Gas.md",
     "Vault/Pressure.md",
     "Vault/Kelvin vs. Celsius.md",
-    "Vault/Daltons's Law.md",
-    "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md"
+    "Vault/Daltons's Law.md"
   ]
 }
