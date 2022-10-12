@@ -17,3 +17,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Units
 	- $\frac{kJ}{mol}$
 - ## Reference
+	- [[Thermal Energy vs. Interaction Energy]]

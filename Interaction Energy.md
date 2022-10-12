@@ -19,3 +19,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- Charges dont really interact
 			- Negligible [[Interaction Energy]].
 - ## Reference
+	- [[Thermal Energy vs. Interaction Energy]]
