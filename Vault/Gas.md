@@ -11,7 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Pressure]]
 		- [[Volume]]
 		- [[Temperature]]
-		- The number of [[Mole|Moles]]
+		- Amount in [[Mole|Moles]]
 	- There are several laws that bind the properties together:
 		- [[Boyle's Law]] - [[Pressure]] and [[Volume]] is inversely proportional
 		- [[Charles' Law]] - [[Temperature]] and [[Volume]] is directly proportional

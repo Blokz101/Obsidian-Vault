@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Kinetic Molecular Theory.md",
-            "mode": "source",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7af4b24784f56ed1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Gas.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -173,6 +185,8 @@
   },
   "active": "98514d413a6e3e88",
   "lastOpenFiles": [
+    "Vault/Gas.md",
+    "Kinetic Molecular Theory.md",
     "Vault/Pressure.md",
     "Vault/Kelvin vs. Celsius.md",
     "Vault/Temperature.md",
@@ -180,8 +194,6 @@
     "References/Excalidraw/Drawing 2022-10-12 13.30.33.excalidraw.md",
     "Vault/Open End Manometer.md",
     "References/Excalidraw/Drawing 2022-10-12 13.15.42.excalidraw.md",
-    "Vault/Molarity.md",
-    "Vault/Celsius.md",
-    "Vault/Valence Electron.md"
+    "Vault/Molarity.md"
   ]
 }
