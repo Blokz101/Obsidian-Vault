@@ -9,5 +9,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Medium strength in the three types of [[Intramolecular Forces]] and **can only occur in [[Polarity|Polar]] Molecules**.
 	- A **permanent** force between [[Polarity|Polar]] [[Molecule|Molecules]].
-	- Some [[Molecule|Molecules]] have uneven 
+	- Some [[Molecule|Molecules]] have natural [[Dipole|Dipoles]] and their opposite ends always attract each other.
+	- ![[IMG_D9B8CCFBAEAB-1.jpeg|400]]
 - ## Reference
