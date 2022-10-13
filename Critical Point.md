@@ -12,6 +12,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The first [[Derivative]] of a function is equal to 0.
 		- The first [[Derivative]] of a function does not exist.
 - ## Practice
-	- 
+	- [[Drawing 2022-10-13 10.49.24.excalidraw]]
 - ## Reference
 	- Similar to [[Inflection Point|Inflection Points]].

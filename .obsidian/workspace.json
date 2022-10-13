@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Critical Point.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -33,22 +33,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "e8b31f31500f4645",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f064f44ceed31834",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +59,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
+                "file": "Critical Point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +76,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
+                "file": "Critical Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +111,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f064f44ceed31834",
+  "active": "c9c7d82f6cdcb4c1",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
     "Critical Point.md",
     "Inflection Point.md",
     "Concavity.md",
@@ -137,7 +122,6 @@
     "References/Excalidraw/Drawing 2022-10-13 10.36.29.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-13 10.35.29.excalidraw.md",
     "Vault/Related Rates.md",
-    "Vault/Conic Section.md",
-    "States Of Matter.md"
+    "Vault/Conic Section.md"
   ]
 }
