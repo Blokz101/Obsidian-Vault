@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Critical Point.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -38,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "Concavity.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concavity.md",
+                "file": "Critical Point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concavity.md",
+                "file": "Critical Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +123,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b5be69dddfe5cd3f",
+  "active": "c9c7d82f6cdcb4c1",
   "lastOpenFiles": [
     "Inflection Point.md",
+    "Concavity.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.36.44.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.36.16.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.36.29.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.35.29.excalidraw.md",
     "Critical Point.md",
     "Vault/Related Rates.md",
     "Vault/Conic Section.md",
-    "States Of Matter.md",
-    "Vault/Molecule.md",
-    "Vault/Volume.md",
-    "Vault/Temperature.md",
-    "References/Excalidraw/Drawing 2022-10-04 15.45.11.excalidraw.md",
-    "Vault/Parametric Curve.md"
+    "States Of Matter.md"
   ]
 }
