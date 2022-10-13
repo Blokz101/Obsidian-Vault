@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "c3b758a9cc5a683b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Excalidraw/Linear Approximation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d2b82ab5bbecda56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Excalidraw/Newton's Method.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "58cc3e817f40bbb4",
             "type": "leaf",
             "state": {
@@ -32,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Point.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critical Point.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +136,52 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c9c7d82f6cdcb4c1",
+  "floating": {
+    "id": "fd65e20198c79072",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7e27c5103e2440c2",
+        "type": "window",
+        "children": [
+          {
+            "id": "566c54628fbdebde",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "16c2e00363f25ca8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1440,
+        "y": -43,
+        "width": 636.27099609375,
+        "height": 766.6118774414062,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c3b758a9cc5a683b",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
+    "References/Excalidraw/Linear Approximation.md",
+    "References/Excalidraw/Newton's Method.md",
     "Critical Point.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
     "Inflection Point.md",
     "Concavity.md",
     "References/Excalidraw/Drawing 2022-10-13 10.36.44.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-13 10.36.16.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-13 10.36.29.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-13 10.35.29.excalidraw.md",
-    "Vault/Related Rates.md",
-    "Vault/Conic Section.md"
+    "References/Excalidraw/Drawing 2022-10-13 10.36.29.excalidraw.md"
   ]
 }
