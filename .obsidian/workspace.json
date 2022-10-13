@@ -4,20 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "52a0d3e8adda9fb5",
+        "id": "c1a924521c034b45",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c649b69cb77684",
+            "id": "dc9b9c36e437b111",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "States Of Matter.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d33555c461dbdcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Molecule.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "896c503fb46f7560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Temperature.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b10388697484c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Conic Section.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e87fe28ca475343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Related Rates.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -26,77 +77,10 @@
   "left": {
     "id": "de29fdcb82f6a4e5",
     "type": "split",
-    "children": [
-      {
-        "id": "dae726d40aa05d44",
-        "type": "tabs",
-        "dimension": 68.22222222222221,
-        "children": [
-          {
-            "id": "c8e5db5b4ff26463",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b084e0bc691afd27",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 10.16.27.excalidraw.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a159a763226231d6",
-        "type": "tabs",
-        "dimension": 31.77777777777778,
-        "children": [
-          {
-            "id": "1455581ec92828ed",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6017447593267674,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 750.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -112,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Conic Section.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Conic Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4c649b69cb77684",
+  "active": "2b10388697484c00",
   "lastOpenFiles": [
+    "Vault/Parametric Curve.md",
+    "Vault/Temperature.md",
     "Vault/Related Rates.md",
+    "Vault/Molecule.md",
+    "States Of Matter.md",
     "References/Excalidraw/Drawing 2022-10-13 10.16.27.excalidraw.md",
     "Surface Tension.md",
     "Meniscus.md",
-    "States Of Matter.md",
     "Liquid.md",
-    "Viscosity.md",
-    "Vault/Gas.md",
-    "Vault/Temperature.md",
-    "Vault/Ideal Gas Law.md"
+    "Viscosity.md"
   ]
 }
