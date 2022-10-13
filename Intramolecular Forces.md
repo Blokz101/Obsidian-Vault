@@ -18,4 +18,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[Hydrogen Bonding#^f5ad4a]]
 - ## Reference
 	- Different  from [[Intermolecular Forces]] which are the forces between atoms in a [[Molecule]].
-	- [[Intramolecular Forces]] play a large role in determining the [[Boiling Point]] and [[Melting Point]] of an [[Element]].
+	- [[Intramolecular Forces]] play a large role in determining the [[Boiling and Melting Point]] of an [[Element]].
