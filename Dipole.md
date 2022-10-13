@@ -11,3 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_77AB97065C36-1.jpeg]]
 - ## Reference
 	- [[Polar Covalent Bond|Polar Covalent Bonds]] result in [[Dipole|Dipoles]].
+	- [[Dipoles]] are seen in [[Polar Molecule|Polar Molecules]]
