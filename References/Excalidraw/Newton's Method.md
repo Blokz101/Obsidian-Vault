@@ -14,5 +14,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $n$ = The number of the current iteration
 	- ![[Drawing 2022-10-04 16.22.31.excalidraw|1000]]
 - ## Practice
-	- 
+	- [[Drawing 2022-10-13 16.31.15.excalidraw]]
 - ## Reference

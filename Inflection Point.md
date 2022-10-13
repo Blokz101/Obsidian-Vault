@@ -12,6 +12,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The first [[Derivative]] of a function is equal to 0.
 		- The first [[Derivative]] of a function does not exist.
 - ## Practice
-	- 
 - ## Reference
 	- Determines [[Concavity]].

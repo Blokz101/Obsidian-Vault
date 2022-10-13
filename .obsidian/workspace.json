@@ -8,66 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9c7d82f6cdcb4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Critical Point.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3b758a9cc5a683b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8cf5e09a6982f156",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d2b82ab5bbecda56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "References/Excalidraw/Newton's Method.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58cc3e817f40bbb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inflection Point.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
+      },
+      {
+        "id": "19577275461896ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d47c0e3b64b1471a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +115,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8cf5e09a6982f156",
+  "active": "d47c0e3b64b1471a",
   "lastOpenFiles": [
-    "References/Excalidraw/Linear Approximation.md",
-    "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
-    "Critical Point.md",
-    "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Inflection Point.md",
-    "Concavity.md",
-    "References/Excalidraw/Drawing 2022-10-13 10.36.44.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-13 10.36.16.excalidraw.md"
+    "References/Excalidraw/Drawing 2022-10-13 16.30.39.excalidraw.md",
+    "References/Excalidraw/Linear Approximation.md",
+    "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.03.33.excalidraw.md",
+    "Critical Point.md",
+    "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md"
   ]
 }
