@@ -112,9 +112,11 @@
                 "id": "d2b82ab5bbecda56",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md"
+                    "file": "References/Excalidraw/Newton's Method.md",
+                    "mode": "preview",
+                    "source": true
                   }
                 }
               }
@@ -126,16 +128,16 @@
         "y": 25,
         "width": 600,
         "height": 875,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "d47c0e3b64b1471a",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Inflection Point.md",
     "References/Excalidraw/Drawing 2022-10-13 16.30.39.excalidraw.md",
     "References/Excalidraw/Linear Approximation.md",
