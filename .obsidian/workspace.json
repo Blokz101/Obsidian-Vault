@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Critical Point.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -33,6 +33,22 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "e8b31f31500f4645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f064f44ceed31834",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Point.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Critical Point.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,11 +127,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c9c7d82f6cdcb4c1",
+  "active": "f064f44ceed31834",
   "lastOpenFiles": [
+    "Critical Point.md",
     "Inflection Point.md",
     "Concavity.md",
-    "Critical Point.md",
     "References/Excalidraw/Drawing 2022-10-13 10.36.44.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-13 10.36.16.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-13 10.36.29.excalidraw.md",
