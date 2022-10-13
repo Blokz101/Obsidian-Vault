@@ -17,4 +17,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-10-12 21.46.16.excalidraw]]
 - ## Reference
-	- Dependan
+	- Dependent on [[Intramolecular Forces]].
