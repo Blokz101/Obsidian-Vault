@@ -11,3 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- When [[Meniscus]] is strong the [[liquid]] is pulled up the sides of the glass.
 		- ![[IMG_0F998D8D98F2-1.jpeg|500]]
 - ## Reference
+	- A property of a [[Liquid]].

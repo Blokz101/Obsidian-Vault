@@ -11,3 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- **Weak** [[Intramolecular Forces]] tend to make for **low** [[Surface Tension]].
 		- **Strong** [[Intramolecular Forces]] tend to make for **high** [[Surface Tension]].
 - ## Reference
+	- A property of a [[Liquid]].
