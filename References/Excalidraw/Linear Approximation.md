@@ -10,5 +10,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A way to approximate the position of a graph.
 	- ![[Drawing 2022-10-04 16.03.33.excalidraw]]
 - ## Practice
-	- 
+	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
 - ## Reference

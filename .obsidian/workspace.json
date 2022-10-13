@@ -26,8 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "References/Excalidraw/Linear Approximation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "8cf5e09a6982f156",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md"
               }
             }
           },
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
+                "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,45 +146,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "floating": {
-    "id": "fd65e20198c79072",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7e27c5103e2440c2",
-        "type": "window",
-        "children": [
-          {
-            "id": "566c54628fbdebde",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16c2e00363f25ca8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1440,
-        "y": -43,
-        "width": 636.27099609375,
-        "height": 766.6118774414062,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c3b758a9cc5a683b",
+  "active": "8cf5e09a6982f156",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
     "References/Excalidraw/Linear Approximation.md",
+    "References/Excalidraw/Drawing 2022-10-13 15.51.36.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
     "Critical Point.md",
     "References/Excalidraw/Drawing 2022-10-13 10.49.24.excalidraw.md",
