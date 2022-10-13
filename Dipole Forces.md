@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Definition
+- ## Definition ^02f383
 	- Medium strength in the three types of [[Intramolecular Forces]] and **can only occur in [[Polarity|Polar]] Molecules**.
 	- A **permanent** force between [[Polarity|Polar]] [[Molecule|Molecules]].
 	- [[Polar Molecule|Polar Molecules]] have natural [[Dipole|Dipoles]] and their opposite ends always attract each other.

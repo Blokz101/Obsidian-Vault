@@ -6,11 +6,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 # <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
-- ## Definition
+- ## Definition ^f5ad4a
 	- The strongest type of [[Intramolecular Forces|Intramolecular Force]] and stronger type of [[Dipole Forces|Dipole Force]].
-	- When a **Hydrogen** [[Atom]] that is **bonded** to either **N**, **O** or **F** gets near other **N**, **O** or **F** [[Atom|Atoms]].
-		- This can occur because **N**, **O** and **F** are **small** and have **high [[Electronegativity]]**.
-	- 
+	- When a **Hydrogen** [[Atom]] that is **bonded** to either **N**, **O** or **F** gets near another [[Atom]] with **lone pairs**.
+		- This can occur because **N**, **O** and **F** are **small** and have **high [[Electronegativity]]**, therefore they pull [[Electron|Electrons]] away from **hydrogen** and to themselves. This creates an especially strong negative [[Dipole]].
+		- ![[IMG_9084D6E0E636-1.jpeg|100]]
 - ## Reference
 	- A type of [[Intramolecular Forces|Intramolecular Force]].
 	- A type of [[Dipole Forces|Dipole Force]].

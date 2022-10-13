@@ -11,7 +11,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Based on the [[Dipole]] and [[Coulomb's Law of Force]].
 - ## Types of [[Intramolecular Forces]]
 	- [[Dispersion Forces]]
+		- ![[Dispersion Forces#^4d6b40]]
 	- [[Dipole Forces]]
+		- ![[Dipole Forces#^02f383]]
 	- [[Hydrogen Bonding]]
+		- ![[Hydrogen Bonding#^f5ad4a]]
 - ## Reference
 	- Different  from [[Intermolecular Forces]] which are the forces between atoms in a [[Molecule]].
+	- [[Intramolecular Forces]] play a large role in determining the [[Boiling Point]] and [[Melting Point]] of an [[Element]].
