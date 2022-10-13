@@ -7,5 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Forces between atoms in a [[hol]]
+	- Forces between atoms in a [[Molecule]].
 - ## Reference
+	- Different from [[Intramolecular Forces]] which are the forces between [[Molecule|Molecules]].
