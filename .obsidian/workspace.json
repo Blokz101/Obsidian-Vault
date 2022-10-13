@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f728986dd9ff8cfe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d2b82ab5bbecda56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "19577275461896ce",
         "type": "tabs",
         "children": [
@@ -63,7 +44,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +61,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,10 +96,47 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d47c0e3b64b1471a",
+  "floating": {
+    "id": "fd65e20198c79072",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e908592fa89393ff",
+        "type": "window",
+        "children": [
+          {
+            "id": "32ed92e083b2328d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d2b82ab5bbecda56",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "References/Excalidraw/Newton's Method.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 420,
+        "y": 25,
+        "width": 600,
+        "height": 875,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d2b82ab5bbecda56",
   "lastOpenFiles": [
-    "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+    "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Inflection Point.md",
     "References/Excalidraw/Drawing 2022-10-13 16.30.39.excalidraw.md",
