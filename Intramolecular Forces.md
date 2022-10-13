@@ -10,6 +10,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The forces between [[Molecule|Molecules]].
 	- Based on the [[Dipole]] and [[Coulomb's Law of Force]].
 - ## Types of [[Intramolecular Forces]]
-	- [[]]
+	- [[Dispersion Forces]]
+	- [[Dipole Forces]]
+	- [[Hydrogen Bonding]]
 - ## Reference
 	- Different  from [[Intermolecular Forces]] which are the forces between atoms in a [[Molecule]].

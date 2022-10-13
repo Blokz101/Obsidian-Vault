@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Polar Covalent Bonds]
 Creation Date: Thu September 22nd 2022 06:03:19 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
