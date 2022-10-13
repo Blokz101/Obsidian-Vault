@@ -94,7 +94,7 @@
           "type": "markdown",
           "state": {
             "file": "Dispersion Forces.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -240,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dispersion Forces.md",
+                "file": "Dipole Forces.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dispersion Forces.md",
+                "file": "Dipole Forces.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dispersion Forces.md",
+                "file": "Dipole Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,13 +339,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9635e103afba3d15",
+  "active": "c9fdb5e797317d4c",
   "lastOpenFiles": [
-    "Dipole Forces.md",
-    "Hydrogen Bonding.md",
     "Dispersion Forces.md",
-    "Intramolecular Forces.md",
+    "Dipole Forces.md",
     "Dipole.md",
+    "Intramolecular Forces.md",
+    "Hydrogen Bonding.md",
     "Polar Covalent Bond.md",
     "Intermolecular Forces.md",
     "Interaction Energy.md",
