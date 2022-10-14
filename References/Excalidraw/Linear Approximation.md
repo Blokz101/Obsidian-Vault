@@ -7,7 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- A way to approximate the position of a graph by using a known  value thats close to the desired value, 
+	- A way to approximate the $y$ value of a function given the $x$ value.
+		- Done by using an **$x$ value with a known $y$ value thats near the desired $x$ value**, and finding the [[Tangent Line]] at that point. Then you can **plug the desired $x$ value into that tangent line** to get an approximation.
 	- ![[Drawing 2022-10-04 16.03.33.excalidraw]]
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
