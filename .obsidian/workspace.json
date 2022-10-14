@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19577275461896ce",
+        "id": "c8ccef74c65873c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d47c0e3b64b1471a",
+            "id": "f773af200d471134",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -133,10 +133,10 @@
       }
     ]
   },
-  "active": "d47c0e3b64b1471a",
+  "active": "f773af200d471134",
   "lastOpenFiles": [
-    "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+    "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Inflection Point.md",
     "References/Excalidraw/Drawing 2022-10-13 16.30.39.excalidraw.md",
