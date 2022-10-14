@@ -11,9 +11,11 @@
             "id": "f773af200d471134",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md"
+                "file": "References/Excalidraw/Newton's Method.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -44,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -61,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,43 +97,6 @@
   },
   "ribbon": {
     "mostRecentAction": ""
-  },
-  "floating": {
-    "id": "fd65e20198c79072",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e908592fa89393ff",
-        "type": "window",
-        "children": [
-          {
-            "id": "32ed92e083b2328d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d2b82ab5bbecda56",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "References/Excalidraw/Newton's Method.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 420,
-        "y": 25,
-        "width": 600,
-        "height": 875,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "f773af200d471134",
   "lastOpenFiles": [
