@@ -8,6 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A way to approximate a root for a function by using this formula repeatedly.
+		- Can also be used to approximate values functions at a specific value as 
 	- > [!Equation]
 	> $$\large{x_{x+1}=x_n-\frac{f(x_n)}{f'(x_n)}}$$
 	> 
