@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "330d2ef8d44ef589",
+        "id": "e21a62a42db920a9",
         "type": "tabs",
         "children": [
           {
-            "id": "784ff1d4f7a5c087",
+            "id": "a77d59d9cabb632d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intramolecular Forces.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c54f39dc5e3ead73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dipole Forces.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -41,7 +24,29 @@
   "left": {
     "id": "de29fdcb82f6a4e5",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "b8f3b568a82efd41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac0a8fa3da73c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -60,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intramolecular Forces.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intramolecular Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Intramolecular Forces.md",
+                    "file": "States Of Matter.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -149,17 +152,17 @@
       }
     ]
   },
-  "active": "24780d64f2490e62",
+  "active": "a77d59d9cabb632d",
   "lastOpenFiles": [
     "Dipole Forces.md",
     "Intramolecular Forces.md",
+    "States Of Matter.md",
     "References/Excalidraw/Drawing 2022-10-15 17.28.17.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-15 17.13.49.excalidraw.md",
     "Polar Molecule.md",
     "References/Excalidraw/Drawing 2022-10-15 17.17.49.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
     "References/Excalidraw/Linear Approximation.md",
-    "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md"
+    "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md"
   ]
 }
