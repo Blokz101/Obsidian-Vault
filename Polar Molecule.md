@@ -13,6 +13,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- The red arrow shows the overall [[Dipole]].
 		- ![[IMG_9059DC321AB3-1.jpeg|400]]
 - ## Practice
-	- 
+	- [[Drawing 2022-10-15 17.13.49.excalidraw]]
 - ## Reference
 	- Has a [[Dipole]].
