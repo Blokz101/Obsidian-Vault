@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Phase Diagram.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "States Of Matter.md",
+                "file": "Phase Diagram.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "States Of Matter.md",
+                "file": "Phase Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,12 +179,12 @@
       }
     ]
   },
-  "active": "811cd7779cb32050",
+  "active": "70402428edb8edd7",
   "lastOpenFiles": [
+    "States Of Matter.md",
     "Phase Diagram.md",
     "Dipole Forces.md",
     "Intramolecular Forces.md",
-    "States Of Matter.md",
     "References/Excalidraw/Drawing 2022-10-15 17.28.17.excalidraw.md",
     "References/Excalidraw/Drawing 2022-10-15 17.13.49.excalidraw.md",
     "Polar Molecule.md",
