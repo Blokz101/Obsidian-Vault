@@ -22,13 +22,25 @@
               "type": "markdown",
               "state": {
                 "file": "Phase Diagram.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "811cd7779cb32050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "States Of Matter.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phase Diagram.md",
+                "file": "States Of Matter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phase Diagram.md",
+                "file": "States Of Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +179,9 @@
       }
     ]
   },
-  "active": "70402428edb8edd7",
+  "active": "811cd7779cb32050",
   "lastOpenFiles": [
+    "Phase Diagram.md",
     "Dipole Forces.md",
     "Intramolecular Forces.md",
     "States Of Matter.md",
@@ -177,7 +190,6 @@
     "Polar Molecule.md",
     "References/Excalidraw/Drawing 2022-10-15 17.17.49.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
-    "References/Excalidraw/Linear Approximation.md",
-    "References/Excalidraw/Drawing 2022-10-13 16.31.15.excalidraw.md"
+    "References/Excalidraw/Linear Approximation.md"
   ]
 }
