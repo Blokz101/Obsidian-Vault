@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a77d59d9cabb632d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "70402428edb8edd7",
             "type": "leaf",
             "state": {
@@ -40,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -141,43 +132,6 @@
   },
   "ribbon": {
     "mostRecentAction": ""
-  },
-  "floating": {
-    "id": "fd65e20198c79072",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2884cae819b2320f",
-        "type": "window",
-        "children": [
-          {
-            "id": "43597109d9e13ac1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "24780d64f2490e62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "States Of Matter.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 25,
-        "width": 1440,
-        "height": 875,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "70402428edb8edd7",
   "lastOpenFiles": [

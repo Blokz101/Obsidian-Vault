@@ -7,5 +7,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A diagram that shows the [[States Of Matter|State of Matter]] a [[Molecule]] 
+	- A diagram that shows the [[States Of Matter|State of Matter]] a [[Molecule]] at various [[Pressure]] and 
 - ## Reference
