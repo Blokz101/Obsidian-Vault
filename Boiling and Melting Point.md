@@ -8,9 +8,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- #### Boiling Point
-		- The [[Temperature]] at which a substance evaporates.
+		- The [[Temperature]] at which a substance **evaporates** assuming the [[Pressure]] is 1 [[Pressure|atm]].
 	- #### Melting Point
-		- The [[Temperature]] at which a substance melts.
+		- The [[Temperature]] at which a substance **melts** assuming the [[Pressure]] is 1 [[Pressure|atm]].
 - ## Determining [[Boiling and Melting Point]]
 	- The higher the [[Intramolecular Forces]] the higher the [[Boiling and Melting Point]].
 - ## Practice
