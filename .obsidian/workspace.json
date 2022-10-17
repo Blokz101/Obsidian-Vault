@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Phase Diagram.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vapor Pressure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vapor Pressure.md",
+                "file": "Phase Diagram.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vapor Pressure.md",
+                "file": "Phase Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,15 +169,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "94d7d3ac28fd2d1e",
+  "active": "70402428edb8edd7",
   "lastOpenFiles": [
+    "Vapor Pressure.md",
     "Relative Humidity.md",
+    "Phase Diagram.md",
     "Dew Point.md",
     "Templates/Permanent Note Template.md",
     "States Of Matter.md",
-    "Vapor Pressure.md",
     "Boiling and Melting Point.md",
-    "Phase Diagram.md",
     "Surface Tension.md",
     "Dipole Forces.md",
     "Intramolecular Forces.md"
