@@ -14,5 +14,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The purple line is equally [[Solid]] and [[Gas]].
 		- The red line is equally [[Liquid]] and [[Gas]]. ^e77e56
 - ## Reference
-	- [[Molecule|Molecules]] with **stronger** [[Intramolecular Forces]] stay 
+	- [[Molecule|Molecules]] with **stronger** [[Intramolecular Forces]] stays a [[Liquid]] or [[Solid]] **longer**.
+	- A fluid becomes a [[Supercritical Fluid]] when it exceeds the max [[Temperature]] and [[Pressure]] on the diagram.
 	- Deals with the [[States Of Matter]].
