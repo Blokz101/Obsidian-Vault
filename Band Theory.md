@@ -8,6 +8,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- States that [[Solid|Solids]] are [[Insulator|Insulators]], [[Semi Conductor|Semi Conductors]], or [[Conductor|Conductors]] based on the gap between [[Orbital|Orbitals]] according to [[Molecular Orbital Theory]].
 	- ![[IMG_F9D024D9195C-1.jpeg|400]]
-- ## [[Conductor]]
-	- A 
+	- The large the gap between [[Orbital|Orbitals]] the more [[Energy]] it takes for [[Electron|Electrons]] to be able to jump [[Orbital|Orbitals]] into an excited state.
+	- [[Conductor]]|[[Semi Conductor]]|[[Insulator]]
+	  ---|---|---
+	  
 - ## Reference
