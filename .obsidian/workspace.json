@@ -22,6 +22,18 @@
               "type": "markdown",
               "state": {
                 "file": "Solid.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f2cf182c5700355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boiling and Melting Point.md",
                 "mode": "source",
                 "source": true
               }
@@ -88,8 +100,24 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
+      },
+      {
+        "id": "b1b6249ac559cfb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3578084764bb2e24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solid.md",
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solid.md",
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +218,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "02d91e09d017fed7",
+  "active": "3578084764bb2e24",
   "lastOpenFiles": [
+    "Boiling and Melting Point.md",
+    "Solid.md",
     "Metallic Solid.md",
     "Ionic Solid.md",
     "Network Covalent Solid.md",
     "Molecular Solid.md",
     "Band Theory.md",
     "band.md",
-    "Solid.md",
     "Solids.md",
-    "Unit Cell.md",
-    "Crystal Lattice.md"
+    "Unit Cell.md"
   ]
 }
