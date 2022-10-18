@@ -9,8 +9,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- 
 - ## Types of Solids
 	- 
-	- [[Metallic Solids]]
-	- [[Ionic Solids]]
-	- [[Network Covalent Solids]]
-	- [[Molecular Solids]]
+	- [[Metallic Solid]]
+	- [[Ionic Solid]]
+	- [[Network Covalent Solid]]
+	- [[Molecular Solid]]
 - ## Reference

@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metallic Solids.md",
-                "mode": "source",
+                "file": "Metallic Solid.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ionic Solids.md",
+                "file": "Ionic Solid.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Covalent Solids.md",
-                "mode": "preview",
+                "file": "Network Covalent Solid.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecular Solids.md",
+                "file": "Molecular Solid.md",
                 "mode": "source",
                 "source": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Covalent Solids.md",
+                "file": "Network Covalent Solid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Covalent Solids.md",
+                "file": "Network Covalent Solid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +192,10 @@
   },
   "active": "f4c4380dd0129abb",
   "lastOpenFiles": [
-    "Ionic Solids.md",
-    "Metallic Solids.md",
-    "Molecular Solids.md",
-    "Network Covalent Solids.md",
+    "Metallic Solid.md",
+    "Ionic Solid.md",
+    "Network Covalent Solid.md",
+    "Molecular Solid.md",
     "Band Theory.md",
     "band.md",
     "Solid.md",
