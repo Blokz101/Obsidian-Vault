@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Metallic Solids.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Band Theory.md",
+                "file": "Metallic Solids.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Band Theory.md",
+                "file": "Metallic Solids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,15 +190,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9745e10dc80c9123",
+  "active": "816841b8fc522310",
   "lastOpenFiles": [
-    "band.md",
-    "Band Theory.md",
-    "Solid.md",
-    "Metallic Solids.md",
-    "Network Covalent Solids.md",
-    "Molecular Solids.md",
     "Ionic Solids.md",
+    "Metallic Solids.md",
+    "Molecular Solids.md",
+    "Network Covalent Solids.md",
+    "Band Theory.md",
+    "band.md",
+    "Solid.md",
     "Solids.md",
     "Unit Cell.md",
     "Crystal Lattice.md"
