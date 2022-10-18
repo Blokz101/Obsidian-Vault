@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Network Covalent Solid.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Covalent Solid.md",
+                "file": "Molecular Solid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Covalent Solid.md",
+                "file": "Molecular Solid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,11 +190,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f4c4380dd0129abb",
+  "active": "cb77343e7b45632c",
   "lastOpenFiles": [
+    "Network Covalent Solid.md",
     "Metallic Solid.md",
     "Ionic Solid.md",
-    "Network Covalent Solid.md",
     "Molecular Solid.md",
     "Band Theory.md",
     "band.md",

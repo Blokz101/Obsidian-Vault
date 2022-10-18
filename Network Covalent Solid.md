@@ -10,3 +10,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Has a [[Boiling and Melting Point]] because of the large number of bonds.
 	- You can tell if a [[Solid]] is a [[Network Covalent Solid]] because the [[Element|Elements]] will be or will be near the [[Metalloid|Metalloids]].
 - ## Reference
+	- Type of [[Solid]].
