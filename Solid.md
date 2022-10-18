@@ -17,6 +17,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Molecular Solid]]
 		- ![[Molecular Solid#^6b44e8]]
 - ## Practice
-	- 
+	- [[Drawing 2022-10-18 16.38.28.excalidraw]]
 - ## Reference
 	- [[States Of Matter]]

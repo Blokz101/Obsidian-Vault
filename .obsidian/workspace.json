@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02d91e09d017fed7",
+            "id": "b3ee08c9a7ea36d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Solid.md",
-                "mode": "preview",
-                "source": true
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md"
               }
             }
           },
@@ -92,16 +90,6 @@
             }
           },
           {
-            "id": "3578084764bb2e24",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "5fd612a7a9750bd9",
             "type": "leaf",
             "state": {
@@ -114,7 +102,6 @@
             }
           }
         ],
-        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -164,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intramolecular Forces.md",
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intramolecular Forces.md",
+                "file": "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,17 +203,54 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5fd612a7a9750bd9",
+  "floating": {
+    "id": "765a2469cdbcdbaa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a2649b7be01f5cb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "7f40aaaf2bb0e7fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02d91e09d017fed7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Solid.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 371,
+        "y": 25,
+        "width": 699,
+        "height": 865,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b3ee08c9a7ea36d2",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md",
-    "Boiling and Melting Point.md",
     "Solid.md",
+    "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md",
     "Metallic Solid.md",
+    "Boiling and Melting Point.md",
+    "Molecular Solid.md",
+    "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md",
+    "Intramolecular Forces.md",
     "Ionic Solid.md",
     "Network Covalent Solid.md",
-    "Molecular Solid.md",
-    "Band Theory.md",
-    "band.md",
-    "Solids.md"
+    "Band Theory.md"
   ]
 }

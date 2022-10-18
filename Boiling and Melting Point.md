@@ -15,6 +15,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The higher the [[Intramolecular Forces]] the higher the [[Boiling and Melting Point]].
 - ## Practice
 	- [[Drawing 2022-10-12 21.46.16.excalidraw]]
-	- [[Drawing 2022-10-18 16.24.32.excalidraw]]
 - ## Reference
 	- Dependent on [[Intramolecular Forces]].
