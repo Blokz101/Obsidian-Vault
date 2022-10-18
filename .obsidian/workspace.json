@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ionic Solids.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic Solids.md",
+                "file": "Network Covalent Solids.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ionic Solids.md",
+                "file": "Network Covalent Solids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +190,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "17b2cf86c922a6f3",
+  "active": "f4c4380dd0129abb",
   "lastOpenFiles": [
-    "Metallic Solids.md",
     "Ionic Solids.md",
+    "Metallic Solids.md",
     "Molecular Solids.md",
     "Network Covalent Solids.md",
     "Band Theory.md",
