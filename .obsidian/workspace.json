@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Crystal Lattice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -172,14 +172,14 @@
   },
   "active": "43e03b17c4e0e304",
   "lastOpenFiles": [
+    "Crystal Lattice.md",
+    "Unit Cell.md",
     "Simple Cubic.md",
     "Body Centered.md",
     "Face Centered.md",
-    "Unit Cell.md",
     "Supercritical Fluid.md",
     "Critical Point (Chemistry).md",
     "Critical Point (Calculus).md",
-    "Crystal Lattice.md",
     "Phase Diagram.md",
     "Vapor Pressure.md"
   ]
