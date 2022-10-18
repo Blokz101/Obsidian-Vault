@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Solid.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -192,15 +192,15 @@
   },
   "active": "9745e10dc80c9123",
   "lastOpenFiles": [
-    "Metallic Solids.md",
     "Solid.md",
+    "Band Theory.md",
+    "Metallic Solids.md",
     "Network Covalent Solids.md",
     "Molecular Solids.md",
     "Ionic Solids.md",
     "Solids.md",
     "Unit Cell.md",
     "Crystal Lattice.md",
-    "Simple Cubic.md",
-    "Body Centered.md"
+    "Simple Cubic.md"
   ]
 }
