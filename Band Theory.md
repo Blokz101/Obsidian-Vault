@@ -13,5 +13,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  ---|---|---
 	  ![[IMG_CAECD216F70E-1.jpeg]]|![[IMG_1D264045F767-1.jpeg]]|![[IMG_EBA9989A1B50-1.jpeg]]
 	  Almost no gap so electrons can easily move between orbitals.|Small gap, so electrons can sometimes move between orbitals.|Large gap, so it is very hard for electrons to move between orbitals.
+- ## Parts of the Band
+	- Conduction Band
+		- The upper section of the band in blue where the empt[[Orbital|Orbitals]] are.
+	- Fermi Level
+		- Same as the [[LUMO]], the lowest unoccupied molecular orbital.
+	- Valence Band
+		- The lower section of the band in red where the filled [[Orbital|Orbitals]] are.
 - ## Reference
 	- 
