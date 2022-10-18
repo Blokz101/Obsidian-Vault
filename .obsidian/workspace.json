@@ -14,8 +14,69 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "02d91e09d017fed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "816841b8fc522310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metallic Solids.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17b2cf86c922a6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ionic Solids.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f4c4380dd0129abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Covalent Solids.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cb77343e7b45632c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Molecular Solids.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -65,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "43e03b17c4e0e304",
+  "active": "02d91e09d017fed7",
   "lastOpenFiles": [
+    "Metallic Solids.md",
+    "Network Covalent Solids.md",
+    "Molecular Solids.md",
+    "Solid.md",
+    "Ionic Solids.md",
+    "Solids.md",
     "Unit Cell.md",
     "Crystal Lattice.md",
     "Simple Cubic.md",
-    "Body Centered.md",
-    "Face Centered.md",
-    "Supercritical Fluid.md",
-    "Critical Point (Chemistry).md",
-    "Critical Point (Calculus).md",
-    "Phase Diagram.md",
-    "Vapor Pressure.md"
+    "Body Centered.md"
   ]
 }
