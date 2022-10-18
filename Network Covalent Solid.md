@@ -20,7 +20,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Cristobalite ($SiO_2$)
 		- Natural high temp glass.
 	- Aluminoscilcates/Zeolites
-		- Refe
+		- Referred to as exchange columns where [[Ion|Ions]] can be exchanged.
+			- Can do this because they are in a cage like structure and hold an [[Ion]] "inside".
 	- Clays
+		- Can be fried to form porcelin.
 - ## Reference
 	- Type of [[Solid]].
