@@ -6,5 +6,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- [[Solid|Solids]] that are head together by [[Ion|Cations]] and [[Ion|Ions]]
+	- [[Solid|Solids]] that are head together by [[Ion|Cations]] and [[Ion|Ions]] as described by [[Coulomb's Law of Force]].
 - ## Reference
