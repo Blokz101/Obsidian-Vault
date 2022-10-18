@@ -10,3 +10,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Can have a verity of [[Boiling and Melting Point|Boiling and Melting Points]] 
 - ## Reference
 	- [[Band Theory]]
+	- Type of [[Solid]].
