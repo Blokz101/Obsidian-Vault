@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Heat.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Work.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Work.md",
+                "file": "Thermodynamics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Work.md",
+                "file": "Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +230,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8600415872aca585",
+  "active": "a055e9bd81347961",
   "lastOpenFiles": [
     "Heat.md",
+    "Vault/Work.md",
     "Thermodynamics.md",
     "Network Covalent Solid.md",
     "Solid.md",
@@ -240,7 +241,6 @@
     "Boiling and Melting Point.md",
     "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md",
     "Metallic Solid.md",
-    "Molecular Solid.md",
-    "References/Excalidraw/Drawing 2022-10-18 16.24.32.excalidraw.md"
+    "Molecular Solid.md"
   ]
 }
