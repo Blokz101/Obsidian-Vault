@@ -12,9 +12,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Energy]] can never be created or destroyed, only changed.
 			- [[Work]] and [[Heat]] can be transformed into one another.
 			- > [!Equation]
-			> $$\Delta E_{universe}=\Delta E_{system}+\Delta E_{surrounding}$$
+			> $$\Delta E_{system}+\Delta E_{surrounding}=0$$
 			> 
-			> $\Delta E_{universe}$ = [[Energy]] in 
+			> $\Delta E_{universe}$ = [[Energy]] in the system.
+			> $\Delta E_{surrounding}$ = [[Energy]] in the surroundings.
+			> 
+			> 
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
