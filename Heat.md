@@ -1,10 +1,10 @@
 ---
 Alias: []
-Creation Date: Mon August 29th 2022 11:22:24 am 
+Creation Date: Wed October 19th 2022 05:22:08 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-#Permanent [[Chemistry]] [[Phy]]
+#Permanent [[Chemistry]]
 
 - ## Definition
-	- 
+	- The disorganized movement of [[Molecule|Molecules]].
 - ## Reference
