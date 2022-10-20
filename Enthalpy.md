@@ -9,9 +9,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Notated as $\Delta H$
 	- The change in **heat** at a **constant** [[Pressure]].
 	- > [!Equation]
-	> $$\Delta E_{system}=q+w$$
+	> $$\Delta E_{system}=\Delta H+w$$
 	> 
 	> $\Delta E_{system}$ = [[Energy]] of the system
-	> $q$ = [[Enthalpy]]
+	> $\Delta H$ = [[Enthalpy]]
 	> $w$ = [[Work]]
+	- [[Enthalpy]] is 
 - ## Reference

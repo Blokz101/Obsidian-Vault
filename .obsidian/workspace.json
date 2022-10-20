@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "23cd2e69ecb345ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Endothermic Process.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2cf9ed1d4692f528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Exothermic Process.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "493f6f31ac4a6ce9",
             "type": "leaf",
             "state": {
@@ -244,15 +268,15 @@
   },
   "active": "9f22c7b5ed062be9",
   "lastOpenFiles": [
+    "Vault/Exothermic Process.md",
+    "Vault/Endothermic Process.md",
+    "Enthalpy.md",
     "Thermodynamics.md",
     "Intramolecular Forces.md",
     "Vault/Temperature.md",
-    "Enthalpy.md",
     "Heat.md",
     "Vault/Work.md",
     "Network Covalent Solid.md",
-    "Solid.md",
-    "Band Theory.md",
-    "Boiling and Melting Point.md"
+    "Solid.md"
   ]
 }
