@@ -19,9 +19,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The [[Enthalpy]] of a reaction can be calculated by comparing the [[Energy]] in the **bonds** of the **reactants** and the [[Energy]] in the **bonds** of the **product**. The difference is the [[Enthalpy]].
 		- > [!Equation]
 		> $$\Delta H \approx \sum \#_{bonds\ broken} - \sum \#_{bonds\ formed}$$
-		
-		> [!Example]
-		> 
+		- ![[IMG_576CF206F300-1.jpeg]]
 	
 - ## Standard [[Enthalpy]]
 	- [[Enthalpy]] at **1 [[Pressure|atm]]**.
