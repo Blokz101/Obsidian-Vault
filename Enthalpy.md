@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The change in **heat** at a **constant** [[Pressure]].
-	> [!Equation]
+	- > [!Equation]
 	> $$\Delta E_{system}=q+w$$
 	> 
 	> $\Delta E_{system}$ = [[Energy]] of the system
