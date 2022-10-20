@@ -6,7 +6,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Heat transferred.
+	- The change in **heat** at a **constant** [[Pressure]].
 	> [!Equation]
 	> $$\Delta E_{system}=q+w$$
+	> 
+	> $\Delta E_{system}$ = [[Energy]] of the system
+	> $q$ = [[Enthalpy]]
+	> $w$ = [[Work]]
 - ## Reference
