@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "85ce3ada2bbd40de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fa8da84ccf157df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'Hopital's Rule.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9f22c7b5ed062be9",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -226,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entropy.md",
+                "file": "L'Hopital's Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entropy.md",
+                "file": "L'Hopital's Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,17 +302,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a7c5fd128fd67d88",
+  "active": "fa8da84ccf157df4",
   "lastOpenFiles": [
-    "Thermodynamics.md",
+    "Optimization.md",
     "Entropy.md",
+    "Thermodynamics.md",
     "Enthalpy.md",
     "Vault/Endothermic Process.md",
     "Bond.md",
     "Vault/Exothermic Process.md",
     "Intramolecular Forces.md",
     "Vault/Temperature.md",
-    "Heat.md",
-    "Vault/Work.md"
+    "Heat.md"
   ]
 }
