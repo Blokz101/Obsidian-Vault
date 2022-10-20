@@ -6,5 +6,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- States that when a [[Limit]] of a function is equal to $\frac{0}{0}$
+	- States that when a [[Limit]] of a function is equal to $\frac{0}{0}$, $\frac{\infty}{\infty}$, or $\frac{-\infty}{-\infty}$.
 - ## Reference
