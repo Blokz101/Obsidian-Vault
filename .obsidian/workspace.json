@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Enthalpy.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -245,14 +245,14 @@
   "active": "9f22c7b5ed062be9",
   "lastOpenFiles": [
     "Thermodynamics.md",
+    "Intramolecular Forces.md",
+    "Vault/Temperature.md",
+    "Enthalpy.md",
     "Heat.md",
     "Vault/Work.md",
     "Network Covalent Solid.md",
     "Solid.md",
     "Band Theory.md",
-    "Boiling and Melting Point.md",
-    "References/Excalidraw/Drawing 2022-10-18 16.38.28.excalidraw.md",
-    "Metallic Solid.md",
-    "Molecular Solid.md"
+    "Boiling and Melting Point.md"
   ]
 }
