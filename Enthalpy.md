@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Notated as $\Delta H$
 	- The change in **heat** at a **constant** [[Pressure]].
-		- Ex. Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy]] is released during the process.
+		- Ex: Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy]] is released during the process.
 	- > [!Equation]
 	> $$\Delta E_{system}=\Delta H+w$$
 	> 
@@ -16,7 +16,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $\Delta H$ = [[Enthalpy]]
 	> $w$ = [[Work]]
 	
+	- The [[Enthalpy]] of a reaction can be calculated by taking the sum of the energy in the chemical bonds for the reactants and for the products, and comparing them.
+		> [!Equation]
+		> $$\Delta H \approx \sum \#_{bonds\ broken}$$
+	
 - ## Standard [[Enthalpy]]
+	- [[Enthalpy]] at **1 [[Pressure|atm]]**.
 - ## [[Enthalpy]] of [[Combustion]]
 	- [[Enthalpy]] when one [[Mole]] of substance reacts with **oxygen** at a **constant** [[Pressure]].
 	> [!Example]
