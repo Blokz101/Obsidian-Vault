@@ -8,11 +8,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Notated as $\Delta H$
 	- The change in **heat** at a **constant** [[Pressure]].
+		- Ex. Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy]] is released during the process.
 	- > [!Equation]
 	> $$\Delta E_{system}=\Delta H+w$$
 	> 
 	> $\Delta E_{system}$ = [[Energy]] of the system
 	> $\Delta H$ = [[Enthalpy]]
 	> $w$ = [[Work]]
-	- [[Enthalpy]] is 
+	
+- ## Standard [[Enthalpy]]
+- ## [[Enthalpy]] of [[Com]]
 - ## Reference
