@@ -33,3 +33,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> A [[Solid]] and [[Gas]] reacting to form a [[Gas]] and [[Liquid]].
 	> $$\Delta H = -2816 \frac{kj}{mol}$$
 - ## Reference
+	- Similar to [[Entropy]].

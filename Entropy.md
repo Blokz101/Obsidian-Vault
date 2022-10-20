@@ -6,5 +6,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The amount of [[Energy]] un
+	- The amount of [[Molecule|Molecular]] disorder in a **system**.
+	- > [!Equation]
+	  > $$\Delta S = \frac{q}{T}$$
+	  > 
+	  > $\Delta S$ = [[Entropy]]
+	  > $T$ = [[Temperature]] in [[Temperature|K]]
+	  > $q$ = Heat in J
 - ## Reference
+	- Similar to [[Enthalpy]].
