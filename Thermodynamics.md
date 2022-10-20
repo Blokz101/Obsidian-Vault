@@ -16,8 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			> 
 			> $\Delta E_{universe}$ = [[Energy]] in the system.
 			> $\Delta E_{surrounding}$ = [[Energy]] in the surroundings.
-			> 
-			> 
+			- If the system wants to absorb energy then the surroundings must give up that energy to
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
