@@ -16,11 +16,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $\Delta H$ = [[Enthalpy]]
 	> $w$ = [[Work]]
 	
+- ## [[Enthalpy]] In Chemical Reactions
 	- The [[Enthalpy]] of a reaction can be calculated by comparing the [[Energy]] in the **bonds** of the **reactants** and the [[Energy]] in the **bonds** of the **product**. The difference is the [[Enthalpy]].
 		- > [!Equation]
 		> $$\Delta H \approx \sum \#_{bonds\ broken} - \sum \#_{bonds\ formed}$$
-		- ![[IMG_576CF206F300-1.jpeg]]
-	
+		- **Bond Energies** can be found with this chart
+			- ![[IMG_ACA83FFEC619-1.jpeg|400]]
+		- > [!Example]-
+		  > ![[IMG_576CF206F300-1.jpeg|400]]
 - ## Standard [[Enthalpy]]
 	- [[Enthalpy]] at **1 [[Pressure|atm]]**.
 - ## [[Enthalpy]] of [[Combustion]]
