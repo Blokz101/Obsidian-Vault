@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Temperature.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -170,7 +170,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5a9ea3e56ab898c9",
+  "active": "a48b99f7e653dbb8",
   "lastOpenFiles": [
     "Heat.md",
     "Vault/Temperature.md",
