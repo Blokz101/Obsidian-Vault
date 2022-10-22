@@ -8,4 +8,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The disorganized movement of [[Molecule|Molecules]].
 - ## Reference
-	- [[Work]] and [[Thermodynamics]]
+	- [[Work]] and [[Thermodynamics]].

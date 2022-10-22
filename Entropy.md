@@ -12,7 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > $\Delta S$ = [[Entropy]]
 	  > $T$ = [[Temperature]] in [[Temperature|K]]
-	  > $q$ = Heat in J
+	  > $q$ = [[Heat]] in 
 	- Change in [[Entropy]] is [[Temperature]] dependent. 
 		- 
 	- [[Entropy]] is higher in [[Gas|Gases]] then it is in [[Solid|Solids]].
