@@ -4,227 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e21a62a42db920a9",
+        "id": "0b593195cce8a2f2",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2cf182c5700355",
+            "id": "58426ee33ccd8b00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boiling and Melting Point.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "816841b8fc522310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metallic Solid.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9745e10dc80c9123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Band Theory.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17b2cf86c922a6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ionic Solid.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f4c4380dd0129abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Covalent Solid.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a055e9bd81347961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7c5fd128fd67d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entropy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85ce3ada2bbd40de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimization.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa8da84ccf157df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'Hopital's Rule.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b5f35c3f2a5fd2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intermolecular Forces.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b883483f975cee54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Law of Sines.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9f22c7b5ed062be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enthalpy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "23cd2e69ecb345ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Endothermic Process.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2cf9ed1d4692f528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Exothermic Process.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "493f6f31ac4a6ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heat.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8600415872aca585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Work.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb77343e7b45632c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Molecular Solid.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5fd612a7a9750bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intramolecular Forces.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 10,
         "stacked": true
       }
     ],
@@ -274,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Law of Sines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Law of Sines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,17 +115,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b883483f975cee54",
+  "active": "58426ee33ccd8b00",
   "lastOpenFiles": [
-    "Intermolecular Forces.md",
-    "L'Hopital's Rule.md",
-    "Optimization.md",
-    "Entropy.md",
+    "Intramolecular Forces.md",
+    "Molecular Solid.md",
+    "Vault/Work.md",
+    "Boiling and Melting Point.md",
+    "Metallic Solid.md",
+    "Band Theory.md",
+    "Ionic Solid.md",
+    "Network Covalent Solid.md",
     "Thermodynamics.md",
-    "Enthalpy.md",
-    "Vault/Endothermic Process.md",
-    "Bond.md",
-    "Vault/Exothermic Process.md",
-    "Intramolecular Forces.md"
+    "Entropy.md"
   ]
 }
