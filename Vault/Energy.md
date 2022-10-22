@@ -35,3 +35,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Drawing 2022-09-04 15.09.53.excalidraw]]
 - ## Reference
 	- [[Energy]] and [[Frequency]] are **Directly** related.
+	- [[Heat]] is is a type of [[Energy]].
