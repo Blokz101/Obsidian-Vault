@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Entropy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Energy.md",
+                "file": "Entropy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Energy.md",
+                "file": "Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +169,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3ccd9927e570c86",
+  "active": "da07d36728dcf192",
   "lastOpenFiles": [
-    "Heat.md",
     "Vault/Energy.md",
+    "Heat.md",
     "Entropy.md",
     "Vault/Temperature.md",
     "References/Periodic Table Entry Screenshot.png",
