@@ -6,6 +6,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The disorganized movement of [[Molecule|Molecules]].
+	- The disorganized movement of [[Molecule|Molecules]] / The [[Energy]] transfer between two **systems**.
 - ## Reference
 	- [[Work]] and [[Thermodynamics]].

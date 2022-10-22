@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5442473b3125e578",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "da07d36728dcf192",
             "type": "leaf",
             "state": {
@@ -23,6 +15,18 @@
               "state": {
                 "file": "Entropy.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a48b99f7e653dbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Temperature.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -46,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Heat.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -64,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -114,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Energy.md",
+                "file": "Vault/Temperature.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Energy.md",
+                "file": "Vault/Temperature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +170,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3ccd9927e570c86",
+  "active": "5a9ea3e56ab898c9",
   "lastOpenFiles": [
     "Heat.md",
-    "Vault/Energy.md",
-    "Entropy.md",
     "Vault/Temperature.md",
+    "Entropy.md",
+    "Vault/Energy.md",
     "References/Periodic Table Entry Screenshot.png",
     "Intramolecular Forces.md",
     "Molecular Solid.md",

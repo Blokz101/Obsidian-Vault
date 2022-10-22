@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- f
+	- Measure of the **average kinetic [[Energy]]**  in a **system**.
 - ## Absolute Zero
 	- The [[Temperature]] at which any amount of a gas has a [[Volume]] of **zero (or very close to it)**.
 	- Also $-273.15$ in [[Temperature|C]].
