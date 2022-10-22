@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0b593195cce8a2f2",
+        "id": "2c2fad5ec026b983",
         "type": "tabs",
         "children": [
           {
-            "id": "58426ee33ccd8b00",
+            "id": "5442473b3125e578",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "da07d36728dcf192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entropy.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -65,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Entropy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,8 +130,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "58426ee33ccd8b00",
+  "active": "da07d36728dcf192",
   "lastOpenFiles": [
+    "References/Periodic Table Entry Screenshot.png",
     "Intramolecular Forces.md",
     "Molecular Solid.md",
     "Vault/Work.md",
@@ -125,7 +141,6 @@
     "Band Theory.md",
     "Ionic Solid.md",
     "Network Covalent Solid.md",
-    "Thermodynamics.md",
-    "Entropy.md"
+    "Thermodynamics.md"
   ]
 }
