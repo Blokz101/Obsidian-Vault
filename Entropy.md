@@ -6,6 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
+	- Change in [[Entropy]] is notated as **$\Delta S$**.
 	- The amount of [[Molecule|Molecular]] disorder in a **system**.
 	- > [!Equation]
 	  > $$\Delta S = \frac{q}{T}$$
