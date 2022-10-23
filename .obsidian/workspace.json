@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "0beefae70152d584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enthalpy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "19dc8567dfe32096",
             "type": "leaf",
             "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -203,6 +191,43 @@
   },
   "ribbon": {
     "mostRecentAction": ""
+  },
+  "floating": {
+    "id": "f4f7cbc1f7cfd653",
+    "type": "floating",
+    "children": [
+      {
+        "id": "44f03284a13591c5",
+        "type": "window",
+        "children": [
+          {
+            "id": "4c4212a9ba8997be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0beefae70152d584",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Enthalpy.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 699.99365234375,
+        "height": 752.0059204101562,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "0beefae70152d584",
   "lastOpenFiles": [
