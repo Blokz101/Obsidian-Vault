@@ -6,8 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Notated as $\Delta H$
-	- The change in **heat** at a **constant** [[Pressure]].
+	- Notated as **$\Delta H$**.
+	- The change in [[Heat]] at a **constant** [[Pressure]].
 		- Ex: Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy]] is released during the process.
 	- > [!Equation]
 	> $$\Delta E_{system}=\Delta H+w$$
