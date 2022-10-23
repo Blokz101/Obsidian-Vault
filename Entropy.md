@@ -13,7 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > $\Delta S$ = [[Entropy]]
 	  > $T$ = [[Temperature]] in [[Temperature|K]]
-	  > $q$ = [[Heat]] in 
+	  > $q$ = [[Heat]] in [[Energy|J]]
 	- Change in [[Entropy]] is [[Temperature]] dependent. 
 		- Using the equation above we can see that the **higher the [[Temperature]] is the less the [[Entropy]] will change given the same amount of [[Heat]]**.
 	- [[Entropy]] is higher in [[Gas|Gases]] then it is in [[Solid|Solids]].

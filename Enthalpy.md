@@ -32,5 +32,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $$C_6H_{12}O_6 (s) + 6O_2 (g)\rightarrow 6CO_2 (g) + 6H_2O(l)$$
 	> A [[Solid]] and [[Gas]] reacting to form a [[Gas]] and [[Liquid]].
 	> $$\Delta H = -2816 \frac{kj}{mol}$$
+	
+- ## Practice 
+	- [[Drawing 2022-10-23 10.22.38.excalidraw]]
 - ## Reference
 	- Similar to [[Entropy]].
