@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "19dc8567dfe32096",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a48b99f7e653dbb8",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
+                "file": "Thermodynamics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
+                "file": "Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,10 +219,10 @@
       }
     ]
   },
-  "active": "19dc8567dfe32096",
+  "active": "4c5b995c04081647",
   "lastOpenFiles": [
-    "Enthalpy.md",
     "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
+    "Enthalpy.md",
     "Entropy.md",
     "Thermodynamics.md",
     "ther.md",
