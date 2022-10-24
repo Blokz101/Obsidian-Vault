@@ -6,7 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Notated as $\Delta G\degree$
+	- Notated as $\Delta G$.
+		- $\Delta G\degree$ or Delta G not is $\Delta G$ at **non-standard** conditions.
 	- The amount of [[Work]] a chemical **system** can do.
 	- If this value negative the reaction is **spontaneous** and will be an [[Exothermic Process]].
 - ## Reference
