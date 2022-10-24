@@ -47,3 +47,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
+	- [[Endothermic Process]] and [[Exothermic Process]]
