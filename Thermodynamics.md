@@ -26,6 +26,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  > $\Delta S_{universe}$ = [[Entropy]] of the **system** and its **surroundings**.
 			  > $\Delta S_{system}$ = [[Entropy]] in the system.
 			  > $\Delta S_{surrounding}$ = [[Entropy]] in the surroundings.
+			  - The universe will always keep getting more chaotic until its head death.
+			- Fre
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
