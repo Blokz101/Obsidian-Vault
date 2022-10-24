@@ -29,13 +29,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  - The universe will always keep getting more chaotic until its heat death.
 			- Reworking the **Second Law** and substituting in [[Entropy]], we can predict wether a reaction will be **spontaneous** or **non-spontaneous**.
 				- > [!Equation]
-				> $$\Delta G = \Delta H_{system}-T\Delta S_{system} < 0$$
-				> $\Delta G$ = [[Free Energy]] in [[Energy|J]].
-				> $T$ = 
-				> $\Delta H$ = [[Enthalpy]] in [[]]
-				> $\Delta S$ = [[Entropy]]
+				> $$\Delta G = \Delta H_{system}-T_{system}\Delta S_{system} < 0$$
+				> $\Delta G$ = [[Free Energy]] in [[Energy|J]]
+				> $T_{system}$ = [[Temperature]] in [[Temperature|K]]
+				> $\Delta H$ = [[Enthalpy]] in [[Energy|J]]
+				> $\Delta S$ = [[Entropy]] in [[Energy|J]]/[[Temperature|K]]
 				> 
-				> > [!Proof]
+				> > [!Proof]-
 				> > Equation|Step
 				> > ---|---
 				> > $\Delta S_{universe} = \Delta S_{system} + \Delta S_{surrounding}>0$|Second Law
