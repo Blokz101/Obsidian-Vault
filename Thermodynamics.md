@@ -27,7 +27,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  > $\Delta S_{system}$ = [[Entropy]] in the system.
 			  > $\Delta S_{surrounding}$ = [[Entropy]] in the surroundings.
 			  - The universe will always keep getting more chaotic until its heat death.
-			- [[Free Energy]] determines if a process is **spontaneous** or not.
+			- Reworking the **Second Law** 
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
