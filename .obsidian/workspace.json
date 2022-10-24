@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Thermodynamics.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1bf33114a85e86a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free Energy.md",
                 "mode": "source",
                 "source": true
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Free Energy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Free Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +206,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4c5b995c04081647",
+  "active": "1bf33114a85e86a6",
   "lastOpenFiles": [
-    "Enthalpy.md",
     "Thermodynamics.md",
+    "Enthalpy.md",
     "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
     "Entropy.md",
     "ther.md",
