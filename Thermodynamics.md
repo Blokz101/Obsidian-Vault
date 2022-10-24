@@ -41,7 +41,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				> > $\Delta S_{universe} = \Delta S_{system} + \Delta S_{surrounding}>0$|Second Law
 				> > $\Delta S_{universe} = \Delta S_{system} + -\frac{\Delta H_{system}}{T_{system}}>0$|Substitute $\Delta S_{surrounding}$ for $-\frac{\Delta H_{system}}{T_{system}}$.
 				> > $-T_{system}\Delta S_{universe} = -T_{system}\Delta S_{system} + \Delta H_{system}<0$|Multiply everything by $-T_{system}$.
-				> > $\Delta G = \Delta H_{system}-T\Delta S_{system}<0$|Substitute in $\Delta G$. 
+				> > $\Delta G = \Delta H_{system}-T\Delta S_{system}<0$|Substitute in $\Delta G$. 	
+				- A negative $\Delta H$, or positive $\Delta S$ contributes to making a reaction **spontaneous**.
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
