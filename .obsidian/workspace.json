@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Thermodynamics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Thermodynamics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,14 +230,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1bf33114a85e86a6",
+  "active": "1d47dde3c5dee102",
   "lastOpenFiles": [
+    "Free Energy.md",
     "Thermodynamics.md",
     "Vault/Process.md",
     "The First Law of Thermodynamics.md",
     "Enthalpy.md",
     "Entropy.md",
-    "Free Energy.md",
     "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
     "ther.md",
     "Vault/Energy.md",
