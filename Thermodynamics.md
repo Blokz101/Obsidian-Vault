@@ -28,7 +28,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  > $\Delta S_{surrounding}$ = [[Entropy]] in the surroundings.
 			  - The universe will always keep getting more chaotic until its heat death.
 			- Reworking the **Second Law** and substituting in [[Entropy]], we can predict wether a reaction will be **spontaneous** or **non-spontaneous**.
-				- 
+				- > [!Equation]
+				> $$\Delta G = \Delta H_{system}-T\Delta S_{system}$$
+				> $\Delta G$ = [[Free Energy]] in [[Energy|J]].
+				> $\Delta H$ = [[Enthalpy]]
+				> $\Delta S$ = [[Entropy]]
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
