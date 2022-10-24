@@ -27,7 +27,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  > $\Delta S_{system}$ = [[Entropy]] in the system.
 			  > $\Delta S_{surrounding}$ = [[Entropy]] in the surroundings.
 			  - The universe will always keep getting more chaotic until its heat death.
-			- Reworking the **Second Law** 
+			- Reworking the **Second Law** and substituting in [[Entropy]], we can 
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
