@@ -33,6 +33,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				> $\Delta G$ = [[Free Energy]] in [[Energy|J]].
 				> $\Delta H$ = [[Enthalpy]]
 				> $\Delta S$ = [[Entropy]]
+				> 
+				> > [!Proof]
+				> > Equation|Step
+				> > ---|---
+				> > $\Delta S_{universe} = \Delta S_{system} + \Delta S_{surrounding}>0$|Second Law
+				> > $\Delta S_{universe} = \Delta S_{system} + -\frac{\Delta H_{system}}{T_{system}}>0$|Substitute 
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
