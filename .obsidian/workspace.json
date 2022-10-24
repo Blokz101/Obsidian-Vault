@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Thermodynamics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -208,9 +208,9 @@
   },
   "active": "1d47dde3c5dee102",
   "lastOpenFiles": [
-    "Entropy.md",
-    "Thermodynamics.md",
     "Free Energy.md",
+    "Thermodynamics.md",
+    "Entropy.md",
     "Enthalpy.md",
     "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
     "ther.md",

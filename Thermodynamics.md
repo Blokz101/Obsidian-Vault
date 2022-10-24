@@ -29,9 +29,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			  - The universe will always keep getting more chaotic until its heat death.
 			- Reworking the **Second Law** and substituting in [[Entropy]], we can predict wether a reaction will be **spontaneous** or **non-spontaneous**.
 				- > [!Equation]
-				> $$\Delta G = \Delta H_{system}-T\Delta S_{system}$$
+				> $$\Delta G = \Delta H_{system}-T\Delta S_{system} < 0$$
 				> $\Delta G$ = [[Free Energy]] in [[Energy|J]].
-				> $\Delta H$ = [[Enthalpy]]
+				> $T$ = 
+				> $\Delta H$ = [[Enthalpy]] in [[]]
 				> $\Delta S$ = [[Entropy]]
 				> 
 				> > [!Proof]
@@ -39,8 +40,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				> > ---|---
 				> > $\Delta S_{universe} = \Delta S_{system} + \Delta S_{surrounding}>0$|Second Law
 				> > $\Delta S_{universe} = \Delta S_{system} + -\frac{\Delta H_{system}}{T_{system}}>0$|Substitute $\Delta S_{surrounding}$ for $-\frac{\Delta H_{system}}{T_{system}}$.
-				> > $-T_{system}\Delta S_{universe} = -T_{system}\Delta S_{system} + \Delta H_{system}>0$|Multiply everything by $-T_{system}$.
-				> > $\Delta G = \Delta H_{system}-T\Delta S_{system}$|
+				> > $-T_{system}\Delta S_{universe} = -T_{system}\Delta S_{system} + \Delta H_{system}<0$|Multiply everything by $-T_{system}$.
+				> > $\Delta G = \Delta H_{system}-T\Delta S_{system}<0$|Substitute in $\Delta G$. 
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
