@@ -11,4 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The amount of [[Work]] a chemical **system** can do.
 	- If this value negative the reaction is **spontaneous** and will be an [[Exothermic Process]].
 - ## Reference
-	- 
+	- [[Thermodynamics]]

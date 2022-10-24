@@ -3,11 +3,9 @@ Alias: [Processes]
 Creation Date: Fri June 24th 2022 11:18:51 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-# <%+ tp.file.title %>
-#Permanent 
+#Permanent [[Chemistry]]
 
 - ## Definition
-- ## Notes
 	- Every [[Process]] (throwing a ball, boiling water, burning wood) has two states: Initial and Final. They can be split into [[Process|Processes]]:
 		- [[Endothermic Process]]
 		- [[Exothermic Process]] 
@@ -20,3 +18,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- Chemically change the [[Reactant|Reactants]]. Harder to undo.
 			  > [!Example]
 			  > Burning a piece of paper chemically changes the paper into ash. Energy is released.
+- ## Reference
+	- 
