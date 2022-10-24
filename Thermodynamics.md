@@ -42,7 +42,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				> > $\Delta S_{universe} = \Delta S_{system} + -\frac{\Delta H_{system}}{T_{system}}>0$|Substitute $\Delta S_{surrounding}$ for $-\frac{\Delta H_{system}}{T_{system}}$.
 				> > $-T_{system}\Delta S_{universe} = -T_{system}\Delta S_{system} + \Delta H_{system}<0$|Multiply everything by $-T_{system}$.
 				> > $\Delta G = \Delta H_{system}-T\Delta S_{system}<0$|Substitute in $\Delta G$. 	
-				- A negative $\Delta H$, or positive $\Delta S$ contributes to making a reaction **spontaneous**.
+				- ![[Screenshot 2022-10-24 at 5.33.14 PM.jpeg]]
+				- A **negative $\Delta H$**, or **positive $\Delta S$** contributes to making **$\Delta G$ negative** or the reaction **spontaneous**.
 - ## Reference
 	- [[Heat]]
 	- [[Work]]
