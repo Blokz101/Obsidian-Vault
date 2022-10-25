@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "mode": "preview",
                 "source": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,15 +232,15 @@
   },
   "active": "1d47dde3c5dee102",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
+    "References/Excalidraw/Newton's Method.md",
+    "Thermodynamics.md",
     "Vault/Process.md",
     "Free Energy.md",
-    "Thermodynamics.md",
     "The First Law of Thermodynamics.md",
     "Enthalpy.md",
     "Entropy.md",
     "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
-    "ther.md",
-    "Vault/Energy.md",
-    "Heat.md"
+    "ther.md"
   ]
 }
