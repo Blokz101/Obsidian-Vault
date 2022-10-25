@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f33ea143955e074d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Logarithm Derivative Rules.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a7bcc19f34dbf68b",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,10 +242,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1d47dde3c5dee102",
+  "active": "f33ea143955e074d",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "References/Excalidraw/Newton's Method.md",
+    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Thermodynamics.md",
     "Vault/Process.md",
     "Free Energy.md",
