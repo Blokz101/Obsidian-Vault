@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Excalidraw/Newton's Method.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ca63ff670a514b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intermediate Value Theorem.md",
                 "mode": "preview",
                 "source": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Intermediate Value Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Intermediate Value Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,17 +254,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f33ea143955e074d",
+  "active": "ca63ff670a514b8a",
   "lastOpenFiles": [
+    "References/Excalidraw/ivt.md",
+    "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Newton's Method.md",
+    "Vault/Logarithm Derivative Rules.md",
     "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md",
     "Thermodynamics.md",
     "Vault/Process.md",
     "Free Energy.md",
     "The First Law of Thermodynamics.md",
-    "Enthalpy.md",
-    "Entropy.md",
-    "References/Excalidraw/Drawing 2022-10-23 10.22.38.excalidraw.md",
-    "ther.md"
+    "Enthalpy.md"
   ]
 }
