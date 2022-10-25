@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indeterminate Type.md",
+                "file": "L'Hopital's Rule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indeterminate Type.md",
+                "file": "L'Hopital's Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,8 +278,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7e3dbc35b28e1434",
+  "active": "c834c19396e334ae",
   "lastOpenFiles": [
+    "Indeterminate Type.md",
     "L'Hopital's Rule.md",
     "Intermediate Value Theorem.md",
     "Vault/Related Rates.md",
@@ -288,7 +289,6 @@
     "Vault/Conversions.md",
     "References/Excalidraw/ivt.md",
     "References/Excalidraw/Newton's Method.md",
-    "Vault/Logarithm Derivative Rules.md",
-    "References/Excalidraw/Drawing 2022-10-04 16.22.31.excalidraw.md"
+    "Vault/Logarithm Derivative Rules.md"
   ]
 }
