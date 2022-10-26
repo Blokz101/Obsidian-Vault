@@ -25,80 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enthalpy.md",
-                "mode": "preview",
+                "file": "Extensivity.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1d47dde3c5dee102",
+            "id": "cad0ac9857d0d660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e22f6700b190eafa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intermediate Value Theorem.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c834c19396e334ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'Hopital's Rule.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e3dbc35b28e1434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indeterminate Type.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f33ea143955e074d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7bcc19f34dbf68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Process.md",
-                "mode": "preview",
+                "file": "Spontaneity.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -164,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -226,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'Hopital's Rule.md",
+                "file": "Spontaneity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'Hopital's Rule.md",
+                "file": "Spontaneity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,17 +218,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c834c19396e334ae",
+  "active": "cad0ac9857d0d660",
   "lastOpenFiles": [
+    "Extensivity.md",
+    "Spontaneity.md",
+    "Enthalpy.md",
+    "References/Excalidraw/Linear Approximation.md",
+    "Intermediate Value Theorem.md",
     "L'Hopital's Rule.md",
     "Indeterminate Type.md",
-    "Intermediate Value Theorem.md",
     "Vault/Related Rates.md",
-    "References/Excalidraw/Linear Approximation.md",
     "Implicit Differentiation.md",
-    "Vault/Conversions.md",
-    "References/Excalidraw/ivt.md",
-    "References/Excalidraw/Newton's Method.md",
-    "Vault/Logarithm Derivative Rules.md"
+    "Vault/Conversions.md"
   ]
 }
