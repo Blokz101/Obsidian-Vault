@@ -6,5 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- 
+	- Notated as $k$
+	- Broken into the [[Reaction Rate Constants|Forwards Rate Constant]] and the [[Reaction Rate Constants|Reverse Rate Constant]].
+		- The [[Reaction Rate Constants|Forwards Rate Constant]] determines how fast the reaction will proceed in the forwards direction.
+		- The [[Reaction Rate Constants|Reverse Rate Constant]] determines how fast the reaction will proceed in the reverse direction.
 - ## Reference
