@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Thermodynamics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,13 +56,25 @@
             }
           },
           {
+            "id": "2d7c2524a365be08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition State.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cad0ac9857d0d660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spontaneity.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spontaneity.md",
+                "file": "Transition State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spontaneity.md",
+                "file": "Transition State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,15 +278,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cad0ac9857d0d660",
+  "active": "2d7c2524a365be08",
   "lastOpenFiles": [
     "Kinetics.md",
     "Thermodynamics.md",
+    "Spontaneity.md",
     "Free Energy.md",
     "Phase Change.md",
     "States Of Matter.md",
     "Extensivity.md",
-    "Spontaneity.md",
     "Vault/Temperature.md",
     "Vault/Exothermic Process.md",
     "Vault/Endothermic Process.md"
