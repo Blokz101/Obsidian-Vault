@@ -10,7 +10,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Reaction Rate Constants]] is the rate at which the reaction will occur. It is broken into the [[Reaction Rate Constants|Forwards Rate Constant]] and the [[Reaction Rate Constants|Reverse Rate Constant]].
 		- The [[Reaction Rate Constants]] are determined by the energy difference between the **reactants** and **products**.
 	- ![[IMG_E6B087F931F7-1.jpeg]]
-		- Reactants are lower in energy then 
+	- For the diagram above:
+		- **Reactants** are lower in [[Energy]] then **products**.
+			- Forwards [[Activation Energy]] is **higher**  then reverse [[Activation Energy]].
+			- [[Reaction Rate Constants|Forwards Rate Constant]] is **lower** then the [[Reaction Rate Constants|Reverse Rate Constant]].
+		- **Products** are lower in [[Energy]] then **reactants**.
+			- Forwards [[Activation Energy]] is **lower**  then reverse [[Activation Energy]].
+			- [[Reaction Rate Constants|Forwards Rate Constant]] is **higher** then the [[Reaction Rate Constants|Reverse Rate Constant]].
+		- **Reactants** and **products** are at the same [[Energy]].
+			- Forwards [[Activation Energy]] is **equal**  to reverse [[Activation Energy]].
+			- [[Reaction Rate Constants|Forwards Rate Constant]] is **equal** to [[Reaction Rate Constants|Reverse Rate Constant]].
 	- When transferring from **reactants** to **products** the reaction will be in a [[Transition State]] for a **fleeting moment**.
 		- The [[Transition State]] is higher in energy then the **reactants** or **products** and therefore all reactions require an [[Activation Energy]].
 		- ![[IMG_7238256BDDDF-1 1.jpeg|200]]

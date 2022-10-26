@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Extensivity.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kinetics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinetics.md",
+                "file": "Extensivity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinetics.md",
+                "file": "Extensivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,10 +290,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a2a4fc1edd4e4143",
+  "active": "b1b4724350293e17",
   "lastOpenFiles": [
-    "Reaction Rate Constants.md",
     "Kinetics.md",
+    "Reaction Rate Constants.md",
     "Free Energy.md",
     "Spontaneity.md",
     "Thermodynamics.md",
