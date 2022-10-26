@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Reaction Rate Constants.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Ideal Gas Constant.md",
+                "file": "Reaction Rate Constants.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Ideal Gas Constant.md",
+                "file": "Reaction Rate Constants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,9 +326,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "03569218b1f999fd",
+  "active": "1f9033e3dcfeefec",
   "lastOpenFiles": [
     "Vault/Ideal Gas Law.md",
+    "Vault/Ideal Gas Constant.md",
     "Ideal.md",
     "Reaction Rate Constants.md",
     "Vault/Molarity.md",
@@ -336,7 +337,6 @@
     "Kinetics.md",
     "Free Energy.md",
     "Spontaneity.md",
-    "Thermodynamics.md",
-    "Transition State.md"
+    "Thermodynamics.md"
   ]
 }

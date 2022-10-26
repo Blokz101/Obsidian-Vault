@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $V$ = [[Volume]] in [[Volume|l]]
 	  > $n$ = The amount in [[Mole|Moles]]
 	  > $R$ = [[Ideal Gas Constant]]
-	  > $T$ = [[Temperature]] in [[Temperature|f]]
+	  > $T$ = [[Temperature]] in [[Temperature|K]]
 	- $R$ is always known, we only need to solve for the other three.
 - ## Reference
 	- Multiple other laws can be derived from the [[Ideal Gas Law]]:
