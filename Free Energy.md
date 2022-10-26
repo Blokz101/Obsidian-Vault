@@ -7,12 +7,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- Notated as **$\Delta G$**.
-		- **$\Delta G\degree$** or **Delta G Not** is **$\Delta G$** at **non-standard** conditions.
+		- **$\Delta G\degree$** or **Delta G Not** is **$\Delta G$** at **standard** conditions. Basically $\Delta G$ refers to the [[Free Energy]] of the 
 		- > [!Equation]
 		  > $$\Delta G = \Delta G\degree+RT*ln(K)$$
 		  > 
-		  > $\Delta G$ = 
-		  > $\Delta G\degree$ = 
+		  > $\Delta G$ = [[Free Energy]]
+		  > $\Delta G\degree$ = [[Free Energy]] 
 		  > $R$ = 
 		  > $T$ = 
 		  > $K$ = 
