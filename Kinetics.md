@@ -7,5 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The study of [[Energy]] and the path it takes to get there.
+	- Many reactio
 - ## Reference
 	- [[Thermodynamics]] describes the initial and final [[Energy]] of a reaction while [[Kinetics]] describes the path taken to get from the initial to final [[Energy]].
