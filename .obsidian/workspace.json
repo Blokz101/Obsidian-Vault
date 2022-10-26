@@ -50,7 +50,19 @@
               "type": "markdown",
               "state": {
                 "file": "Kinetics.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1f9033e3dcfeefec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reaction Rate Constants.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -80,7 +92,7 @@
             }
           },
           {
-            "id": "1bf33114a85e86a6",
+            "id": "7dc13cdf132c4fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -280,15 +292,15 @@
   },
   "active": "a2a4fc1edd4e4143",
   "lastOpenFiles": [
-    "Transition State.md",
+    "Reaction Rate Constants.md",
     "Kinetics.md",
-    "Thermodynamics.md",
-    "Spontaneity.md",
     "Free Energy.md",
+    "Spontaneity.md",
+    "Thermodynamics.md",
+    "Transition State.md",
     "Phase Change.md",
     "States Of Matter.md",
     "Extensivity.md",
-    "Vault/Temperature.md",
-    "Vault/Exothermic Process.md"
+    "Vault/Temperature.md"
   ]
 }
