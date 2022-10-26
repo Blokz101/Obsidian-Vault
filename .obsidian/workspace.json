@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Phase Change.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phase Change.md",
+                "file": "Free Energy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phase Change.md",
+                "file": "Free Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,10 +254,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4079b7d05e270a45",
+  "active": "1bf33114a85e86a6",
   "lastOpenFiles": [
-    "States Of Matter.md",
     "Phase Change.md",
+    "States Of Matter.md",
     "Free Energy.md",
     "Thermodynamics.md",
     "Extensivity.md",
