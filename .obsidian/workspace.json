@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kinetics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transition State.md",
+                "file": "Kinetics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transition State.md",
+                "file": "Kinetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,8 +278,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2d7c2524a365be08",
+  "active": "a2a4fc1edd4e4143",
   "lastOpenFiles": [
+    "Transition State.md",
     "Kinetics.md",
     "Thermodynamics.md",
     "Spontaneity.md",
@@ -288,7 +289,6 @@
     "States Of Matter.md",
     "Extensivity.md",
     "Vault/Temperature.md",
-    "Vault/Exothermic Process.md",
-    "Vault/Endothermic Process.md"
+    "Vault/Exothermic Process.md"
   ]
 }
