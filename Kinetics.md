@@ -7,8 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The study of [[Energy]] and the path it takes to get there.
-	- [[Reaction Rate Constants]] is the rate at which the reaction will occur. It is broken into the [[Reaction Rate Constants|Forwards Rate Constant]] and the [[Reaction Rate Constants|Reverse Rate Constant]].
-		- The [[Reaction Rate Constants]] are determined by the energy difference between the **reactants** and **products**.
+	- [[Reaction Rate Constants]] is the rate at which the reaction will occur.
+		- ![[Reaction Rate Constants#^f97fea]]
 	- ![[IMG_E6B087F931F7-1.jpeg]]
 	- For the diagram above:
 		- **Reactants** are lower in [[Energy]] then **products**.
