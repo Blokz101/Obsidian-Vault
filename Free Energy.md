@@ -17,11 +17,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
 		  > $\Delta G\degree$ = [[Free Energy]] in **standard conditions** in [[Energy|J]]
 		  > $R$ = [[Ideal Gas Constant]]
-		  > $T$ = [[Temperature|Temp]] in [[Temperature|K]]
-		  > $K$ = 
+		  > $T$ = [[Temperature]] in [[Temperature|K]]
+		  > $K$ = [[Equilibrium Constant]]
 	- The amount of [[Work]] a chemical **system** can do.
 		- Dependent on [[Entropy]] and [[Enthalpy]].
 		- ![[Thermodynamics#^3dc3fc]]
 	- If this value negative the reaction is [[Spontaneity|Spontaneous]] and will be an [[Exothermic Process]].
 - ## Reference
-	- Useful in [[Thermodynamics]].
+	- Useful in [[Thermodynamics]]/[[Kinetics]].

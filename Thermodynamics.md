@@ -46,6 +46,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 				- A **negative $\Delta H$**, or **positive $\Delta S$** contributes to making **$\Delta G$ negative** or the reaction [[Spontaneity|Spontaneous]].
 				- If **$\Delta G$** is positive then the reaction can still be [[Spontaneity|Spontaneous]] but would **happen in reverse**. The reactants becoming the products and the products becoming the reactants.
 - ## Reference
-	- [[Heat]]
-	- [[Work]]
-	- [[Endothermic Process]] and [[Exothermic Process]]
+	- [[Thermodynamics]] describes the initial and final [[Energy]] of a reaction while[[Kinetics]] describes the path taken to get from the initial to final energy.
+	- Elements
+		- [[Heat]]
+		- [[Work]]
+		- [[Endothermic Process]] and [[Exothermic Process]]

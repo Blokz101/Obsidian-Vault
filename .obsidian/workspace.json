@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Thermodynamics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Free Energy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Thermodynamics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,11 +254,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1bf33114a85e86a6",
+  "active": "bb9ba0cc4a02a5f1",
   "lastOpenFiles": [
+    "Free Energy.md",
     "Phase Change.md",
     "States Of Matter.md",
-    "Free Energy.md",
     "Thermodynamics.md",
     "Extensivity.md",
     "Spontaneity.md",
