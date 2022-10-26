@@ -20,3 +20,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Variable volume
 		- Fast [[Molecule|Molecular]] movement.
 - ## Reference
+	- Changes between these [[States Of Matter]] is called a [[Phase Change]].

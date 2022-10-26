@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "4079b7d05e270a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase Change.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1d3bfae887003a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "States Of Matter.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a48b99f7e653dbb8",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Spontaneous",
+                "query": "phase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Phase Change.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Energy.md",
+                "file": "Phase Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,17 +253,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1bf33114a85e86a6",
+  "active": "4079b7d05e270a45",
   "lastOpenFiles": [
-    "Thermodynamics.md",
+    "States Of Matter.md",
+    "Phase Change.md",
     "Free Energy.md",
+    "Thermodynamics.md",
     "Extensivity.md",
     "Spontaneity.md",
     "Vault/Temperature.md",
     "Vault/Exothermic Process.md",
     "Vault/Endothermic Process.md",
-    "Enthalpy.md",
-    "References/Excalidraw/Linear Approximation.md",
-    "Intermediate Value Theorem.md"
+    "Enthalpy.md"
   ]
 }
