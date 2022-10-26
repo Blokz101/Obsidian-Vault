@@ -7,7 +7,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A change from one [[States Of Matter|State of Matter]] to another.
-- ## [[Entropy]], [[Enthalpy]], and [[Free Energy]]
-	- During a [[Phase Change]] the [[Entropy]] and 
+- ## [[Entropy]] and [[Enthalpy]]
+	- During a [[Phase Change]] the [[Entropy]] and [[Enthalpy]] are always known.
+		- Changing from a [[Solid]] > [[Liquid]] > [[Gas]]:
+			- [[Entropy]] **Increases** as the [[Molecule|Molecules]] become less restricted and therefore more disorderly.
+			- [[Enthalpy]] **Increases** as [[Energy]] is absorbed to push the [[Molecule|Molecules]] farther apart and change [[States Of Matter]].
+		- Changing from a [[Gas]] > [[Liquid]] > [[Solid]]:
+			- 
 - ## Reference
 	- A [[Phase Diagram]] relates [[Phase Change]] to [[Temperature]] and [[]]
