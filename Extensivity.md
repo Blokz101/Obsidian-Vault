@@ -7,6 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- Refers to if the **reactants** are at a **lower** [[Energy]] then the **products** of a reaction or vice versa.
-		- [[Extensivity|Extensive]] if the **products** are at a **higher**
+		- [[Extensivity|Extensive]] if the **reactants** are at a **higher** [[Energy]] then the **products**.
+		- [[Extensivity|Non-Extensive]] if the **products** are at a **higher** [[Energy]] then the **reactants**.
 - ## Reference
-	- 
+	- Useful chart in [[Kinetics]].
