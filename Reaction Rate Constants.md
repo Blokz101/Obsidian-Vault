@@ -19,7 +19,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$R_f=k_f*[reactants^{coeff}]$$
 	  > $$R_r=k_r*[products^{coeff}]$$
 	  > 
-	  > Note that the $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
-	  > $R_f$ = [[Reaction Rate Constants|Forwards Rate Constant]]
-	  > $R_f$ = [[Reaction Rate Constants|Reverse Rate Constant]]
+	  > $R_f$ = [[Reaction Rate Constants|Forwards Rate Constant]].
+	  > $R_f$ = [[Reaction Rate Constants|Reverse Rate Constant]].
+	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
+	  > 
+	  > > [!Note]
+	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
 - ## Reference
