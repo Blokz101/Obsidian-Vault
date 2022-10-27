@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "mode": "preview",
                 "source": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Linear Approximation.md",
+                "file": "References/Excalidraw/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,6 +340,7 @@
   },
   "active": "9d93536552785205",
   "lastOpenFiles": [
+    "References/Excalidraw/Linear Approximation.md",
     "linear.md",
     "Kinetics.md",
     "Max and Min.md",
@@ -348,7 +349,6 @@
     "Reaction Rate Constants.md",
     "Vault/Ideal Gas Law.md",
     "Vault/Ideal Gas Constant.md",
-    "Ideal.md",
-    "Vault/Molarity.md"
+    "Ideal.md"
   ]
 }
