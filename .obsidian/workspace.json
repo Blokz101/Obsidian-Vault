@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "27b54f1c46e19fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Max and Min.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1f9033e3dcfeefec",
             "type": "leaf",
             "state": {
@@ -212,8 +224,24 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
+      },
+      {
+        "id": "106cbef7af9da6ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ebfd9fd0d43e780",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinetics.md",
+                "file": "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinetics.md",
+                "file": "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,17 +354,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a2a4fc1edd4e4143",
+  "active": "8ebfd9fd0d43e780",
   "lastOpenFiles": [
-    "Thermodynamics.md",
+    "Max and Min.md",
+    "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md",
     "Kinetics.md",
+    "Thermodynamics.md",
     "Reaction Rate Constants.md",
     "Vault/Ideal Gas Law.md",
     "Vault/Ideal Gas Constant.md",
     "Ideal.md",
     "Vault/Molarity.md",
-    "Extensivity.md",
-    "Free Energy.md",
-    "Spontaneity.md"
+    "Extensivity.md"
   ]
 }
