@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4a419b41608bd9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reaction Rate Constants.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinetics.md",
+                "file": "Reaction Rate Constants.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinetics.md",
+                "file": "Reaction Rate Constants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +146,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "456d78ead585b5ed",
+  "active": "4a419b41608bd9ee",
   "lastOpenFiles": [
+    "Kinetics.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Temperature.md",
     "Heat.md",
@@ -143,7 +157,6 @@
     "Phase Change.md",
     "Spontaneity.md",
     "Transition State.md",
-    "Vault/Ideal Gas Constant.md",
-    "Vault/Ideal Gas Law.md"
+    "Vault/Ideal Gas Constant.md"
   ]
 }
