@@ -11,6 +11,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_40FC488C196B-1.jpeg|300]]
 		- [[Molarity|Concentration]] is the chance that the right [[Molecule|Molecules]] will **collide**.
 		- [[Reaction Rate Constants|Reaction Rate Constant]] is the chance that the [[Molecule|Molecules]] will collide in the **right orientation**.
+	- The [[Rate of Reaction]] can be sped up by increasing the amount of **reactants** or **products**
 - ## Writing Rate Laws For One Step Reactions 
 	- > [!Equation]
 	  > $$R_f=k_f*[reactants^{coeff}]$$
@@ -22,9 +23,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > > [!Note]
 	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
-	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$
-	  > > - 
+	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$.
+	  > > - Pure [[Solid]] Concentration (s) = $1$.
+	  > > - Pure [[Liquid]] Concentration (l) = $1$.
+	  > > - Pure [[Gas]] Concentration (g) = $\frac{mol}{L}$.
+	  > >   
+	  > > Basically **Pure Solid Concentration** and **Pure Liquid Concentration** will get replaced with **$1$** in the equation and so will not effect it at all.
 	  > 
 	  > > [!Note]
 	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
 - ## Reference
+	- Depends on [[Reaction Rate Constants|Reaction Rate Constant]].
