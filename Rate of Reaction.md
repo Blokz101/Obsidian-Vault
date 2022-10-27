@@ -7,10 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- Notated as $R_f$ or $R_r$
-	- The [[Reaction Rate Constants]] can be determined by the **speed** at which the **reactants** or **products** reach the [[Transition State]]. ^f97fea
+	- The [[Rate of Reaction]]  is the speed that the **reactants** or **products** reach the [[Transition State]].
 		- ![[IMG_40FC488C196B-1.jpeg|300]]
-		- [[Molarity|Concentration]] increases the chance that the right [[Molecule|Molecules]] will **collide**.
-		- A **rate constant** (related to the amount of [[Activation Energy]] required to start the reaction) determines how often they right [[Molecule|Molecules]] will collide in the **right orientation**.
+		- [[Molarity|Concentration]] is the chance that the right [[Molecule|Molecules]] will **collide**.
+		- [[Reaction Rate Constants|Reaction Rate Constant]] is the chance that the [[Molecule|Molecules]] will collide in the **right orientation**.
 - ## Writing Rate Laws For One Step Reactions 
 	- > [!Equation]
 	  > $$R_f=k_f*[reactants^{coeff}]$$
@@ -19,6 +19,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $R_f$ = [[Reaction Rate Constants|Forwards Rate Constant]].
 	  > $R_f$ = [[Reaction Rate Constants|Reverse Rate Constant]].
 	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
+	  > 
+	  > > [!Note]
+	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
+	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$
+	  > > - 
 	  > 
 	  > > [!Note]
 	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
