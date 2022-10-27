@@ -8,8 +8,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- Notated as $k_f$ or $k_r$
 	- Related to the amount of [[Activation Energy]] required to start the reaction) determines how often they right [[Molecule|Molecules]] will collide in the **right orientation**. See [[Rate of Reaction]].
+	- Can be increased with more [[Temperature]].
 	- Broken into the [[Reaction Rate Constants|Forwards Rate Constant]] and the [[Reaction Rate Constants|Reverse Rate Constant]].
 		- The [[Reaction Rate Constants|Forwards Rate Constant]] determines how fast the reaction will proceed in the forwards direction.
 		- The [[Reaction Rate Constants|Reverse Rate Constant]] determines how fast the reaction will proceed in the reverse direction.
 - ## Reference
 	- Determines the [[Rate of Reaction]].
+	- Can be increased with more [[Temperature]].
