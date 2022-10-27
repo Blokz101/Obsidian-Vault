@@ -24,7 +24,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Derivative of a natural Log]
 	> $$\frac{d}{dx}ln(x)=\frac{1}{x}$$
 	> 
-	> Where $a$ is constant
 	> > [!Proof]-
 	> > ![[Drawing 2022-09-27 12.50.52.excalidraw]]
 - ## Reference
