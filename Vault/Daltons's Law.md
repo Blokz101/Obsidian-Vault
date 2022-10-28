@@ -17,7 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> $n$ = Amount in [[Mole|Moles]]
 	> $v$ = [[Volume]] in [[Volume|L]]
 	> $T$ = [[Temperature]] in [[Temperature|K]]
-	> $R$ = [[Ideal Gas Law|Ideal Gas Constant]]
+	> $R$ = [[Ideal Gas Constant]]
 - ## Practice
 	- [[Drawing 2022-10-12 13.30.33.excalidraw]]
 - ## Reference
