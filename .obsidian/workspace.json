@@ -42,9 +42,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "09058e4a50e257a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -155,10 +165,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "6487954f75e172f0",
+  "active": "09058e4a50e257a3",
   "lastOpenFiles": [
     "Reaction Rate Constants.md",
     "Rate of Reaction.md",
