@@ -10,10 +10,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The number of [[Mole|Moles]] of [[Solute]] present per liter of [[Solution]].
 
 	  > [!Equation]
-	  > $$M=\frac{m}{V}$$
+	  > $$M=\frac{n}{V}$$
 	  > $M$ = [[Molarity]] in $\frac{mol}{L}$
-	  > $m$ = Number of [[Mole|Moles]] of [[Solute]]
-	  >  $V$ = Total [[Volume]] of the [[Solution]] in Liters ^fd7278
+	  > $n$ = Amount of [[Solute]] in [[Mole|Moles]]
+	  >  $V$ = [[Volume]] of [[Solution]] in Liters ^fd7278
 - ## Notes
 	- Total [[Solution]] [[Volume]] is also commonly measured in milliliters(mL)/microliters(μL).
 	- These are the common [[Conversion Factor|Conversion Factors]] for mL and μL:
