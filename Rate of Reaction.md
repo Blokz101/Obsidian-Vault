@@ -5,7 +5,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Chemistry]]
 
-- ## Definition
+- ## Definition ^9bcf2a
 	- Notated as $R_f$ or $R_r$
 	- The [[Rate of Reaction]]  is the speed that the **reactants** or **products** reach the [[Transition State]].
 		- ![[IMG_40FC488C196B-1.jpeg|300]]

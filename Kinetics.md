@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- The study of [[Energy]] and the path it takes to get there.
 	- [[Reaction Rate Constants]] is the rate at which the reaction will occur.
-		- ![[Reaction Rate Constants#^f97fea]]
+		- ![[Rate of Reaction#^9bcf2a]]
 	- ![[IMG_E6B087F931F7-1.jpeg]]
 	- For the diagram above:
 		- **Reactants** are lower in [[Energy]] then **products**.

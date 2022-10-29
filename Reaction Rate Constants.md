@@ -5,7 +5,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Chemistry]]
 
-- ## Definition
+- ## Definition ^eb3fb4
 	- Notated as $k_f$ or $k_r$
 	- Related to the amount of [[Activation Energy]] required to start the reaction) determines how often they right [[Molecule|Molecules]] will collide in the **right orientation**. See [[Rate of Reaction]].
 	- Can be increased with more [[Temperature]].
