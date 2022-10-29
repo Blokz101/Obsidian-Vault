@@ -7,5 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A substance that increases the [[Rate of Reaction|Rate Of A Chemical Reaction]].
-	- 
+		- A [[Catalyst]] accomplishes  this by lowering the [[Activation Energy]] and allowing the **reactants** or **products** to reach the [[Transition State]] quicker.
+		- ![[IMG_FDC552510D17-1.jpeg]]
 - ## Reference
