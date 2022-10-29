@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rate of Reaction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catalyst.md",
+                "file": "Rate of Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catalyst.md",
+                "file": "Rate of Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae63f1928853c230",
+  "active": "6d2d33f1e4fa012d",
   "lastOpenFiles": [
+    "Catalyst.md",
     "Rate of Reaction.md",
     "Kinetics.md",
     "Reaction Rate Constants.md",
@@ -177,7 +178,6 @@
     "Vault/Pressure.md",
     "Vault/Daltons's Law.md",
     "Vault/Molarity.md",
-    "molari.md",
-    "Thermodynamics.md"
+    "molari.md"
   ]
 }
