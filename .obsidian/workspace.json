@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "Equilibrium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d2d33f1e4fa012d",
+  "active": "657c59a49c55fe5e",
   "lastOpenFiles": [
-    "Equilibrium.md",
     "Rate of Reaction.md",
+    "Equilibrium.md",
     "Le Chatelier's Principle.md",
     "Extensivity.md",
     "References/IMG_0EB9641C4972-1.jpeg",

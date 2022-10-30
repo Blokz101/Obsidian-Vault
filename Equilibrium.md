@@ -26,8 +26,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **product** than **reactant** at [[Equilibrium]].
 		- If the [[Reaction Rate Constants|Reverse Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **reactant** than **product** at [[Equilibrium]].
 - ## Writing Equilibrium Expressions
+	- A way to solve for $K$ at [[Equilibrium]].
 	- > [!Equation]
-	  > $$K=\frac{[products^{coeff}]}{[reactants^{coeff}]}$$
+	  > $$K=\frac{k_f}{k_r}=\frac{[products^{coeff}]}{[reactants^{coeff}]}$$
 	  > 
 	  > $K$ = [[Equilibrium|Equilibrium Constant]]
 	  > $reactants$ = [[Molarity|Concentration]] of **reactant**.
