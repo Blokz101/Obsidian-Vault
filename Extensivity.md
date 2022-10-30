@@ -15,6 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- **Products** are at a **higher** [[Energy]] then the **reactants**.
 			- At [[Equilibrium]] there will a larger amount of **reactant**.
 			- The [[Equilibrium|Equilibrium Constant]] will be **less than 1**.
+		- > [!Example]
+		  > ![[IMG_0EB9641C4972-1.jpeg|300]]
 - ## Reference
 	- Dependent on the [[Equilibrium|Equilibrium Constant]].
 	- Useful chart in [[Kinetics]].

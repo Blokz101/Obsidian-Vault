@@ -14,6 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Molarity|Concentration]] is the chance that the right [[Molecule|Molecules]] will **collide**.
 		- [[Reaction Rate Constants|Reaction Rate Constant]] is the chance that the [[Molecule|Molecules]] will collide in the **right orientation**.
 	- As a reaction continues it approaches [[Equilibrium]].
+		- ![[Equilibrium#^969ddc]]
 	- The [[Rate of Reaction]] can be sped up by:
 		-  Increasing the amount of **reactant**.
 		- Removing excess **product**. 

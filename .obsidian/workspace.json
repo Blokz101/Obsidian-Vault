@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extensivity.md",
+                "file": "Rate of Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extensivity.md",
+                "file": "Rate of Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +191,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b4227ba8e168257",
+  "active": "6d2d33f1e4fa012d",
   "lastOpenFiles": [
     "Equilibrium.md",
-    "Extensivity.md",
     "Rate of Reaction.md",
+    "Extensivity.md",
     "Catalyst.md",
     "Kinetics.md",
     "Reaction Rate Constants.md",

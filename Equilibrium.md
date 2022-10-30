@@ -16,7 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $K$ = [[Equilibrium|Equilibrium Constant]]
 		  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]]
 		  > $k_r$ = [[Reaction Rate Constants|Reverse Rate Constant]]
-	- As a **reaction** continues it approaches [[Equilibrium]].
+	- As a **reaction** continues it approaches [[Equilibrium]]. ^969ddc
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise. 
 		- The forwards [[Rate of Reaction]] and the reverse [[Rate of Reaction]] increase or decrease respectively until they equal one another.
 		- ![[IMG_80F9867E5D91-1.jpeg|400]]
@@ -25,5 +25,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- When a reaction reaches [[Equilibrium]] the amount of **reactants** and **products** do not have to equal each other.
 		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **product** than **reactant** at [[Equilibrium]].
 		- If the [[Reaction Rate Constants|Reverse Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **reactant** than **product** at [[Equilibrium]].
+- ## Writing Equilibrium Expressions
+	- > [!Equation]
+	  > $$K=\frac{products^{coeff}}{reactants^{coeff}}$$
+	  > 
+	  > 
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
