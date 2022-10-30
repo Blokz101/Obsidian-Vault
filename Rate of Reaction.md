@@ -36,6 +36,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > [!Note]
 	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
 	- > [!Example]
-	  > ![[IMG_4CE926A27C03-1.jpeg]]
+	  > ![[IMG_4CE926A27C03-1.jpeg|400]]
 - ## Reference
 	- Depends on [[Reaction Rate Constants|Reaction Rate Constant]].
