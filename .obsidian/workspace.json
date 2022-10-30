@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rate of Reaction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -182,6 +182,7 @@
   "active": "657c59a49c55fe5e",
   "lastOpenFiles": [
     "Rate of Reaction.md",
+    "Equilibrium.md",
     "Catalyst.md",
     "Kinetics.md",
     "Reaction Rate Constants.md",
@@ -189,7 +190,6 @@
     "Vault/Open End Manometer.md",
     "Vault/Pressure.md",
     "Vault/Daltons's Law.md",
-    "Vault/Molarity.md",
-    "molari.md"
+    "Vault/Molarity.md"
   ]
 }
