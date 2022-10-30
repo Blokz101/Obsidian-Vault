@@ -6,16 +6,20 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition ^9bcf2a
-	- Notated as $R_f$ or $R_r$
+	- Notated as $R_f$ or $R_r$.
+		-  $R_f$ is the [[Rate of Reaction]] in the forwards direction.
+		- $R_r$ is the [[Rate of Reaction]] in the reverse direction.
 	- The [[Rate of Reaction]]  is the speed that the **reactants** or **products** reach the [[Transition State]].
 		- ![[IMG_40FC488C196B-1.jpeg|300]]
 		- [[Molarity|Concentration]] is the chance that the right [[Molecule|Molecules]] will **collide**.
 		- [[Reaction Rate Constants|Reaction Rate Constant]] is the chance that the [[Molecule|Molecules]] will collide in the **right orientation**.
+	- As a reaction continues it approaches [[Equilibrium]].
+		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise. 
+			- 
 	- The [[Rate of Reaction]] can be sped up by:
 		-  Increasing the amount of **reactant**.
 		- Removing excess **product**. 
 		- Adding a [[Catalyst]].
-	- The [[Rate of Reaction]] continues 
 - ## Writing Rate Laws For One Step Reactions 
 	- > [!Equation]
 	  > $$R_f=k_f*[reactants^{coeff}]$$

@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Rate of Reaction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "657c59a49c55fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equilibrium.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "Equilibrium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +179,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d2d33f1e4fa012d",
+  "active": "657c59a49c55fe5e",
   "lastOpenFiles": [
-    "Catalyst.md",
     "Rate of Reaction.md",
+    "Catalyst.md",
     "Kinetics.md",
     "Reaction Rate Constants.md",
     "Vault/Ideal Gas Law.md",
