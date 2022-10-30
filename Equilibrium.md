@@ -39,6 +39,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > [!Note]
 	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
 	  >
+	  > > [!Note]
+	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
+	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$.
+	  > > - Pure [[Solid]] Concentration (s) = $1$.
+	  > > - Pure [[Liquid]] Concentration (l) = $1$.
+	  > > - Pure [[Gas]] Concentration (g) = $\frac{mol}{L}$.
+	  >
 	  > > [!Warning]
 	  > > You can only use the relationship above for the [[Equilibrium|Equilibrium Constant]]. It does not apply anywhere else.
 - ## Reference

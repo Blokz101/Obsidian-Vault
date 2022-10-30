@@ -7,7 +7,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- When a system at [[Equilibrium]] is placed under **stress**, it will respond in such a way that relieves as much **stress** as possible.
-		- We can use this to force a reaction to do what we want it to.
 	- Assume we have a reaction at [[Equilibrium]] and apply the stress of:
 		- Adding reactants.
 			- The **reaction shifts right** to use up some of the extra **reactant** to restore [[Equilibrium]].
@@ -21,4 +20,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Add product
 			- The **reaction shifts left** to use up some of the extra **product** to restore [[Equilibrium]].
 				- ![[IMG_F9C8808E9FBB-1.jpeg|400]]
+	- > [!Warning]
+	  > In general, to apply stress to the reaction, the part of the reaction that we are affecting has to be accounted for in the [[Equilibrium|Equilibrium Constant Expression]].
+	  > 
+	  > This means that affecting the amounts of liquid or solids in a reaction will have a negligible effect.
+	- We can use this principle to force a reaction to do what we want it to.
+		- For example, given 
 - ## Reference
