@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Equilibrium.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "Rate of Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "Rate of Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +179,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "657c59a49c55fe5e",
+  "active": "6d2d33f1e4fa012d",
   "lastOpenFiles": [
-    "Rate of Reaction.md",
     "Equilibrium.md",
+    "Rate of Reaction.md",
     "Catalyst.md",
     "Kinetics.md",
     "Reaction Rate Constants.md",

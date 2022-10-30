@@ -17,5 +17,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $R_r$ = **Reverse** [[Rate of Reaction]] in *unknown*
 	- As a **reaction** continues it approaches [[Equilibrium]].
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise as **reactants** are consumed to form **product**.
+		- The 
 	- 
 - ## Reference
