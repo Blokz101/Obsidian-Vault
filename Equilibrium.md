@@ -11,10 +11,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $\Delta G=0$
 	- The [[Equilibrium|Equilibrium Constant]] is the **forwards** [[Rate of Reaction]] over the **reverse** [[Rate of Reaction]].
 		- > [!Equation]
-		  > $$K=\frac{R_f}{R_r}$$
+		  > $$K=\frac{k_f}{k_r}$$
 		  > 
-		  > $R_f$ = **Forwards**[[Rate of Reaction]] in *unknown*
-		  > $R_r$ = **Reverse** [[Rate of Reaction]] in *unknown*
+		  > $K$ = [[Equilibrium|Equilibrium Constant]]
+		  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]]
+		  > $k_r$ = [[Reaction Rate Constants|Reverse Rate Constant]]
 	- As a **reaction** continues it approaches [[Equilibrium]].
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise as **reactants** are consumed to form **product**.
 		- The 

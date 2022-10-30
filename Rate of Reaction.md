@@ -15,7 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Reaction Rate Constants|Reaction Rate Constant]] is the chance that the [[Molecule|Molecules]] will collide in the **right orientation**.
 	- As a reaction continues it approaches [[Equilibrium]].
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise. 
-			- The forwards [[Rate of Reaction]] and the 
+		- The forwards [[Rate of Reaction]] and the reverse [[Rate of Reaction]] increase or decrease respectively until they equal one another.
 	- The [[Rate of Reaction]] can be sped up by:
 		-  Increasing the amount of **reactant**.
 		- Removing excess **product**. 
