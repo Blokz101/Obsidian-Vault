@@ -23,5 +23,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- Reactant is formed at the [[Reaction Rate Constants|Reverse Rate Constant]] while 
 			- In this example the [[Rate of Reaction|Reverse Rate of Reaction]] (in red) sped up from **0** to **3** and the [[Rate of Reaction|Forwards Rate of Reaction]] (in blue) got slowed down from **8** to **3**. When the two equal each other they are at [[Equilibrium]].
 	- When a reaction reaches [[Equilibrium]] the amount of **reactants** and **products** do not have to equal each other.
-		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **product**
+		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **product** than **reactant** at [[Equilibrium]].
+		- If the [[Reaction Rate Constants|Reverse Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **reactant** than **product** at [[Equilibrium]].
 - ## Reference
