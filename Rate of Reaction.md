@@ -28,6 +28,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $R_r$ = [[Rate of Reaction|Reverse Rate of Reaction]].
 	  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]].
 	  > $k_f$ = [[Reaction Rate Constants|Reverse Rate Constant]].
+	  > $reactants$ = [[Molarity|Concentration]] of **reactant**.
+	  > $products$ =  [[Molarity|Concentration]] of **product**.
 	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
 	  > 
 	  > > [!Note]
@@ -40,7 +42,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > Basically **Pure Solid Concentration** and **Pure Liquid Concentration** will get replaced with **$1$** in the equation and so will not effect it at all.
 	  > 
 	  > > [!Note]
-	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** to the power of their **coefficient**.
+	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
 	- > [!Example]
 	  > ![[IMG_4CE926A27C03-1.jpeg|400]]
 - ## Reference

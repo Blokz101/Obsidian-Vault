@@ -13,9 +13,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Equation]
 		  > $$K=\frac{k_f}{k_r}$$
 		  > 
-		  > $K$ = [[Equilibrium|Equilibrium Constant]]
-		  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]]
-		  > $k_r$ = [[Reaction Rate Constants|Reverse Rate Constant]]
+		  > $K$ = [[Equilibrium|Equilibrium Constant]].
+		  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]].
+		  > $k_r$ = [[Reaction Rate Constants|Reverse Rate Constant]].
 	- As a **reaction** continues it approaches [[Equilibrium]]. ^969ddc
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise. 
 		- The forwards [[Rate of Reaction]] and the reverse [[Rate of Reaction]] increase or decrease respectively until they equal one another.
@@ -30,5 +30,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$K=\frac{products^{coeff}}{reactants^{coeff}}$$
 	  > 
 	  > $K$ = [[Equilibrium|Equilibrium Constant]]
+	  > 
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
