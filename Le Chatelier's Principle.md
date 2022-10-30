@@ -25,7 +25,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > This means that affecting the amounts of liquid or solids in a reaction will have a negligible effect.
 	- We can use this principle to force a reaction to do what we want it to.
-		- For example, if we want to maximize the yield of **Ethyl Acetate** given this reaction:
-		- ![[IMG_F9C8808E9FBB-1 1.jpeg]]
-		- We can remove **water** as its formed to apply stress and push the reaction forwards.
+		- > [!Example]
+		  > If we want to maximize the yield of **Ethyl Acetate** given this reaction:
+		  > ![[IMG_0CEE68735543-1.jpeg]]
+		  > We can remove **water** as its formed to apply stress and push the reaction forwards.
 - ## Reference
+	- Based on the [[Equilibrium|Equilibrium Constant]].
