@@ -26,3 +26,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **product** than **reactant** at [[Equilibrium]].
 		- If the [[Reaction Rate Constants|Reverse Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then there will be a larger amount of **reactant** than **product** at [[Equilibrium]].
 - ## Reference
+	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
