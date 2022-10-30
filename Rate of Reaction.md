@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Forwards Rate of Reaction, Reverse Rate of Reaction]
 Creation Date: Thu October 27th 2022 04:53:56 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
