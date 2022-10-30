@@ -30,6 +30,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$K=\frac{[products^{coeff}]}{[reactants^{coeff}]}$$
 	  > 
 	  > $K$ = [[Equilibrium|Equilibrium Constant]]
+	  > $reactants$ = [[Molarity|Concentration]] of **reactant**.
+	  > $products$ =  [[Molarity|Concentration]] of **product**.
+	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
 	  > 
+	  > > [!Note]
+	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
