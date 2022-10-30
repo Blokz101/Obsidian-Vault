@@ -20,5 +20,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Molarity|Concentration]] of **reactants** drops and the [[Molarity|Concentration]] of **products** rise. 
 		- The forwards [[Rate of Reaction]] and the reverse [[Rate of Reaction]] increase or decrease respectively until they equal one another.
 		- ![[IMG_80F9867E5D91-1.jpeg|400]]
-			- In this example the reverse rate got faster untill it settled at 3 while the 
+			- Reactant is formed at the [[Reaction Rate Constants|Reverse Rate Constant]] while 
+			- In this example the **reverse** [[Rate of Reaction]] (in red) sped up from **0** to **3** and the **forwards** [[Rate of Reaction]] (in blue) got slowed down from **8** to **3**. When the two equal each other they are at [[Equilibrium]].
+	- When a reaction reaches [[Equilibrium]] the amount of **reactants** and **products** do not have to equal each other.
+		- If the [[Reaction Rate Constants|Forwards Rate Constant]] is higher then the [[Reaction Rate Constants|Reverse Rate Constant]] then 
 - ## Reference
