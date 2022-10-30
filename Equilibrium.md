@@ -29,6 +29,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Equation]
 	  > $$K=\frac{products^{coeff}}{reactants^{coeff}}$$
 	  > 
-	  > 
+	  > $K$ = [[Equilibrium|Equilibrium Constant]]
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
