@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "Rate of Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equilibrium.md",
+                "file": "Rate of Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -215,10 +214,10 @@
       }
     ]
   },
-  "active": "88199e7ee9e56d60",
+  "active": "943af01266817227",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Equilibrium.md",
+    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Rate of Reaction.md",
     "Catalyst.md",
     "Vault/Molarity.md",

@@ -21,8 +21,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Adding a [[Catalyst]].
 - ## Writing Rate Laws For One Step Reactions 
 	- > [!Equation]
-	  > $$R_f=k_f*[reactants^{coeff}]$$
-	  > $$R_r=k_r*[products^{coeff}]$$
+	  > $$R_f=k_f*[reactants]^{coeff}$$
+	  > $$R_r=k_r*[products]^{coeff}$$
 	  > 
 	  > $R_f$ = [[Rate of Reaction|Forwards Rate of Reaction]].
 	  > $R_r$ = [[Rate of Reaction|Reverse Rate of Reaction]].
@@ -42,7 +42,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > Basically **Pure Solid Concentration** and **Pure Liquid Concentration** will get replaced with **$1$** in the equation and so will not effect it at all.
 	  > 
 	  > > [!Note]
-	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
+	  > > The $[reactants]^{coeff}$ or $[products]^{coeff}$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
 	- > [!Example]
 	  > ![[IMG_4CE926A27C03-1.jpeg|400]]
 - ## Reference

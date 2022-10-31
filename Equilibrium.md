@@ -29,7 +29,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Writing Equilibrium Expressions
 	- A way to solve for $K$ at [[Equilibrium]].
 	- > [!Equation]
-	  > $$K=\frac{k_f}{k_r}=\frac{[products^{coeff}]}{[reactants^{coeff}]}$$
+	  > $$K=\frac{k_f}{k_r}=\frac{[products]^{coeff}}{[reactants]^{coeff}}$$
 	  > 
 	  > $K$ = [[Equilibrium|Equilibrium Constant]].
 	  > $reactants$ = [[Molarity|Concentration]] of **reactant** in [[Molarity|mpL]].
@@ -37,7 +37,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
 	  > 
 	  > > [!Note]
-	  > > The $[reactants^{coeff}]$ or $[products^{coeff}]$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
+	  > > The $[reactants]^{coeff}$ or $[products]^{coeff}$ refers to a list of each of the **reactants** or **products** [[Molarity|Concentrations]] to the power of their **coefficient**.
 	  >
 	  > > [!Note]
 	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
