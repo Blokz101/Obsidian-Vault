@@ -6,10 +6,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
+	- Notated as $M$
 	- The number of [[Mole|Moles]] of [[Solute]] present per liter of [[Solution]].
   - > [!Equation]
 	  > $$M=\frac{n}{V}$$
-	  > $M$ = [[Molarity]] in $\frac{mol}{L}$
+	  > $M$ = [[Molarity]] in [[Molarity|mpL]] ($\frac{mol}{L}$)
 	  > $n$ = Amount of [[Solute]] in [[Mole|Moles]]
 	  >  $V$ = [[Volume]] of [[Solution]] in [[Volume|L]] ^fd7278
 	- Total [[Solution]] [[Volume]] is also commonly measured in milliliters(mL)/microliters(μL).
