@@ -188,6 +188,18 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "121680d0fd5c9a90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Daltons's Law.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
             ],
             "stacked": true
@@ -198,16 +210,16 @@
         "y": 25,
         "width": 699,
         "height": 865,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "609f5c9a9ab73264",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
-    "Vault/Ideal Gas Law.md",
     "Vault/Daltons's Law.md",
+    "Vault/Ideal Gas Law.md",
+    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Equilibrium.md",
     "Vault/Molarity.md",
     "Rate of Reaction.md",
