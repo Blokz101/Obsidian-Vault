@@ -28,16 +28,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $R_r$ = [[Rate of Reaction|Reverse Rate of Reaction]].
 	  > $k_f$ = [[Reaction Rate Constants|Forwards Rate Constant]].
 	  > $k_f$ = [[Reaction Rate Constants|Reverse Rate Constant]].
-	  > $reactants$ = [[Molarity|Concentration]] of **reactant**.
-	  > $products$ =  [[Molarity|Concentration]] of **product**.
+	  > $reactants$ = [[Molarity|Concentration]] of **reactant** in [[Molarity|mpL]].
+	  > $products$ =  [[Molarity|Concentration]] of **product** in [[Molarity|mpL]].
 	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
 	  > 
 	  > > [!Note]
 	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
-	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$.
-	  > > - Pure [[Solid]] Concentration (s) = $1$.
-	  > > - Pure [[Liquid]] Concentration (l) = $1$.
-	  > > - Pure [[Gas]] Concentration (g) = $\frac{mol}{L}$.
+	  > > - Aqueous Solute [[Molarity|Concentration]] (aq) = $\frac{mol}{L}$.
+	  > > - Pure [[Solid]] [[Molarity|Concentration]] (s) = $1$.
+	  > > - Pure [[Liquid]] [[Molarity|Concentration]] (l) = $1$.
+	  > > - Pure [[Gas]] [[Molarity|Concentration]] (g) = $\frac{mol}{L}$.
 	  > >   
 	  > > Basically **Pure Solid Concentration** and **Pure Liquid Concentration** will get replaced with **$1$** in the equation and so will not effect it at all.
 	  > 

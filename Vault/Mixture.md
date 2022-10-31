@@ -16,4 +16,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- Uniform
 			- Every sample is the same
 - ## Reference
-	- [[Solutions]] are a type of [[Mixture|Homogeneous Mixture]]
+	- [[Solution|Solutions]] are a type of [[Mixture|Homogeneous Mixture]]

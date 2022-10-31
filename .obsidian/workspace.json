@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32d2e24178f5c543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Mixture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f89769c446401396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Vault/Solution.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
             "id": "4d2840fa11f6da34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equilibrium.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "943af01266817227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rate of Reaction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e29fbb85f79bac2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,6 +58,22 @@
         ],
         "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "9a85aac8eb180292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0bbeb16f756163",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Equilibrium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f89769c446401396",
+  "active": "4d2840fa11f6da34",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
+    "Equilibrium.md",
+    "Rate of Reaction.md",
+    "Catalyst.md",
     "Vault/Molarity.md",
     "Vault/Solution.md",
-    "Vault/Homogeneous.md",
     "Vault/Mixture.md",
-    "Catalyst.md",
+    "Vault/Homogeneous.md",
     "Kinetics.md",
-    "Reaction Rate Constants.md",
-    "Rate of Reaction.md",
-    "Equilibrium.md",
-    "Le Chatelier's Principle.md"
+    "Reaction Rate Constants.md"
   ]
 }

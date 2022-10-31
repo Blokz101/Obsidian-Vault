@@ -32,8 +32,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$K=\frac{k_f}{k_r}=\frac{[products^{coeff}]}{[reactants^{coeff}]}$$
 	  > 
 	  > $K$ = [[Equilibrium|Equilibrium Constant]].
-	  > $reactants$ = [[Molarity|Concentration]] of **reactant**.
-	  > $products$ =  [[Molarity|Concentration]] of **product**.
+	  > $reactants$ = [[Molarity|Concentration]] of **reactant** in [[Molarity|mpL]].
+	  > $products$ =  [[Molarity|Concentration]] of **product** in [[Molarity|mpL]].
 	  > $coeff$ = The **coefficient** of the respective **reactant** or **product**.
 	  > 
 	  > > [!Note]
@@ -41,12 +41,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  >
 	  > > [!Note]
 	  > > Must represent each [[States Of Matter|State of Matter]] in the following way:
-	  > > - Aqueous Solute Concentration (aq) = $\frac{mol}{L}$.
-	  > > - Pure [[Solid]] Concentration (s) = $1$.
-	  > > - Pure [[Liquid]] Concentration (l) = $1$.
-	  > > - Pure [[Gas]] Concentration (g) = $\frac{mol}{L}$.
+	  > > - Aqueous Solute [[Molarity|Concentration]] (aq) = $\frac{mol}{L}$.
+	  > > - Pure [[Solid]] [[Molarity|Concentration]] (s) = $1$.
+	  > > - Pure [[Liquid]] [[Molarity|Concentration]] (l) = $1$.
+	  > > - Pure [[Gas]] [[Molarity|Concentration]] (g) = $\frac{mol}{L}$.
 	  >
 	  > > [!Warning]
 	  > > You can only use the relationship above for the [[Equilibrium|Equilibrium Constant]]. It does not apply anywhere else.
+- ## Practice
+	- 
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
+	- Deals with the [[Rate of Reaction]].
