@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Equilibrium.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "da0bbeb16f756163",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "e29fbb85f79bac2e",
             "type": "leaf",
             "state": {
@@ -56,24 +66,8 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
-      },
-      {
-        "id": "9a85aac8eb180292",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da0bbeb16f756163",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

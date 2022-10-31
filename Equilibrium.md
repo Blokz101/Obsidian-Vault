@@ -49,7 +49,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > [!Warning]
 	  > > You can only use the relationship above for the [[Equilibrium|Equilibrium Constant]]. It does not apply anywhere else.
 - ## Practice
-	- 
+	- [[Drawing 2022-10-31 15.07.26.excalidraw]]
 - ## Reference
 	- The [[Equilibrium|Equilibrium Constant]] determines [[Extensivity]].
 	- Deals with the [[Rate of Reaction]].
