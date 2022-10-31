@@ -183,7 +183,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Vault/Daltons's Law.md",
+                    "file": "Vault/Ideal Gas Law.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -205,6 +205,7 @@
   },
   "active": "da0bbeb16f756163",
   "lastOpenFiles": [
+    "Vault/Ideal Gas Law.md",
     "Vault/Daltons's Law.md",
     "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Equilibrium.md",
@@ -213,7 +214,6 @@
     "Catalyst.md",
     "Vault/Solution.md",
     "Vault/Mixture.md",
-    "Vault/Homogeneous.md",
-    "Kinetics.md"
+    "Vault/Homogeneous.md"
   ]
 }
