@@ -8,3 +8,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A non [[Pure Substance]] made by mixing other substances without [[Chemical Bond|Chemical Bonding]].
+	- There are t
