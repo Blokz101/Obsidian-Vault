@@ -128,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equilibrium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +193,12 @@
                 "id": "609f5c9a9ab73264",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Equilibrium.md",
+                    "mode": "preview",
+                    "source": true
+                  }
                 }
               },
               {
@@ -201,7 +207,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Vault/Daltons's Law.md",
+                    "file": "Rate of Reaction.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -216,22 +222,22 @@
         "y": 25,
         "width": 699,
         "height": 865,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "609f5c9a9ab73264",
   "lastOpenFiles": [
+    "Rate of Reaction.md",
+    "Vault/Daltons's Law.md",
+    "Equilibrium.md",
     "Vault/Rate of Change.md",
     "Vault/Ideal Gas Law.md",
-    "Equilibrium.md",
-    "Rate of Reaction.md",
     "References/Balanced Equation Diagram.png",
     "Vault/Activation Energy.md",
     "Vault/Solution.md",
     "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
-    "Vault/Daltons's Law.md",
     "Vault/Molarity.md"
   ]
 }

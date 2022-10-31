@@ -46,6 +46,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > - Pure [[Liquid]] [[Molarity|Concentration]] (l) = $1$.
 	  > > - Pure [[Gas]] [[Molarity|Concentration]] (g) = $\frac{mol}{L}$.
 	  >
+	  > > [!Proof]
+	  > > Step|Explanation
+	  > > ---|---
+	  > > K=\frac{k_f}{k_r}
+	  >
 	  > > [!Warning]
 	  > > You can only use the relationship above for the [[Equilibrium|Equilibrium Constant]]. It does not apply anywhere else.
 - ## Practice
