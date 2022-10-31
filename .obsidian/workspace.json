@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "943af01266817227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rate of Reaction.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "da0bbeb16f756163",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rate of Reaction.md",
+                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +165,48 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "943af01266817227",
+  "floating": {
+    "id": "85f4af4b1fc86d4d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a86c5308f4b7060a",
+        "type": "window",
+        "children": [
+          {
+            "id": "98645ce5aa658dca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "943af01266817227",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rate of Reaction.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 699.99365234375,
+        "height": 752.0059204101562,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "da0bbeb16f756163",
   "lastOpenFiles": [
     "Equilibrium.md",
-    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Rate of Reaction.md",
+    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Catalyst.md",
     "Vault/Molarity.md",
     "Vault/Solution.md",
