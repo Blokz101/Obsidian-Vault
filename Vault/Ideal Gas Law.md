@@ -10,7 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The equation that relates the laws of an [[Ideal Gas]] together.
 	- > [!Equation]
 	  > $$PV=nRT$$
-	  > $P$ = [[Pressure]] in [[atm]]
+	  > $P$ = [[Pressure]] in [[Pressure|atm]]
 	  > $V$ = [[Volume]] in [[Volume|l]]
 	  > $n$ = The amount in [[Mole|Moles]]
 	  > $R$ = [[Ideal Gas Constant]]
