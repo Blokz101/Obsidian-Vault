@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "da0bbeb16f756163",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "e29fbb85f79bac2e",
             "type": "leaf",
             "state": {
@@ -214,14 +204,6 @@
                 }
               },
               {
-                "id": "e10cf57117d83707",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "8526f314172dc37d",
                 "type": "leaf",
                 "state": {
@@ -255,22 +237,22 @@
         "y": 25,
         "width": 699,
         "height": 865,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "60296d8518dcb3e6",
   "lastOpenFiles": [
-    "Vault/Ideal Gas Law.md",
+    "Equilibrium.md",
+    "References/Excalidraw/Drawing 2022-10-31 15.07.26.excalidraw.md",
     "Vault/Pressure.md",
+    "Vault/Ideal Gas Law.md",
     "Vault/atm.md",
     "Vault/Ideal Gas Constant.md",
     "Vault/Temperature.md",
-    "Equilibrium.md",
     "Rate of Reaction.md",
     "Vault/Daltons's Law.md",
-    "Vault/Rate of Change.md",
-    "References/Balanced Equation Diagram.png"
+    "Vault/Rate of Change.md"
   ]
 }
