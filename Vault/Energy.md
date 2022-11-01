@@ -1,5 +1,5 @@
 ---
-Alias: [J]
+Alias: [J, kJ]
 Creation Date: Fri June 24th 2022 11:04:42 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---

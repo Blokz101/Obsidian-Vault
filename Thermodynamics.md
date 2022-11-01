@@ -30,10 +30,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Reworking the **Second Law** and substituting in [[Entropy]], we can predict wether a reaction will be [[Spontaneity|Spontaneous]] or [[Spontaneity|Non-Spontaneous]].
 		- > [!Equation]
               > $$\Delta G = \Delta H-T\Delta S < 0$$
-              > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
+              > $\Delta G$ = [[Free Energy]] in [[Energy|kJ]]
               > $T$ = [[Temperature]] in [[Temperature|K]]
-              > $\Delta H$ = [[Enthalpy]] in [[Energy|J]]
-              > $\Delta S$ = [[Entropy]] in [[Energy|J]]/[[Temperature|K]]
+              > $\Delta H$ = [[Enthalpy]] in [[Energy|kJ]]
+              > $\Delta S$ = [[Entropy]] in [[Energy|kJ]]/[[Temperature|K]]
               > 
               > > [!Proof]-
               > > Equation|Step
