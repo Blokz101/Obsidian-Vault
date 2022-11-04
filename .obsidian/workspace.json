@@ -30,9 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f4c59884045eea36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Integral.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "efc97c3b50b9be73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Riemann Sum.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Summation Notation.md",
+                "file": "Vault/Riemann Sum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Summation Notation.md",
+                "file": "Vault/Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "767abb4a93a0b8c8",
+  "active": "efc97c3b50b9be73",
   "lastOpenFiles": [
+    "Vault/Integral.md",
+    "Vault/Riemann Sum.md",
+    "Vault/Summation Notation.md",
     "Vault/Calculus.md",
     "Enthalpy.md",
     "Intermolecular Forces.md",
     "Equilibrium.md",
     "Rate of Reaction.md",
     "Vault/Solution.md",
-    "Thermodynamics.md",
-    "Vault/Open End Manometer.md",
-    "Thermal Energy vs. Interaction Energy.md",
-    "Interaction Energy.md"
+    "Thermodynamics.md"
   ]
 }

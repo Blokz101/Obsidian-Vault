@@ -26,5 +26,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Summation of 1]
 	  > $$\sum_{i=1}^{N}[1]=N$$
 	- > [!Summation of i]
-	  > $$\sum_{i=1}^{N}[i]=\frac{n(n+1)}{2}$$
+	  > $$\sum_{i=1}^{N}[i]=\frac{N(N+1)}{2}$$
+	  > $$\sum_{i=1}^{N}[i^2]=\frac{N(N+1)(2N+1)}{6}$$
+	  > $$\sum_{i=1}^{N}[i^3]=[\frac{N(N+1)}{2}]^2$$
 - ## Reference
+	- Used in [[Riemann Sum|Riemann Sums]] and [[Integral|Integrals]]
