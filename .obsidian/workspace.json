@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce56123924f4dd9",
+        "id": "ef1bb07df9645637",
         "type": "tabs",
         "children": [
           {
-            "id": "e53d58c9b119d651",
+            "id": "3aa54dff2c009474",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Calculus.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "767abb4a93a0b8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Summation Notation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f4c59884045eea36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Integral.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "efc97c3b50b9be73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Riemann Sum.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Integral.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,13 +124,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4c59884045eea36",
+  "active": "3aa54dff2c009474",
   "lastOpenFiles": [
-    "Derivative.md",
-    "Vault/Integral.md",
     "Vault/Riemann Sum.md",
-    "Vault/Summation Notation.md",
     "Vault/Calculus.md",
+    "Vault/Summation Notation.md",
+    "Vault/Integral.md",
+    "Derivative.md",
     "Enthalpy.md",
     "Intermolecular Forces.md",
     "Equilibrium.md",
