@@ -25,4 +25,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\sum_{i=n}^{N}[C*a_i]=C*\sum_{i=n}^{N}[a_i]$$
 	- > [!Summation of 1]
 	  > $$\sum_{i=1}^{N}[1]=N$$
+	- > [!Summation of i]
+	  > $$\sum_{i=1}^{N}[i]=\frac{n(n+1)}{2}$$
 - ## Reference
