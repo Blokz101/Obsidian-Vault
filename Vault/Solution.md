@@ -15,6 +15,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $\large{\Delta G \approx \Delta H_{solution}=(\Delta H_{solvent} + \Delta H_{solvent}) + \Delta H_{mixture}}$
 		- $\Delta H_{solvent}$ and $\Delta H_{solvent}$ will be **greater than zero** individually as their bonds to themselves are broken in favor of the [[Solvent]] [[Solvent]] bonds.
 		- $\Delta H_{mixture}$ will be **less then zero** as bonds are formed between the mixture of [[Solvent]] and [[Solvent]].
-		- Because $\Delta G \approx \Delta H_{solution}$ if $\Delta H_{solution}$ is **less the zero** then the 
+		- Because $\Delta G \approx \Delta H_{solution}$, if $\Delta H_{solution}$ is **less the zero** then the [[Solvent]] is **soluble** and the dissolution process occurs [[Spontaneity|Spontaneously]].
+	- > [!Example]
+	  > 
 - ## Reference
 	- [[Solution]] is a type of [[Mixture|Homogeneous Mixture]].
