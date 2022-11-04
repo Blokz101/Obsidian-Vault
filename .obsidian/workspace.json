@@ -11,8 +11,12 @@
             "id": "3aa54dff2c009474",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
