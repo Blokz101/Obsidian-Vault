@@ -12,7 +12,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > Soluble|Insoluble
 		  > ---|---
 		  > Polar on Polar| Non-Polar on Polar
-		  > ![[IMG_85CBB02961B4-1.jpeg]]|
-		  > 
+		  > ![[IMG_85CBB02961B4-1.jpeg]]|![[IMG_E2C610645776-1.jpeg]]
+		- The size of the [[Polarity]] regions matters as well.
+			- 
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
