@@ -14,6 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > Polar on Polar| Non-Polar on Polar
 		  > ![[IMG_85CBB02961B4-1.jpeg]]|![[IMG_E2C610645776-1.jpeg]]
 		- The size of the [[Polarity]] regions matters as well.
-			- 
+			- ![[IMG_B8693D270576-1.jpeg|400]]
+				- The **lower** the [[Molarity]] the **less** the two are able to **interact and dissolve**.
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
