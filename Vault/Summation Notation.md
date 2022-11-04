@@ -7,5 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- > [!Equation]
-	  > $$
+	  > $$\large{\sum_{i=n}^{N}}a_i$$
+	  > 
+	  > $n$ = Starting index
+	  > $N$ = 
 - ## Reference
