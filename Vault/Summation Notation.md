@@ -19,4 +19,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Rules
 	- > [!Sum Rule]
 	  > $$\sum_{i=n}^{N}[a_i+b_i]=\sum_{i=n}^{N}[a_i]+\sum_{i=n}^{N}[b_i]$$
+	  > and
+	  > $$\sum_{i=n}^{N}[a_i-b_i]=\sum_{i=n}^{N}[a_i]-\sum_{i=n}^{N}[b_i]$$
+	- > [!Constant Rule]
+	  > $$\sum_{i=n}^{N}[C*a_i]=C*\sum_{i=n}^{N}[a_i]$$
+	- > [!Summation of 1]
+	  > $$\sum_{i=1}^{N}[1]=N$$
 - ## Reference
