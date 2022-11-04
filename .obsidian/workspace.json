@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Molarity.md",
                 "mode": "preview",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Molarity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Vault/Molarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,7 @@
   },
   "active": "c4afbdd1dc5f39f9",
   "lastOpenFiles": [
+    "Vault/Oxidation State.md",
     "Vault/Solubility.md",
     "Vault/Hydrophilic.md",
     "Vault/Hydrophobic.md",
@@ -201,7 +202,6 @@
     "Chemistry.md",
     "Vault/Riemann Sum.md",
     "Vault/Calculus.md",
-    "Vault/Summation Notation.md",
-    "Vault/Integral.md"
+    "Vault/Summation Notation.md"
   ]
 }
