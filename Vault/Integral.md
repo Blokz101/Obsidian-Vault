@@ -9,5 +9,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Finds the area under a curve.
 		- The opposite of a [[Derivative]].
 	- > [!Equation]
-	  > 
+	  > $$\large{\int_{b}^{a}}f(x)dx=lim$$
 - ## Reference
