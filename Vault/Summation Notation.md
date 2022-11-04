@@ -7,8 +7,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- > [!Equation]
-	  > $$\large{\sum_{i=n}^{N}}a_i$$
+	  > $$\large{\sum_{i=n}^{N}a_i}$$
 	  > 
 	  > $n$ = Starting index
-	  > $N$ = 
+	  > $N$ = Ending index
+	  > $a_i$ = The expression to be summed
+	  > 
+	  > > [!Example]
+	  > > $\sum_{i=1}^{20}2i=(2*1)+(2*2)+(2*3)+...+(2*20)$
 - ## Reference
