@@ -7,6 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
+	- The slope of a curve.
+		- The opposite of an [[Integral]].
 	- A real number given by the slope of a the [[Tangent Line]] at that point. Notated as $f'(x)$
 	  > [!Equation]
 	  > $$f'(x)=\lim_{h \rightarrow 0}\frac{f(x-h)-f(x)}{h}$$

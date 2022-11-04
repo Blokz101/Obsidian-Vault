@@ -11,3 +11,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Equation]
 	  > $$A_t=\sum_{i=1}^{N}[f(x)*\Delta x]$$
 - ## Reference
+	- Used to prove the [[Integral]].
