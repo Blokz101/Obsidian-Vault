@@ -20,8 +20,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- $\Delta H_{solvent}$ and $\Delta H_{solvent}$ will be **greater than zero** individually as their bonds to themselves are broken in favor of the [[Solvent]] [[Solvent]] bonds.
 		- $\Delta H_{mixture}$ will be **less then zero** as bonds are formed between the mixture of [[Solvent]] and [[Solvent]].
 		- Because $\Delta G \approx \Delta H_{solution}$, if $\Delta H_{solution}$ is **less the zero** then the [[Solvent]] is **soluble** and the dissolution process occurs [[Spontaneity|Spontaneously]].
-	- #### Solubility
-		- **Like dissolves like**
-			- The [[Polarity|Polar]] parts of a [[Molecule]] can form [[Intramolecular Forces|Intramolecular Bonds]] with the [[Polarity|Polar]] parts of the other [[Molecule]] and so will therefore be **soluable**
+	- #### All of this depends on the [[Solubility]] of the [[Molecule|Molecules]].
 - ## Reference
 	- [[Solution]] is a type of [[Mixture|Homogeneous Mixture]].

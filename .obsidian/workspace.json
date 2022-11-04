@@ -26,13 +26,37 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Solution.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c4afbdd1dc5f39f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Solubility.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f146a68079c55f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarity.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Solubility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Solubility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a1cb69bffa9d8a9",
+  "active": "c4afbdd1dc5f39f9",
   "lastOpenFiles": [
+    "Vault/Solution.md",
+    "Vault/Solubility.md",
+    "Polarity.md",
     "Chemistry.md",
     "Vault/Riemann Sum.md",
     "Vault/Calculus.md",
     "Vault/Summation Notation.md",
     "Vault/Integral.md",
     "Derivative.md",
-    "Enthalpy.md",
-    "Intermolecular Forces.md",
-    "Equilibrium.md",
-    "Rate of Reaction.md"
+    "Enthalpy.md"
   ]
 }
