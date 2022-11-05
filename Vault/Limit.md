@@ -25,9 +25,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- #### Squeeze Theorem
 		- Let $g(x)≤f(x)≤h(x)$.
 		- If $g(x)$ and $h(x)$ have the same [[Limit]] $L$, then $f(x)$ will have the same limit because it must stay be between them.
+	- [[L'Hopital's Rule]]
 - ## Practice
 	- [[Drawing 2022-09-06 15.30.33.excalidraw]]
 	- [[Drawing 2022-09-07 21.08.59.excalidraw]] (Squeeze Theorem)
 - ## Reference
 	- [[Proving a Limit]]
+	- [[L'Hopital's Rule]] is useful for solving [[Limit|Limits]] if they evaluate to an [[Indeterminate Type]].
 	- The basis for [[Derivative|Derivatives]]
