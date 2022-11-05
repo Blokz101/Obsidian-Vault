@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
+                "file": "Vault/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,16 +160,16 @@
         "y": 0,
         "width": 700,
         "height": 681.6861572265625,
-        "maximize": false,
+        "maximize": true,
         "zoom": 1
       }
     ]
   },
-  "active": "505d626293ed38b5",
+  "active": "7ab5db10a8aa317b",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Vault/Limit.md",
     "L'Hopital's Rule.md",
-    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Polarity.md",
     "Vault/Hydrophilic.md",
     "Vault/Hydrophobic.md",
