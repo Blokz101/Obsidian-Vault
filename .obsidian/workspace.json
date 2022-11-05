@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
       }
     ]
   },
-  "active": "b1b4f9c6c5702feb",
+  "active": "505d626293ed38b5",
   "lastOpenFiles": [
-    "Vault/Logarithm.md",
     "Vault/Logarithm Derivative Rules.md",
+    "Vault/Logarithm.md",
     "Vault/Limit.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "L'Hopital's Rule.md",
