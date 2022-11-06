@@ -27,4 +27,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 					- The **lower** the [[Molarity]] the **less** the two are able to **interact and dissolve**.
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
-	- 
+	- Useful in [[Net Equation]].
