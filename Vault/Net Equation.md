@@ -10,9 +10,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Example]
 		  > Sodium Chloride reacting with Silver Nitrate:
 		  > 
-		  > Step 1: Dissolution reaction:
+		  > Step 1: Dissolution reaction into [[Ion]]:
 		  > $NaCl (s) \rightarrow Na^+ (aq) + Cl^- (aq)$
 		  > $AgNO_3 (s) \rightarrow Ag^+ (aq) + NO_3^- (aq)$
 		  > 
-		  > Step 2: 
+		  > Step 2: Check if any of the [[Ion|Ions]] can react and precipitate:
+		  > 
 - ## Reference
