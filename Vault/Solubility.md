@@ -7,6 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- How much of a [[Solute]] can **dissolve** into a [[Solvent]].
+		- 
 	- [[Polarity|Polar]] sections of a [[Molecule]] can interact with [[Intramolecular Forces|Intramolecular Force]] with other [[Polarity|Polar]] sections. The same applies for [[Polarity|Non-Polar]] to [[Polarity|Non-Polar]].
 		- For bonds to form the [[Polarity]] of the any sections of the molecule must be the same.
 		- > [!Example]
