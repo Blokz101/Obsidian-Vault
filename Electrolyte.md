@@ -5,10 +5,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Chemistry]]
 
-- ## [[Electrolyte]]
-	- A substance whose [[Aqueous Solution]] conducts [[Electricity]].
-	- [[Ion|Ions]]
-- ## [[Electrolyte|Non-electrolyte]]
-	- A substance whose [[Aqueous Solution]] does **not** conduct [[Electricity]].
-	- [[Molecule|Molecules]]
+- ## Definition
+	- [[Electrolyte]]
+		- A substance whose [[Aqueous Solution]] conducts [[Electricity]].
+		- **Dissolves** into [[Ion|Ions]].
+	- [[Electrolyte|Non-electrolyte]]
+		- A substance whose [[Aqueous Solution]] does **not** conduct [[Electricity]].
+		- **Dissolves** into [[Molecule|Molecules]].
+	- 
 - ## Reference
