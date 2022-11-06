@@ -1,5 +1,5 @@
 ---
-Alias: [Soluble]
+Alias: [Soluble, Insoluble]
 Creation Date: Thu November 3rd 2022 11:43:20 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -9,8 +9,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- How much of a [[Solute]] can **dissolve** into a [[Solvent]].
 	- [[Solubility]] can be determined by: 
 		- The [[Equilibrium|Equilibrium Constant]] of an equation.
-			- An [[Equilibrium|Equilibrium Constant]] of **1 or above** is considered to be **high** and [[Solubility]].
-			- An [[Equilibrium|Equilibrium Constant]]of **below 1** is considered to be **low** and [[]]
+			- An [[Equilibrium|Equilibrium Constant]] of **1 or above** is considered to be **high** and [[Solubility|Soluble]].
+			- An [[Equilibrium|Equilibrium Constant]] of **below 1** is considered to be **low** and [[Solubility|Insoluble]].
+			- 
 		- [[Polarity|Polar]] sections of a [[Molecule]] can interact with [[Intramolecular Forces|Intramolecular Force]] with other [[Polarity|Polar]] sections. The same applies for [[Polarity|Non-Polar]] to [[Polarity|Non-Polar]].
 			- For bonds to form the [[Polarity]] of the any sections of the molecule must be the same.
 			- > [!Example]
