@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Solubility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Solubility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,18 +234,18 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
-        "width": 700,
-        "height": 681.6861572265625,
-        "maximize": true,
+        "y": 25,
+        "width": 1440,
+        "height": 875,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "8184b68eb92d7168",
+  "active": "0478182f5a4ac34a",
   "lastOpenFiles": [
-    "Vault/Solubility.md",
     "Vault/Solution.md",
+    "Vault/Solubility.md",
     "Electrolyte.md",
     "Aqueous Solution.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
