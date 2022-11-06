@@ -8,6 +8,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- How much of a [[Solute]] can **dissolve** into a [[Solvent]].
 	- [[Solubility]] can be determined by: 
+		- [[Coulomb's Law of Force]]
+			- The **higher the charges** are the **stronger** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Insoluble]].
+			- The **lower the charges** are the **weaker** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Soluble]].
 		- The [[Equilibrium|Equilibrium Constant]] of an equation.
 			- An [[Equilibrium|Equilibrium Constant]] of **1 or above** is considered to be **high** and [[Solubility|Soluble]].
 			- An [[Equilibrium|Equilibrium Constant]] of **below 1** is considered to be **low** and [[Solubility|Insoluble]].
@@ -24,3 +27,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 					- The **lower** the [[Molarity]] the **less** the two are able to **interact and dissolve**.
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
+	- 
