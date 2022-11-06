@@ -10,7 +10,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	2. Cross out any [[Ion|Ions]] that never precipitate with anything
 		- $Li^+$, $Na^+$, $K^+$, $Rb^+$, $Cs^+$, $Fr^+$, $NH_4^+$, $C_2H_3O_2^-$, $ClO_4^-$, $ClO_3^+$, $NO_3^-$
 		- These can be found in [[Solubility Rules]] 1 and 2
-	3. Match up the combinations that are left, [[Ion|Cation]] to [[Ion|Anion]], inner and outter.
-	4. Decide from the [[Solubility Rules]] which [[Ion|Ions]] form a precipitate.
-	5. Write 
+	3. Match up the combinations that are left, [[Ion|Cation]] to [[Ion|Anion]], inner and outer.
+	4. Decide from the [[Solubility Rules]] which [[Ion|Ions]] form a [[Precipitate]].
+	5. Write the [[Net Equation]] for the [[Ion|Ions]] that form a [[Precipitate]].
+- ## Practice
 - ## Reference
+	- Uses [[Solubility Rules]] 
+	- 
