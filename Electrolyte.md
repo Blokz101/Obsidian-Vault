@@ -12,5 +12,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Electrolyte|Non-electrolyte]]
 		- A substance whose [[Aqueous Solution]] does **not** conduct [[Electricity]].
 		- **Dissolves** into [[Molecule|Molecules]].
+	- [[Electrolyte|Electrolytes]] are generally:
+		- [[Ionic Compound|Ionic]]
+		- Strong [[Acid|Acids]]
+		- Strong [[Base|Bases]]
 	- 
 - ## Reference
