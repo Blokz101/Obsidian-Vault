@@ -8,7 +8,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	-  A [[Mixture|Homogeneous Mixture]] composed of a [[Solute]] dissolved in a [[Solvent]].
 	- When water is the [[Solute]] it is called an [[Aqueous Solution]].
-	- The [[Equilibrium|Equilibrium Constant]] determines 
 - ## Solution Process
 	- #### Main Idea
 		- When a [[Solute]] is placed in a [[Solvent]] the forces between the [[Solute]] and [[Solvent]] are stronger then the forces between the [[Solvent]] and itself.
@@ -23,4 +22,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Because $\Delta G \approx \Delta H_{solution}$, if $\Delta H_{solution}$ is **less the zero** then the [[Solvent]] is **soluble** and the dissolution process occurs [[Spontaneity|Spontaneously]].
 	- #### All of this depends on the [[Solubility]] of the [[Molecule|Molecules]].
 - ## Reference
+	- [[Solubility]]
 	- [[Solution]] is a type of [[Mixture|Homogeneous Mixture]].

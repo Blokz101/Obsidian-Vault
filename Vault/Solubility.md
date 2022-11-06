@@ -6,6 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
+	- How 
 	- [[Polarity|Polar]] sections of a [[Molecule]] can interact with [[Intramolecular Forces|Intramolecular Force]] with other [[Polarity|Polar]] sections. The same applies for [[Polarity|Non-Polar]] to [[Polarity|Non-Polar]].
 		- For bonds to form the [[Polarity]] of the any sections of the molecule must be the same.
 		- > [!Example]
