@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6676b4f8bc3566e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrolyte.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8184b68eb92d7168",
             "type": "leaf",
             "state": {
@@ -207,15 +219,15 @@
   },
   "active": "dc3e0f27e984c3cb",
   "lastOpenFiles": [
-    "Vault/Solution.md",
+    "Electrolyte.md",
     "Aqueous Solution.md",
+    "Vault/Solution.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Logarithm.md",
     "Vault/Limit.md",
     "L'Hopital's Rule.md",
     "Polarity.md",
-    "Vault/Hydrophilic.md",
-    "Vault/Hydrophobic.md"
+    "Vault/Hydrophilic.md"
   ]
 }

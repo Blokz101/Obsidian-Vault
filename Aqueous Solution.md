@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A [[Solution]] where the [[Solvent]] is water.
-	- There are two types of [[Aqueous Solution|Aqueous Solutions]]:
-		- Electrolytes
-		- Non
+	- There are two types of [[Solute|Solutes]] when dealing with [[Aqueous Solution|Aqueous Solutions]]:
+		- [[Electrolyte]]
+		- 
 - ## Reference
