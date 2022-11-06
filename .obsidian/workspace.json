@@ -11,8 +11,24 @@
             "id": "dc3e0f27e984c3cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aqueous Solution.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8184b68eb92d7168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Solution.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -77,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aqueous Solution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aqueous Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +207,8 @@
   },
   "active": "dc3e0f27e984c3cb",
   "lastOpenFiles": [
+    "Vault/Solution.md",
+    "Aqueous Solution.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Logarithm.md",
@@ -196,8 +216,6 @@
     "L'Hopital's Rule.md",
     "Polarity.md",
     "Vault/Hydrophilic.md",
-    "Vault/Hydrophobic.md",
-    "Vault/Molarity.md",
-    "Vault/Oxidation State.md"
+    "Vault/Hydrophobic.md"
   ]
 }
