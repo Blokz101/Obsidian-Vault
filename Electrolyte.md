@@ -16,5 +16,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Ionic Compound|Ionic]]
 		- Strong [[Acid|Acids]]
 		- Strong [[Base|Bases]]
-	- 
 - ## Reference

@@ -12,7 +12,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- #### Main Idea
 		- When a [[Solute]] is placed in a [[Solvent]] the forces between the [[Solute]] and [[Solvent]] are stronger then the forces between the [[Solvent]] and itself.
 		- The [[Solute]] and [[Solvent]] break the [[Solvent]] [[Solvent]] bonds to form bonds between [[Solute]] and [[Solvent]].
-	- #### Process
+	- #### Process IDea (See more in [[Writing Precipitation Reactions]])
 		1. Two [[Solubility|Soluble]] [[Compound|Compounds]] dissolve into their separate [[Ion|Ions]] in a [[Solvent]].
 		2. If any combination of the individual [[Ion|Ions]] are [[Solubility|Insoluble]] they form a precipitate and change [[States Of Matter]].
 			- Because the other combinations are [[Solubility|Soluble]] they instantly dissolve if they try to form a precipitate.

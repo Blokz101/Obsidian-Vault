@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electrolyte.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -39,6 +39,18 @@
               "state": {
                 "file": "Vault/Solution.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c9e69823fbf024a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Writing Precipitation Reactions.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Writing Precipitation Reactions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solution.md",
+                "file": "Vault/Writing Precipitation Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,17 +215,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49192f8ae97ec995",
+  "active": "c9e69823fbf024a6",
   "lastOpenFiles": [
+    "Vault/Solution.md",
+    "Vault/Writing Precipitation Reactions.md",
+    "Electrolyte.md",
     "Vault/Net Equation.md",
     "Vault/Solubility.md",
     "Vault/Solubility Rules.md",
     "Vault/Logarithm.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Limit.md",
-    "Vault/Solution.md",
-    "Electrolyte.md",
-    "Aqueous Solution.md",
-    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md"
+    "Aqueous Solution.md"
   ]
 }
