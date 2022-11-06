@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "851596de669d6eb5",
+        "id": "d0dd54f929e2210d",
         "type": "tabs",
         "children": [
           {
-            "id": "505d626293ed38b5",
+            "id": "dc3e0f27e984c3cb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -79,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +187,12 @@
       }
     ]
   },
-  "active": "505d626293ed38b5",
+  "active": "dc3e0f27e984c3cb",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Logarithm.md",
     "Vault/Limit.md",
-    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "L'Hopital's Rule.md",
     "Polarity.md",
     "Vault/Hydrophilic.md",
