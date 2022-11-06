@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- How much of a [[Solute]] can **dissolve** into a [[Solvent]].
-	- [[Solubility]] can be determined by: 
+	- [[Solubility]] can be determined by the [[Solubility Rules]]. The [[Solubility Rules]] are based on the following principles:
 		- [[Coulomb's Law of Force]]
 			- The **higher the charges** are the **stronger** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Insoluble]].
 			- The **lower the charges** are the **weaker** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Soluble]].

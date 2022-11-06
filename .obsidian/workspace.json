@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Solubility.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "Vault/Solubility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "Vault/Solubility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +191,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05604bcdf3bf5da8",
+  "active": "0478182f5a4ac34a",
   "lastOpenFiles": [
+    "Vault/Solubility Rules.md",
     "Vault/Solubility.md",
     "Vault/Logarithm.md",
     "Vault/Logarithm Derivative Rules.md",
@@ -201,7 +202,6 @@
     "Electrolyte.md",
     "Aqueous Solution.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
-    "L'Hopital's Rule.md",
-    "Polarity.md"
+    "L'Hopital's Rule.md"
   ]
 }
