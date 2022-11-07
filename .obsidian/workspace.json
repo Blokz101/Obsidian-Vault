@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Differentials.md",
-                "mode": "source",
+                "file": "References/Excalidraw/Linear Approximation.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Differentials.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Differentials.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +145,7 @@
   },
   "active": "3379f29f711cd566",
   "lastOpenFiles": [
+    "Vault/Differentials.md",
     "Vault/Calculus.md",
     "Optimization.md",
     "Vault/Oxidation State.md",
@@ -153,7 +154,6 @@
     "Electrolyte.md",
     "Vault/Writing Precipitation Reactions.md",
     "Vault/Solubility.md",
-    "Vault/Solubility Rules.md",
-    "Vault/Net Equation.md"
+    "Vault/Solubility Rules.md"
   ]
 }
