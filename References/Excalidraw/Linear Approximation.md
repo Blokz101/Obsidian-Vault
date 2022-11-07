@@ -12,7 +12,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[Drawing 2022-10-04 16.03.33.excalidraw]]
 - ## Error
 	- ![[IMG_6558019F2591-1.jpeg|300]]
-	- 
+	- $\epsilon*\Delta x$ is the **error** between the [[Linear Approximation]] and the **true value**.
+		- > [!Equation]
+		  > $$\large{\epsilon=\frac{f(x=\Delta x)}{}}$$
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
 - ## Reference
