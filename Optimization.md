@@ -6,7 +6,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus]]
 
 - ## Definition
-	- 
+	- A problem where a desired outcome is a result of a function. Finding the max or min of this function can optimize the process.
+	- A real world 
 - ## Practice
 	- 
 - ## Reference
