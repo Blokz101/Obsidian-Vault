@@ -16,13 +16,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Equation]
 		  > $$\large{\epsilon=\frac{f(x-\Delta x)-f(x)+f'(x)\Delta x}{\Delta x}}$$
 		  > 
-		  > > [!Proof]
+		  > > [!Proof]-
 		  > > Equation|Explanation
 		  > > ---|---
 		  > > $L(x)=f(c)+f'(c)(x-c)$|Equation for [[Linear Approximation]]
 		  > > $L(x)=f(c)+f'(c)\Delta x$|Substitute $(x-c)$ for $\Delta x$
 		  > > $\epsilon\Delta x$|Error of [[Linear Approximation]]
-		  > > 
+		  > > $\epsilon\Delta x=f(x+\Delta x)-L(x+\Delta x)$|Create equation for error using the image above
+		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)+f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
+	- 
 - ## Reference
