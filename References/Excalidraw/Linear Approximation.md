@@ -26,5 +26,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)+f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
-	- 
+	- [[Drawing 2022-11-07 15.53.38.excalidraw]]
 - ## Reference

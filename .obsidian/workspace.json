@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ce96aa7b9ad14eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -145,6 +155,8 @@
   },
   "active": "3379f29f711cd566",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
+    "References/Excalidraw/Linear Approximation.md",
     "Vault/Differentials.md",
     "Vault/Calculus.md",
     "Optimization.md",
@@ -152,8 +164,6 @@
     "Vault/Solution.md",
     "Aqueous Solution.md",
     "Electrolyte.md",
-    "Vault/Writing Precipitation Reactions.md",
-    "Vault/Solubility.md",
-    "Vault/Solubility Rules.md"
+    "Vault/Writing Precipitation Reactions.md"
   ]
 }
