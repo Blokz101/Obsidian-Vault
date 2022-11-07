@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3379f29f711cd566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Differentials.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Calculus.md",
+                "file": "Vault/Differentials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Calculus.md",
+                "file": "Vault/Differentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,10 +143,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a82721c7b17d1b6d",
+  "active": "3379f29f711cd566",
   "lastOpenFiles": [
-    "Optimization.md",
     "Vault/Calculus.md",
+    "Optimization.md",
     "Vault/Oxidation State.md",
     "Vault/Solution.md",
     "Aqueous Solution.md",
