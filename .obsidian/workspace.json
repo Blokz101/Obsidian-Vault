@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Differentials.md",
+                "file": "Naming Things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Differentials.md",
+                "file": "Naming Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +176,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "0fa5342a92e2a4e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Naming Things.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -192,17 +204,17 @@
       }
     ]
   },
-  "active": "0582ee1b98ccd7e6",
+  "active": "0fa5342a92e2a4e2",
   "lastOpenFiles": [
+    "Naming Polyatomic Ions.md",
+    "Vault/Differentials.md",
     "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
-    "Vault/Differentials.md",
     "Vault/Calculus.md",
     "Optimization.md",
     "Vault/Oxidation State.md",
     "Vault/Solution.md",
     "Aqueous Solution.md",
-    "Electrolyte.md",
-    "Vault/Writing Precipitation Reactions.md"
+    "Electrolyte.md"
   ]
 }
