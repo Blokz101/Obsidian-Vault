@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
+                "file": "References/Excalidraw/Linear Approximation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +178,10 @@
       }
     ]
   },
-  "active": "3ce96aa7b9ad14eb",
+  "active": "3379f29f711cd566",
   "lastOpenFiles": [
-    "References/Excalidraw/Linear Approximation.md",
     "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
+    "References/Excalidraw/Linear Approximation.md",
     "Vault/Differentials.md",
     "Vault/Calculus.md",
     "Optimization.md",
