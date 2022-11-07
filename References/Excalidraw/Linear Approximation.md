@@ -16,16 +16,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Equation]
 		  > $$\large{\epsilon=\frac{f(x-\Delta x)-f(x)-f'(x)\Delta x}{\Delta x}}$$
 		  > 
-		  > > [!Proof]
+		  > > [!Proof]-
 		  > > Equation|Explanation
 		  > > ---|---
-		  > > $\epsilon\Delta x$|Error of [[Linear Approximation]]
-		  > > $\epsilon\Delta x=f(x+\Delta x)-L(x+\Delta x)$|Create equation for error using the image above
-		  > > $L(x+\Delta x)=f(x)+f'(x)\Delta x$|Use the chart above to find the equation for $L(x+\Delta x)$
-		  > > $\epsilon\Delta x=f(x+\Delta x)-(f(x)+f'(x)\Delta x)$|Substitute $L(x+\Delta x)$ for $f(x)+f'(x)\Delta x$
-		  > > $\epsilon\Delta x=f(x+\Delta x)-f(x)-f'(x)\Delta x$|Simplify
-		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)-f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$
-		  > > 
+		  > > $\epsilon\Delta x$|Error of [[Linear Approximation]].
+		  > > $\epsilon\Delta x=f(x+\Delta x)-L(x+\Delta x)$|Create equation for error using the image above.
+		  > > $L(x+\Delta x)=f(x)+f'(x)\Delta x$|Use the chart above to find the equation for $L(x+\Delta x)$.
+		  > > $\epsilon\Delta x=f(x+\Delta x)-(f(x)+f'(x)\Delta x)$|Substitute $L(x+\Delta x)$ for $f(x)+f'(x)\Delta x$.
+		  > > $\epsilon\Delta x=f(x+\Delta x)-f(x)-f'(x)\Delta x$|Simplify.
+		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)-f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$.
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
 	- [[Drawing 2022-11-07 15.53.38.excalidraw]]
