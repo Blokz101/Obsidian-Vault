@@ -11,8 +11,12 @@
             "id": "a82721c7b17d1b6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Oxidation State.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Oxidation State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Oxidation State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
