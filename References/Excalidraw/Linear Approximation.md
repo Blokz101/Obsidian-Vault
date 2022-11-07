@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_6558019F2591-1.jpeg|300]]
 	- $\epsilon*\Delta x$ is the **error** between the [[Linear Approximation]] and the **true value**.
 		- > [!Equation]
-		  > $$\large{\epsilon=\frac{f(x-\Delta x)-f(x)+f'(x)\Delta x}{\Delta x}}$$
+		  > $$\large{\epsilon=\frac{f(x-\Delta x)-f(x)-f'(x)\Delta x}{\Delta x}}$$
 		  > 
 		  > > [!Proof]-
 		  > > Equation|Explanation
@@ -23,7 +23,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > > $L(x)=f(c)+f'(c)\Delta x$|Substitute $(x-c)$ for $\Delta x$
 		  > > $\epsilon\Delta x$|Error of [[Linear Approximation]]
 		  > > $\epsilon\Delta x=f(x+\Delta x)-L(x+\Delta x)$|Create equation for error using the image above
-		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)+f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$
+		  > > $\epsilon=\frac{f(x-\Delta x)-f(x)-f'(x)\Delta x}{\Delta x}$|Divide by $\Delta x$
 - ## Practice
 	- [[Drawing 2022-10-13 15.51.36.excalidraw]]
 	- [[Drawing 2022-11-07 15.53.38.excalidraw]]
