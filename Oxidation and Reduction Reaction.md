@@ -41,7 +41,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- "Weight" of those [[Electron|Electrons]]
 		- [[Voltage]] difference
 	- > [!Energy]
+	  > $$\Delta G = -n*F*E$$
 	  > 
+	  > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
+	  > $n$ = Amount of [[Electron]] transferred in the [[Oxidation and Reduction Reaction|Redox Reaction]] in [[Mole|Moles]]
+	  > $F$ = [[Faraday's Constant]] in 
 - ## Practice
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
