@@ -5,6 +5,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Chemistry]]
 
-- ## Definition
-	- The agent in a [[Oxidation and Reduction Reaction|Redox Reaction]] that gets reduced by the [[Reducing Agent]] to **ox**
+- ## Definition ^1a1948
+	- The agent in a [[Oxidation and Reduction Reaction|Redox Reaction]] that gets reduced by the [[Reducing Agent]] to **oxidize** the [[Reducing Agent]].
+	- Gains [[Electron|Electrons]].
 - ## Reference
