@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b3c75210231dc9b9",
+        "id": "0e7aba9e3a3e7284",
         "type": "tabs",
         "children": [
           {
-            "id": "b636a219917801ca",
+            "id": "501448f3e8ed9f1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Summation Notation.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -81,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Summation Notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Summation Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +124,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b636a219917801ca",
+  "active": "501448f3e8ed9f1b",
   "lastOpenFiles": [
+    "Vault/Summation Notation.md",
     "Derivative Sum Rule.md",
     "Vault/Net Equation.md",
     "Vault/Solution.md",
@@ -140,7 +135,6 @@
     "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
     "Electrolyte.md",
     "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
-    "Vault/Calculus.md",
-    "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md"
+    "Vault/Calculus.md"
   ]
 }
