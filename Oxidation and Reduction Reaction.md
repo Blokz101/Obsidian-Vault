@@ -6,12 +6,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A reaction in which the [[Oxidation State|Oxidation States]] of the [[Atom|Atoms]] change. This is done because when reacting, the [[Atom|Atoms]] give away/take [[Electron|Electrons]] from the other [[Atom|Atoms]] they are reacting with.
+	- A reaction in which the [[Oxidation State|Oxidation States]] of the [[Atom|Atoms]] change. This is because when they react, the [[Atom|Atoms]] exchange "ownership" of their [[Electron|Electrons]] to reach the most stable state.
 	- There are two types of agents in [[Oxidation and Reduction Reaction|Oxidation and Reduction Reactions]].
 		- [[Reducing Agent]]
 			-  ![[Reducing Agent#^bfee04]]
 		- [[Oxidizing Agent]]
 			-  ![[Oxidizing Agent#^1a1948]]
-	- 
+	- > [!Example]
+	  > $$Cu^{+2}(aq) + Fe(s) \rightarrow Cu(s) + Fe^{+2}(aq)$$
 - ## Reference
 	- 

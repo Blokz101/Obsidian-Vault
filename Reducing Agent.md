@@ -11,13 +11,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Memory Aid]
 	  > **LEO** the lion says **GER**
 	  > 
-	  > <br>|<br> 
-	  > ---|---
-	  > **L**osing|**G**aining
-	  > **E**lectrons|**E**lectrons
-	  > **O**xidation|**R**eduction
+	  > **L**osing
+	  > **E**lectrons
+	  > **O**xidation
 	  > 
-	  > 
-	  > 
-	  > 
+	  > **G**aining
+	  > **E**lectrons
+	  > **R**eduction
 - ## Reference
+	- [[Oxidation and Reduction Reaction|Redox Reaction]]
+	- [[Oxidizing Agent]]
