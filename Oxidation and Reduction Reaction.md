@@ -12,7 +12,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			-  ![[Reducing Agent#^bfee04]]
 		- [[Oxidizing Agent]]
 			-  ![[Oxidizing Agent#^1a1948]]
-	- Half Reaction
 	- > [!Example]
 	  > Copper and Iron reacting (pay attention to the charges):
 	  > $$Cu^{+2}(aq) + Fe(s) \rightarrow Cu(s) + Fe^{+2}(aq)$$
@@ -21,7 +20,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > Copper is the [[Oxidizing Agent]]
 	  > Iron is the [[Reducing Agent]]
-		- The reaction that includes either the [[Reducing Agent]] or [[Oxidizing Agent]] and the [[Electron|Electrons]] that that agent loses or gains.
+	- The reaction that includes either the [[Reducing Agent]] or [[Oxidizing Agent]] and the [[Electron|Electrons]] that that agent loses or gains.
 		- > [!Example]
 		  > Using the example above:
 		  > 
@@ -30,5 +29,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > 
 		  > Oxidation Half Reaction
 		  > $Fe(s) \rightarrow Fe^{+2}(aq) + 2e^-$
+- ## Practice
+	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
 	- 
