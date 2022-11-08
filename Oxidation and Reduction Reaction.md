@@ -35,6 +35,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- The **higher** the **highest occupied molecular orbital** is for the **better** the [[Reducing Agent]].
 		- The **lower** the **lowest unoccupied molecular orbital** is for the **better** the [[Oxidizing Agent]].
 		- ![[IMG_767207E736AC-1.jpeg|400]]
+- ## Energy 
+	- The [[Energy]] released can be calculated by the:
+		- Number of [[Electron|Electrons]]
+		- "Weight" of those [[Electron|Electrons]]
+		- [[Voltage]] difference
+	- > [!Energy]
+	  > 
 - ## Practice
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
