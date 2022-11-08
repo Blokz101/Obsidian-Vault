@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Oxidation and Reduction Reaction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oxidizing Agent.md",
+                "file": "Oxidation and Reduction Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oxidizing Agent.md",
+                "file": "Oxidation and Reduction Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +154,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "179be26bfa0465f1",
+  "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
+    "Oxidizing Agent.md",
     "Oxidation and Reduction Reaction.md",
     "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
     "References/Excalidraw/Drawing 2022-11-08 18.22.09.excalidraw.md",
-    "Oxidizing Agent.md",
     "Reducing Agent.md",
     "Vault/Summation Notation.md",
     "Derivative Sum Rule.md",
