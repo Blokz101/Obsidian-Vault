@@ -23,9 +23,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > Iron is the [[Reducing Agent]]
 		- The reaction that includes either the [[Reducing Agent]] or [[Oxidizing Agent]] and the [[Electron|Electrons]] that that agent loses or gains.
 		- > [!Example]
-		  > Using the example above
+		  > Using the example above:
 		  > 
 		  > Reduction Half Reaction
 		  > $Cu^{2+}(aq) + 2e^- \rightarrow Cu(s)$
+		  > 
+		  > Oxidation Half Reaction
+		  > $Fe(s) \rightarrow Fe^{+2}(aq) + 2e^-$
 - ## Reference
 	- 
