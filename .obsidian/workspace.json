@@ -34,6 +34,22 @@
         ],
         "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "f660fd37c84c5888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e2601cb421095c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solubility.md",
+                "file": "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solubility.md",
+                "file": "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a44bf5644f565a6c",
+  "active": "13e2601cb421095c",
   "lastOpenFiles": [
+    "Vault/Solubility.md",
+    "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
     "Vault/Solution.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
@@ -152,8 +170,6 @@
     "Vault/Differentials.md",
     "Naming Things.md",
     "Naming Polyatomic Ions.md",
-    "Optimization.md",
-    "Vault/Oxidation State.md",
-    "Aqueous Solution.md"
+    "Optimization.md"
   ]
 }

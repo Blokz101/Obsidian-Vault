@@ -25,6 +25,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- The size of the [[Polarity]] regions matters as well.
 				- ![[IMG_B8693D270576-1.jpeg|400]]
 					- The **lower** the [[Molarity]] the **less** the two are able to **interact and dissolve**.
+- ## Practice
+	- [[Drawing 2022-11-07 21.46.30.excalidraw]]
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
 	- Useful in [[Net Equation]].
