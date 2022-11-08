@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "307cdfdf4226bc7c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "1f20a5d2ac8904f6",
             "type": "leaf",
             "state": {
@@ -48,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Oxidizing Agent.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
+                "file": "Oxidizing Agent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
+                "file": "Oxidizing Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +155,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "307cdfdf4226bc7c",
+  "active": "179be26bfa0465f1",
   "lastOpenFiles": [
     "Oxidation and Reduction Reaction.md",
-    "References/Excalidraw/Drawing 2022-11-08 18.22.09.excalidraw.md",
     "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
+    "References/Excalidraw/Drawing 2022-11-08 18.22.09.excalidraw.md",
     "Oxidizing Agent.md",
     "Reducing Agent.md",
     "Vault/Summation Notation.md",
