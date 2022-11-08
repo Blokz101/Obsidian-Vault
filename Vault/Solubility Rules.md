@@ -9,6 +9,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A set of rules that determine how if a [[Molecule]] is [[Solubility|Soluble]] or [[Solubility|Insoluble]].
 - ## Rules
 	- ![[Screenshot 2022-11-06 at 4.11.59 PM.jpeg]]
+- ## Practice
+	- [[Drawing 2022-11-07 22.42.57.excalidraw]]
 - ## Reference
 	- [[Solubility]]
 	- Useful in [[Net Equation|Net Equations]]

@@ -42,10 +42,38 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b636a219917801ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Net Equation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 2,
         "stacked": true
+      },
+      {
+        "id": "a9352a7473440010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed286473321f08b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4a9559d776094c9",
+  "active": "ed286473321f08b4",
   "lastOpenFiles": [
+    "Vault/Solubility Rules.md",
+    "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
+    "Vault/Net Equation.md",
     "Vault/Solubility.md",
     "Electrolyte.md",
     "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
     "Vault/Solution.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
-    "References/Excalidraw/Linear Approximation.md",
-    "Vault/Differentials.md",
-    "Naming Things.md",
-    "Naming Polyatomic Ions.md"
+    "References/Excalidraw/Linear Approximation.md"
   ]
 }
