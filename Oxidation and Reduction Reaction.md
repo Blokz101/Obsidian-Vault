@@ -29,6 +29,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > 
 		  > Oxidation Half Reaction
 		  > $Fe(s) \rightarrow Fe^{+2}(aq) + 2e^-$
+- ## Good [[Reducing Agent]] and [[Oxidizing Agent]]
+	- We want the [[Oxidation and Reduction Reaction|Redox Reaction]] to be [[Spontaneity|Spontaneous]], if it is not it will not occur at all.
+	- Therefore, the [[HO]]
 - ## Practice
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
