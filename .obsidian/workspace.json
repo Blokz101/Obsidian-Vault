@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "501448f3e8ed9f1b",
+            "id": "0f6c60c64e5b5cff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Oxidation and Reduction Reaction.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oxidation and Reduction Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oxidation and Reduction Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "501448f3e8ed9f1b",
+  "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
+    "Oxidation and Reduction Reaction.md",
     "Vault/Summation Notation.md",
     "Derivative Sum Rule.md",
     "Vault/Net Equation.md",
@@ -134,7 +141,6 @@
     "Vault/Solubility Rules.md",
     "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
     "Electrolyte.md",
-    "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
-    "Vault/Calculus.md"
+    "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md"
   ]
 }
