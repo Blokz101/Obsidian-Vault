@@ -9,7 +9,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The agent in a [[Oxidation and Reduction Reaction|Redox Reaction]] that reduces the [[Oxidation State|Oxidation Number]] of the [[Oxidizing Agent]].
 	- Loses [[Electron|Electrons]].
 	- > [!Memory Aid]
-	  > **OIL RIG**
+	  > **LEO** the lion says **GER**
 	  > 
-	  > O
+	  > <br>|<br> 
+	  > ---|---
+	  > **L**osing|**G**aining
+	  > **E**lectrons|**E**lectrons
+	  > **O**xidation|**R**eduction
+	  > 
+	  > 
+	  > 
+	  > 
 - ## Reference
