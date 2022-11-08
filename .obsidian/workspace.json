@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0db4ef181ec83fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Solution.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a44bf5644f565a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Solubility.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e4a9559d776094c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Solubility Rules.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b636a219917801ca",
             "type": "leaf",
             "state": {
@@ -56,24 +20,7 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
-      },
-      {
-        "id": "a9352a7473440010",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed286473321f08b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
+                "file": "Vault/Net Equation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
+                "file": "Vault/Net Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,15 +130,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed286473321f08b4",
+  "active": "b636a219917801ca",
   "lastOpenFiles": [
+    "Vault/Solution.md",
+    "Vault/Solubility.md",
     "Vault/Solubility Rules.md",
     "References/Excalidraw/Drawing 2022-11-07 22.42.57.excalidraw.md",
     "Vault/Net Equation.md",
-    "Vault/Solubility.md",
     "Electrolyte.md",
     "References/Excalidraw/Drawing 2022-11-07 21.46.30.excalidraw.md",
-    "Vault/Solution.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Drawing 2022-11-07 15.53.38.excalidraw.md",
     "References/Excalidraw/Linear Approximation.md"
