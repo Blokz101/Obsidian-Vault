@@ -30,3 +30,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- Depends on the [[Polarity|Polar]] and [[Polarity|Non-Polar]] sections of a [[Molecule]].
 	- Useful in [[Net Equation]].
+	- [[Solubility Rules]].
