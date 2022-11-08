@@ -13,6 +13,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Oxidizing Agent]]
 			-  ![[Oxidizing Agent#^1a1948]]
 	- > [!Example]
+	  > Copper and Iron reacting (pay attention to the charges):
 	  > $$Cu^{+2}(aq) + Fe(s) \rightarrow Cu(s) + Fe^{+2}(aq)$$
+	  > 
+	  > Iron gives up two of its [[Electron|Electrons]] to Copper.
+	  > 
+	  > Copper is the [[Oxidizing Agent]]
+	  > Iron is the [[Reducing Agent]]
 - ## Reference
 	- 
