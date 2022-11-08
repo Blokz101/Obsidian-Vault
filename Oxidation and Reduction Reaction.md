@@ -31,7 +31,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $Fe(s) \rightarrow Fe^{+2}(aq) + 2e^-$
 - ## Good [[Reducing Agent]] and [[Oxidizing Agent]]
 	- We want the [[Oxidation and Reduction Reaction|Redox Reaction]] to be [[Spontaneity|Spontaneous]], if it is not it will not occur at all.
-	- Therefore, the [[HO]]
+	- Therefore: 
+		- The **higher** the **highest occupied molecular orbital** is for the **better** the [[Reducing Agent]].
+		- The **lower** the **lowest unoccupied molecular orbital** is for the **better** the [[Oxidizing Agent]].
+		- ![[IMG_767207E736AC-1.jpeg|400]]
 - ## Practice
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
