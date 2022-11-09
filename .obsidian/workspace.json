@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Oxidation and Reduction Reaction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Coulomb's Law of Energy.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -180,9 +180,9 @@
   },
   "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
-    "Faraday's Constant.md",
-    "Oxidation and Reduction Reaction.md",
     "Vault/Coulomb's Law of Energy.md",
+    "Oxidation and Reduction Reaction.md",
+    "Faraday's Constant.md",
     "Oxidizing Agent.md",
     "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
     "References/Excalidraw/Drawing 2022-11-08 18.22.09.excalidraw.md",
