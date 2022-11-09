@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Oxidation and Reduction Reaction.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Coulomb's Law of Energy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Faraday's Constant.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Coulomb's Law of Energy.md",
+                "file": "Faraday's Constant.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Coulomb's Law of Energy.md",
+                "file": "Faraday's Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +179,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa398f46314c364a",
+  "active": "c09e509325e47e15",
   "lastOpenFiles": [
     "Oxidation and Reduction Reaction.md",
+    "Vault/Coulomb's Law of Energy.md",
     "Faraday's Constant.md",
     "Oxidizing Agent.md",
     "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
@@ -189,7 +190,6 @@
     "Reducing Agent.md",
     "Vault/Summation Notation.md",
     "Derivative Sum Rule.md",
-    "Vault/Net Equation.md",
-    "Vault/Solution.md"
+    "Vault/Net Equation.md"
   ]
 }
