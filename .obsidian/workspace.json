@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Riemann Sum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Vault/Riemann Sum.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 }
@@ -232,15 +232,15 @@
         "y": 25,
         "width": 700,
         "height": 785,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f9603043ad22f0b7",
+  "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
-    "Vault/Riemann Sum.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+    "Vault/Riemann Sum.md",
     "Vault/Summation Notation.md",
     "Vault/Coulomb's Law of Energy.md",
     "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
