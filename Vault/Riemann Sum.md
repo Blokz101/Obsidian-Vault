@@ -13,6 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > where:
 	  > $$\Delta x=\frac{b-a}{n}$$
 	  > 
+	  > $A_t$ = The total area of the rectangles or the approximate area under the curve.
 	  > $a$ = Starting value of the [[Riemann Sum]].
 	  > $b$ = Ending value of the [[Riemann Sum]].
 	  > $n$ = Number of rectangles used.
