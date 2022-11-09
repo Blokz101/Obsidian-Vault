@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faraday's Constant.md",
+                "file": "Oxidation and Reduction Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faraday's Constant.md",
+                "file": "Oxidation and Reduction Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +178,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c09e509325e47e15",
+  "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
+    "Faraday's Constant.md",
     "Oxidation and Reduction Reaction.md",
     "Vault/Coulomb's Law of Energy.md",
-    "Faraday's Constant.md",
     "Oxidizing Agent.md",
     "References/Excalidraw/Drawing 2022-11-08 18.21.30.excalidraw.md",
     "References/Excalidraw/Drawing 2022-11-08 18.22.09.excalidraw.md",
