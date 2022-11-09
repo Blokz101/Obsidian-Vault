@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Summation Notation.md",
+                "file": "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Summation Notation.md",
+                "file": "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,15 +209,15 @@
         "y": 25,
         "width": 700,
         "height": 785,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0f6c60c64e5b5cff",
+  "active": "24be5c1afbd892af",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
     "Vault/Summation Notation.md",
+    "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
     "Oxidation and Reduction Reaction.md",
     "Vault/Coulomb's Law of Energy.md",
     "Faraday's Constant.md",
