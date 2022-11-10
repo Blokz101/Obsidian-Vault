@@ -218,7 +218,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Vault/Integral.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -252,10 +252,10 @@
   },
   "active": "4fd11838fc3514b1",
   "lastOpenFiles": [
-    "Vault/Riemann Sum.md",
-    "Vault/Integral.md",
-    "Vault/Summation Notation.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+    "Vault/Integral.md",
+    "Vault/Riemann Sum.md",
+    "Vault/Summation Notation.md",
     "Vault/summati.md",
     "Vault/Coulomb's Law of Energy.md",
     "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",

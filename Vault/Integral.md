@@ -9,7 +9,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Finds the area under a curve.
 		- The opposite of a [[Derivative]].
 	- > [!Equation]
-	  > $$\large{\int_{a}^{b}}f(x)dx=^{lim}_{n\rightarrow \infty}\sum_{i=1}^{n}[f(x^*=a+i\Delta x)*\Delta x]$$
+	  > $$\large{\int_{a}^{b}}f(x)dx=^{lim}_{n\rightarrow \infty}\sum_{i=1}^{n}[f(a+i\Delta x)*\Delta x]$$
 	  > 
 	  > $a$ = The starting value of the [[Integral]].
 	  > $b$ = The ending value of the [[Integral]].
