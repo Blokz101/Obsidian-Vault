@@ -13,6 +13,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > Where: $$\Delta x=\frac{b-a}{n}$$
 	  > 
+	  > And:
+	  > 
 	  > Sum Type|$x^*$ Equation
 	  > ---|---
 	  > Right Sum|$x^*=a+i\Delta x$
