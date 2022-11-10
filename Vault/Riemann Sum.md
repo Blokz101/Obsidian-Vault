@@ -28,4 +28,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-11-09 15.29.45.excalidraw]]
 - ## Reference
+	- Uses [[Summation Notation]].
 	- Used to prove the [[Integral]].
