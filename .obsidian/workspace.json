@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Integral.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,10 +250,10 @@
       }
     ]
   },
-  "active": "f9603043ad22f0b7",
+  "active": "4fd11838fc3514b1",
   "lastOpenFiles": [
-    "Vault/Integral.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+    "Vault/Integral.md",
     "Vault/Riemann Sum.md",
     "Vault/Summation Notation.md",
     "Vault/summati.md",
