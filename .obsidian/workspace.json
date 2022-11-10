@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Riemann Sum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+                "file": "Vault/Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,6 @@
                 }
               }
             ],
-            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -250,7 +249,7 @@
       }
     ]
   },
-  "active": "f9603043ad22f0b7",
+  "active": "0f6c60c64e5b5cff",
   "lastOpenFiles": [
     "Vault/Summation Notation.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
