@@ -240,8 +240,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 370,
-        "y": 25,
+        "x": 301,
+        "y": 110,
         "width": 700,
         "height": 785,
         "maximize": false,
