@@ -14,8 +14,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\Delta x=\frac{b-a}{n}$$
 	  > 
 	  > Right Sum: $x^*=a+i\Delta x$
-	  > Left Sum: $x^*a+(i-1)\Delta x$
-	  > Middle Sum: $x^*a+(i-\frac{1}{2})\Delta x$
+	  > Left Sum: $x^*=a+(i-1)\Delta x$
+	  > Middle Sum: $x^*=a+(i-\frac{1}{2})\Delta x$
 	  > 
 	  > $A_t$ = The total area of the rectangles or the approximate area under the curve.
 	  > $a$ = Starting value of the [[Riemann Sum]].
