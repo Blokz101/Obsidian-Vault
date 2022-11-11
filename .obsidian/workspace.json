@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oxidation and Reduction Reaction.md",
+                "file": "Galvanic Cell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oxidation and Reduction Reaction.md",
+                "file": "Galvanic Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +163,18 @@
                 }
               },
               {
+                "id": "93f1c5c0312ecce9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Galvanic Cell.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
                 "id": "8180d860640656cf",
                 "type": "leaf",
                 "state": {
@@ -199,7 +211,7 @@
                 }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -213,10 +225,10 @@
       }
     ]
   },
-  "active": "abac4d82c09aabe8",
+  "active": "93f1c5c0312ecce9",
   "lastOpenFiles": [
-    "Standard Reduction Potentials Table.md",
     "Oxidation and Reduction Reaction.md",
+    "Standard Reduction Potentials Table.md",
     "Oxidizing Agent.md",
     "Reducing Agent.md",
     "Faraday's Constant.md",

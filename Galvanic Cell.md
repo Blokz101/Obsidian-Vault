@@ -7,6 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
+	- ![[IMG_34EA197AEA1F-1.jpeg]]
 - ## Cell Potential Energy 
 	- The [[Energy]] released can be calculated by this:
 		- Number of [[Electron|Electrons]]
