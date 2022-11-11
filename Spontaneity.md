@@ -1,5 +1,5 @@
 ---
-Alias: [Spontaneous, Non-Spontaneous]
+Alias: [Spontaneous, Non-Spontaneous, Spontaneously, Non-Spontaneously]
 Creation Date: Wed October 26th 2022 10:41:46 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
