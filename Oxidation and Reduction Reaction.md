@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A reaction in which the [[Oxidation State|Oxidation States]] of the [[Atom|Atoms]] change. This is because when they react, the [[Atom|Atoms]] exchange "ownership" of their [[Electron|Electrons]] to reach the most stable state.
-	- The [[Oxidation and Reduction Reaction|Redox Reaction]] can be broken down into its two seperate [[Half Oxidation and Reduction Reaction|Half Redox Reactions]]
+	- The [[Oxidation and Reduction Reaction|Redox Reaction]] can be broken down into its two separate [[Half Oxidation and Reduction Reaction|Half Redox Reactions]].
 	- There are two types of agents in [[Oxidation and Reduction Reaction|Oxidation and Reduction Reactions]].
 		- [[Reducing Agent]]
 			-  ![[Reducing Agent#^bfee04]]

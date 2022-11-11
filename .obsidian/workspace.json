@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Oxidation and Reduction Reaction.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Galvanic Cell.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oxidation and Reduction Reaction.md",
+                "file": "Galvanic Cell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oxidation and Reduction Reaction.md",
+                "file": "Galvanic Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1363eede2519ab68",
+  "active": "76ffad764105cfbe",
   "lastOpenFiles": [
     "Standard Reduction Potentials Table.md",
     "Oxidation and Reduction Reaction.md",
