@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Vault/Voltage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Vault/Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76ffad764105cfbe",
+  "active": "9f01af26fcecf76f",
   "lastOpenFiles": [
-    "Vault/Voltage.md",
     "Galvanic Cell.md",
+    "Vault/Voltage.md",
     "Standard Reduction Potentials Table.md",
     "Oxidation and Reduction Reaction.md",
     "Half Oxidation and Reduction Reaction.md",
