@@ -4,52 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "499a8883badd949a",
+        "id": "0e7aba9e3a3e7284",
         "type": "tabs",
         "children": [
           {
-            "id": "29d3f15bf78410f5",
+            "id": "24be5c1afbd892af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f9603043ad22f0b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "aa398f46314c364a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oxidation and Reduction Reaction.md",
+                "file": "Vault/Coulomb's Law of Energy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "76ffad764105cfbe",
+            "id": "c09e509325e47e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Faraday's Constant.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "8532e94e4cfdcc3b",
+            "id": "1f20a5d2ac8904f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Standard Reduction Potentials.md",
+                "file": "Reducing Agent.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c7b7d817cbd436c2",
+            "id": "179be26bfa0465f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spontaneity.md",
+                "file": "Oxidizing Agent.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Standard Reduction Potentials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Standard Reduction Potentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +187,92 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76ffad764105cfbe",
+  "floating": {
+    "id": "8297612ab0b7dc9e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7806fc6ef0f92163",
+        "type": "window",
+        "children": [
+          {
+            "id": "ca71a8cc1c4fd24f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "028c948cf226a45c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Riemann Sum.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "abac4d82c09aabe8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Standard Reduction Potentials.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "4fd11838fc3514b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Integral.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "f3aed4552364ce23",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Summation Notation.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical",
+        "x": 371,
+        "y": 25,
+        "width": 699,
+        "height": 865,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "abac4d82c09aabe8",
   "lastOpenFiles": [
-    "Standard Reduction Potentials.md",
-    "Galvanic Cell.md",
-    "Spontaneity.md",
-    "Oxidation and Reduction Reaction.md",
-    "Chemistry.md",
-    "Oxidizing Agent.md",
-    "Reducing Agent.md",
-    "Faraday's Constant.md",
+    "Vault/git pull.md",
+    "Vault/Summation Notation.md",
+    "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
+    "Vault/Riemann Sum.md",
+    "Vault/Integral.md",
+    "Vault/summati.md",
     "Vault/Coulomb's Law of Energy.md",
-    "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md"
+    "References/Excalidraw/Drawing 2022-11-09 15.05.43.excalidraw.md",
+    "Oxidation and Reduction Reaction.md",
+    "Faraday's Constant.md"
   ]
 }
