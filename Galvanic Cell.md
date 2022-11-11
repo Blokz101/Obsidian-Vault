@@ -12,7 +12,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".
 		1. The battery sends a spare [[Electron]] into the **reduction compartment** and a $Cu^{+2}$ [[Ion]] reacts with the spare [[Electron]] to form a $Cu$ [[Atom]] and bond to the $Cu$ [[Electrode]]. As it does this it changes to a **solid**.
 			- This reaction is displayed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below the cell.
-		2. The $Cu^{+2}$ [[Ion]], which was previously bonded with an [[Ion]] in the [[Solvent]] needs to be replaced. This is accomplished by the $KCl$ in the **salt bridge**. It splits into its two [[Ion|Ions]] $K^+$ and $Cl^-$, and the $K^+$ bonds with the [[Solvent]]  
+		2. The $Cu^{+2}$ [[Ion]], which was previously bonded with an [[Ion]] in the [[Solvent]] needs to be replaced. 
+			1. This is accomplished by the $KCl$ in the **salt bridge**. It splits into its two [[Ion|Ions]] $K^+$ and $Cl^-$, and the $K^+$ bonds with the [[Solvent]] to replace the $Cu^{+2}$.
+		3. $KCl$ split into $K^+$ and $Cl^-$ and $K^+$ was absorbed by the **reduction compartment's** [[Solvent]]. This releases a free $Cl^-1$ into the **oxidation compartment** which needs to bond to something.
+			- It rips a $Fe$ [[Atom]] away from the **solid** [[Electrode]] in the **oxidation compartment** and forces it to become an $Fe^{+2}$ [[Ion]] according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below that **compartment**.
+		4. The [[Electron]] freed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] as described under the **oxidation compartment** returns to the **battery** to complete the circuit.
 - ## Cell Potential Energy
 	- The [[Energy]] released can be calculated by this:
 		- Number of [[Electron|Electrons]]
