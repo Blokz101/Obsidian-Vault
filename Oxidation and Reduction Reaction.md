@@ -7,6 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A reaction in which the [[Oxidation State|Oxidation States]] of the [[Atom|Atoms]] change. This is because when they react, the [[Atom|Atoms]] exchange "ownership" of their [[Electron|Electrons]] to reach the most stable state.
+	- The [[Oxidation and Reduction Reaction|Redox Reaction]] can be broken down into its two seperate [[Half Oxidation and Reduction Reaction|Half Redox Reactions]]
 	- There are two types of agents in [[Oxidation and Reduction Reaction|Oxidation and Reduction Reactions]].
 		- [[Reducing Agent]]
 			-  ![[Reducing Agent#^bfee04]]
@@ -20,15 +21,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > 
 	  > Copper is the [[Oxidizing Agent]]
 	  > Iron is the [[Reducing Agent]]
-	- The reaction that includes either the [[Reducing Agent]] or [[Oxidizing Agent]] and the [[Electron|Electrons]] that that agent loses or gains.
-		- > [!Example]
-		  > Using the example above:
-		  > 
-		  > Reduction Half Reaction
-		  > $Cu^{2+}(aq) + 2e^- \rightarrow Cu(s)$
-		  > 
-		  > Oxidation Half Reaction
-		  > $Fe(s) \rightarrow Fe^{+2}(aq) + 2e^-$
 - ## Good [[Reducing Agent]] and [[Oxidizing Agent]]
 	- We want the [[Oxidation and Reduction Reaction|Redox Reaction]] to be [[Spontaneity|Spontaneous]], if it is not it will not occur at all.
 	- Therefore: 
@@ -41,4 +33,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Practice
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
-	- 
+	- Can be split into its [[Half Oxidation and Reduction Reaction|Half Redox Reactions]].
