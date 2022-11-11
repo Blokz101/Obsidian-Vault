@@ -9,24 +9,29 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
 	- ![[IMG_34EA197AEA1F-1.jpeg]]
 	- The end goal is to bond $Cu^{+2}$ [[Ion|Ions]] to its [[Electrode]] and pull $Fe$ [[Atom|Atoms]] off of its [[Electrode]].
-		- To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".
-		1. The battery sends a spare [[Electron]] into the **reduction compartment** and a $Cu^{+2}$ [[Ion]] reacts with the spare [[Electron]] to form a $Cu$ [[Atom]] and bond to the $Cu$ [[Electrode]]. As it does this it changes to a **solid**.
+		1. To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".
+			- The battery sends a spare [[Electron]] into the **reduction compartment** and a **$Cu^{+2}$** [[Ion]] reacts with the spare [[Electron]] to form a **$Cu$** [[Atom]] and bond to the **$Cu$** [[Electrode]]. As it does this it changes to a **solid**.
 			- This reaction is displayed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below the cell.
-		2. The $Cu^{+2}$ [[Ion]], which was previously bonded with an [[Ion]] in the [[Solvent]] needs to be replaced. 
-			1. This is accomplished by the $KCl$ in the **salt bridge**. It splits into its two [[Ion|Ions]] $K^+$ and $Cl^-$, and the $K^+$ bonds with the [[Solvent]] to replace the $Cu^{+2}$.
-		3. $KCl$ split into $K^+$ and $Cl^-$ and $K^+$ was absorbed by the **reduction compartment's** [[Solvent]]. This releases a free $Cl^-1$ into the **oxidation compartment** which needs to bond to something.
-			- It rips a $Fe$ [[Atom]] away from the **solid** [[Electrode]] in the **oxidation compartment** and forces it to become an $Fe^{+2}$ [[Ion]] according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below that **compartment**.
+		2. The **$Cu^{+2}$** [[Ion]], which was previously bonded with an [[Ion]] in the [[Solvent]] needs to be replaced. 
+			1. This is accomplished by the **$KCl$** in the **salt bridge**. It splits into its two [[Ion|Ions]] **$K^+$** and **$Cl^-$**, and the **$K^+$** bonds with the [[Solvent]] to replace the **$Cu^{+2}$**.
+		3. **$KCl$** split into **$K^+$** and **$Cl^-$** and **$K^+$** was absorbed by the **reduction compartment's** [[Solvent]]. This releases a free **$Cl^-1$** into the **oxidation compartment** which needs to bond to something.
+			- It rips a **$Fe$** [[Atom]] away from the **solid** [[Electrode]] in the **oxidation compartment** and forces it to become an **$Fe^{+2}$** [[Ion]] according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below that **compartment**.
 		4. The [[Electron]] freed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] as described under the **oxidation compartment** returns to the **battery** to complete the circuit.
 - ## Cell Potential Energy
 	- The [[Energy]] released can be calculated by this:
 		- Number of [[Electron|Electrons]]
 		- "Weight" of those [[Electron|Electrons]]
 		- [[Voltage]] difference
-	- > [!Energy]
+	- > [!Equation]
 	  > $$\Delta G = -n*F*E_{cell}$$
 	  > 
 	  > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
 	  > $n$ = Amount of [[Electron]] transferred in the [[Oxidation and Reduction Reaction|Redox Reaction]] in [[Mole|Moles]]
 	  > $F$ = [[Faraday's Constant]] in [[Coulomb's Law of Energy|C]]/[[Mole|Moles]]
-	  > $E_{cell}$ = The potential energy of the cell: $E_{cathode}-E_{anode}$ in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	- > [!Equation]
+	  > $$E_{cell}=E_{cathode}-E_{anode}$$
+	  > 
+	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	  > 
 - ## Reference
