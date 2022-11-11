@@ -50,7 +50,19 @@
               "type": "markdown",
               "state": {
                 "file": "Galvanic Cell.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f01af26fcecf76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Voltage.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -181,15 +193,15 @@
   },
   "active": "76ffad764105cfbe",
   "lastOpenFiles": [
+    "Vault/Voltage.md",
+    "Galvanic Cell.md",
     "Standard Reduction Potentials Table.md",
     "Oxidation and Reduction Reaction.md",
     "Half Oxidation and Reduction Reaction.md",
-    "Galvanic Cell.md",
     "Standard Reduction Potentials.md",
     "Spontaneity.md",
     "Chemistry.md",
     "Oxidizing Agent.md",
-    "Reducing Agent.md",
-    "Faraday's Constant.md"
+    "Reducing Agent.md"
   ]
 }

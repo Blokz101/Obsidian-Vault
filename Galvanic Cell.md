@@ -18,10 +18,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- It rips a **$Fe$** [[Atom]] away from the **solid** [[Electrode]] in the **oxidation compartment** and forces it to become an **$Fe^{+2}$** [[Ion]] according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below that **compartment**.
 		4. The [[Electron]] freed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] as described under the **oxidation compartment** returns to the **battery** to complete the circuit.
 - ## Cell Potential Energy
-	- The [[Energy]] released can be calculated by this:
-		- Number of [[Electron|Electrons]]
-		- "Weight" of those [[Electron|Electrons]]
-		- [[Voltage]] difference
+	- > [!Equation]
+	  > $$E_{cell}=E_{cathode}-E_{anode}$$
+	  > 
+	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	  > $E_{cathode}$ = The [[Voltage]] released according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] for the **cathode compartment** in [[Voltage|V]].
+	  > $E_{anode}$ = The [[Voltage]] released according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] for the **anode compartment** in [[Voltage|V]].
 	- > [!Equation]
 	  > $$\Delta G = -n*F*E_{cell}$$
 	  > 
@@ -29,9 +31,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $n$ = Amount of [[Electron]] transferred in the [[Oxidation and Reduction Reaction|Redox Reaction]] in [[Mole|Moles]]
 	  > $F$ = [[Faraday's Constant]] in [[Coulomb's Law of Energy|C]]/[[Mole|Moles]]
 	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
-	- > [!Equation]
-	  > $$E_{cell}=E_{cathode}-E_{anode}$$
-	  > 
-	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
-	  > 
+	- Note that if $E_{cell}$ then that will force $\Delta G<0$ and make the **reactions** [[Spontaneity|Spontaneous]].
 - ## Reference
