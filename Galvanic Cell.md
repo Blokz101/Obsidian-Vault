@@ -9,8 +9,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
 	- ![[IMG_34EA197AEA1F-1.jpeg]]
 	- The end goal is to bond $Cu^{+2}$ [[Ion|Ions]] to its [[Electrode]] and pull $Fe$ [[Atom|Atoms]] off of its [[Electrode]].
-		- To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each compartment must be "activated".
-- ## Cell Potential Energy 
+		- To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".
+		1. The battery sends a spare [[Electron]] into the **reduction compartment** and a $Cu^{+2}$ [[Ion]] reacts with the spare [[Electron]] to form a $Cu$ [[Atom]] and bond to the $Cu$ [[Electrode]]. As it does this it changes to a **solid**.
+			- This reaction is displayed by the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] below the cell.
+		2. The $Cu^{+2}$ [[Ion]], which was previously bonded with an [[Ion]] in the [[Solvent]] needs to be replaced. This is accomplished by the $KCl$ in the **salt bridge**. It splits into its two [[Ion|Ions]] $K^+$ and $Cl^-$, and the $K^+$ bonds with the [[Solvent]]  
+- ## Cell Potential Energy
 	- The [[Energy]] released can be calculated by this:
 		- Number of [[Electron|Electrons]]
 		- "Weight" of those [[Electron|Electrons]]
