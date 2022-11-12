@@ -20,6 +20,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $n$ = Number of approximation rectangles.
 	  > $\Delta x$ = The width of each approximation rectangle.
 	  > $i$ = The index of a specific rectangle in the [[Riemann Sum]].
+- ## Practice
+	- 
 - ## Reference
 	- The opposite of a [[Derivative]].
 	- Uses a [[Riemann Sum]] as its proof.
