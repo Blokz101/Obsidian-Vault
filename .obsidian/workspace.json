@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd028cf88694ba55",
+            "id": "d2aad90463112430",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -19,16 +19,16 @@
         "stacked": true
       },
       {
-        "id": "f0f8e853e44cdee5",
+        "id": "e252c9d29d7dc6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "d2aad90463112430",
+            "id": "d3dd230e7e31c82a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md"
+                "file": "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
               }
             }
           }
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "floating": {
     "id": "8297612ab0b7dc9e",
@@ -173,7 +172,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Vault/Integral.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -195,15 +194,15 @@
   },
   "active": "a2c30471773bf63b",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
+    "Vault/Integral.md",
     "Vault/Summation Notation.md",
     "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md",
-    "Vault/Integral.md",
     "Standard Reduction Potentials Table.md",
     "Vault/Riemann Sum.md",
     "Oxidation and Reduction Reaction.md",
     "Galvanic Cell.md",
     "Oxidizing Agent.md",
-    "Reducing Agent.md",
-    "Faraday's Constant.md"
+    "Reducing Agent.md"
   ]
 }

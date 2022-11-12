@@ -31,6 +31,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\sum_{i=1}^{N}[i^3]=[\frac{N(N+1)}{2}]^2$$
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
-	- [[Drawing 2022-11-11 21.05.57.excalidraw]]
 - ## Reference
 	- Used in [[Riemann Sum|Riemann Sums]] and [[Integral|Integrals]]
