@@ -176,9 +176,21 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "981ab2f1861d35e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Ellipse.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 2,
             "stacked": true
           }
         ],
@@ -194,6 +206,7 @@
   },
   "active": "d3dd230e7e31c82a",
   "lastOpenFiles": [
+    "Vault/Ellipse.md",
     "Vault/Integral.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
     "Vault/Summation Notation.md",
@@ -202,7 +215,6 @@
     "Vault/Riemann Sum.md",
     "Oxidation and Reduction Reaction.md",
     "Galvanic Cell.md",
-    "Oxidizing Agent.md",
-    "Reducing Agent.md"
+    "Oxidizing Agent.md"
   ]
 }
