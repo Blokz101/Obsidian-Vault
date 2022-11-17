@@ -50,4 +50,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > [!Step 4]
 	  > > Select pair of in which the [[Electron|Electrons]] travel from highest energy [[Orbital]] to the lowest vacant [[Orbital]]. If there are no such situations then there is no reaction.
 	  > > 
+	  > > We can see that there will be a spontaneous electron transfer from the $H_2$ to the $Cu_{+2}$ orbitals.
+	  > 
+	  > > [!Step 5]
+	  > > The top [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] must be reversed because it is the oxidation half. Then write out the full equation.
+	  > > 
+	  > > ![[IMG_F1F1AD6E6E52-1.jpeg]]
 - ## Reference
