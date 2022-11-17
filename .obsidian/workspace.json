@@ -56,19 +56,31 @@
             }
           },
           {
+            "id": "1e512842d97cb16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrolytic Cell.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "bdd13fb83d90b338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Galvanic Cell.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -181,6 +193,8 @@
   },
   "active": "bdd13fb83d90b338",
   "lastOpenFiles": [
+    "Electrolytic Cell.md",
+    "Galvanic Cell.md",
     "Electrochemical Cell.md",
     "Standard Reduction Potentials Table.md",
     "electroche.md",
@@ -188,8 +202,6 @@
     "Writing Net Redox Reactions.md",
     "Oxidation and Reduction Reaction.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
-    "Vault/Ellipse.md",
-    "Vault/Integral.md",
-    "Vault/Summation Notation.md"
+    "Vault/Ellipse.md"
   ]
 }
