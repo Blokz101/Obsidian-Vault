@@ -34,3 +34,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
 	- Can be split into its [[Half Oxidation and Reduction Reaction|Half Redox Reactions]].
+	- Writing [[Net Redox Reactions]].
