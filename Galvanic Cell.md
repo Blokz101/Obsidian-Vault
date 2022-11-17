@@ -7,6 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
+		- [[Electron|Electrons]] travel from the [[Anode]] to the [[Cathode]].
+		- Converts 
 	- ![[IMG_34EA197AEA1F-1.jpeg]]
 	- The end goal is to bond $Cu^{+2}$ [[Ion|Ions]] to its [[Electrode]] and pull $Fe$ [[Atom|Atoms]] off of its [[Electrode]].
 		1. To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".

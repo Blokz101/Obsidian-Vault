@@ -13,3 +13,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_9E35526C94A2-1.jpeg|300]]
 - ## Reference
 	- Useful for [[Oxidation and Reduction Reaction|Redox Reactions]] and the [[Galvanic Cell]].
+	- Used in [[Writing Net Redox Reactions]].
