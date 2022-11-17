@@ -31,7 +31,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > Select pair of in which the [[Electron|Electrons]] travel from highest energy [[Orbital]] to the lowest vacant [[Orbital]]. If there are no such situations then there is no reaction.
 	  > > 
 	  > > **There is no reaction** because the only vacant orbital is higher in energy than both the  filled orbitals. 
-	- > [!Example]
+	- > [!Example]-
 	  > Write the net equation for the reaction (if there is one) when hydrogen gas is bubbled into a copper(II) iodide solution.
 	  > 
 	  > > [!Prep]
@@ -57,3 +57,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > 
 	  > > ![[IMG_F1F1AD6E6E52-1.jpeg]] 
 - ## Reference
+	- [[Oxidation and Reduction Reaction]]
+	- [[Standard Reduction Potentials Table]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net Redox Reactions.md",
+                "file": "Writing Net Redox Reactions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Standard Reduction Potentials Table.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net Redox Reactions.md",
+                "file": "Standard Reduction Potentials Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net Redox Reactions.md",
+                "file": "Standard Reduction Potentials Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +155,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fda5fce9a7e7dca",
+  "active": "a38baa640709f54d",
   "lastOpenFiles": [
-    "Standard Reduction Potentials Table.md",
-    "Net Redox Reactions.md",
+    "Writing Net Redox Reactions.md",
     "Oxidation and Reduction Reaction.md",
+    "Standard Reduction Potentials Table.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
     "Vault/Ellipse.md",
     "Vault/Integral.md",
