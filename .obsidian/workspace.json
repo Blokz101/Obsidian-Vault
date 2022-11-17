@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2aad90463112430",
+            "id": "60b0a2ffda6b669d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Oxidation and Reduction Reaction.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oxidation and Reduction Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oxidation and Reduction Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,10 +127,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d2aad90463112430",
+  "active": "60b0a2ffda6b669d",
   "lastOpenFiles": [
+    "Oxidation and Reduction Reaction.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
     "Vault/Ellipse.md",
     "Vault/Integral.md",
@@ -132,7 +140,6 @@
     "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md",
     "Standard Reduction Potentials Table.md",
     "Vault/Riemann Sum.md",
-    "Oxidation and Reduction Reaction.md",
     "Galvanic Cell.md",
     "Oxidizing Agent.md"
   ]
