@@ -55,5 +55,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > [!Step 5]
 	  > > The top [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] must be reversed because it is the oxidation half. Then write out the full equation.
 	  > > 
-	  > > ![[IMG_F1F1AD6E6E52-1.jpeg]]
+	  > > ![[IMG_F1F1AD6E6E52-1.jpeg]] 
 - ## Reference
