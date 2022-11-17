@@ -9,5 +9,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- ![[IMG_EEDFE08FC4DE-1.jpeg]]
 - ## Examples
 	- > [!Examples]
-	  > Write the net equation for the reaction (if there is one) when hydrogen gas is bubbled into a n
+	  > Write the net equation for the reaction (if there is one) when hydrogen gas is bubbled into a nickel(II) iodide solution.
+	  > 
+	  > $NiL_2$ is [[Solubility|Soluble]] so  the species are present in [[Ion|Ions]]
+	  > 
+	  > 
 - ## Reference
