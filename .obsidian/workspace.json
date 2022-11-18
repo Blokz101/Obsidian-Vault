@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Trigonometric Identities.md",
                 "mode": "preview",
                 "source": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Trigonometric Identities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +217,7 @@
   },
   "active": "a7b802bc5452495c",
   "lastOpenFiles": [
+    "Vault/Logarithm Derivative Rules.md",
     "Derivative Rules.md",
     "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
@@ -225,7 +226,6 @@
     "Standard Reduction Potentials Table.md",
     "electroche.md",
     "Electrochemica.md",
-    "Oxidation and Reduction Reaction.md",
-    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
+    "Oxidation and Reduction Reaction.md"
   ]
 }
