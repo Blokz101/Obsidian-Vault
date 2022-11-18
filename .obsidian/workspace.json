@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "a7b802bc5452495c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Logarithm Derivative Rules.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a38baa640709f54d",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +215,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ac2a3b7d882144f",
+  "active": "a7b802bc5452495c",
   "lastOpenFiles": [
+    "Derivative Rules.md",
     "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
     "Electrolytic Cell.md",
@@ -213,7 +226,6 @@
     "electroche.md",
     "Electrochemica.md",
     "Oxidation and Reduction Reaction.md",
-    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
-    "Vault/Ellipse.md"
+    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
   ]
 }
