@@ -74,13 +74,13 @@
               "type": "markdown",
               "state": {
                 "file": "Galvanic Cell.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Writing Net Redox Reactions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galvanic Cell.md",
+                "file": "Writing Net Redox Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdd13fb83d90b338",
+  "active": "2fda5fce9a7e7dca",
   "lastOpenFiles": [
-    "Electrolytic Cell.md",
     "Galvanic Cell.md",
+    "Electrolytic Cell.md",
     "Electrochemical Cell.md",
     "Standard Reduction Potentials Table.md",
     "electroche.md",
