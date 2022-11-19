@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "2c99acb7f3ef6b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Ohm's Law.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5422a3ae475d6402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Voltage.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "bdd13fb83d90b338",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrolytic Cell.md",
+                "file": "Vault/Voltage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrolytic Cell.md",
+                "file": "Vault/Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +239,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e512842d97cb16f",
+  "active": "5422a3ae475d6402",
   "lastOpenFiles": [
+    "Vault/Ohm's Law.md",
+    "Electrolytic Cell.md",
+    "Vault/Voltage.md",
     "Galvanic Cell.md",
     "Vault/Oxidation State.md",
     "Oxidation and Reduction Reaction.md",
     "Writing Net Redox Reactions.md",
     "Derivative Rules.md",
     "Vault/Trigonometric Identities.md",
-    "Vault/Logarithm Derivative Rules.md",
-    "Electrolytic Cell.md",
-    "Electrochemical Cell.md",
-    "Standard Reduction Potentials Table.md"
+    "Vault/Logarithm Derivative Rules.md"
   ]
 }
