@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electrolytic Cell.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,12 +98,13 @@
               "type": "markdown",
               "state": {
                 "file": "Galvanic Cell.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Electrolytic Cell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Oxidation State.md",
+                "file": "Electrolytic Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +215,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60b0a2ffda6b669d",
+  "active": "1e512842d97cb16f",
   "lastOpenFiles": [
-    "Oxidation and Reduction Reaction.md",
+    "Galvanic Cell.md",
     "Vault/Oxidation State.md",
+    "Oxidation and Reduction Reaction.md",
     "Writing Net Redox Reactions.md",
     "Derivative Rules.md",
     "Vault/Trigonometric Identities.md",
     "Vault/Logarithm Derivative Rules.md",
-    "Galvanic Cell.md",
     "Electrolytic Cell.md",
     "Electrochemical Cell.md",
     "Standard Reduction Potentials Table.md"
