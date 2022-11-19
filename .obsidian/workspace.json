@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "044ffeb949f45001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galvanic Cell.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1e512842d97cb16f",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Galvanic Cell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Voltage.md",
+                "file": "Galvanic Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,17 +251,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5422a3ae475d6402",
+  "active": "044ffeb949f45001",
   "lastOpenFiles": [
+    "Electrochemical Cell.md",
+    "Vault/Voltage.md",
     "Vault/Ohm's Law.md",
     "Electrolytic Cell.md",
-    "Vault/Voltage.md",
     "Galvanic Cell.md",
     "Vault/Oxidation State.md",
     "Oxidation and Reduction Reaction.md",
     "Writing Net Redox Reactions.md",
     "Derivative Rules.md",
-    "Vault/Trigonometric Identities.md",
-    "Vault/Logarithm Derivative Rules.md"
+    "Vault/Trigonometric Identities.md"
   ]
 }
