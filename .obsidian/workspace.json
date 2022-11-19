@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Vault/Oxidation State.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d1957b339028a308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Oxidation and Reduction Reaction.md",
                 "mode": "preview",
                 "source": true
@@ -32,24 +44,12 @@
             }
           },
           {
-            "id": "0ac2a3b7d882144f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derivative Rules.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a7b802bc5452495c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Oxidation State.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +104,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Oxidation State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Trigonometric Identities.md",
+                "file": "Vault/Oxidation State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +214,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7b802bc5452495c",
+  "active": "60b0a2ffda6b669d",
   "lastOpenFiles": [
-    "Vault/Logarithm Derivative Rules.md",
-    "Derivative Rules.md",
+    "Oxidation and Reduction Reaction.md",
+    "Vault/Oxidation State.md",
     "Writing Net Redox Reactions.md",
+    "Derivative Rules.md",
+    "Vault/Trigonometric Identities.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Galvanic Cell.md",
     "Electrolytic Cell.md",
     "Electrochemical Cell.md",
-    "Standard Reduction Potentials Table.md",
-    "electroche.md",
-    "Electrochemica.md",
-    "Oxidation and Reduction Reaction.md"
+    "Standard Reduction Potentials Table.md"
   ]
 }
