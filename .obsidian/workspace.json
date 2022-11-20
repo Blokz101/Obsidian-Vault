@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "fc765f444e47d3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oxidizing Agent.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a7b802bc5452495c",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Net Redox Reactions.md",
+                "file": "Oxidizing Agent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Net Redox Reactions.md",
+                "file": "Oxidizing Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +251,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fda5fce9a7e7dca",
+  "active": "fc765f444e47d3a1",
   "lastOpenFiles": [
+    "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
     "Electrochemical Cell.md",
     "Vault/Voltage.md",
@@ -248,7 +261,6 @@
     "Electrolytic Cell.md",
     "Vault/Oxidation State.md",
     "Oxidation and Reduction Reaction.md",
-    "Writing Net Redox Reactions.md",
     "Derivative Rules.md",
     "Vault/Trigonometric Identities.md"
   ]
