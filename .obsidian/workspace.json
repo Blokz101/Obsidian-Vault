@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrolyte.md",
+                "file": "Vault/Solubility Rules.md",
                 "mode": "preview",
                 "source": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrolyte.md",
+                "file": "Vault/Solubility Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrolyte.md",
+                "file": "Vault/Solubility Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,6 +253,7 @@
   },
   "active": "c935d4210491d42a",
   "lastOpenFiles": [
+    "Electrolyte.md",
     "Oxidizing Agent.md",
     "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
@@ -261,7 +262,6 @@
     "Vault/Ohm's Law.md",
     "Electrolytic Cell.md",
     "Vault/Oxidation State.md",
-    "Oxidation and Reduction Reaction.md",
-    "Derivative Rules.md"
+    "Oxidation and Reduction Reaction.md"
   ]
 }
