@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "1d701d143e97e195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standard Reduction Potentials Table.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "044ffeb949f45001",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrolyte.md",
+                "file": "Standard Reduction Potentials Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrolyte.md",
+                "file": "Standard Reduction Potentials Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +251,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c935d4210491d42a",
+  "active": "1d701d143e97e195",
   "lastOpenFiles": [
+    "Electrochemical Cell.md",
     "Electrolyte.md",
     "Standard Reduction Potentials Table.md",
     "References/Pasted image 20221110220530.png",
@@ -248,7 +261,6 @@
     "Oxidizing Agent.md",
     "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
-    "Electrochemical Cell.md",
     "Vault/Voltage.md",
     "Vault/Ohm's Law.md"
   ]
