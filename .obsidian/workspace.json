@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "Electrochemical Cell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Solubility Rules.md",
+                "file": "Electrochemical Cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,13 +263,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a07fa29d950204ae",
+  "active": "99667b252f1eb11c",
   "lastOpenFiles": [
+    "Vault/Solubility Rules.md",
     "Standard Reduction Potentials Table.md",
     "Electrochemical Cell.md",
     "Electrolyte.md",
     "References/Pasted image 20221110220530.png",
-    "Vault/Solubility Rules.md",
     "Oxidizing Agent.md",
     "Writing Net Redox Reactions.md",
     "Galvanic Cell.md",
