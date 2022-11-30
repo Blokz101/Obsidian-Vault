@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4367c110fecae885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acid Dissociation Constant.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -77,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acid Dissociation Constant.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acid Dissociation Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +139,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "262448c296532504",
+  "active": "4367c110fecae885",
   "lastOpenFiles": [
+    "Acid.md",
     "Vault/Voltage.md",
     "Vault/Ohm's Law.md",
     "Electrolytic Cell.md",
@@ -134,7 +150,6 @@
     "Standard Reduction Potentials Table.md",
     "Vault/Oxidation State.md",
     "Oxidation and Reduction Reaction.md",
-    "Writing Net Redox Reactions.md",
-    "Oxidizing Agent.md"
+    "Writing Net Redox Reactions.md"
   ]
 }
