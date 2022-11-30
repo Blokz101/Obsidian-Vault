@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A way to approximate the area under a curve with rectangles.
-	- ![[IMG_D8FC62A28BF8-1.jpeg|300]]
+	- Right|
 	- > [!Equation]
 	  > $$\large{A_t=\sum_{i=1}^{n}[f(x^*)*\Delta x]}$$
 	  > 
