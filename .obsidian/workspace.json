@@ -8,23 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "262448c296532504",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4367c110fecae885",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Riemann Sum.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Riemann Sum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +132,7 @@
   },
   "active": "4367c110fecae885",
   "lastOpenFiles": [
+    "Vault/Riemann Sum.md",
     "Acid Strength.md",
     "Acid Dissociation Constant.md",
     "Acid.md",
@@ -143,7 +141,6 @@
     "Electrolytic Cell.md",
     "Galvanic Cell.md",
     "Vault/Solubility Rules.md",
-    "Standard Reduction Potentials Table.md",
-    "Vault/Oxidation State.md"
+    "Standard Reduction Potentials Table.md"
   ]
 }
