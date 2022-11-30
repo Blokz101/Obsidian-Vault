@@ -7,6 +7,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The quantitative strength of an [[Acid]].
+	- Indicates how [[Extensivity|Extensive]] an [[Acid-Base Reaction]] will be.
 	- > [!Equation]
-	  > $$K_a=\frac{[Products]}{}$$
+	  > $$K_a=\frac{[Products]}{[Reactants]}$$
+	  > 
+	  > $K_a$ = [[Acid Dissociation Constant]]
+	  > $[Products]$ = List of the products
+	  > $[Reactants]$ = List of the reactants
 - ## Reference
