@@ -5,15 +5,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Calculus]]
 
-- ## Table Of Contents
-
-- 
 | Status | Subject                   |
 | ------ | ------------------------- |
 | Ok     | Domain and Range          |
 | Good   | Functions                 |
 | Good   | Increasing and Decreasing |
-| Ok     | Asymptotes                |
+| Good   | Asymptotes                |
+| Ok     | Logs                      |
+|        |                           |
 
 - ### Domain and Range
 	- [[Domain]] and [[Range]]
@@ -28,4 +27,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Asymptote]]
 	- Can find the vertical ones by setting the  to 0 and solving for its roots.
 	- Can find the horizontal ones by looking at the largest exponent, more in the [[Asymptote|Asymptotes]] note.
+- ### Logs
+	- [[Logarithm]]
+	- [[log]]
+	- Form|Equation
+		  ---|---
+		  [[Logarithm]] form|$y=log_{a}(x)$
+		  [[Exponential]] form|$x=a^y$
 - 
