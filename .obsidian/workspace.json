@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38cca8ef066ca89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Calculus.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c046cdb3b71eebde",
             "type": "leaf",
             "state": {
@@ -27,12 +15,11 @@
               "state": {
                 "file": "Vault/Calculus Final Review.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -145,15 +132,15 @@
   },
   "active": "c046cdb3b71eebde",
   "lastOpenFiles": [
+    "Vault/One to One.md",
+    "Vault/Calculus Final Review.md",
+    "Vault/Function.md",
     "Vault/Domain.md",
     "Vault/Range.md",
-    "Vault/Calculus Final Review.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
     "Vault/Integral.md",
     "Vault/Integer.md",
-    "Vault/Ellipse.md",
-    "Vault/Summation Notation.md",
-    "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md"
+    "Vault/Ellipse.md"
   ]
 }

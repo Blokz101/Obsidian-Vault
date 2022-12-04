@@ -17,4 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Domain]] and [[Range]]
 	- The function is undefined anywhere the denominator is equal to 0 or if there is the even root of a negative number.
 - ### Functions
-	- $(f\circ g)()$
+	- [[Function]]
+	- $(f\circ g)(x)=f(g(x))$
+	- [[One to One]] means a function where each y value points to a **unique** x value.
+- ### 
