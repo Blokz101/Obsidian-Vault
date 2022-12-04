@@ -5,14 +5,15 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 ---
 #Permanent [[Calculus]]
 
-## Table Of Contents
+- ## Table Of Contents
 
+- 
 | Status | Subject                   |
 | ------ | ------------------------- |
 | Ok     | Domain and Range          |
 | Good   | Functions                 |
 | Good   | Increasing and Decreasing |
-| Ok     | Asymptotes                | 
+| Ok     | Asymptotes                |
 
 - ### Domain and Range
 	- [[Domain]] and [[Range]]
@@ -24,4 +25,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ### Increasing and Decreasing
 	- Determined by the derivative of a function. If the derivative is positive then the function is increasing and if it is negative then the function is decreasing.
 - ### Asymptotes
-	- [[asym]]
+	- [[Asymptote]]
+	- Can find the vertical ones by setting the  to 0 and solving for its roots.
+	- Can find the horizontal ones by looking at the largest exponent, more in the [[Asymptote|Asymptotes]] note.
+- 
