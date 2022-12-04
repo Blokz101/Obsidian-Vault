@@ -11,28 +11,14 @@
             "id": "d2aad90463112430",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "e252c9d29d7dc6e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3dd230e7e31c82a",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -139,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d3dd230e7e31c82a",
+  "active": "d2aad90463112430",
   "lastOpenFiles": [
-    "Vault/Ellipse.md",
     "Vault/Integral.md",
-    "Vault/Summation Notation.md",
+    "Vault/Integer.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
+    "Vault/Ellipse.md",
+    "Vault/Summation Notation.md",
     "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md",
     "Standard Reduction Potentials Table.md",
     "Vault/Riemann Sum.md",
     "Oxidation and Reduction Reaction.md",
-    "Galvanic Cell.md",
-    "Oxidizing Agent.md"
+    "Galvanic Cell.md"
   ]
 }
