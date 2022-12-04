@@ -7,7 +7,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A way to approximate the area under a curve with rectangles.
-	- ![[IMG_D8FC62A28BF8-1.jpeg|300]]
+	- **Right**|**Middle**|**Left**
+	  ---|---|---
+	![[Screen Shot 2022-11-30 at 3.23.44 PM.png]]|![[Screen Shot 2022-11-30 at 3.23.10 PM.png]]|![[Screen Shot 2022-11-30 at 3.22.45 PM.png]]
+	Each rectangle touches the function on its **right** side.|Each rectangle touches the function in the **middle**.|Each rectangle touches the function on its **left** side.
 	- > [!Equation]
 	  > $$\large{A_t=\sum_{i=1}^{n}[f(x^*)*\Delta x]}$$
 	  > 

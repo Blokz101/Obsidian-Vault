@@ -10,9 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- The [[Oxidation and Reduction Reaction|Redox Reaction]] can be broken down into its two separate [[Half Oxidation and Reduction Reaction|Half Redox Reactions]].
 	- There are two types of agents in [[Oxidation and Reduction Reaction|Oxidation and Reduction Reactions]].
 		- [[Reducing Agent]]
-			-  ![[Reducing Agent#^bfee04]]
 		- [[Oxidizing Agent]]
-			-  ![[Oxidizing Agent#^1a1948]]
 	- > [!Example]
 	  > Copper and Iron reacting (pay attention to the charges):
 	  > $$Cu^{+2}(aq) + Fe(s) \rightarrow Cu(s) + Fe^{+2}(aq)$$
@@ -34,3 +32,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Drawing 2022-11-08 18.21.30.excalidraw]]
 - ## Reference
 	- Can be split into its [[Half Oxidation and Reduction Reaction|Half Redox Reactions]].
+	- Writing [[Writing Net Redox Reactions]].

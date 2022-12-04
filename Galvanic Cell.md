@@ -7,6 +7,9 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
+		- Converts **chemical** [[Energy]] into **mechanical** [[Energy]].
+		- The product are higher up in energy then the reactants.
+		- Think of it like a battery **discharging**.
 	- ![[IMG_34EA197AEA1F-1.jpeg]]
 	- The end goal is to bond $Cu^{+2}$ [[Ion|Ions]] to its [[Electrode]] and pull $Fe$ [[Atom|Atoms]] off of its [[Electrode]].
 		1. To do this the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] that are displayed below each **compartment** must be "activated".
@@ -33,3 +36,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
 	- Note that if $E_{cell}$ then that will force $\Delta G<0$ and make the **reactions** [[Spontaneity|Spontaneous]].
 - ## Reference
+	- [[Electrolytic Cell]] is its counterpart.
+	- A type of [[Electrochemical Cell]].
