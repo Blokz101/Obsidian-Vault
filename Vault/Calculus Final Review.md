@@ -7,11 +7,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 ## Table Of Contents
 
-| Status | Subject          |
-| ------ | ---------------- |
-| Ok     | Domain and Range | 
-| Good   | Functions        |
-|        |                  |
+| Status | Subject                   |
+| ------ | ------------------------- |
+| Ok     | Domain and Range          |
+| Good   | Functions                 |
+| Good   | Increasing and Decreasing |
+| Ok     | Asymptotes                | 
 
 - ### Domain and Range
 	- [[Domain]] and [[Range]]
@@ -20,4 +21,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Function]]
 	- $(f\circ g)(x)=f(g(x))$
 	- [[One to One]] means a function where each y value points to a **unique** x value.
-- ### 
+- ### Increasing and Decreasing
+	- Determined by the derivative of a function. If the derivative is positive then the function is increasing and if it is negative then the function is decreasing.
+- ### Asymptotes
+	- [[asym]]
