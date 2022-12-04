@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Calculus Final Review.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -145,15 +145,15 @@
   },
   "active": "c046cdb3b71eebde",
   "lastOpenFiles": [
+    "Vault/Domain.md",
+    "Vault/Range.md",
+    "Vault/Calculus Final Review.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
     "Vault/Integral.md",
     "Vault/Integer.md",
     "Vault/Ellipse.md",
     "Vault/Summation Notation.md",
-    "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md",
-    "Standard Reduction Potentials Table.md",
-    "Vault/Riemann Sum.md",
-    "Oxidation and Reduction Reaction.md"
+    "References/Excalidraw/Drawing 2022-11-11 21.05.57.excalidraw.md"
   ]
 }
