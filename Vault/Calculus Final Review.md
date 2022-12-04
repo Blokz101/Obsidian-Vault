@@ -12,6 +12,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 | Good   | Increasing and Decreasing |
 | Good   | Asymptotes                |
 | Ok     | Logs                      |
+| Bad    | Parametric Curves         |
+| Bad    | Conic Sections            |
 |        |                           |
 
 - ### Domain and Range
@@ -29,9 +31,13 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Can find the horizontal ones by looking at the largest exponent, more in the [[Asymptote|Asymptotes]] note.
 - ### Logs
 	- [[Logarithm]]
-	- [[log]]
 	- Form|Equation
 		  ---|---
 		  [[Logarithm]] form|$y=log_{a}(x)$
 		  [[Exponential]] form|$x=a^y$
-- 
+	- Review the Laws of Logs in the [[Logarithm]] note.
+- ### Parametric Curves
+	- [[Parametric Curve]]
+	- A function defined by two functions. One is a function that gives an x coord in terms of a third variable and the second is a function that gives the y coord in terms of that third variable. The result is a function that "draws" itself as you increase that third variable.
+- ### Conic Sections
+	- [[Conic Section]]
