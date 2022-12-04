@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Conic Section.md",
+                "file": "Vault/Calculus Final Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Conic Section.md",
+                "file": "Vault/Calculus Final Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff3491e2595b3337",
+  "active": "c046cdb3b71eebde",
   "lastOpenFiles": [
+    "Vault/Conic Section.md",
     "Vault/Calculus Final Review.md",
     "Vault/Logarithm.md",
     "Vault/Calculus.md",
@@ -177,7 +177,6 @@
     "Vault/Domain.md",
     "Vault/Range.md",
     "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
-    "Vault/Integral.md",
-    "Vault/Integer.md"
+    "Vault/Integral.md"
   ]
 }
