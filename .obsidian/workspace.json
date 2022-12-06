@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Derivative.md",
                 "mode": "preview",
                 "source": true
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Derivative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Proving a Limit.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,8 +132,8 @@
   },
   "active": "88b1291fec3693a7",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
     "Vault/Proving a Limit.md",
+    "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
     "Vault/Limit.md",
     "Vault/Calculus Final Review.md",
     "Vault/Riemann Sum.md",
