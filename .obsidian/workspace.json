@@ -11,9 +11,11 @@
             "id": "88b1291fec3693a7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md"
+                "file": "Vault/Proving a Limit.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+                "file": "Vault/Proving a Limit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+                "file": "Vault/Proving a Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +132,7 @@
   },
   "active": "88b1291fec3693a7",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
     "Vault/Proving a Limit.md",
     "Vault/Limit.md",
     "Vault/Calculus Final Review.md",
@@ -138,7 +141,6 @@
     "Acid Dissociation Constant.md",
     "Acid.md",
     "Vault/Voltage.md",
-    "Vault/Ohm's Law.md",
-    "Electrolytic Cell.md"
+    "Vault/Ohm's Law.md"
   ]
 }
