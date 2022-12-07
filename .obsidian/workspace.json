@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Coulomb's Law of Energy.md",
+                "file": "Vault/Speed of Light.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Coulomb's Law of Energy.md",
+                "file": "Vault/Speed of Light.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Coulomb's Law of Energy.md",
+                "file": "Vault/Speed of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,15 +168,15 @@
   },
   "active": "c046cdb3b71eebde",
   "lastOpenFiles": [
+    "Vault/Wavelength.md",
+    "Vault/Spectrum of Light.md",
+    "Vault/Coulomb's Law of Energy.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Calculus Final Review.md",
     "Vault/Conic Section.md",
     "Vault/Logarithm.md",
     "Vault/Calculus.md",
     "Vault/One to One.md",
-    "Vault/Function.md",
-    "Vault/Domain.md",
-    "Vault/Range.md",
-    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
+    "Vault/Function.md"
   ]
 }
