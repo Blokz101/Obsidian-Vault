@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Integral.md",
                 "mode": "preview",
                 "source": true
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Integral.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,6 +132,8 @@
   },
   "active": "88b1291fec3693a7",
   "lastOpenFiles": [
+    "Vault/Integer.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Derivative.md",
     "Vault/Proving a Limit.md",
     "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
@@ -139,8 +141,6 @@
     "Vault/Calculus Final Review.md",
     "Vault/Riemann Sum.md",
     "Acid Strength.md",
-    "Acid Dissociation Constant.md",
-    "Acid.md",
-    "Vault/Voltage.md"
+    "Acid Dissociation Constant.md"
   ]
 }
