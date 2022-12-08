@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a1bf8eaf91135f",
+        "id": "7a576c88b8c48ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "c046cdb3b71eebde",
+            "id": "88b1291fec3693a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Speed of Light.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff3491e2595b3337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Conic Section.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bdaa7961de2fc292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Logarithm.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e68fbaef87b0ac06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Calculus.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Speed of Light.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Speed of Light.md",
+                "file": "Vault/Logarithm Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c046cdb3b71eebde",
+  "active": "88b1291fec3693a7",
   "lastOpenFiles": [
-    "Vault/Wavelength.md",
-    "Vault/Spectrum of Light.md",
-    "Vault/Coulomb's Law of Energy.md",
-    "Vault/Coulomb's Law of Force.md",
+    "Derivative.md",
+    "Vault/Proving a Limit.md",
+    "References/Excalidraw/Drawing 2022-09-03 18.11.04.excalidraw.md",
+    "Vault/Limit.md",
     "Vault/Calculus Final Review.md",
-    "Vault/Conic Section.md",
-    "Vault/Logarithm.md",
-    "Vault/Calculus.md",
-    "Vault/One to One.md",
-    "Vault/Function.md"
+    "Vault/Riemann Sum.md",
+    "Acid Strength.md",
+    "Acid Dissociation Constant.md",
+    "Acid.md",
+    "Vault/Voltage.md"
   ]
 }
