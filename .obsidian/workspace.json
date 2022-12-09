@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Logarithm.md",
+                "file": "Vault/Riemann Sum.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Riemann Sum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff3491e2595b3337",
+  "active": "bdaa7961de2fc292",
   "lastOpenFiles": [
+    "Vault/Integral.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Vault/Logarithm.md",
     "Vault/Binomial Expansion Formula.md",
     "Vault/Calculus.md",
     "References/Excalidraw/Newton's Method.md",
-    "Vault/Logarithm Derivative Rules.md",
     "Vault/Conic Section.md",
     "Vault/Speed of Light.md",
     "Vault/Wavelength.md",
-    "Vault/Spectrum of Light.md",
-    "Vault/Coulomb's Law of Energy.md"
+    "Vault/Spectrum of Light.md"
   ]
 }
