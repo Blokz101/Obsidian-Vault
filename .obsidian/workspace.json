@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron Orbital Configuration.md",
+                "file": "Schrodinger Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electron Orbital Configuration.md",
+                "file": "Schrodinger Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa6482d6fde008aa",
+  "active": "7275603c19ddf687",
   "lastOpenFiles": [
+    "Electron Orbital Configuration.md",
     "Chemistry.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Schrodinger Model.md",
@@ -189,7 +190,6 @@
     "Vault/Integral.md",
     "Vault/Integer.md",
     "Vault/Logarithm Derivative Rules.md",
-    "Derivative.md",
-    "Vault/Proving a Limit.md"
+    "Derivative.md"
   ]
 }
