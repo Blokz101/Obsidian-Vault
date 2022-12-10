@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Electron Orbital Configuration.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Electron Orbital Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry.md",
+                "file": "Electron Orbital Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +181,10 @@
   },
   "active": "aa6482d6fde008aa",
   "lastOpenFiles": [
+    "Chemistry.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Schrodinger Model.md",
     "Vault/Periodic Table.md",
-    "Chemistry.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Integral.md",
     "Vault/Integer.md",
