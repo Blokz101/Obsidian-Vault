@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Schrodinger Model.md",
                 "mode": "preview",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Schrodinger Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Schrodinger Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,8 @@
   },
   "active": "6279798bc830e981",
   "lastOpenFiles": [
+    "Quantum Number.md",
+    "Molecular Orbital Theory.md",
     "Chemistry.md",
     "Energy Level.md",
     "Hybridization Theory.md",
@@ -212,8 +214,6 @@
     "Vault/Isoelectronic Ion.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Effective Nuclear Charge Related Trends.md",
-    "Atomic Radius.md",
-    "Schrodinger Model.md",
-    "Electron Orbital Configuration.md"
+    "Atomic Radius.md"
   ]
 }
