@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effective Nuclear Charge Related Trends.md",
+                "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
                 "mode": "preview",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effective Nuclear Charge Related Trends.md",
+                "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effective Nuclear Charge Related Trends.md",
+                "file": "Vault/Valence Shell Electron Pair Repulsion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,7 @@
   },
   "active": "4aa5f2d35adaed01",
   "lastOpenFiles": [
+    "Effective Nuclear Charge Related Trends.md",
     "Atomic Radius.md",
     "Schrodinger Model.md",
     "Electron Orbital Configuration.md",
@@ -201,7 +202,6 @@
     "Vault/Periodic Table.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Integral.md",
-    "Vault/Integer.md",
-    "Vault/Logarithm Derivative Rules.md"
+    "Vault/Integer.md"
   ]
 }
