@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "Molecular Orbital Theory.md",
                 "mode": "preview",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "Molecular Orbital Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybridization Theory.md",
+                "file": "Molecular Orbital Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +205,15 @@
   },
   "active": "6279798bc830e981",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
+    "Chemistry.md",
+    "Energy Level.md",
     "Hybridization Theory.md",
+    "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
     "Vault/Isoelectronic Ion.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Effective Nuclear Charge Related Trends.md",
     "Atomic Radius.md",
     "Schrodinger Model.md",
-    "Electron Orbital Configuration.md",
-    "Chemistry.md",
-    "Orbital Angular Momentum Quantum Number.md"
+    "Electron Orbital Configuration.md"
   ]
 }
