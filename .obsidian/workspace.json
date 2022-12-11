@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Isoelectronic Ion.md",
+                "file": "Hybridization Theory.md",
                 "mode": "preview",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Isoelectronic Ion.md",
+                "file": "Hybridization Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Isoelectronic Ion.md",
+                "file": "Hybridization Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,7 @@
   },
   "active": "6279798bc830e981",
   "lastOpenFiles": [
+    "Vault/Isoelectronic Ion.md",
     "Vault/Valence Shell Electron Pair Repulsion Model.md",
     "Effective Nuclear Charge Related Trends.md",
     "Atomic Radius.md",
@@ -213,7 +214,6 @@
     "Chemistry.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Vault/Periodic Table.md",
-    "Vault/Coulomb's Law of Force.md",
-    "Vault/Integral.md"
+    "Vault/Coulomb's Law of Force.md"
   ]
 }
