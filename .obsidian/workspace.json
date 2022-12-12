@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Permanent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "11afaf635e026b2f",
@@ -205,6 +204,8 @@
   },
   "active": "6279798bc830e981",
   "lastOpenFiles": [
+    "Vault/Valence Shell Electron Pair Repulsion Model.md",
+    "Vault/Daltons's Law.md",
     "Schrodinger Model.md",
     "Quantum Number.md",
     "Molecular Orbital Theory.md",
@@ -212,8 +213,6 @@
     "Energy Level.md",
     "Hybridization Theory.md",
     "References/Excalidraw/Drawing 2022-10-01 14.39.04.excalidraw.md",
-    "Vault/Isoelectronic Ion.md",
-    "Vault/Valence Shell Electron Pair Repulsion Model.md",
-    "Effective Nuclear Charge Related Trends.md"
+    "Vault/Isoelectronic Ion.md"
   ]
 }
