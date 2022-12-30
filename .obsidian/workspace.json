@@ -11,24 +11,39 @@
             "id": "1108fed54d2c1ec3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reset, Restore, Revert.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
-            "id": "dbf69bbea538a414",
+            "id": "9ab5fdfa9ba50fbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Calculus.md",
-                "mode": "source",
+                "file": "Vault/Commits.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47e27e9593406b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Calculus.md",
+                "file": "Reset, Restore, Revert.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Calculus.md",
+                "file": "Reset, Restore, Revert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Calculus.md"
+                "file": "Reset, Restore, Revert.md"
               }
             }
           }
@@ -162,17 +177,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbf69bbea538a414",
+  "active": "1108fed54d2c1ec3",
   "lastOpenFiles": [
-    "Vault/Logarithm.md",
+    "Vault/Commits.md",
+    "Reset, Restore, Revert.md",
     "Git.md",
+    "Vault/Calculus.md",
+    "Vault/Logarithm.md",
     "Electron Orbital Configuration.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Vault/Coulomb's Law of Force.md",
     "Vault/Periodic Table.md",
-    "Schrodinger Model.md",
-    "Vault/Valence Shell Electron Pair Repulsion Model.md",
-    "Untitled.canvas",
-    "NEW TEST.md"
+    "Schrodinger Model.md"
   ]
 }
