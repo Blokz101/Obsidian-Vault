@@ -3,7 +3,6 @@ Alias: [Quantum Mechanical Model, Electron Cloud Model]
 Creation Date: Wed September 7th 2022 11:16:21 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-# <%+ tp.file.title %>
 #Permanent [[Chemistry]]
 
 - ## Definition
