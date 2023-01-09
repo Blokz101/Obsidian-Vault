@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types.md",
+                "file": "Data Type.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Types.md",
+                "file": "Data Type.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Types.md",
+                "file": "Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Types.md"
+                "file": "Data Type.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   "active": "8498bf30457fb2b9",
   "lastOpenFiles": [
     "Bit.md",
+    "Data Type.md",
     "Untitled.md",
     "Untitled 1.md",
     "Git.md",
@@ -184,7 +185,6 @@
     "Vault/Commits.md",
     "Vault/Calculus.md",
     "Vault/Logarithm.md",
-    "Electron Orbital Configuration.md",
-    "Orbital Angular Momentum Quantum Number.md"
+    "Electron Orbital Configuration.md"
   ]
 }
