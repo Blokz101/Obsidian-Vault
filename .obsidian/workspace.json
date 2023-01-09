@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Bit.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8498bf30457fb2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Types.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Data Types.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Data Types.md"
               }
             }
           }
@@ -162,17 +174,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a31f878fb130648",
+  "active": "8498bf30457fb2b9",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Bit.md",
     "Untitled.md",
+    "Untitled 1.md",
     "Git.md",
     "Reset, Restore, Revert.md",
     "Vault/Commits.md",
     "Vault/Calculus.md",
     "Vault/Logarithm.md",
     "Electron Orbital Configuration.md",
-    "Orbital Angular Momentum Quantum Number.md",
-    "Vault/Coulomb's Law of Force.md"
+    "Orbital Angular Momentum Quantum Number.md"
   ]
 }
