@@ -7,7 +7,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A method of [[Integral|Integration]]
-	- 
+	- > [!Equation]
+	  > $$\integral{udv}$$
 - ## Reference
 	- [[Integral|Integration]]
 	- [[U Substitution]]
