@@ -14,7 +14,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > Step|Explanation
 	  > > ---|---
 	  > > $\frac{d}{dt}[f(x)*g(x)]=f(x)*g'(x)+g(x)*f'(x)$|Start with the [[Derivative Product Rule]]
-	  > > $$
+	  > > $f(x)*g'(x)+g(x)*f'(x)=\frac{d}{dt}[f(x)*g(x)]$|Flip the equation
+	  > > $f(x)g(x)$
 - ## Reference
 	- [[Integral|Integration]]
 	- [[U Substitution]]
