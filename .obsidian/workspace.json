@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vault/Integration By Parts.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Derivative Rules.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/U Substitution.md",
-                "mode": "source",
+                "file": "Vault/Integral.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -212,15 +212,15 @@
   },
   "active": "8498bf30457fb2b9",
   "lastOpenFiles": [
-    "Derivative.md",
+    "Vault/Integral.md",
+    "Vault/Integr.md",
+    "Vault/U Substitution.md",
     "Derivative Rules.md",
     "Vault/Integration By Parts.md",
-    "Vault/U Substitution.md",
-    "Vault/Integral.md",
+    "Derivative.md",
     "Vault/Logarithm Derivative Rules.md",
     "Data Type.md",
     "Bit.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled.md"
   ]
 }

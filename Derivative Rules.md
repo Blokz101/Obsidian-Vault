@@ -3,7 +3,6 @@ Alias: []
 Creation Date: Tue September 13th 2022 11:37:10 am 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-# <%+ tp.file.title %>
 #Permanent [[Calculus]]
 
 - ## Basic Rules
