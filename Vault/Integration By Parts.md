@@ -11,11 +11,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > $$\large{\int u \, dv=uv-\int v \, du}$$
 	  > 
 	  > > [!Proof]
-	  > > Equation|Step
-	  > > ---\---
+	  > > Step|Explanation
+	  > > ---|---
 	  > > $\frac{d}{dt}[f(x)*g(x)]=f(x)*g'(x)+g(x)*f'(x)$|Start with the [[Derivative Product Rule]]
-	  > > 
-	  > > 
+	  > > $$
 - ## Reference
 	- [[Integral|Integration]]
 	- [[U Substitution]]

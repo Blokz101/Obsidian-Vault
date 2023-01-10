@@ -40,6 +40,30 @@
             }
           },
           {
+            "id": "bfc98e0dfbd64d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivative.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ccc4b2e6cf789cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivative Rules.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ed640d3a13574293",
             "type": "leaf",
             "state": {
@@ -188,15 +212,15 @@
   },
   "active": "8498bf30457fb2b9",
   "lastOpenFiles": [
-    "Vault/U Substitution.md",
+    "Derivative.md",
+    "Derivative Rules.md",
     "Vault/Integration By Parts.md",
+    "Vault/U Substitution.md",
     "Vault/Integral.md",
     "Vault/Logarithm Derivative Rules.md",
     "Data Type.md",
     "Bit.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Git.md",
-    "Reset, Restore, Revert.md"
+    "Untitled 1.md"
   ]
 }
