@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Integration By Parts.md",
+                "file": "Vault/U Substitution.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Integration By Parts.md",
+                "file": "Vault/U Substitution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Integration By Parts.md",
+                "file": "Vault/U Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Integration By Parts.md"
+                "file": "Vault/U Substitution.md"
               }
             }
           }
@@ -179,8 +179,8 @@
   },
   "active": "bfc98e0dfbd64d5e",
   "lastOpenFiles": [
-    "Vault/U Substitution.md",
     "Vault/Integration By Parts.md",
+    "Vault/U Substitution.md",
     "Derivative.md",
     "References/Integration Practice.pdf",
     "Bit.md",
