@@ -1,5 +1,5 @@
 ---
-Alias: [Integrals]
+Alias: [Integrals, Integration]
 Creation Date: Thu November 3rd 2022 10:06:12 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
@@ -23,3 +23,6 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- The opposite of a [[Derivative]].
 	- Uses a [[Riemann Sum]] as its proof.
+	- Methods of [[Integral|Integration]]
+		- [[Integration By Parts]]
+		- [[U Substitution]]

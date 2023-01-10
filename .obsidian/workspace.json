@@ -33,8 +33,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
-                "mode": "preview",
+                "file": "Vault/Integration By Parts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed640d3a13574293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/U Substitution.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Integration By Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md",
+                "file": "Vault/Integration By Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Logarithm Derivative Rules.md"
+                "file": "Vault/Integration By Parts.md"
               }
             }
           }
@@ -176,15 +188,15 @@
   },
   "active": "8498bf30457fb2b9",
   "lastOpenFiles": [
+    "Vault/U Substitution.md",
+    "Vault/Integration By Parts.md",
+    "Vault/Integral.md",
+    "Vault/Logarithm Derivative Rules.md",
     "Data Type.md",
     "Bit.md",
     "Untitled.md",
     "Untitled 1.md",
     "Git.md",
-    "Reset, Restore, Revert.md",
-    "Vault/Commits.md",
-    "Vault/Calculus.md",
-    "Vault/Logarithm.md",
-    "Electron Orbital Configuration.md"
+    "Reset, Restore, Revert.md"
   ]
 }
