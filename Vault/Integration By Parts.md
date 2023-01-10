@@ -21,7 +21,14 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	  > > $\int f(x)g'(x) \, dx=\int \frac{d}{dt}[f(x)g(x)] \, dx-\int g(x)f'(x) \, dx$|Simplify
 	  > > $\int f(x)g'(x) \, dx=f(x)g(x)-\int g(x)f'(x) \, dx$|Simplify
 	  > > $\int u \, dv=uv-\int v \, du$|Substitute $u$ for $f(x)$ and $v$ for $g(x)$
-	- 
+	- How to choose a $u$ value:
+		1. Logs
+		2. Inverse Trig
+		3. Algebra
+		4. Trig
+		5. Exponentials
+- ## Practice
+	- [[Integration Practice.pdf]]
 - ## Reference
 	- [[Integral|Integration]]
 	- [[U Substitution]]

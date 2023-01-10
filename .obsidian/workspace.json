@@ -8,44 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bc1d4edc9ffadde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a31f878fb130648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8498bf30457fb2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Integration By Parts.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "bfc98e0dfbd64d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative.md",
+                "file": "Vault/Integration By Parts.md",
                 "mode": "preview",
                 "source": true
               }
@@ -76,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -210,17 +177,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8498bf30457fb2b9",
+  "active": "bfc98e0dfbd64d5e",
   "lastOpenFiles": [
+    "Derivative.md",
+    "References/Integration Practice.pdf",
+    "Vault/Integration By Parts.md",
+    "Bit.md",
     "Vault/Integral.md",
     "Vault/Integr.md",
     "Vault/U Substitution.md",
     "Derivative Rules.md",
-    "Vault/Integration By Parts.md",
-    "Derivative.md",
     "Vault/Logarithm Derivative Rules.md",
-    "Data Type.md",
-    "Bit.md",
-    "Untitled.md"
+    "Data Type.md"
   ]
 }
