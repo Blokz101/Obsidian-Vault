@@ -62,29 +62,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "5cfc03edb043a290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary and Decimal Conversion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "70d41cb361f32afe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -146,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Word.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Word.md"
+              }
             }
           }
         ]
@@ -214,10 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70d41cb361f32afe",
+  "active": "8064817560fb2de4",
   "lastOpenFiles": [
-    "Digit.md",
     "Binary and Decimal Conversion.md",
+    "Digit.md",
     "Word.md",
     "Binary Addition.md",
     "Schrodinger Model.md",
