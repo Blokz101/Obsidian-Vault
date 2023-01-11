@@ -1,7 +1,10 @@
 {
   "translucency": false,
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Things",
   "baseFontSize": 14,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }

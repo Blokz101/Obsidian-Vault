@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Integral.md",
+                "file": "Vault/Integration By Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Integral.md",
+                "file": "Vault/Integration By Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Integral.md"
+                "file": "Vault/Integration By Parts.md"
               }
             }
           }
@@ -177,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01142518e6fee3b0",
+  "active": "85450585bfe67373",
   "lastOpenFiles": [
+    "Vault/Integral.md",
     "Vault/Parabola.md",
     "Vault/Integration By Parts.md",
-    "Vault/Integral.md",
     "excalibrain.md",
     "Vault/Logarithm Derivative Rules.md",
     "References/Excalidraw/Drawing 2023-01-10 23.50.10.excalidraw.md",
