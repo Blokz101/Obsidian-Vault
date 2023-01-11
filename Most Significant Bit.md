@@ -6,5 +6,6 @@ Modification Date: NaN
 #Permanent [[Computer Systems]]
 
 - ## Definition
-	- The leftmost [[Bit]] in a [[Word]] or the [[Bit]] that represents the 
+	- The leftmost [[Bit]] in a [[Word]] or the [[Bit]] that represents the largest number.
+	- Also the [[Bit]] that 
 - ## Reference
