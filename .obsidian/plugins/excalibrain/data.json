@@ -44,9 +44,9 @@
   "inverseInfer": false,
   "renderAlias": true,
   "nodeTitleScript": "",
-  "backgroundColor": "#0c3e6aff",
+  "backgroundColor": "#0a2742ff",
   "excludeFilepaths": [],
-  "showInferredNodes": true,
+  "showInferredNodes": false,
   "showAttachments": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
@@ -131,9 +131,24 @@
   "tagLinkStyle": {
     "strokeColor": "#4682b4ff"
   },
-  "hierarchyLinkStyles": {},
+  "hierarchyLinkStyles": {
+    "Parent": {},
+    "Parents": {},
+    "u": {},
+    "up": {},
+    "Child": {},
+    "Children": {},
+    "d": {},
+    "down": {},
+    "Friend": {},
+    "Friends": {},
+    "j": {},
+    "Jump": {},
+    "Jumps": {}
+  },
   "navigationHistory": [
-    "Vault/Logarithm Derivative Rules.md"
+    "Vault/Logarithm Derivative Rules.md",
+    "Vault/Integration By Parts.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
