@@ -39,7 +39,7 @@
       "query": "line:([[Computer Systems]])",
       "color": {
         "a": 1,
-        "rgb": 852162
+        "rgb": 37314
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 9.96050824175824,
   "linkStrength": 0.81692135989011,
   "linkDistance": 265,
-  "scale": 0.28940392927270153,
-  "close": false
+  "scale": 0.21208068852916753,
+  "close": true
 }
