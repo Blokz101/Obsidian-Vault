@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85450585bfe67373",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "07aba2f7b6a5da4c",
             "type": "leaf",
             "state": {
@@ -29,6 +21,42 @@
           },
           {
             "id": "b8ad0983b064d24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signed Integer.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "12328e7608ca493e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two's Complement.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67d6fdf30f6e07fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signed Magnitude.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31f0f5d86b9d6473",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -126,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word.md",
+                "file": "Signed Magnitude.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word.md",
+                "file": "Signed Magnitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word.md"
+                "file": "Signed Magnitude.md"
               }
             }
           }
@@ -198,17 +226,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8064817560fb2de4",
+  "active": "67d6fdf30f6e07fa",
   "lastOpenFiles": [
+    "Two's Complement.md",
+    "Signed Magnitude.md",
+    "Signed Integer.md",
+    "Unsigned Integer.md",
+    "Word.md",
     "Binary and Decimal Conversion.md",
     "Digit.md",
-    "Word.md",
     "Binary Addition.md",
     "Schrodinger Model.md",
-    "Vault/Heating and Cooling.md",
-    "Vault/Physical Process.md",
-    "Vault/Specific Heat Capacity.md",
-    "<% tp.file.cursor(1) %>.md",
-    "excalibrain.md"
+    "Vault/Heating and Cooling.md"
   ]
 }

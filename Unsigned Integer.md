@@ -9,4 +9,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- A **positive whole number**.
 	- ![[IMG_378B293F363F-1.jpeg|200]]
 - ## Reference
+	- [[Signed Integer]]
 	- [[Bit]]
