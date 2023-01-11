@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Signed Magnitude.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -228,9 +228,9 @@
   },
   "active": "67d6fdf30f6e07fa",
   "lastOpenFiles": [
-    "Two's Complement.md",
-    "Signed Magnitude.md",
     "Signed Integer.md",
+    "Signed Magnitude.md",
+    "Two's Complement.md",
     "Unsigned Integer.md",
     "Word.md",
     "Binary and Decimal Conversion.md",
