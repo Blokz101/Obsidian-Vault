@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfc98e0dfbd64d5e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ccc4b2e6cf789cce",
             "type": "leaf",
             "state": {
@@ -101,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Derivative Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Derivative Rules.md"
+              }
             }
           }
         ]
@@ -169,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfc98e0dfbd64d5e",
+  "active": "ccc4b2e6cf789cce",
   "lastOpenFiles": [
     "Vault/U Substitution.md",
     "Vault/Integration By Parts.md",
