@@ -7,5 +7,6 @@ Modification Date: NaN
 
 - ## Definition
 	- The leftmost [[Bit]] in a [[Word]] or the [[Bit]] that represents the largest number.
-	- Also the [[Bit]] that 
+	- Also the [[Bit]] that indicates the sign of the [[Two's Complement]] [[Signed Integer]].
 - ## Reference
+	- [[Two's Complement]]

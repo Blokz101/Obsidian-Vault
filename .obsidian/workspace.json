@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most Significant Bit.md",
+                "file": "Two's Complement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Most Significant Bit.md",
+                "file": "Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Most Significant Bit.md"
+                "file": "Two's Complement.md"
               }
             }
           }
@@ -238,11 +238,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c118381c7b70c69e",
+  "active": "12328e7608ca493e",
   "lastOpenFiles": [
+    "Most Significant Bit.md",
     "Bit.md",
     "Two's Complement.md",
-    "Most Significant Bit.md",
     "Signed Magnitude.md",
     "Signed Integer.md",
     "Unsigned Integer.md",
