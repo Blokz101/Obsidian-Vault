@@ -14,5 +14,5 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- 3 bits have 8 states
 		- etc
 - ## Reference
-	- [[Bit|Bits]] are used t
+	- [[Bit|Bits]] are used to create [[Unsigned Integer|Unsigned Integers]]
 	- [[Word]]

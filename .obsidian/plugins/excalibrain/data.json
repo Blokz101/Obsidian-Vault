@@ -149,7 +149,8 @@
   "navigationHistory": [
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Integration By Parts.md",
-    "Vault/Integral.md"
+    "Vault/Integral.md",
+    "Unsigned Integer.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

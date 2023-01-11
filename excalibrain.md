@@ -12,9 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Integrals ^6FjG7725
+Unsigned Integers ^2FE2oHD3
 
-[[Vault/Integral.md]] ^rQpyJzJA
+[[Unsigned Integer.md]] ^WiI4KOqV
 
 %%
 # Drawing
@@ -25,11 +25,11 @@ Integrals ^6FjG7725
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "rQpyJzJA",
+			"id": "WiI4KOqV",
 			"type": "rectangle",
-			"x": -98.5,
+			"x": -168.5,
 			"y": -72,
-			"width": 179,
+			"width": 320,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -42,35 +42,35 @@ Integrals ^6FjG7725
 			"roundness": {
 				"type": 1
 			},
-			"seed": 29469,
+			"seed": 10892,
 			"version": 1,
-			"versionNonce": 367664616,
-			"updated": 1673413238836,
+			"versionNonce": 463446313,
+			"updated": 1673457027102,
 			"isDeleted": false,
 			"groupIds": [
-				"o6lAnXJY"
+				"2so2krk9"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "6FjG7725"
+					"id": "2FE2oHD3"
 				}
 			],
-			"link": "[[Vault/Integral.md]]",
+			"link": "[[Unsigned Integer.md]]",
 			"locked": false
 		},
 		{
-			"text": "Integrals",
+			"text": "Unsigned Integers",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "6FjG7725",
+			"id": "2FE2oHD3",
 			"type": "text",
-			"x": -88.5,
+			"x": -158.5,
 			"y": -62,
-			"width": 159,
+			"width": 300,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -83,25 +83,25 @@ Integrals ^6FjG7725
 			"roundness": {
 				"type": 1
 			},
-			"seed": 8546,
+			"seed": 22643,
 			"version": 1,
-			"versionNonce": 155777623,
-			"updated": 1673413238836,
+			"versionNonce": 212621387,
+			"updated": 1673457027102,
 			"isDeleted": false,
 			"groupIds": [
-				"o6lAnXJY"
+				"2so2krk9"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "rQpyJzJA",
-			"originalText": "Integrals",
-			"rawText": "Integrals"
+			"containerId": "WiI4KOqV",
+			"originalText": "Unsigned Integers",
+			"rawText": "Unsigned Integers"
 		},
 		{
-			"id": "A0gUuAba",
+			"id": "duvEvnBT",
 			"type": "ellipse",
-			"x": -108.5,
+			"x": -178.5,
 			"y": -49,
 			"width": 10,
 			"height": 10,
@@ -116,20 +116,20 @@ Integrals ^6FjG7725
 			"roundness": {
 				"type": 1
 			},
-			"seed": 63676,
+			"seed": 71123,
 			"version": 1,
-			"versionNonce": 560634499,
-			"updated": 1673413238836,
+			"versionNonce": 875355526,
+			"updated": 1673457027102,
 			"isDeleted": false,
 			"groupIds": [
-				"o6lAnXJY"
+				"2so2krk9"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "9nI6alXu",
+			"id": "gsBWJCHg",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -146,20 +146,20 @@ Integrals ^6FjG7725
 			"roundness": {
 				"type": 1
 			},
-			"seed": 28405,
+			"seed": 19493,
 			"version": 1,
-			"versionNonce": 252851906,
-			"updated": 1673413238836,
+			"versionNonce": 888332748,
+			"updated": 1673457027102,
 			"isDeleted": false,
 			"groupIds": [
-				"o6lAnXJY"
+				"2so2krk9"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "UiA8o9NS",
+			"id": "E6jTUuxw",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -176,13 +176,13 @@ Integrals ^6FjG7725
 			"roundness": {
 				"type": 1
 			},
-			"seed": 30599,
+			"seed": 60910,
 			"version": 1,
-			"versionNonce": 18107657,
-			"updated": 1673413238836,
+			"versionNonce": 306165363,
+			"updated": 1673457027102,
 			"isDeleted": false,
 			"groupIds": [
-				"o6lAnXJY"
+				"2so2krk9"
 			],
 			"boundElements": [],
 			"link": null,
@@ -204,10 +204,10 @@ Integrals ^6FjG7725
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 126.90322580645162,
-		"scrollY": 171.71547379032256,
+		"scrollX": 209.23656867532165,
+		"scrollY": 177.4557746438419,
 		"zoom": {
-			"value": 3.1
+			"value": 3.4000000000000004
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
