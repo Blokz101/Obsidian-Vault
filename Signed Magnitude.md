@@ -9,6 +9,10 @@ Modification Date: NaN
 	- Very old method, rarely used anymore
 	- Set the first bit to represent if the number is **negative**.
 		- > [!Example]
-		  > 
-		  > 0101 = 5
+		  >
+		  > Positive number
+		  > $$
+		  >
+		  >
+		  >
 - ## Reference
