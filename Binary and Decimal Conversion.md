@@ -15,5 +15,6 @@ Modification Date: NaN
 		- Subtract the largest power of 2 possible, $n$
 		- Place a 1 in the $n$th place.
 		- Repeat
-		- ![[IMG_09C90422330C-1.jpeg]]
+		- ![[IMG_09C90422330C-1.jpeg]]|![[IMG_09C90422330C-1 2.jpeg]]
+		  ---|---
 - ## Reference
