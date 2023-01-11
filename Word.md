@@ -8,5 +8,12 @@ Modification Date: NaN
 - ## Definition
 	- A collection of [[Bit|Bits]].
 	- [[Word|Word Length]] is how many bits are in the [[Word]].
+	- Typical [[Word|Word Lengths]]
+		- 4 [[Bit|Bits]]
+			- Also called a nybble
+		- 8 [[Bit|Bits]]
+		- 16 [[Bit|Bits]]
+		- 32 [[Bit|Bits]]
+		- 64 [[Bit|Bits]]
 - ## Reference
 	- [[Bit]]

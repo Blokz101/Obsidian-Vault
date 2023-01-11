@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Binary Addition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -58,13 +58,13 @@
               "type": "markdown",
               "state": {
                 "file": "Word.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Addition.md",
+                "file": "Word.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Addition.md",
+                "file": "Word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Addition.md"
+                "file": "Word.md"
               }
             }
           }
@@ -198,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07aba2f7b6a5da4c",
+  "active": "8064817560fb2de4",
   "lastOpenFiles": [
+    "Binary Addition.md",
+    "Digit.md",
     "Schrodinger Model.md",
     "Vault/Heating and Cooling.md",
     "Vault/Physical Process.md",
@@ -207,8 +209,6 @@
     "<% tp.file.cursor(1) %>.md",
     "excalibrain.md",
     "References/Excalidraw/Drawing 2022-09-30 17.02.00.excalidraw.md",
-    "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md",
-    "Untitled.md",
-    "Untitled 2.md"
+    "References/Excalidraw/Drawing 2022-10-26 20.59.00.excalidraw.md"
   ]
 }
