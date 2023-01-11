@@ -14,3 +14,4 @@ Modification Date: NaN
 	- This system was abandoned for [[Two's Complement]] which is widely used today.
 - ## Reference
 	- [[Two's Complement]]
+	- [[Signed Integer]]

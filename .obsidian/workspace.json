@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signed Magnitude.md",
+                "file": "Two's Complement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signed Magnitude.md",
+                "file": "Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signed Magnitude.md"
+                "file": "Two's Complement.md"
               }
             }
           }
@@ -226,11 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67d6fdf30f6e07fa",
+  "active": "12328e7608ca493e",
   "lastOpenFiles": [
-    "Signed Integer.md",
     "Signed Magnitude.md",
     "Two's Complement.md",
+    "Signed Integer.md",
     "Unsigned Integer.md",
     "Word.md",
     "Binary and Decimal Conversion.md",
