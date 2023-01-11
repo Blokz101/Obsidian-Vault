@@ -6,5 +6,7 @@
   "accentColor": "#ff0000",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "showViewHeader": false
 }

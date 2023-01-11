@@ -11,5 +11,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "References"
+  "attachmentFolderPath": "References",
+  "showInlineTitle": true
 }
