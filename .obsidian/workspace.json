@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c118381c7b70c69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most Significant Bit.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "67d6fdf30f6e07fa",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Most Significant Bit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Most Significant Bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Two's Complement.md"
+                "file": "Most Significant Bit.md"
               }
             }
           }
@@ -226,17 +238,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12328e7608ca493e",
+  "active": "c118381c7b70c69e",
   "lastOpenFiles": [
-    "Signed Magnitude.md",
+    "Bit.md",
     "Two's Complement.md",
+    "Most Significant Bit.md",
+    "Signed Magnitude.md",
     "Signed Integer.md",
     "Unsigned Integer.md",
     "Word.md",
     "Binary and Decimal Conversion.md",
     "Digit.md",
-    "Binary Addition.md",
-    "Schrodinger Model.md",
-    "Vault/Heating and Cooling.md"
+    "Binary Addition.md"
   ]
 }
