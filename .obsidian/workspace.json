@@ -35,11 +35,15 @@
             "id": "12328e7608ca493e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Two's Complement.md",
-                "mode": "preview",
-                "source": true
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -864,
+                  "y": -172,
+                  "zoom": -0.8239212040106456,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -104,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most Significant Bit.md",
+                "file": "Two's Complement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Most Significant Bit.md",
+                "file": "Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Most Significant Bit.md"
+                "file": "Two's Complement.md"
               }
             }
           }
@@ -238,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c118381c7b70c69e",
+  "active": "12328e7608ca493e",
   "lastOpenFiles": [
     "Two's Complement.md",
     "Most Significant Bit.md",
