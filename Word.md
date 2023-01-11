@@ -10,8 +10,9 @@ Modification Date: NaN
 	- [[Word|Word Length]] is how many bits are in the [[Word]].
 	- Typical [[Word|Word Lengths]]
 		- 4 [[Bit|Bits]]
-			- Also called a nybble
+			- Also called a [[Nybble]]
 		- 8 [[Bit|Bits]]
+			- Also called a [[Byte]]
 		- 16 [[Bit|Bits]]
 		- 32 [[Bit|Bits]]
 		- 64 [[Bit|Bits]]
