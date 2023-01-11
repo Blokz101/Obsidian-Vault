@@ -9,3 +9,4 @@ Modification Date: NaN
 	- A collection of [[Bit|Bits]].
 	- [[Word|Word Length]] is how many bits are in the [[Word]].
 - ## Reference
+	- [[Bit]]

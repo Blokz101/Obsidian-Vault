@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bit.md",
-                "mode": "preview",
+                "file": "Unsigned Integer.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit.md",
+                "file": "Unsigned Integer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit.md",
+                "file": "Unsigned Integer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit.md"
+                "file": "Unsigned Integer.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "b8ad0983b064d24f",
   "lastOpenFiles": [
-    "Word.md",
     "Bit.md",
+    "Word.md",
     "Untitled 2.md",
     "Vault/Integration By Parts.md",
     "Vault/Integral.md",
