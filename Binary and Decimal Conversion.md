@@ -7,7 +7,13 @@ Modification Date: NaN
 
 - ## Decimal To Binary
 	- #### Division
-		- Repeatedly divide by 2 until you cant anymore, the [[Remainder]] is the value of that bit.
+		- Divide by 2.
+		- Add the value of the [[Remainder]] to the binary string.
+		- Repeat
 		-  ![[IMG_854269E1C67D-1.jpeg]]
 	- #### Largest Power of Two
+		- Subtract the largest power of 2 possible, $n$
+		- Place a 1 in the $n$th place.
+		- Repeat
+		- ![[IMG_09C90422330C-1.jpeg]]
 - ## Reference
