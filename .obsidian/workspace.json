@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Arc Length.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -152,16 +152,25 @@
             "type": "tabs",
             "children": [
               {
-                "id": "57797f2b05d07347",
+                "id": "a4c378ea103da377",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ab232b407e2427dd",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "excalibrain.md"
+                    "file": "Excalibrain Graph.md"
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -176,15 +185,15 @@
   },
   "active": "52c637fb4b1b06a1",
   "lastOpenFiles": [
-    "Arc Length (Old).md",
-    "Templates/Arc Length.md",
+    "Excalibrain Graph.md",
     "excalibrain.md",
+    "Templates/Arc Length.md",
+    "Arc Length (Old).md",
     "Templates/Permanent Note Template.md",
     "Vault/Riemann Sum.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
     "References/IMG_DA474A079BC4-1.jpeg",
     "graph.md",
-    "Word.md",
-    "Unsigned Integer.md"
+    "Word.md"
   ]
 }
