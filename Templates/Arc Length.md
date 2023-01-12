@@ -15,13 +15,15 @@ There are three versions based on what arc your dealing with:
 - Parabolic
 
 ##### Function of X
-Where the curve we are measuring is a function of $x$
+Where the curve we are measuring is a function of $x$.
+![[Screen Shot 2023-01-12 at 5.42.04 PM.png|200]]
 > [!Equation]
 > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$$
- 
+
 [[Arc Length Proof]]
 
 ##### Function of Y
+Where the curve we are measuring is a function of $y$
 > [!Equation]
 > $$
 
