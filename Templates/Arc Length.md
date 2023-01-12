@@ -3,7 +3,7 @@ Alias: [Length Of An Arc]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[Integral]] [[Riemann Sum]]
+> Parents:: [[Integral]] [[Riemann Sum]] [[Limit]]
 > Friends:: 
 > Children:: 
 
@@ -11,6 +11,5 @@ Alias: [Length Of An Arc]
 The length of an arc or curved line. We can find the [[Arc Length]] by using an [[Integral]]
 
 ![[IMG_BEA84264F537-1.jpeg|400]]
-
 
 ## Reference
