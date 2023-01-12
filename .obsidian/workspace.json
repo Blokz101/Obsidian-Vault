@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Arc Length.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -159,7 +159,7 @@
         "y": -31,
         "width": 1233,
         "height": 600,
-        "maximize": true,
+        "maximize": false,
         "zoom": -0.5
       }
     ]
