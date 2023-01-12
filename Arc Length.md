@@ -17,8 +17,10 @@ Modification Date: NaN
 	  > ![[IMG_163679D9A762-1.jpeg|200]]
 	  > The [[Pythagorean Theorem]] gives us the length of the line segments.
 	  > $$\text{Distance}=\sqrt{ (\Delta x)^2+(\Delta y)^2 }$$
-	  > Generalizing this:
-	  > $$\text{Distance}=\sqrt{ (\Delta x_{2})^2+(\Delta y_{2})^2 }$$
+	  > Generalizing this, where $i$ represents one out of many segments:
+	  > $$\text{Distance}=\sqrt{ (\Delta x_{i})^2+(\Delta y_{i})^2 }$$
+	  > Divide by $(\Delta x_{i})^2$
+	  > $$\text{Distance}=\sqrt{ 1+\left( \frac{\Delta y_{i}}{\Delta x_{i}} \right)^2 }(\Delta x_{i})^2$$
 	- > [!Equation]
 	  > $$\large{\text{Area}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx}$$
 - ## Function of Y
