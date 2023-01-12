@@ -6,9 +6,13 @@ Modification Date: NaN
 #Permanent [[Calculus II]]
 
 - ## Definition
-	- The length of an arc, there are three variants that  can be used based on the situation.
+	- The length of an arc can be found by picking points along the arc and drawing lines between them. The more lines, the better the approximation.
+	- ![[IMG_BEA84264F537-1.jpeg|400]]
+	- The true [[Arc Length]] is given when the amount of lines reaches infinity.
 - ## Function of X
-	- 
+	- ![[IMG_DA474A079BC4-1.jpeg|400]]
+	- > [!Equation]
+	  > $\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$
 - ## Function of Y
 	- 
 - ## Parametric Function
