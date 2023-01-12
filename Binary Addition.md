@@ -13,5 +13,6 @@ Modification Date: NaN
 
 
 ## Reference
-Parent:: 
-Child::
+> Parent:: [[Most Significant Bit]]
+> Children::
+> Friends::

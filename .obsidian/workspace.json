@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "f352d4b2df73ae65",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
+              }
+            }
+          },
+          {
             "id": "b8ad0983b064d24f",
             "type": "leaf",
             "state": {
@@ -223,6 +233,8 @@
   },
   "active": "07aba2f7b6a5da4c",
   "lastOpenFiles": [
+    "excalibrain.md",
+    "Binary Addition.md",
     "Bit.md",
     "Most Significant Bit.md",
     "Signed Integer.md",
@@ -230,8 +242,6 @@
     "Two's Complement.md",
     "Signed Magnitude.md",
     "Unsigned Integer.md",
-    "Word.md",
-    "Binary and Decimal Conversion.md",
-    "Digit.md"
+    "Word.md"
   ]
 }
