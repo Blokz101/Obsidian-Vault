@@ -157,7 +157,12 @@
     "Templates/Untitled.canvas",
     "References/Excalidraw/Drawing 2023-01-12 16.40.25.excalidraw.md",
     "Templates/Arc Length Proof.canvas",
-    "Templates/Arc Length.md"
+    "Arc Length (Old).md",
+    "Templates/Arc Length Proof.md",
+    "Templates/Arc Length.md",
+    "Untitled.md",
+    "References/Excalidraw/Drawing 2023-01-12 17.04.03.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-12 17.04.28.excalidraw.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
