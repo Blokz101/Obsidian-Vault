@@ -12,7 +12,8 @@ Modification Date: NaN
 - ## Function of X
 	- ![[IMG_DA474A079BC4-1.jpeg|400]]
 	- > [!Equation]
-	  > $\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$
+	  > $$\large{\text{Area}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx}$$
+	- >
 - ## Function of Y
 	- 
 - ## Parametric Function
