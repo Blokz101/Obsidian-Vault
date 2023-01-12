@@ -3,7 +3,7 @@ Alias: [Length Of An Arc]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[Integral]] [[Riemann Sum]] [[Limit]]
+> Parents:: [[Integral]] [[Riemann Sum]] [[Limit]] [[Parametric Function]]
 > Friends:: 
 > Children:: [[Textbook - Arc Length.pdf]] [[Arc Length Proof]]
 ---
@@ -18,13 +18,13 @@ Alias: [Length Of An Arc]
 		- ![[Screen Shot 2023-01-12 at 5.42.04 PM.png|200]]
 		- [[Arc Length Proof]]
 		- > [!Equation]
-          > 	$$\text{Arc Length}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$$
+          > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$$
 	- #### Function of Y
 		- Where the curve we are measuring is a function of $y$
 		- ![[Screen Shot 2023-01-12 at 5.56.04 PM.png|200]]
 		- The proof is roughly the same as for the **Function of X**, but $\frac{dy}{dx}$ is flipped and the [[Integral]] is taken in respect to $dy$ instead of $dx$.
 		- > [!Equation]
-	  > 	$\int_{c}^{d} \sqrt{ 1+\left( \frac{dx}{dy} \right)^{2} } \, dy$
+	  > $$\int_{c}^{d} \sqrt{ 1+\left( \frac{dx}{dy} \right)^{2} } \, dy$$
 	- #### Parametric Function
 		- Where the $x$ and $y$ values of the curve we are measuring are functions of another variable, $t$ in this instance.
 ---
