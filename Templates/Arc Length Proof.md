@@ -14,3 +14,17 @@ annotation-target: Textbook - Arc Length.pdf
 >%%TAGS%%
 >
 ^pcavclimrfh
+
+
+>%%
+>```annotation-json
+>{"text":"Divide by (Delta x squared) so we can convert it into an [[Integral]] in a few steps.","target":[{"source":"vault:/References/Textbook - Arc Length.pdf","selector":[{"type":"TextPositionSelector","start":1899,"end":1906},{"type":"TextQuoteSelector","exact":" (∆xi)ò","prefix":"(∆xi)ò +(∆yi)ò=¿ÁÁÀÔ+∆yi∆xiò","suffix":"=¿ÁÁÀÔ+∆yi∆xiò∆xisince∆xi > ý."}]}],"created":"2023-01-12T21:55:36.533Z","updated":"2023-01-12T21:55:36.533Z","document":{"title":"Textbook - Arc Length.pdf","link":[{"href":"urn:x-pdf:a3a7104549d248c4f6f256608bdb7a56"},{"href":"vault:/References/Textbook - Arc Length.pdf"}],"documentFingerprint":"a3a7104549d248c4f6f256608bdb7a56"},"uri":"vault:/References/Textbook - Arc Length.pdf"}
+>```
+>%%
+>*%%PREFIX%%(∆xi)ò +(∆yi)ò=¿ÁÁÀÔ+∆yi∆xiò%%HIGHLIGHT%% ==(∆xi)ò== %%POSTFIX%%=¿ÁÁÀÔ+∆yi∆xiò∆xisince∆xi > ý.*
+>%%LINK%%[[#^mjarmh3adc|show annotation]]
+>%%COMMENT%%
+>Divide by (Delta x squared) so we can convert it into an [[Integral]] in a few steps.
+>%%TAGS%%
+>
+^mjarmh3adc

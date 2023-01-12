@@ -15,6 +15,7 @@
               "state": {
                 "file": "Templates/Arc Length.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -37,6 +38,7 @@
               "state": {
                 "file": "Arc Length (Old).md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -79,6 +81,7 @@
               "state": {
                 "file": "Enthalpy.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -173,8 +176,8 @@
         ],
         "direction": "vertical",
         "x": -1366,
-        "y": -56,
-        "width": 1233.445556640625,
+        "y": -31,
+        "width": 1233,
         "height": 600,
         "maximize": false,
         "zoom": -0.5
