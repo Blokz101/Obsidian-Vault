@@ -1,5 +1,5 @@
 {
-  "excalibrainFilepath": "excalibrain.md",
+  "excalibrainFilepath": "Excalibrain Graph.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
     "exclusions": [
@@ -42,7 +42,7 @@
   },
   "inferAllLinksAsFriends": false,
   "inverseInfer": false,
-  "renderAlias": true,
+  "renderAlias": false,
   "nodeTitleScript": "",
   "backgroundColor": "#0a2742ff",
   "excludeFilepaths": [],

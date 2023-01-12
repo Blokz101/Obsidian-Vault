@@ -12,23 +12,23 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Length Of An Arc ^w7wuoIwr
+Arc Length ^zZzrhtIK
 
-2 ^0AqobxYp
+2 ^22MKLAd2
 
-Integrals ^h5pX1628
+Integral ^EtX1aLUS
 
-1 ^OgzArdsR
+1 ^C1dcuU7f
 
-Riemann Sums ^TcylSfd7
+Riemann Sum ^h9mvGyHY
 
-1 ^P8s1zpRN
+1 ^2XWH9Ozd
 
-[[Templates/Arc Length.md]] ^Qee1EIP4
+[[Templates/Arc Length.md]] ^Ij2XTFIt
 
-[[Vault/Integral.md]] ^JsHwCu8D
+[[Vault/Integral.md]] ^X1B755l9
 
-[[Vault/Riemann Sum.md]] ^s5A4wznG
+[[Vault/Riemann Sum.md]] ^uNHSYGhN
 
 %%
 # Drawing
@@ -51,18 +51,18 @@ Riemann Sums ^TcylSfd7
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "1yzE1zEE",
+				"elementId": "9zFU08kl",
 				"focus": -8.190495149563906e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "JoAvLkcH",
+				"elementId": "8udLm1uA",
 				"focus": -1.842861408651879e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "qZppCxxg",
+			"id": "zet6fGGM",
 			"type": "arrow",
 			"x": -21.710112277224333,
 			"y": -82.99786572265862,
@@ -79,10 +79,10 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 11115,
+			"seed": 61075,
 			"version": 1,
-			"versionNonce": 113073897,
-			"updated": 1673557490714,
+			"versionNonce": 678266047,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -102,18 +102,18 @@ Riemann Sums ^TcylSfd7
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "1yzE1zEE",
+				"elementId": "9zFU08kl",
 				"focus": 6.746678358534402e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "QyUu1pQj",
+				"elementId": "AQyYHwrV",
 				"focus": 3.0360052613404816e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "KEQbgXWx",
+			"id": "4KXep5xS",
 			"type": "arrow",
 			"x": -7.521189614656428,
 			"y": -82.00673498600406,
@@ -130,10 +130,10 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 12651,
+			"seed": 19218,
 			"version": 1,
-			"versionNonce": 998384208,
-			"updated": 1673557490714,
+			"versionNonce": 351974937,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -141,11 +141,11 @@ Riemann Sums ^TcylSfd7
 			"locked": false
 		},
 		{
-			"id": "Qee1EIP4",
+			"id": "Ij2XTFIt",
 			"type": "rectangle",
-			"x": -160,
+			"x": -107,
 			"y": -72,
-			"width": 302,
+			"width": 197,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -158,35 +158,35 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 79413,
+			"seed": 34204,
 			"version": 1,
-			"versionNonce": 944212062,
-			"updated": 1673557490713,
+			"versionNonce": 222643031,
+			"updated": 1673558077223,
 			"isDeleted": false,
 			"groupIds": [
-				"nnjGn5tf"
+				"EjD1sfym"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "w7wuoIwr"
+					"id": "zZzrhtIK"
 				}
 			],
 			"link": "[[Templates/Arc Length.md]]",
 			"locked": false
 		},
 		{
-			"text": "Length Of An Arc",
+			"text": "Arc Length",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "w7wuoIwr",
+			"id": "zZzrhtIK",
 			"type": "text",
-			"x": -150,
+			"x": -97,
 			"y": -62,
-			"width": 282,
+			"width": 177,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -199,25 +199,25 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 75008,
+			"seed": 14277,
 			"version": 1,
-			"versionNonce": 665668917,
-			"updated": 1673557490713,
+			"versionNonce": 513034179,
+			"updated": 1673558077223,
 			"isDeleted": false,
 			"groupIds": [
-				"nnjGn5tf"
+				"EjD1sfym"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "Qee1EIP4",
-			"originalText": "Length Of An Arc",
-			"rawText": "Length Of An Arc"
+			"containerId": "Ij2XTFIt",
+			"originalText": "Arc Length",
+			"rawText": "Arc Length"
 		},
 		{
-			"id": "7DLom4i7",
+			"id": "5zAFUtZU",
 			"type": "ellipse",
-			"x": -170,
+			"x": -117,
 			"y": -49,
 			"width": 10,
 			"height": 10,
@@ -232,20 +232,20 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 90563,
+			"seed": 28909,
 			"version": 1,
-			"versionNonce": 191264449,
-			"updated": 1673557490713,
+			"versionNonce": 884285112,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"nnjGn5tf"
+				"EjD1sfym"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "1yzE1zEE",
+			"id": "9zFU08kl",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -262,22 +262,22 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 49921,
+			"seed": 17847,
 			"version": 1,
-			"versionNonce": 835071874,
-			"updated": 1673557490713,
+			"versionNonce": 317716433,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"nnjGn5tf"
+				"EjD1sfym"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "qZppCxxg"
+					"id": "zet6fGGM"
 				},
 				{
 					"type": "arrow",
-					"id": "KEQbgXWx"
+					"id": "4KXep5xS"
 				}
 			],
 			"link": null,
@@ -290,7 +290,7 @@ Riemann Sums ^TcylSfd7
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "0AqobxYp",
+			"id": "22MKLAd2",
 			"type": "text",
 			"x": -5,
 			"y": -82,
@@ -307,10 +307,10 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 85655,
+			"seed": 3579,
 			"version": 1,
-			"versionNonce": 717377510,
-			"updated": 1673557490713,
+			"versionNonce": 724267349,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -321,7 +321,7 @@ Riemann Sums ^TcylSfd7
 			"rawText": "2"
 		},
 		{
-			"id": "gnXeJoCO",
+			"id": "K3iXSfQA",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -338,24 +338,24 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 85647,
+			"seed": 95785,
 			"version": 1,
-			"versionNonce": 173247129,
-			"updated": 1673557490713,
+			"versionNonce": 992156349,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"nnjGn5tf"
+				"EjD1sfym"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "JsHwCu8D",
+			"id": "X1B755l9",
 			"type": "rectangle",
-			"x": -278,
+			"x": -272,
 			"y": -286,
-			"width": 126,
+			"width": 115,
 			"height": 44,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -368,35 +368,35 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 6450,
+			"seed": 7868,
 			"version": 1,
-			"versionNonce": 429425992,
-			"updated": 1673557490713,
+			"versionNonce": 299053388,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"Tl7umy3C"
+				"fWw731J1"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "h5pX1628"
+					"id": "EtX1aLUS"
 				}
 			],
 			"link": "[[Vault/Integral.md]]",
 			"locked": false
 		},
 		{
-			"text": "Integrals",
+			"text": "Integral",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 19,
-			"id": "h5pX1628",
+			"id": "EtX1aLUS",
 			"type": "text",
-			"x": -268,
+			"x": -262,
 			"y": -276,
-			"width": 106,
+			"width": 95,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#ffffffff",
@@ -409,25 +409,25 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 37333,
+			"seed": 90427,
 			"version": 1,
-			"versionNonce": 255678111,
-			"updated": 1673557490713,
+			"versionNonce": 396367526,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"Tl7umy3C"
+				"fWw731J1"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "JsHwCu8D",
-			"originalText": "Integrals",
-			"rawText": "Integrals"
+			"containerId": "X1B755l9",
+			"originalText": "Integral",
+			"rawText": "Integral"
 		},
 		{
-			"id": "8NrNrKFV",
+			"id": "ONLGrKvS",
 			"type": "ellipse",
-			"x": -288,
+			"x": -282,
 			"y": -269,
 			"width": 10,
 			"height": 10,
@@ -442,20 +442,20 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 26363,
+			"seed": 1348,
 			"version": 1,
-			"versionNonce": 774642916,
-			"updated": 1673557490713,
+			"versionNonce": 285112641,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"Tl7umy3C"
+				"fWw731J1"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "xcRsiMxc",
+			"id": "tvh0tI8t",
 			"type": "ellipse",
 			"x": -229,
 			"y": -296,
@@ -472,20 +472,20 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 12319,
+			"seed": 60217,
 			"version": 1,
-			"versionNonce": 510191602,
-			"updated": 1673557490713,
+			"versionNonce": 290216159,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"Tl7umy3C"
+				"fWw731J1"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "JoAvLkcH",
+			"id": "8udLm1uA",
 			"type": "ellipse",
 			"x": -199,
 			"y": -242,
@@ -502,18 +502,18 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 80389,
+			"seed": 69088,
 			"version": 1,
-			"versionNonce": 650871028,
-			"updated": 1673557490714,
+			"versionNonce": 914685853,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [
-				"Tl7umy3C"
+				"fWw731J1"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "qZppCxxg"
+					"id": "zet6fGGM"
 				}
 			],
 			"link": null,
@@ -526,7 +526,7 @@ Riemann Sums ^TcylSfd7
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "OgzArdsR",
+			"id": "C1dcuU7f",
 			"type": "text",
 			"x": -184,
 			"y": -242,
@@ -543,10 +543,10 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 2072,
+			"seed": 29532,
 			"version": 1,
-			"versionNonce": 782957604,
-			"updated": 1673557490714,
+			"versionNonce": 742495789,
+			"updated": 1673558077224,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -557,11 +557,11 @@ Riemann Sums ^TcylSfd7
 			"rawText": "1"
 		},
 		{
-			"id": "s5A4wznG",
+			"id": "uNHSYGhN",
 			"type": "rectangle",
-			"x": 122.5,
+			"x": 128,
 			"y": -286,
-			"width": 162,
+			"width": 150,
 			"height": 44,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -574,35 +574,35 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 16233,
+			"seed": 82765,
 			"version": 1,
-			"versionNonce": 994647755,
-			"updated": 1673557490714,
+			"versionNonce": 826870053,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [
-				"AdVPwTKT"
+				"DJEBqB0C"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "TcylSfd7"
+					"id": "h9mvGyHY"
 				}
 			],
 			"link": "[[Vault/Riemann Sum.md]]",
 			"locked": false
 		},
 		{
-			"text": "Riemann Sums",
+			"text": "Riemann Sum",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 19,
-			"id": "TcylSfd7",
+			"id": "h9mvGyHY",
 			"type": "text",
-			"x": 132.5,
+			"x": 138,
 			"y": -276,
-			"width": 142,
+			"width": 130,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#ffffffff",
@@ -615,25 +615,25 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 58268,
+			"seed": 46998,
 			"version": 1,
-			"versionNonce": 966137839,
-			"updated": 1673557490714,
+			"versionNonce": 357728593,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [
-				"AdVPwTKT"
+				"DJEBqB0C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "s5A4wznG",
-			"originalText": "Riemann Sums",
-			"rawText": "Riemann Sums"
+			"containerId": "uNHSYGhN",
+			"originalText": "Riemann Sum",
+			"rawText": "Riemann Sum"
 		},
 		{
-			"id": "IfhFrOBu",
+			"id": "rmumFNey",
 			"type": "ellipse",
-			"x": 112.5,
+			"x": 118,
 			"y": -269,
 			"width": 10,
 			"height": 10,
@@ -648,20 +648,20 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 37679,
+			"seed": 42134,
 			"version": 1,
-			"versionNonce": 640265012,
-			"updated": 1673557490714,
+			"versionNonce": 465827498,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [
-				"AdVPwTKT"
+				"DJEBqB0C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "SJGvDmNK",
+			"id": "LhjPVFSJ",
 			"type": "ellipse",
 			"x": 189,
 			"y": -296,
@@ -678,20 +678,20 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 75367,
+			"seed": 77437,
 			"version": 1,
-			"versionNonce": 262136235,
-			"updated": 1673557490714,
+			"versionNonce": 788554843,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [
-				"AdVPwTKT"
+				"DJEBqB0C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "QyUu1pQj",
+			"id": "AQyYHwrV",
 			"type": "ellipse",
 			"x": 219,
 			"y": -242,
@@ -708,18 +708,18 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 88129,
+			"seed": 26669,
 			"version": 1,
-			"versionNonce": 304285399,
-			"updated": 1673557490714,
+			"versionNonce": 618537315,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [
-				"AdVPwTKT"
+				"DJEBqB0C"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "KEQbgXWx"
+					"id": "4KXep5xS"
 				}
 			],
 			"link": null,
@@ -732,7 +732,7 @@ Riemann Sums ^TcylSfd7
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "P8s1zpRN",
+			"id": "2XWH9Ozd",
 			"type": "text",
 			"x": 234,
 			"y": -242,
@@ -749,10 +749,10 @@ Riemann Sums ^TcylSfd7
 			"roundness": {
 				"type": 1
 			},
-			"seed": 48011,
+			"seed": 22648,
 			"version": 1,
-			"versionNonce": 604297838,
-			"updated": 1673557490714,
+			"versionNonce": 799329807,
+			"updated": 1673558077225,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -778,10 +778,10 @@ Riemann Sums ^TcylSfd7
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 387.5093078613281,
-		"scrollY": 393.47850036621094,
+		"scrollX": 334.0872395833333,
+		"scrollY": 391.387451171875,
 		"zoom": {
-			"value": 2
+			"value": 2.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
