@@ -14,4 +14,6 @@ We can find the [[Arc Length|Length Of An Arc]] by picking points along the arc 
 
 ![[IMG_BEA84264F537-1.jpeg|200]]
 
+![[Textbook - Arc Length.pdf]]
+
 ## Reference
