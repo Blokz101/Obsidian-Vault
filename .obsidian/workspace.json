@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Permanent Note Template.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,11 +135,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "833747d7ab6ae630",
+  "active": "9c3b6bc0cd89e075",
   "lastOpenFiles": [
+    "Arc Length.md",
     "Templates/Permanent Note Template.md",
     "excalibrain.md",
-    "Arc Length.md",
     "graph.md",
     "Word.md",
     "Unsigned Integer.md",
