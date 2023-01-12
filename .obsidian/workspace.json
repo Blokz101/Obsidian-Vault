@@ -39,9 +39,9 @@
               "state": {
                 "file": "Templates/Arc Length Proof.canvas",
                 "viewState": {
-                  "x": 55.800000000000196,
-                  "y": -26.04,
-                  "zoom": 0,
+                  "x": 82.76629118348797,
+                  "y": 403.6504015332892,
+                  "zoom": 0.3368790638446808,
                   "snapToGrid": false
                 }
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -199,10 +199,10 @@
       }
     ]
   },
-  "active": "52c637fb4b1b06a1",
+  "active": "f55203ad45e90f80",
   "lastOpenFiles": [
-    "Templates/Arc Length.md",
     "Templates/Arc Length Proof.canvas",
+    "Templates/Arc Length.md",
     "Excalibrain Graph.md",
     "excalibrain.md",
     "Arc Length (Old).md",
