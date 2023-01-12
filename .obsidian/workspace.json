@@ -28,17 +28,19 @@
             }
           },
           {
-            "id": "a9fb384c314341fd",
+            "id": "833747d7ab6ae630",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "Arc Length.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,35 +97,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "845757f0871a6039",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Templates/Permanent Note Template.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "e9006b2adb3a5fb5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Templates/Permanent Note Template.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "c4744558c59c5276",
             "type": "leaf",
             "state": {
@@ -140,16 +113,6 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          },
-          {
-            "id": "fbdd9ef0f0e59526",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Templates/Permanent Note Template.md"
-              }
             }
           }
         ]
@@ -168,13 +131,14 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9c3b6bc0cd89e075",
+  "active": "833747d7ab6ae630",
   "lastOpenFiles": [
-    "excalibrain.md",
     "Templates/Permanent Note Template.md",
+    "excalibrain.md",
     "Arc Length.md",
     "graph.md",
     "Word.md",

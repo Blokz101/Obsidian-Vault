@@ -152,7 +152,8 @@
     "Vault/Integral.md",
     "Unsigned Integer.md",
     "Binary Addition.md",
-    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md"
+    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md",
+    "Templates/Permanent Note Template.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

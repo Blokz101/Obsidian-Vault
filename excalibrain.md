@@ -12,9 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-ExcaliBrain Snapshot - Binary... ^WhzXrD36
+Permanent Note Template ^Deq67OEf
 
-[[References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md]] ^JC9CQxMx
+[[Templates/Permanent Note Template.md]] ^9SyuZIe8
 
 %%
 # Drawing
@@ -25,11 +25,11 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "JC9CQxMx",
+			"id": "9SyuZIe8",
 			"type": "rectangle",
-			"x": -300.5,
+			"x": -221.5,
 			"y": -72,
-			"width": 583,
+			"width": 425,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -42,35 +42,35 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 			"roundness": {
 				"type": 1
 			},
-			"seed": 95140,
+			"seed": 20499,
 			"version": 1,
-			"versionNonce": 327149975,
-			"updated": 1673496666795,
+			"versionNonce": 883805575,
+			"updated": 1673555908403,
 			"isDeleted": false,
 			"groupIds": [
-				"Ovd1ZPHj"
+				"lxdcpnhP"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "WhzXrD36"
+					"id": "Deq67OEf"
 				}
 			],
-			"link": "[[References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md]]",
+			"link": "[[Templates/Permanent Note Template.md]]",
 			"locked": false
 		},
 		{
-			"text": "ExcaliBrain Snapshot - Binary...",
+			"text": "Permanent Note Template",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "WhzXrD36",
+			"id": "Deq67OEf",
 			"type": "text",
-			"x": -290.5,
+			"x": -211.5,
 			"y": -62,
-			"width": 563,
+			"width": 405,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -83,25 +83,25 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 			"roundness": {
 				"type": 1
 			},
-			"seed": 64068,
+			"seed": 93577,
 			"version": 1,
-			"versionNonce": 726676023,
-			"updated": 1673496666795,
+			"versionNonce": 372100272,
+			"updated": 1673555908403,
 			"isDeleted": false,
 			"groupIds": [
-				"Ovd1ZPHj"
+				"lxdcpnhP"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "JC9CQxMx",
-			"originalText": "ExcaliBrain Snapshot - Binary...",
-			"rawText": "ExcaliBrain Snapshot - Binary..."
+			"containerId": "9SyuZIe8",
+			"originalText": "Permanent Note Template",
+			"rawText": "Permanent Note Template"
 		},
 		{
-			"id": "uTpn97DA",
+			"id": "Z1JD66B1",
 			"type": "ellipse",
-			"x": -310.5,
+			"x": -231.5,
 			"y": -49,
 			"width": 10,
 			"height": 10,
@@ -116,20 +116,20 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 			"roundness": {
 				"type": 1
 			},
-			"seed": 97265,
+			"seed": 63704,
 			"version": 1,
-			"versionNonce": 519161674,
-			"updated": 1673496666795,
+			"versionNonce": 219639273,
+			"updated": 1673555908403,
 			"isDeleted": false,
 			"groupIds": [
-				"Ovd1ZPHj"
+				"lxdcpnhP"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "gS9drmQP",
+			"id": "bzkluynH",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -146,20 +146,20 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 			"roundness": {
 				"type": 1
 			},
-			"seed": 34851,
+			"seed": 88431,
 			"version": 1,
-			"versionNonce": 20207029,
-			"updated": 1673496666795,
+			"versionNonce": 591081655,
+			"updated": 1673555908403,
 			"isDeleted": false,
 			"groupIds": [
-				"Ovd1ZPHj"
+				"lxdcpnhP"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "GwmeEqwT",
+			"id": "OaDLc4IK",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -176,13 +176,13 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 			"roundness": {
 				"type": 1
 			},
-			"seed": 44033,
+			"seed": 62035,
 			"version": 1,
-			"versionNonce": 337578075,
-			"updated": 1673496666795,
+			"versionNonce": 189334181,
+			"updated": 1673555908403,
 			"isDeleted": false,
 			"groupIds": [
-				"Ovd1ZPHj"
+				"lxdcpnhP"
 			],
 			"boundElements": [],
 			"link": null,
@@ -204,10 +204,10 @@ ExcaliBrain Snapshot - Binary... ^WhzXrD36
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 390.5389099121094,
-		"scrollY": 473.2935485839844,
+		"scrollX": 272.5231526692708,
+		"scrollY": 388.25062391493054,
 		"zoom": {
-			"value": 1
+			"value": 1.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
