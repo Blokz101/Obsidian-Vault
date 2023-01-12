@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Binary Addition.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -88,7 +88,6 @@
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -150,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Binary Addition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Binary Addition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Binary Addition.md"
+              }
             }
           }
         ]
@@ -218,7 +221,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "39085261de823041",
+  "active": "07aba2f7b6a5da4c",
   "lastOpenFiles": [
     "Bit.md",
     "Most Significant Bit.md",
