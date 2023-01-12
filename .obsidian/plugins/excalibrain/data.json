@@ -153,7 +153,8 @@
     "Unsigned Integer.md",
     "Binary Addition.md",
     "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md",
-    "Templates/Permanent Note Template.md"
+    "Templates/Permanent Note Template.md",
+    "Templates/Arc Length.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
