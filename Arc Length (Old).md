@@ -8,7 +8,7 @@ Modification Date: NaN
 - ## Definition
 	- The length of an arc can be found by picking points along the arc and drawing lines between them. The more lines, the better the approximation.
 	- ![[IMG_BEA84264F537-1.jpeg|400]]
-	- The true [[Arc Length]] is given when the amount of lines reaches infinity.
+	- The true [[Arc Length (Old)]] is given when the amount of lines reaches infinity.
 	- There are three variants.
 - ## Function of X
 	- ![[IMG_DA474A079BC4-1.jpeg|400]]
