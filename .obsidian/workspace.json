@@ -4,97 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e1a458e5446d1d8",
+        "id": "699396cc55c9e118",
         "type": "tabs",
         "children": [
           {
-            "id": "07aba2f7b6a5da4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Addition.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f352d4b2df73ae65",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalibrain.md"
-              }
-            }
-          },
-          {
-            "id": "b8ad0983b064d24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signed Integer.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c118381c7b70c69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Most Significant Bit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "67d6fdf30f6e07fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signed Magnitude.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "31f0f5d86b9d6473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsigned Integer.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "39085261de823041",
+            "id": "ba41a43562a85c61",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "8064817560fb2de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word.md",
-                "mode": "preview",
-                "source": true
-              }
             }
           }
         ],
@@ -159,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Addition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Addition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary Addition.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,17 +145,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "07aba2f7b6a5da4c",
+  "active": "ba41a43562a85c61",
   "lastOpenFiles": [
-    "excalibrain.md",
-    "Binary Addition.md",
-    "Bit.md",
+    "graph.md",
+    "Word.md",
+    "Unsigned Integer.md",
+    "Signed Magnitude.md",
     "Most Significant Bit.md",
     "Signed Integer.md",
-    "Untitled.canvas",
-    "Two's Complement.md",
-    "Signed Magnitude.md",
-    "Unsigned Integer.md",
-    "Word.md"
+    "excalibrain.md",
+    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md",
+    "Binary Addition.md",
+    "Bit.md"
   ]
 }

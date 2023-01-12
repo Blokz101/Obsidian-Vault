@@ -150,7 +150,9 @@
     "Vault/Logarithm Derivative Rules.md",
     "Vault/Integration By Parts.md",
     "Vault/Integral.md",
-    "Unsigned Integer.md"
+    "Unsigned Integer.md",
+    "Binary Addition.md",
+    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
