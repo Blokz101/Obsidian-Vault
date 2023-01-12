@@ -22,8 +22,18 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Permanent Note Template.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "a9fb384c314341fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
               }
             }
           }
@@ -158,12 +168,13 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "templater-obsidian:Templater": true
     }
   },
   "active": "9c3b6bc0cd89e075",
   "lastOpenFiles": [
+    "excalibrain.md",
+    "Templates/Permanent Note Template.md",
     "Arc Length.md",
     "graph.md",
     "Word.md",
@@ -171,8 +182,6 @@
     "Signed Magnitude.md",
     "Most Significant Bit.md",
     "Signed Integer.md",
-    "excalibrain.md",
-    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md",
-    "Binary Addition.md"
+    "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md"
   ]
 }
