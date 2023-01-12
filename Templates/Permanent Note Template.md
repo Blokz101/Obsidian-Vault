@@ -1,8 +1,13 @@
 ---
 Alias: []
 ---
+> [!Info]
+> **Parents**:: 
+> **Friends**:: 
+> **Children**:: 
+---
 #Permanent [[<% tp.file.cursor(1) %>]]
 
-- ## Definition
+## Definition
 	- <% tp.file.cursor(2) %>
 - ## Reference
