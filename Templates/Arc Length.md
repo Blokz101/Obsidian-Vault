@@ -8,13 +8,9 @@ Alias: [Length Of An Arc]
 > Children:: [[Textbook - Arc Length.pdf]] [[Arc Length Proof]]
 
 ## Definition
-The length of an arc or curved line. For example, the length of $f(x)$ on the interval $[a,b]$. 
-There are three versions based on what arc your dealing with:
-- Function of X
-- Function of Y
-- Parabolic
-
-##### Function of X
+- The length of an arc or curved line. For example, the length of $f(x)$ on the interval $[a,b]$. 
+- There are three versions based on what arc your dealing with
+Function of X
 Where the curve we are measuring is a function of $x$.
 ![[Screen Shot 2023-01-12 at 5.42.04 PM.png|200]]
 > [!Equation]
