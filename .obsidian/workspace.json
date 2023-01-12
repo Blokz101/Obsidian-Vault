@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Templates/Permanent Note Template.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Templates/Permanent Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Templates/Permanent Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arc Length.md"
+                "file": "Templates/Permanent Note Template.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "9c3b6bc0cd89e075",
   "lastOpenFiles": [
+    "Arc Length.md",
     "graph.md",
     "Word.md",
     "Unsigned Integer.md",
@@ -172,7 +173,6 @@
     "Signed Integer.md",
     "excalibrain.md",
     "References/Excalidraw/ExcaliBrain Snapshot - Binary Addition.excalidraw.md",
-    "Binary Addition.md",
-    "Bit.md"
+    "Binary Addition.md"
   ]
 }
