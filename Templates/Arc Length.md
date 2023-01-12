@@ -12,6 +12,8 @@ The length of an arc or curved line. For example, the length of $f(x)$ on the in
 
 We can find the [[Arc Length|Length Of An Arc]] by picking points along the arc and drawing straight lines between them. The more points and lines we draw the more accurate our answer.
 
+
+
 ![[IMG_BEA84264F537-1.jpeg|200]]
 
 

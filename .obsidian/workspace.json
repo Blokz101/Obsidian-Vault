@@ -20,14 +20,30 @@
             }
           },
           {
-            "id": "52c637fb4b1b06a1",
+            "id": "f55203ad45e90f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Arc Length.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "52c637fb4b1b06a1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Templates/Arc Length Proof.canvas",
+                "viewState": {
+                  "x": 55.800000000000196,
+                  "y": -26.04,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -44,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -185,15 +201,15 @@
   },
   "active": "52c637fb4b1b06a1",
   "lastOpenFiles": [
+    "Templates/Arc Length.md",
+    "Templates/Arc Length Proof.canvas",
     "Excalibrain Graph.md",
     "excalibrain.md",
-    "Templates/Arc Length.md",
     "Arc Length (Old).md",
     "Templates/Permanent Note Template.md",
     "Vault/Riemann Sum.md",
     "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
     "References/IMG_DA474A079BC4-1.jpeg",
-    "graph.md",
-    "Word.md"
+    "graph.md"
   ]
 }
