@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Arc Length.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -134,7 +134,7 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-12 17.04.28.excalidraw.md"
+                    "file": "References/Excalidraw/Arc Length Proof.md"
                   }
                 }
               }
@@ -151,13 +151,13 @@
       }
     ]
   },
-  "active": "97c79e2d2c59861b",
+  "active": "ab232b407e2427dd",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-12 17.04.28.excalidraw.md",
+    "Templates/Arc Length.md",
+    "References/Excalidraw/Arc Length Proof.md",
     "Excalibrain Graph.md",
     "References/Excalidraw/Drawing 2023-01-12 17.04.03.excalidraw.md",
     "Untitled.md",
-    "Templates/Arc Length.md",
     "Templates/Arc Length Proof.md",
     "Arc Length (Old).md",
     "Templates/Arc Length Proof.canvas",
