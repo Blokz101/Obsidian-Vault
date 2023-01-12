@@ -10,9 +10,17 @@ Alias: [Length Of An Arc]
 ## Definition
 The length of an arc or curved line. For example, the length of $f(x)$ on the interval $[a,b]$. 
 
-[[Arc Length Proof]]
+There are three versions
+- Function of X
+- Function of Y
+- Parabolic
 
-> Function of X
-> $\text{Arc Length}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right) } \, dx$
+##### Function of X
+> [!Equation]
+> $$\text{Arc Length}=\int_{a}^{b} \sqrt{ 1+\left( \frac{dy}{dx} \right)^2 } \, dx$$
+ 
+
+
+
 
 ## Reference
