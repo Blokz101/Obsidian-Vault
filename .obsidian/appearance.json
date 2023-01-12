@@ -1,9 +1,9 @@
 {
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Things",
   "baseFontSize": 14,
   "theme": "obsidian",
-  "accentColor": "#ff0000",
+  "accentColor": "",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",

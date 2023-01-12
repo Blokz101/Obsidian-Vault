@@ -4,68 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "699396cc55c9e118",
-        "type": "tabs",
+        "id": "bfde8da44a5eac56",
+        "type": "split",
         "children": [
           {
-            "id": "ba41a43562a85c61",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "699396cc55c9e118",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba41a43562a85c61",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c3b6bc0cd89e075",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Permanent Note Template.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "52c637fb4b1b06a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Arc Length.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "34b73cebf7a86983",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vault/Riemann Sum.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "833747d7ab6ae630",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arc Length (Old).md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2,
+            "stacked": true
           },
           {
-            "id": "9c3b6bc0cd89e075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Permanent Note Template.md",
-                "mode": "preview",
-                "source": true
+            "id": "0443c1c0ff6bd160",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57797f2b05d07347",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "excalibrain.md"
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "52c637fb4b1b06a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Arc Length.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "34b73cebf7a86983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/Riemann Sum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "833747d7ab6ae630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc Length (Old).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -159,17 +182,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52c637fb4b1b06a1",
+  "active": "57797f2b05d07347",
   "lastOpenFiles": [
-    "Vault/Riemann Sum.md",
     "Templates/Arc Length.md",
+    "Vault/Riemann Sum.md",
+    "References/Excalidraw/Drawing 2022-11-09 15.29.45.excalidraw.md",
     "Arc Length (Old).md",
     "References/IMG_DA474A079BC4-1.jpeg",
     "Templates/Permanent Note Template.md",
     "excalibrain.md",
     "graph.md",
     "Word.md",
-    "Unsigned Integer.md",
-    "Signed Magnitude.md"
+    "Unsigned Integer.md"
   ]
 }
