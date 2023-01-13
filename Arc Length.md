@@ -5,7 +5,7 @@ Alias: [Length Of An Arc]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Integral]] [[Riemann Sum]] [[Limit]] [[Parametric Function]]
 > Friends:: 
-> Children:: [[Arc Length - Textbook.pdf]] [[Arc Length Proof 1]]
+> Children:: 
 ---
 - ## Definition
 	- The length of an arc or curved line. For example, the length of $f(x)$ on the interval $[a,b]$. 
@@ -27,6 +27,7 @@ Alias: [Length Of An Arc]
 	  > $$\text{Arc Length}=\int_{c}^{d} \sqrt{ 1+\left( \frac{dx}{dy} \right)^{2} } \, dy$$
 	- #### Parametric Function
 		- Where the $x$ and $y$ values of the curve we are measuring are functions of another variable, $t$ in this instance.
+		- [[Arc Length Proof 2]]
 ---
 ## Reference
 - 

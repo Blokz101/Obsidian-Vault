@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "619a6719525e6b9d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Arc Length Proof 1.md"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,25 +140,16 @@
             "type": "tabs",
             "children": [
               {
-                "id": "619a6719525e6b9d",
+                "id": "f9dfd3939c883e73",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "References/Excalidraw/Arc Length Proof.md"
+                    "file": "References/Excalidraw/Arc Length Proof 2.md"
                   }
                 }
-              },
-              {
-                "id": "b63c6239e1c2379f",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -160,9 +162,10 @@
       }
     ]
   },
-  "active": "b63c6239e1c2379f",
+  "active": "619a6719525e6b9d",
   "lastOpenFiles": [
-    "References/Excalidraw/Arc Length Proof.md",
+    "References/Excalidraw/Arc Length Proof 2.md",
+    "References/Excalidraw/Arc Length Proof 1.md",
     "Arc Length.md",
     "Templates/Arc Length.md",
     "References/Textbook - Arc Length.pdf",
@@ -170,7 +173,6 @@
     "Templates/Permanent Note Template.md",
     "Arc Length (Old).md",
     "References/Excalidraw/Drawing 2023-01-12 17.04.03.excalidraw.md",
-    "Untitled.md",
-    "Templates/Arc Length Proof.md"
+    "Untitled.md"
   ]
 }
