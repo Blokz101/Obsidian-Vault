@@ -182,19 +182,19 @@
           }
         ],
         "direction": "vertical",
-        "x": -1366,
-        "y": -48,
+        "x": 0,
+        "y": 0,
         "width": 600,
         "height": 600,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "170f6503cec20325",
+  "active": "d8678fc200026795",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
     "Derivative.md",
+    "Excalibrain Graph.md",
     "Arc Length.md",
     "Templates/Permanent Note Template.md",
     "Intermediate Value Theorem.md",
