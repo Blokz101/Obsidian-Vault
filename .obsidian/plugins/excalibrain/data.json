@@ -54,7 +54,7 @@
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,
-  "maxItemCount": 30,
+  "maxItemCount": 150,
   "renderSiblings": true,
   "baseNodeStyle": {
     "prefix": "",
@@ -164,7 +164,13 @@
     "Templates/Permanent Note Template.md",
     "Templates/Arc Length.md",
     "Enthalpy.md",
-    "Arc Length.md"
+    "DELETE.md",
+    "Iphone.md",
+    "Intermediate Value Theorem.md",
+    "Molecular Orbital Theory.md",
+    "Arc Length.md",
+    "Derivative.md",
+    "Integral.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integral.md",
+                "file": "Derivative.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -34,20 +34,12 @@
             }
           },
           {
-            "id": "fed4eacf803c6085",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e36cc73705b49f55",
+            "id": "434f61a067cad8f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecular Orbital Theory.md",
+                "file": "Integral.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -61,19 +53,6 @@
               "type": "markdown",
               "state": {
                 "file": "Intermediate Value Theorem.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d86928171765190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DELETE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -81,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -241,17 +220,17 @@
       }
     ]
   },
-  "active": "8d86928171765190",
+  "active": "170f6503cec20325",
   "lastOpenFiles": [
-    "Intermediate Value Theorem.md",
-    "Molecular Orbital Theory.md",
     "Integral.md",
-    "Arc Length.md",
     "Excalibrain Graph.md",
+    "Derivative.md",
+    "Arc Length.md",
+    "Molecular Orbital Theory.md",
+    "Intermediate Value Theorem.md",
+    "Iphone.md",
     "Untitled.md",
     "References/Excalidraw/Arc Length Proof 2.md",
-    "References/Excalidraw/Arc Length Proof 1.md",
-    "Templates/Arc Length.md",
-    "References/Textbook - Arc Length.pdf"
+    "References/Excalidraw/Arc Length Proof 1.md"
   ]
 }
