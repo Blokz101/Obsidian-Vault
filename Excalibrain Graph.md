@@ -44,7 +44,7 @@ Riemann Sum ^0CvbB9Oq
 
 [[Templates/Arc Length.md]] ^D4IfT4B5
 
-[[References/Excalidraw/Arc Length Proof.md]] ^b38DsuDw
+[[Arc Length Proof 1]] ^b38DsuDw
 
 [[References/Textbook - Arc Length.pdf]] ^pW1yAJeu
 
