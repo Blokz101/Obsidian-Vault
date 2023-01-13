@@ -8,7 +8,7 @@ Alias: [Scalers]
 > Children:: 
 ---
 - ## Definition
-	- [[Scaler|Scalers]] are things that we can measure but that don't have a direction.
+	- [[Scaler|Scalers]] are things that we can measure but that don't have a direction. They **scale** [[Vector|Vectors]].
 	- Ex:
 		- Time
 		- Temperature
