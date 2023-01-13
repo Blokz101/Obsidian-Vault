@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "619a6719525e6b9d",
+            "id": "f9dfd3939c883e73",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "References/Excalidraw/Arc Length Proof 1.md"
+                "file": "References/Excalidraw/Arc Length Proof 2.md"
               }
             }
           }
@@ -132,20 +132,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "fec95ba2edb9c949",
+        "id": "9564a4f3698f20b2",
         "type": "window",
         "children": [
           {
-            "id": "3caa543d9843234e",
+            "id": "e24057c9a00005b1",
             "type": "tabs",
             "children": [
               {
-                "id": "f9dfd3939c883e73",
+                "id": "619a6719525e6b9d",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "References/Excalidraw/Arc Length Proof 2.md"
+                    "file": "References/Excalidraw/Arc Length Proof 1.md"
                   }
                 }
               }
@@ -153,19 +153,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 370,
-        "y": 25,
-        "width": 700,
-        "height": 845,
+        "x": 164,
+        "y": 23,
+        "width": 1440,
+        "height": 860,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f9dfd3939c883e73",
+  "active": "619a6719525e6b9d",
   "lastOpenFiles": [
-    "References/Excalidraw/Arc Length Proof 1.md",
     "References/Excalidraw/Arc Length Proof 2.md",
+    "References/Excalidraw/Arc Length Proof 1.md",
     "Arc Length.md",
     "Templates/Arc Length.md",
     "References/Textbook - Arc Length.pdf",
