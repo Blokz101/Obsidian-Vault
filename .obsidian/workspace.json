@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Arc Length.md",
+                "file": "Arc Length.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -118,8 +118,8 @@
   },
   "active": "97c79e2d2c59861b",
   "lastOpenFiles": [
-    "References/Textbook - Arc Length.pdf",
     "Templates/Arc Length.md",
+    "References/Textbook - Arc Length.pdf",
     "Excalibrain Graph.md",
     "Templates/Permanent Note Template.md",
     "Arc Length (Old).md",
