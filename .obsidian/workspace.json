@@ -60,6 +60,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,15 +176,15 @@
         "y": -48,
         "width": 700,
         "height": 845,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2bcf6ae89a918d94",
+  "active": "5318b41b039242e0",
   "lastOpenFiles": [
-    "Scaler.md",
     "Vector.md",
+    "Scaler.md",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "Excalibrain Graph.md",
     "Arc Length.md",
