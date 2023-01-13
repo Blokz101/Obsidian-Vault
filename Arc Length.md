@@ -24,7 +24,7 @@ Alias: [Length Of An Arc]
 		- ![[Screen Shot 2023-01-12 at 5.56.04 PM.png|200]]
 		- The proof is roughly the same as for the **Function of X**, but $\frac{dy}{dx}$ is flipped and the [[Integral]] is taken in respect to $dy$ instead of $dx$.
 		- > [!Equation]
-	  > $$\int_{c}^{d} \sqrt{ 1+\left( \frac{dx}{dy} \right)^{2} } \, dy$$
+	  > $$\text{Arc Length}=\int_{c}^{d} \sqrt{ 1+\left( \frac{dx}{dy} \right)^{2} } \, dy$$
 	- #### Parametric Function
 		- Where the $x$ and $y$ values of the curve we are measuring are functions of another variable, $t$ in this instance.
 ---
