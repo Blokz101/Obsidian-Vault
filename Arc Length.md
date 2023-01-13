@@ -2,7 +2,7 @@
 Alias: [Length Of An Arc]
 ---
 > [!Info]
-> Subject:: [[Computer Systems]]
+> Subject:: [[Calculus II]]
 > Parents:: [[Integral]] [[Riemann Sum]] [[Limit]] [[Parametric Function]]
 > Friends:: 
 > Children:: 
@@ -31,5 +31,5 @@ Alias: [Length Of An Arc]
 		- > [!Equation]
 		  > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$$
 ---
-## Reference
-- [[Arc Length - Textbook.pdf]]
+- ## Reference
+	- [[Arc Length - Textbook.pdf]]
