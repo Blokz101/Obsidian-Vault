@@ -13,5 +13,9 @@ Alias: [Vectors]
 	- They are notated with a little arrow above the character or as a series of variables:
 		- $\large{\vec{v}}$
 		- $<x,y,z>$
+	- [[Vector|Vectors]] have:
+		- [[Position]]
+		- [[Displacement]]
+		- [[Magnitude]]
 ---
 - ## Reference
