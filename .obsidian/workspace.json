@@ -86,7 +86,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -207,8 +206,9 @@
       }
     ]
   },
-  "active": "5a3d46ad6a477c6b",
+  "active": "2bcf6ae89a918d94",
   "lastOpenFiles": [
+    "Unit Vector.md",
     "Magnitude.md",
     "Vector.md",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
@@ -217,7 +217,6 @@
     "Excalibrain Graph.md",
     "Arc Length.md",
     "Integral.md",
-    "Riemann Sum.md",
-    "Derivative.md"
+    "Riemann Sum.md"
   ]
 }
