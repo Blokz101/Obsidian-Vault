@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- The length of a [[Vector]]
+	- Notated as $\large{|\vec{v}|}$
 ---
 - ## Reference

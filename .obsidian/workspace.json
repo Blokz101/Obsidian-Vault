@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Magnitude.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -189,7 +189,7 @@
         "y": -1024,
         "width": 700,
         "height": 845,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]

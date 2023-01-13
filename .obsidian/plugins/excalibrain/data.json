@@ -170,8 +170,13 @@
     "Molecular Orbital Theory.md",
     "Integral.md",
     "Derivative.md",
+    "3D Vectors.md",
     "Arc Length.md",
-    "3D Vectors.md"
+    "Scaler.md",
+    "Displacement.md",
+    "Vector.md",
+    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
+    "Magnitude.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
