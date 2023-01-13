@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vector.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -146,10 +146,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e3f4253aea818b6",
+  "active": "2bcf6ae89a918d94",
   "lastOpenFiles": [
-    "Vector.md",
     "Excalibrain Graph.md",
+    "Vector.md",
     "Arc Length.md",
     "Integral.md",
     "Riemann Sum.md",

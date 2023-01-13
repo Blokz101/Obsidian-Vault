@@ -9,6 +9,6 @@ Alias: [Vectors]
 ---
 - ## Definition
 	- [[Vector|Vectors]] are a description of [[Position]] or [[Velocity]]
-	- Notate a vector like this: $\vec{r}$
+	- They are notated with a little arrow above the character: **$$**
 ---
 - ## Reference
