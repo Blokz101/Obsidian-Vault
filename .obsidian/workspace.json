@@ -14,24 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Arc Length.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "f9dfd3939c883e73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Arc Length Proof 2.md"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,16 +129,25 @@
             "type": "tabs",
             "children": [
               {
-                "id": "619a6719525e6b9d",
+                "id": "6b1fa7c791d34587",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bfac54d494354aee",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "References/Excalidraw/Arc Length Proof 1.md"
+                    "file": "References/Excalidraw/Arc Length Proof 2.md"
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -162,11 +160,11 @@
       }
     ]
   },
-  "active": "619a6719525e6b9d",
+  "active": "97c79e2d2c59861b",
   "lastOpenFiles": [
     "References/Excalidraw/Arc Length Proof 2.md",
-    "References/Excalidraw/Arc Length Proof 1.md",
     "Arc Length.md",
+    "References/Excalidraw/Arc Length Proof 1.md",
     "Templates/Arc Length.md",
     "References/Textbook - Arc Length.pdf",
     "Excalibrain Graph.md",
