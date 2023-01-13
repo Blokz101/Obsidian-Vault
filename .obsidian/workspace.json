@@ -185,26 +185,26 @@
           }
         ],
         "direction": "vertical",
-        "x": -1366,
-        "y": -48,
+        "x": 39,
+        "y": -1024,
         "width": 700,
         "height": 845,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "e62a1bfaa1df3ca7",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
+    "Magnitude.md",
     "Vector.md",
     "Displacement.md",
     "Scaler.md",
-    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "Excalibrain Graph.md",
     "Arc Length.md",
     "Integral.md",
     "Riemann Sum.md",
-    "Derivative.md",
-    "Templates/Permanent Note Template.md"
+    "Derivative.md"
   ]
 }

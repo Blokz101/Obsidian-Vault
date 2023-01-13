@@ -12,7 +12,7 @@ Alias: [Vectors]
 	- ![[Drawing 2023-01-13 17.27.05.excalidraw]]
 	- They are notated with a little arrow above the character or as a series of variables:
 		- $\large{\vec{v}}$
-		- $<x,y,z>$
+		- $<r_x,r_y,r_z>$
 	- [[Vector|Vectors]] have:
 		- [[Position]]
 		- [[Displacement]]
