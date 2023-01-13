@@ -29,7 +29,7 @@ Alias: [Length Of An Arc]
 		- Where the $x$ and $y$ values of the curve we are measuring are functions of another variable, $t$ in this instance.
 		- [[Arc Length Proof 2]]
 		- > [!Equation]
-		  > $\text{Arc Length}=\int_{a}^{b} \sqrt{ ()^2+() } \, dx$
+		  > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$$
 ---
 ## Reference
 - 
