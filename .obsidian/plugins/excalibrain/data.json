@@ -162,7 +162,9 @@
     "References/Excalidraw/Drawing 2023-01-12 17.04.28.excalidraw.md",
     "Arc Length (Old).md",
     "Templates/Permanent Note Template.md",
-    "Templates/Arc Length.md"
+    "Templates/Arc Length.md",
+    "Enthalpy.md",
+    "Arc Length.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aff8f76c1f1cd5e6",
+        "id": "f5f40f60a3261770",
         "type": "tabs",
         "children": [
           {
-            "id": "97c79e2d2c59861b",
+            "id": "cbd42b5e7ca41389",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,7 +129,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "6b1fa7c791d34587",
+                "id": "723b108ace05f617",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -142,26 +142,55 @@
           }
         ],
         "direction": "vertical",
-        "x": 164,
-        "y": 23,
+        "x": 0,
+        "y": 25,
         "width": 1440,
-        "height": 860,
+        "height": 875,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "06bbac1b0b7d893e",
+        "type": "window",
+        "children": [
+          {
+            "id": "3fbc0714ea0a890d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8678fc200026795",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain Graph.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 600,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "97c79e2d2c59861b",
+  "active": "d8678fc200026795",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
-    "References/Excalidraw/Arc Length Proof 2.md",
     "Arc Length.md",
+    "Excalibrain Graph.md",
+    "Untitled.md",
+    "References/Excalidraw/Arc Length Proof 2.md",
     "References/Excalidraw/Arc Length Proof 1.md",
     "Templates/Arc Length.md",
     "References/Textbook - Arc Length.pdf",
     "Templates/Permanent Note Template.md",
     "Arc Length (Old).md",
-    "References/Excalidraw/Drawing 2023-01-12 17.04.03.excalidraw.md",
-    "Untitled.md"
+    "References/Excalidraw/Drawing 2023-01-12 17.04.03.excalidraw.md"
   ]
 }

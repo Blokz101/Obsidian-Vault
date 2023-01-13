@@ -12,49 +12,35 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Arc Length ^2HhRUSuJ
+Arc Length ^eqlFoXp2
 
-4 ^sVGgkbF3
+4 ^aUIWcuRU
 
-2 ^7FkEEbGt
+Integral ^h2MVO4Ro
 
-Arc Length Proof ^P3p4uTvE
+1 ^mpautk1i
 
-1 ^csChfgDG
+Limit ^clgp7eaF
 
-📎 Textbook - Arc Length.pdf ^VJ8cwT7I
+1 ^WIki1EmG
 
-1 ^XQVcOb3L
+Parametric Function ^hJqJgumA
 
-Integral ^YtmkBv0A
+1 ^LRnPejtc
 
-1 ^jIYSIXGN
+Riemann Sum ^wkbCFu7V
 
-Limit ^PiKgKnfp
+1 ^XJOcgMOp
 
-1 ^qe98Ljsl
+[[Arc Length.md]] ^rvvE7J9Q
 
-Parametric Function ^m23XS7fg
+[[Integral.md]] ^326239r4
 
-1 ^FlZWN88b
+[[Limit.md]] ^9YpXtstg
 
-Riemann Sum ^0CvbB9Oq
+[[Parametric Function]] ^bLh08ZO6
 
-1 ^XMcc9fsf
-
-[[Templates/Arc Length.md]] ^D4IfT4B5
-
-[[Arc Length Proof 1]] ^b38DsuDw
-
-[[References/Textbook - Arc Length.pdf]] ^pW1yAJeu
-
-[[Vault/Integral.md]] ^aWK5LEae
-
-[[Vault/Limit.md]] ^wgChOAcu
-
-[[Parametric Function]] ^Tz2HQGeo
-
-[[Vault/Riemann Sum.md]] ^1onEmuZK
+[[Riemann Sum.md]] ^2NYOfibM
 
 %%
 # Drawing
@@ -71,126 +57,24 @@ Riemann Sum ^0CvbB9Oq
 					0
 				],
 				[
-					165.52381141543435,
-					146.56717379523099
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "b2cvle8S",
-				"focus": 2.056857830931255e-16,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "SdJTfkvw",
-				"focus": -6.170573492793764e-16,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "Nx5uq3Om",
-			"type": "arrow",
-			"x": 21.738094292282824,
-			"y": -5.0335868976154865,
-			"width": 165.52381141543435,
-			"height": 146.56717379523099,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 32698,
-			"version": 1,
-			"versionNonce": 634290605,
-			"updated": 1673564574466,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-224.04237922931284,
-					149.98653002799188
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "b2cvle8S",
-				"focus": 0,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "QUhywXgA",
-				"focus": 3.0360052613404816e-15,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "mKmqTjg4",
-			"type": "arrow",
-			"x": 7.521189614656428,
-			"y": -5.993265013995934,
-			"width": 224.04237922931284,
-			"height": 149.98653002799188,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 96333,
-			"version": 1,
-			"versionNonce": 100671684,
-			"updated": 1673564574466,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
 					-165.57977544555132,
 					-148.00426855468277
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "3mWaYPbK",
+				"elementId": "duUttd4V",
 				"focus": -8.190495149563906e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "4RccGQ9B",
+				"elementId": "Ssuc5bre",
 				"focus": -1.842861408651879e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "BW6szSv5",
+			"id": "Yrgx1SCV",
 			"type": "arrow",
 			"x": -21.710112277224333,
 			"y": -82.99786572265862,
@@ -207,10 +91,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 21596,
+			"seed": 91493,
 			"version": 1,
-			"versionNonce": 928077073,
-			"updated": 1673564574466,
+			"versionNonce": 485829332,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -230,18 +114,18 @@ Riemann Sum ^0CvbB9Oq
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "3mWaYPbK",
+				"elementId": "duUttd4V",
 				"focus": -7.898998486877712e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "OP1gh2FS",
+				"elementId": "mgbPiLSS",
 				"focus": -2.527679515800868e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "qe8lkvqH",
+			"id": "ns4FrXUG",
 			"type": "arrow",
 			"x": -20.267265996620996,
 			"y": -84.29766462101679,
@@ -258,10 +142,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 85731,
+			"seed": 89512,
 			"version": 1,
-			"versionNonce": 161142483,
-			"updated": 1673564574466,
+			"versionNonce": 492160903,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -281,18 +165,18 @@ Riemann Sum ^0CvbB9Oq
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "3mWaYPbK",
+				"elementId": "duUttd4V",
 				"focus": 6.746678358534402e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "LDXjNZfp",
+				"elementId": "IIVdOSQu",
 				"focus": 3.0360052613404816e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "ti9gR2wi",
+			"id": "jC2eRDai",
 			"type": "arrow",
 			"x": -7.521189614656428,
 			"y": -82.00673498600406,
@@ -309,10 +193,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 75206,
+			"seed": 20516,
 			"version": 1,
-			"versionNonce": 149827457,
-			"updated": 1673564574466,
+			"versionNonce": 765619104,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -332,18 +216,18 @@ Riemann Sum ^0CvbB9Oq
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "3mWaYPbK",
+				"elementId": "duUttd4V",
 				"focus": 9.751955723393411e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "CynDQ3l7",
+				"elementId": "Rc044Ulf",
 				"focus": 5.433232474462044e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "Rq9Cne3Q",
+			"id": "eSj6mCH9",
 			"type": "arrow",
 			"x": -8.754714486224234,
 			"y": -83.48046362935727,
@@ -360,10 +244,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 29359,
+			"seed": 33731,
 			"version": 1,
-			"versionNonce": 653865669,
-			"updated": 1673564574466,
+			"versionNonce": 670193820,
+			"updated": 1673576714618,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -371,7 +255,7 @@ Riemann Sum ^0CvbB9Oq
 			"locked": false
 		},
 		{
-			"id": "D4IfT4B5",
+			"id": "rvvE7J9Q",
 			"type": "rectangle",
 			"x": -107,
 			"y": -72,
@@ -388,21 +272,21 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 37867,
+			"seed": 29061,
 			"version": 1,
-			"versionNonce": 460567181,
-			"updated": 1673564574460,
+			"versionNonce": 488070851,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [
-				"41HsVcT9"
+				"OeTZq91K"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "2HhRUSuJ"
+					"id": "eqlFoXp2"
 				}
 			],
-			"link": "[[Templates/Arc Length.md]]",
+			"link": "[[Arc Length.md]]",
 			"locked": false
 		},
 		{
@@ -412,7 +296,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "2HhRUSuJ",
+			"id": "eqlFoXp2",
 			"type": "text",
 			"x": -97,
 			"y": -62,
@@ -429,23 +313,23 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 3397,
+			"seed": 44081,
 			"version": 1,
-			"versionNonce": 497192503,
-			"updated": 1673564574460,
+			"versionNonce": 731161441,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [
-				"41HsVcT9"
+				"OeTZq91K"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "D4IfT4B5",
+			"containerId": "rvvE7J9Q",
 			"originalText": "Arc Length",
 			"rawText": "Arc Length"
 		},
 		{
-			"id": "EYnYWeiK",
+			"id": "IWL9miHf",
 			"type": "ellipse",
 			"x": -117,
 			"y": -49,
@@ -462,20 +346,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 21883,
+			"seed": 59863,
 			"version": 1,
-			"versionNonce": 815775584,
-			"updated": 1673564574461,
+			"versionNonce": 398080263,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [
-				"41HsVcT9"
+				"OeTZq91K"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "3mWaYPbK",
+			"id": "duUttd4V",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -492,30 +376,30 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 67918,
+			"seed": 16185,
 			"version": 1,
-			"versionNonce": 477705482,
-			"updated": 1673564574461,
+			"versionNonce": 785671892,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [
-				"41HsVcT9"
+				"OeTZq91K"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "BW6szSv5"
+					"id": "Yrgx1SCV"
 				},
 				{
 					"type": "arrow",
-					"id": "qe8lkvqH"
+					"id": "ns4FrXUG"
 				},
 				{
 					"type": "arrow",
-					"id": "ti9gR2wi"
+					"id": "jC2eRDai"
 				},
 				{
 					"type": "arrow",
-					"id": "Rq9Cne3Q"
+					"id": "eSj6mCH9"
 				}
 			],
 			"link": null,
@@ -528,7 +412,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "sVGgkbF3",
+			"id": "aUIWcuRU",
 			"type": "text",
 			"x": -5,
 			"y": -82,
@@ -545,10 +429,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 82224,
+			"seed": 37799,
 			"version": 1,
-			"versionNonce": 43672518,
-			"updated": 1673564574461,
+			"versionNonce": 337835550,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -559,7 +443,7 @@ Riemann Sum ^0CvbB9Oq
 			"rawText": "4"
 		},
 		{
-			"id": "b2cvle8S",
+			"id": "L4DGfui0",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -567,123 +451,6 @@ Riemann Sum ^0CvbB9Oq
 			"height": 10,
 			"angle": 0,
 			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 17190,
-			"version": 1,
-			"versionNonce": 155038357,
-			"updated": 1673564574461,
-			"isDeleted": false,
-			"groupIds": [
-				"41HsVcT9"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "Nx5uq3Om"
-				},
-				{
-					"type": "arrow",
-					"id": "mKmqTjg4"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "2",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "7FkEEbGt",
-			"type": "text",
-			"x": 25,
-			"y": -16,
-			"width": 7,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 41914,
-			"version": 1,
-			"versionNonce": 935310201,
-			"updated": 1673564574461,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "2",
-			"rawText": "2"
-		},
-		{
-			"id": "b38DsuDw",
-			"type": "rectangle",
-			"x": -319,
-			"y": 154,
-			"width": 209,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#00000066",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 47059,
-			"version": 1,
-			"versionNonce": 520757683,
-			"updated": 1673564574462,
-			"isDeleted": false,
-			"groupIds": [
-				"x3wAojCO"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "P3p4uTvE"
-				}
-			],
-			"link": "[[References/Excalidraw/Arc Length Proof.md]]",
-			"locked": false
-		},
-		{
-			"text": "Arc Length Proof",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 20,
-			"id": "P3p4uTvE",
-			"type": "text",
-			"x": -309,
-			"y": 164,
-			"width": 189,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -693,361 +460,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 285,
+			"seed": 46062,
 			"version": 1,
-			"versionNonce": 635721590,
-			"updated": 1673564574462,
+			"versionNonce": 293394614,
+			"updated": 1673576714615,
 			"isDeleted": false,
 			"groupIds": [
-				"x3wAojCO"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "b38DsuDw",
-			"originalText": "Arc Length Proof",
-			"rawText": "Arc Length Proof"
-		},
-		{
-			"id": "flR74pVQ",
-			"type": "ellipse",
-			"x": -329,
-			"y": 171,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 31651,
-			"version": 1,
-			"versionNonce": 341232495,
-			"updated": 1673564574462,
-			"isDeleted": false,
-			"groupIds": [
-				"x3wAojCO"
+				"OeTZq91K"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "QUhywXgA",
-			"type": "ellipse",
-			"x": -229,
-			"y": 144,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 29442,
-			"version": 1,
-			"versionNonce": 362748295,
-			"updated": 1673564574462,
-			"isDeleted": false,
-			"groupIds": [
-				"x3wAojCO"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "mKmqTjg4"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "csChfgDG",
-			"type": "text",
-			"x": -214,
-			"y": 144,
-			"width": 7,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 27814,
-			"version": 1,
-			"versionNonce": 369285258,
-			"updated": 1673564574462,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1"
-		},
-		{
-			"id": "Prh4Ymxq",
-			"type": "ellipse",
-			"x": -199,
-			"y": 198,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 55539,
-			"version": 1,
-			"versionNonce": 860552197,
-			"updated": 1673564574462,
-			"isDeleted": false,
-			"groupIds": [
-				"x3wAojCO"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "pW1yAJeu",
-			"type": "rectangle",
-			"x": 30.5,
-			"y": 152.5,
-			"width": 346,
-			"height": 47,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#00000066",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 18271,
-			"version": 1,
-			"versionNonce": 197511404,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [
-				"H6BShg6M"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "VJ8cwT7I"
-				}
-			],
-			"link": "[[References/Textbook - Arc Length.pdf]]",
-			"locked": false
-		},
-		{
-			"text": "📎 Textbook - Arc Length.pdf",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 20,
-			"id": "VJ8cwT7I",
-			"type": "text",
-			"x": 40.5,
-			"y": 162.5,
-			"width": 326,
-			"height": 27,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 66001,
-			"version": 1,
-			"versionNonce": 576796774,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [
-				"H6BShg6M"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "pW1yAJeu",
-			"originalText": "📎 Textbook - Arc Length.pdf",
-			"rawText": "📎 Textbook - Arc Length.pdf"
-		},
-		{
-			"id": "B2FE9NQE",
-			"type": "ellipse",
-			"x": 20.5,
-			"y": 171,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 77912,
-			"version": 1,
-			"versionNonce": 4847328,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [
-				"H6BShg6M"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "SdJTfkvw",
-			"type": "ellipse",
-			"x": 189,
-			"y": 142.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 81911,
-			"version": 1,
-			"versionNonce": 543913407,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [
-				"H6BShg6M"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "Nx5uq3Om"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "XQVcOb3L",
-			"type": "text",
-			"x": 204,
-			"y": 142.5,
-			"width": 7,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 63533,
-			"version": 1,
-			"versionNonce": 856873625,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1"
-		},
-		{
-			"id": "KnWO74Wa",
-			"type": "ellipse",
-			"x": 219,
-			"y": 199.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 84538,
-			"version": 1,
-			"versionNonce": 152897613,
-			"updated": 1673564574463,
-			"isDeleted": false,
-			"groupIds": [
-				"H6BShg6M"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "aWK5LEae",
+			"id": "326239r4",
 			"type": "rectangle",
 			"x": -272,
 			"y": -374,
@@ -1064,21 +490,21 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 70220,
+			"seed": 12600,
 			"version": 1,
-			"versionNonce": 793710991,
-			"updated": 1673564574464,
+			"versionNonce": 629953836,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"NeZtgV3s"
+				"bXD30bVo"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "YtmkBv0A"
+					"id": "h2MVO4Ro"
 				}
 			],
-			"link": "[[Vault/Integral.md]]",
+			"link": "[[Integral.md]]",
 			"locked": false
 		},
 		{
@@ -1088,7 +514,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "YtmkBv0A",
+			"id": "h2MVO4Ro",
 			"type": "text",
 			"x": -262,
 			"y": -364,
@@ -1105,23 +531,23 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 69728,
+			"seed": 85306,
 			"version": 1,
-			"versionNonce": 686740259,
-			"updated": 1673564574464,
+			"versionNonce": 519095063,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"NeZtgV3s"
+				"bXD30bVo"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "aWK5LEae",
+			"containerId": "326239r4",
 			"originalText": "Integral",
 			"rawText": "Integral"
 		},
 		{
-			"id": "9pUyog4k",
+			"id": "F6mEdPZQ",
 			"type": "ellipse",
 			"x": -282,
 			"y": -357,
@@ -1138,20 +564,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 33705,
+			"seed": 68661,
 			"version": 1,
-			"versionNonce": 718357480,
-			"updated": 1673564574464,
+			"versionNonce": 411840231,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"NeZtgV3s"
+				"bXD30bVo"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "yg38aoGY",
+			"id": "jcZytMe5",
 			"type": "ellipse",
 			"x": -229,
 			"y": -384,
@@ -1168,20 +594,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 30314,
+			"seed": 35307,
 			"version": 1,
-			"versionNonce": 512766179,
-			"updated": 1673564574464,
+			"versionNonce": 538523761,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"NeZtgV3s"
+				"bXD30bVo"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "OP1gh2FS",
+			"id": "mgbPiLSS",
 			"type": "ellipse",
 			"x": -199,
 			"y": -330,
@@ -1198,18 +624,18 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 56932,
+			"seed": 5210,
 			"version": 1,
-			"versionNonce": 209626812,
-			"updated": 1673564574464,
+			"versionNonce": 286908960,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"NeZtgV3s"
+				"bXD30bVo"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "qe8lkvqH"
+					"id": "ns4FrXUG"
 				}
 			],
 			"link": null,
@@ -1222,7 +648,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "jIYSIXGN",
+			"id": "mpautk1i",
 			"type": "text",
 			"x": -184,
 			"y": -330,
@@ -1239,10 +665,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 3775,
+			"seed": 82265,
 			"version": 1,
-			"versionNonce": 399100107,
-			"updated": 1673564574464,
+			"versionNonce": 547991167,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1253,7 +679,7 @@ Riemann Sum ^0CvbB9Oq
 			"rawText": "1"
 		},
 		{
-			"id": "wgChOAcu",
+			"id": "9YpXtstg",
 			"type": "rectangle",
 			"x": 163.5,
 			"y": -374,
@@ -1270,21 +696,21 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 44108,
+			"seed": 9769,
 			"version": 1,
-			"versionNonce": 208281891,
-			"updated": 1673564574464,
+			"versionNonce": 965112612,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"WRZDaBBC"
+				"uFSDZETt"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "PiKgKnfp"
+					"id": "clgp7eaF"
 				}
 			],
-			"link": "[[Vault/Limit.md]]",
+			"link": "[[Limit.md]]",
 			"locked": false
 		},
 		{
@@ -1294,7 +720,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "PiKgKnfp",
+			"id": "clgp7eaF",
 			"type": "text",
 			"x": 173.5,
 			"y": -364,
@@ -1311,23 +737,23 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 56009,
+			"seed": 37395,
 			"version": 1,
-			"versionNonce": 625012409,
-			"updated": 1673564574464,
+			"versionNonce": 876091991,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"WRZDaBBC"
+				"uFSDZETt"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "wgChOAcu",
+			"containerId": "9YpXtstg",
 			"originalText": "Limit",
 			"rawText": "Limit"
 		},
 		{
-			"id": "KcXCO154",
+			"id": "XIu90bta",
 			"type": "ellipse",
 			"x": 153.5,
 			"y": -357,
@@ -1344,20 +770,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 83032,
+			"seed": 54368,
 			"version": 1,
-			"versionNonce": 770137631,
-			"updated": 1673564574464,
+			"versionNonce": 48625398,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"WRZDaBBC"
+				"uFSDZETt"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "8YWrZ7Of",
+			"id": "l2SU04tG",
 			"type": "ellipse",
 			"x": 189,
 			"y": -384,
@@ -1374,20 +800,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 69049,
+			"seed": 75175,
 			"version": 1,
-			"versionNonce": 644116618,
-			"updated": 1673564574464,
+			"versionNonce": 845027933,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"WRZDaBBC"
+				"uFSDZETt"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "CynDQ3l7",
+			"id": "Rc044Ulf",
 			"type": "ellipse",
 			"x": 219,
 			"y": -330,
@@ -1404,18 +830,18 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 25305,
+			"seed": 62756,
 			"version": 1,
-			"versionNonce": 919699199,
-			"updated": 1673564574464,
+			"versionNonce": 68571259,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"WRZDaBBC"
+				"uFSDZETt"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "Rq9Cne3Q"
+					"id": "eSj6mCH9"
 				}
 			],
 			"link": null,
@@ -1428,7 +854,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "qe98Ljsl",
+			"id": "WIki1EmG",
 			"type": "text",
 			"x": 234,
 			"y": -330,
@@ -1445,10 +871,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 8510,
+			"seed": 72619,
 			"version": 1,
-			"versionNonce": 163906197,
-			"updated": 1673564574465,
+			"versionNonce": 255754817,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1459,7 +885,7 @@ Riemann Sum ^0CvbB9Oq
 			"rawText": "1"
 		},
 		{
-			"id": "Tz2HQGeo",
+			"id": "bLh08ZO6",
 			"type": "rectangle",
 			"x": -336.5,
 			"y": -286,
@@ -1476,18 +902,18 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 32326,
+			"seed": 8831,
 			"version": 1,
-			"versionNonce": 190090095,
-			"updated": 1673564574465,
+			"versionNonce": 797405553,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"e1aHdop3"
+				"gUpFCl29"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "m23XS7fg"
+					"id": "hJqJgumA"
 				}
 			],
 			"link": "[[Parametric Function]]",
@@ -1500,7 +926,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "m23XS7fg",
+			"id": "hJqJgumA",
 			"type": "text",
 			"x": -326.5,
 			"y": -276,
@@ -1517,23 +943,23 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 33233,
+			"seed": 53289,
 			"version": 1,
-			"versionNonce": 89270764,
-			"updated": 1673564574465,
+			"versionNonce": 297348860,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"e1aHdop3"
+				"gUpFCl29"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "Tz2HQGeo",
+			"containerId": "bLh08ZO6",
 			"originalText": "Parametric Function",
 			"rawText": "Parametric Function"
 		},
 		{
-			"id": "PfJ6hVnw",
+			"id": "prhzzrhb",
 			"type": "ellipse",
 			"x": -346.5,
 			"y": -269,
@@ -1550,20 +976,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 8694,
+			"seed": 72323,
 			"version": 1,
-			"versionNonce": 810861326,
-			"updated": 1673564574465,
+			"versionNonce": 509186919,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"e1aHdop3"
+				"gUpFCl29"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "TfDiXk1U",
+			"id": "T5Ou1UAD",
 			"type": "ellipse",
 			"x": -229,
 			"y": -296,
@@ -1580,20 +1006,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 3966,
+			"seed": 86064,
 			"version": 1,
-			"versionNonce": 484690275,
-			"updated": 1673564574465,
+			"versionNonce": 215064932,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"e1aHdop3"
+				"gUpFCl29"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "4RccGQ9B",
+			"id": "Ssuc5bre",
 			"type": "ellipse",
 			"x": -199,
 			"y": -242,
@@ -1610,18 +1036,18 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 63573,
+			"seed": 99422,
 			"version": 1,
-			"versionNonce": 896412162,
-			"updated": 1673564574465,
+			"versionNonce": 85914476,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"e1aHdop3"
+				"gUpFCl29"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "BW6szSv5"
+					"id": "Yrgx1SCV"
 				}
 			],
 			"link": null,
@@ -1634,7 +1060,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "FlZWN88b",
+			"id": "LRnPejtc",
 			"type": "text",
 			"x": -184,
 			"y": -242,
@@ -1651,10 +1077,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 41375,
+			"seed": 75542,
 			"version": 1,
-			"versionNonce": 171578246,
-			"updated": 1673564574465,
+			"versionNonce": 318136754,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1665,7 +1091,7 @@ Riemann Sum ^0CvbB9Oq
 			"rawText": "1"
 		},
 		{
-			"id": "1onEmuZK",
+			"id": "2NYOfibM",
 			"type": "rectangle",
 			"x": 128,
 			"y": -286,
@@ -1682,21 +1108,21 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 34145,
+			"seed": 54979,
 			"version": 1,
-			"versionNonce": 656226379,
-			"updated": 1673564574466,
+			"versionNonce": 757976665,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"laJjyqYY"
+				"THZSfj3C"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "0CvbB9Oq"
+					"id": "wkbCFu7V"
 				}
 			],
-			"link": "[[Vault/Riemann Sum.md]]",
+			"link": "[[Riemann Sum.md]]",
 			"locked": false
 		},
 		{
@@ -1706,7 +1132,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "0CvbB9Oq",
+			"id": "wkbCFu7V",
 			"type": "text",
 			"x": 138,
 			"y": -276,
@@ -1723,23 +1149,23 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 63728,
+			"seed": 8510,
 			"version": 1,
-			"versionNonce": 415263585,
-			"updated": 1673564574466,
+			"versionNonce": 813165668,
+			"updated": 1673576714616,
 			"isDeleted": false,
 			"groupIds": [
-				"laJjyqYY"
+				"THZSfj3C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "1onEmuZK",
+			"containerId": "2NYOfibM",
 			"originalText": "Riemann Sum",
 			"rawText": "Riemann Sum"
 		},
 		{
-			"id": "4Ptmc5Zn",
+			"id": "NaMXSBMj",
 			"type": "ellipse",
 			"x": 118,
 			"y": -269,
@@ -1756,20 +1182,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 11068,
+			"seed": 14968,
 			"version": 1,
-			"versionNonce": 411350622,
-			"updated": 1673564574466,
+			"versionNonce": 999634866,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [
-				"laJjyqYY"
+				"THZSfj3C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "y53WT3XB",
+			"id": "NIdRzOmC",
 			"type": "ellipse",
 			"x": 189,
 			"y": -296,
@@ -1786,20 +1212,20 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 48655,
+			"seed": 15378,
 			"version": 1,
-			"versionNonce": 287602730,
-			"updated": 1673564574466,
+			"versionNonce": 640513835,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [
-				"laJjyqYY"
+				"THZSfj3C"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "LDXjNZfp",
+			"id": "IIVdOSQu",
 			"type": "ellipse",
 			"x": 219,
 			"y": -242,
@@ -1816,18 +1242,18 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 75782,
+			"seed": 28866,
 			"version": 1,
-			"versionNonce": 960886418,
-			"updated": 1673564574466,
+			"versionNonce": 954244658,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [
-				"laJjyqYY"
+				"THZSfj3C"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "ti9gR2wi"
+					"id": "jC2eRDai"
 				}
 			],
 			"link": null,
@@ -1840,7 +1266,7 @@ Riemann Sum ^0CvbB9Oq
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "XMcc9fsf",
+			"id": "XJOcgMOp",
 			"type": "text",
 			"x": 234,
 			"y": -242,
@@ -1857,10 +1283,10 @@ Riemann Sum ^0CvbB9Oq
 			"roundness": {
 				"type": 1
 			},
-			"seed": 89238,
+			"seed": 7252,
 			"version": 1,
-			"versionNonce": 808551653,
-			"updated": 1673564574466,
+			"versionNonce": 271994905,
+			"updated": 1673576714617,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1886,10 +1312,10 @@ Riemann Sum ^0CvbB9Oq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 428.89495849609364,
-		"scrollY": 375.7457478841151,
+		"scrollX": 409.6785714285714,
+		"scrollY": 440.71428571428567,
 		"zoom": {
-			"value": 1.5
+			"value": 1.75
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
