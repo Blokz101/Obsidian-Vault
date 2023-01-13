@@ -169,8 +169,8 @@
     "Intermediate Value Theorem.md",
     "Molecular Orbital Theory.md",
     "Arc Length.md",
-    "Derivative.md",
-    "Integral.md"
+    "Integral.md",
+    "Derivative.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
