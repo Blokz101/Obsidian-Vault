@@ -20,7 +20,7 @@ Vector ^gllObnJv
 
 1 ^yonjWPve
 
-[[3D Vectors.md]] ^LI8LisZR
+[[Vector]] ^LI8LisZR
 
 [[Vector]] ^8Xf2xoZq
 

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Vectors.md",
+                "file": "Vector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -149,7 +149,7 @@
   "active": "2bcf6ae89a918d94",
   "lastOpenFiles": [
     "Excalibrain Graph.md",
-    "3D Vectors.md",
+    "Vector.md",
     "Arc Length.md",
     "Integral.md",
     "Riemann Sum.md",
