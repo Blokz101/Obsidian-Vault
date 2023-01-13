@@ -168,9 +168,10 @@
     "Iphone.md",
     "Intermediate Value Theorem.md",
     "Molecular Orbital Theory.md",
-    "Arc Length.md",
     "Integral.md",
-    "Derivative.md"
+    "Derivative.md",
+    "Arc Length.md",
+    "3D Vectors.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
