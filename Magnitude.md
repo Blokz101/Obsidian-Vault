@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Magnitudes]
 ---
 > [!Info]
 > Subject:: [[Physics]]
@@ -9,6 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- The length of a [[Vector]]
-	- Notated as $\large{|\vec{v}|}$
+	- Symbol: $\large{|\vec{v}|}$
 ---
 - ## Reference
