@@ -5,7 +5,7 @@ Alias: [Length Of An Arc]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Integral]] [[Riemann Sum]] [[Limit]] [[Parametric Function]]
 > Friends:: 
-> Children:: [[Textbook - Arc Length.pdf]] [[Arc Length Proof]]
+> Children:: [[Arc Length - Textbook.pdf]] [[Arc Length Proof]]
 ---
 - ## Definition
 	- The length of an arc or curved line. For example, the length of $f(x)$ on the interval $[a,b]$. 
