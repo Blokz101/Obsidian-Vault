@@ -3,7 +3,7 @@ Alias: [Vectors]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Magnitude]] [[Angular Direction]]
+> Parents:: [[Magnitude]] [[Direction]]
 > Friends:: [[Scaler]]
 > Children:: [[Vector Addition]]
 ---

@@ -3,12 +3,12 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Vector]]
-> Friends:: [[Unit Vector]]
+> Parents:: [[Direction]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- A method of specifying the [[Angular Direction]] of the [[Vector]].
+	- A method of specifying the [[Direction]] of the [[Vector]].
 	- Symbol: $\large{\hat{v}}$
 	- All [[Unit Vector]] are **less than one**.
 	- > [!Equation]
