@@ -12,6 +12,8 @@ Alias: []
 	- ![[Drawing 2023-01-13 19.40.33.excalidraw|200]]
 	- #### Conversion To [[Unit Vector]]
 		- > [!Equation]
+		  > $$\large{\hat{v}=<\cos(\theta_{x}),\cos(\theta_{y}),\cos(\theta_{x})>}$$
 		  > 
+		  > $\hat{v}$ = [[Unit Vector]]
 ---
 - ## Reference

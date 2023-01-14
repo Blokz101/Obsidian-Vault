@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "Angular Direction.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -99,7 +99,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -231,13 +230,13 @@
       }
     ]
   },
-  "active": "c39da61e67ee3bbb",
+  "active": "5a3d46ad6a477c6b",
   "lastOpenFiles": [
+    "Angular Direction.md",
+    "Unit Vector.md",
     "Vector.md",
     "Direction.md",
-    "Angular Direction.md",
     "Excalibrain Graph.md",
-    "Unit Vector.md",
     "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
     "Magnitude.md",
