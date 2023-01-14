@@ -57,6 +57,19 @@
             }
           },
           {
+            "id": "fa7e1ed6be5de9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integral.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c39da61e67ee3bbb",
             "type": "leaf",
             "state": {
@@ -227,15 +240,15 @@
   },
   "active": "6e3f4253aea818b6",
   "lastOpenFiles": [
+    "Integral.md",
+    "Excalibrain Graph.md",
+    "Intermediate Value Theorem.md",
     "Vector.md",
     "Displacement.md",
     "Unit Vector.md",
     "Angular Direction.md",
     "Direction.md",
-    "Excalibrain Graph.md",
     "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
-    "Magnitude.md",
-    "Vector Addition.md"
+    "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md"
   ]
 }

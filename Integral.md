@@ -3,15 +3,15 @@ Alias: [Integrals, Integration, Integrate]
 ---
 > [!Info]
 > Subject:: [[Calculus]]
-> Parents:: 
+> Parents:: [[Summation Notation]] [[Limit]]
 > Friends:: [[Derivative]]
-> Children:: 
+> Children:: [[Integration By Parts]] [[U Substitution]]
 ---
 - ## Definition
 	- Finds the area under a curve.
 		- The opposite of a [[Derivative]].
 	- > [!Equation]
-	  > $$\large{\int_{a}^{b} f(x) \, dx=\sum^{n}_{i=1}f(a+i\Delta x)\Delta x}$$
+	  > $$\large{\int_{a}^{b} f(x) \, dx=\lim_{ n \to \infty } \sum^{n}_{i=1}f(a+i\Delta x)\Delta x}$$
 	  > 
 	  > Where: $$\Delta x=\frac{b-a}{n}$$
 	  > 
@@ -20,12 +20,12 @@ Alias: [Integrals, Integration, Integrate]
 	  > $n$ = Number of approximation rectangles.
 	  > $\Delta x$ = The width of each approximation rectangle.
 	  > $i$ = The index of a specific rectangle in the [[Riemann Sum]].
+	- Methods of [[Integral|Integration]]
+			- [[Integration By Parts]]
+			- [[U Substitution]]
 ---
 - ## Practice
 	- [[Drawing 2022-11-11 21.07.30.excalidraw]]
 - ## Reference
 	- The opposite of a [[Derivative]].
 		- Uses a [[Riemann Sum]] as its proof.
-		- Methods of [[Integral|Integration]]
-			- [[Integration By Parts]]
-			- [[U Substitution]]
