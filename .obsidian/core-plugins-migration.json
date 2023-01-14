@@ -4,7 +4,7 @@
   "switcher": true,
   "graph": true,
   "backlink": false,
-  "outgoing-link": false,
+  "outgoing-link": true,
   "tag-pane": false,
   "page-preview": true,
   "daily-notes": false,

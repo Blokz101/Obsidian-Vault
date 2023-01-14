@@ -19,7 +19,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		  > $R$ = [[Ideal Gas Constant]]
 		  > $T$ = [[Temperature]] in [[Temperature|K]]
 		  > $K$ = [[Equilibrium Constant]]
-	- The amount of [[Work]] a chemical **system** can do.
+	- The amount of [[Work (Chemistry)]] a chemical **system** can do.
 		- Dependent on [[Entropy]] and [[Enthalpy]].
 		- ![[Thermodynamics#^3dc3fc]]
 	- If this value negative the reaction is [[Spontaneity|Spontaneous]] and will be an [[Exothermic Process]].

@@ -7,12 +7,12 @@ Modification Date: NaN
 #Permanent [[Electricity]]
 
 - Definition
-	- The rate at witch [[Work]] is done
-	- Basically [[Acceleration]], but for [[Work]] instead of [[Position]].
+	- The rate at witch [[Work (Chemistry)]] is done
+	- Basically [[Acceleration]], but for [[Work (Chemistry)]] instead of [[Position]].
 	- General [[Power]] equation
 	  >$$P=\frac{W}{t}$$
 	  > $P$ = [[Power]]
-	  > $W$ = [[Work]]
+	  > $W$ = [[Work (Chemistry)]]
 	  > $t$ = Time
 - Symbol
 	- Generally $P$

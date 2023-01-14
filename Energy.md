@@ -7,7 +7,7 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The ability to do [[Work]].
+	- The ability to do [[Work (Chemistry)]].
 - ## [[Spectrum of Light]]
 	- This equation relates [[Energy]] to [[Frequency]].
 	  

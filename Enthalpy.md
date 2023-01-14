@@ -14,7 +14,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	> 
 	> $\Delta E_{system}$ = [[Energy]] of the system
 	> $\Delta H$ = [[Enthalpy]]
-	> $w$ = [[Work]]
+	> $w$ = [[Work (Chemistry)]]
 	
 - ## [[Enthalpy]] In Chemical Reactions
 	- The [[Enthalpy]] of a reaction can be calculated by comparing the [[Energy]] in the **bonds** of the **reactants** and the [[Energy]] in the **bonds** of the **product**. The difference is the [[Enthalpy]].
