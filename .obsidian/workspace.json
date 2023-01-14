@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vector Addition.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -40,6 +40,19 @@
               "type": "markdown",
               "state": {
                 "file": "Unit Vector.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e917ab47e143522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -209,13 +222,13 @@
   },
   "active": "493dc94f2de227f0",
   "lastOpenFiles": [
-    "Magnitude.md",
-    "Vector Addition.md",
-    "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "Vector.md",
-    "Excalibrain Graph.md",
+    "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
     "Unit Vector.md",
+    "Vector Addition.md",
+    "Magnitude.md",
+    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
+    "Excalibrain Graph.md",
     "Scaler.md",
     "Integral.md",
     "Displacement.md"
