@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unit Vector.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -43,6 +43,16 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "6e3f4253aea818b6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain Graph.md"
               }
             }
           },
@@ -99,6 +109,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -150,26 +161,10 @@
   "right": {
     "id": "11afaf635e026b2f",
     "type": "split",
-    "children": [
-      {
-        "id": "0343fe060da3bcdd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e3f4253aea818b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalibrain Graph.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,17 +225,17 @@
       }
     ]
   },
-  "active": "5a3d46ad6a477c6b",
+  "active": "6e3f4253aea818b6",
   "lastOpenFiles": [
-    "Angular Direction.md",
-    "Unit Vector.md",
     "Vector.md",
+    "Displacement.md",
+    "Unit Vector.md",
+    "Angular Direction.md",
     "Direction.md",
     "Excalibrain Graph.md",
     "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
     "Magnitude.md",
-    "Vector Addition.md",
-    "Displacement.md"
+    "Vector Addition.md"
   ]
 }

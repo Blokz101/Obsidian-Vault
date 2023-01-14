@@ -21,8 +21,8 @@ Alias: []
 		  > 
 		  > $\vec{v}$ = [[Vector]]
 		  > $|\vec{v}|$ = [[Magnitude]]
-		  > > [!Proof]
+		  > > [!Proof]- 
 		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
-		  > > Use this equation for each 
+		  > > Use this equation for each axis to convert them.
 ---
 - ## Reference
