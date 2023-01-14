@@ -3,7 +3,7 @@ Alias: [Vectors]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Magnitude]] [[Displacement]] [[Position]]
+> Parents:: [[Magnitude]] [[Direction]]
 > Friends:: [[Scaler]]
 > Children:: [[Vector Addition]]
 ---
@@ -14,6 +14,7 @@ Alias: [Vectors]
 	- They are described by: $\large{\vec{v}}=<r_x,r_y,r_z>$
 	- [[Vector|Vectors]] have:
 		- [[Position]]
+		- [[Direction]]
 		- [[Displacement]]
 		- [[Magnitude]]
 ---
