@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vector.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -207,16 +207,16 @@
       }
     ]
   },
-  "active": "5745652e584421f3",
+  "active": "e62a1bfaa1df3ca7",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
-    "Integral.md",
-    "Scaler.md",
-    "Unit Vector.md",
+    "Excalibrain Graph.md",
     "Vector.md",
     "Magnitude.md",
+    "Unit Vector.md",
+    "Scaler.md",
+    "Integral.md",
+    "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "Displacement.md",
-    "Excalibrain Graph.md",
     "Arc Length.md",
     "Riemann Sum.md"
   ]

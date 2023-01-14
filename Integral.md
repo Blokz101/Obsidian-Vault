@@ -11,8 +11,7 @@ Alias: [Integrals, Integration, Integrate]
 	- Finds the area under a curve.
 		- The opposite of a [[Derivative]].
 	- > [!Equation]
-	  > $\large{\int_{a}^{b} f(x) \, dx=}$
-	  > $$\large{\int_{a}^{b}}f(x)dx=^{lim}_{n\rightarrow \infty}\sum_{i=1}^{n}[f(a+i\Delta x)*\Delta x]$$
+	  > $$\large{\int_{a}^{b} f(x) \, dx=\sum^{n}_{i=1}f(a+i\Delta x)\Delta x}$$
 	  > 
 	  > Where: $$\Delta x=\frac{b-a}{n}$$
 	  > 
