@@ -19,6 +19,10 @@ Alias: []
 		- > [!Equation]
 		  > $$\large{\vec{v}=<\cos(|\vec{v}|*\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})>}$$
 		  > 
-		  > $|\vec{v}|*$
+		  > $\vec{v}$ = [[Vector]]
+		  > $|\vec{v}|$ = [[Magnitude]]
+		  > > [!Proof]
+		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
+		  > > Use this equation for each 
 ---
 - ## Reference
