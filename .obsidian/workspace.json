@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "7651dd5677a12c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Addition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e62a1bfaa1df3ca7",
             "type": "leaf",
             "state": {
@@ -202,17 +215,17 @@
         "y": -1024,
         "width": 700,
         "height": 845,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e62a1bfaa1df3ca7",
+  "active": "7651dd5677a12c1f",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
     "Vector.md",
-    "Magnitude.md",
+    "Excalibrain Graph.md",
     "Unit Vector.md",
+    "Magnitude.md",
     "Scaler.md",
     "Integral.md",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",

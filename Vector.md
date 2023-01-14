@@ -3,9 +3,9 @@ Alias: [Vectors]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
+> Parents:: [[Magnitude]] [[Displacement]] [[Position]]
 > Friends:: [[Scaler]]
-> Children:: [[Magnitude]] [[Displacement]] [[Position]]
+> Children:: [[Vector Addition]]
 ---
 - ## Definition
 	- [[Vector|Vectors]] are a description of [[Position]] or [[Velocity]]
