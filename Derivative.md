@@ -22,5 +22,6 @@ Alias: [Differentiation, Differentiable, Derivatives, Differentiate]
 - ## Practice
 	- [[Drawing 2022-09-14 12.58.23.excalidraw]]
 	- [[Drawing 2022-09-29 19.57.44.excalidraw]]
+	- [[Drawing 2023-01-15 11.26.23.excalidraw]]
 - ## Reference
 	- [[Derivative Rules]] shows the shortcuts for taking the [[Derivative]] of something.
