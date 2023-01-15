@@ -109,63 +109,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6aa9dc5cb142e3c1",
-        "type": "window",
-        "children": [
-          {
-            "id": "f017dee7052f5d4a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cbd42b5e7ca41389",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md"
-                  }
-                }
-              },
-              {
-                "id": "66037154554bb41c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 39,
-        "y": -1024,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c39da61e67ee3bbb",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md",
+    "Work (Calculus).md",
     "Vector.md",
     "Angular Direction.md",
     "Work (Chemistry).md",
     "Intermediate Value Theorem.md",
     "Integral.md",
     "References/Application of Integrals - Textbook.pdf",
-    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md",
-    "Excalibrain Graph.md",
-    "Displacement.md",
-    "Unit Vector.md"
+    "References/Excalidraw/Drawing 2022-11-11 21.07.30.excalidraw.md"
   ]
 }
