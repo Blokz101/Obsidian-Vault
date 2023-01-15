@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Derivative.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-15 11.26.23.excalidraw.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,45 +109,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7d3f289ce78e1201",
-        "type": "window",
-        "children": [
-          {
-            "id": "fe1b766cb9764583",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c39da61e67ee3bbb",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-15 11.26.23.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 61,
-        "y": 129,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c39da61e67ee3bbb",
+  "active": "38e10a8bee7bd741",
   "lastOpenFiles": [
-    "Derivative.md",
     "References/Excalidraw/Drawing 2023-01-15 11.26.23.excalidraw.md",
+    "Derivative.md",
     "Work (Calculus).md",
     "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-13 19.40.33.excalidraw.md",
