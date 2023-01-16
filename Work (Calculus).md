@@ -9,6 +9,7 @@ Alias: []
 ---
 - ## Definition
 	- The [[Energy]] transferred to or from an object via the application of [[Force]] along a [[Displacement]].
+	When [[Force]] is constant over [[Displacement]] then [[Work (Calculus)]]
 	- > [!Equation]
 	  > $W=F*D$
 	  > 

@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work (Calculus).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -116,26 +116,6 @@
       {
         "id": "61b56479f72a3d3d",
         "type": "tabs",
-        "dimension": 33.22222222222222,
-        "children": [
-          {
-            "id": "aacab813af9c9de1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Displacement.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6d2281015d97d2ff",
-        "type": "tabs",
-        "dimension": 66.77777777777779,
         "children": [
           {
             "id": "d648d65e31baa8ba",
@@ -143,13 +123,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Displacement.md",
+                "file": "Work (Calculus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aacab813af9c9de1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work (Calculus).md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -173,13 +165,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aacab813af9c9de1",
+  "active": "ce3abe6ee88d550a",
   "lastOpenFiles": [
-    "Distance.md",
-    "Displacement.md",
-    "Work (Calculus).md",
-    "Force.md",
     "Work (Chemistry).md",
+    "Work (Calculus).md",
+    "Displacement.md",
+    "Distance.md",
+    "Force.md",
     "Derivative.md",
     "References/Excalidraw/Drawing 2023-01-15 11.26.23.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-13 19.11.37.excalidraw.md",
