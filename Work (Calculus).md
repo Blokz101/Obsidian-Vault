@@ -16,9 +16,13 @@ Alias: []
 		  > $W$ = [[Work (Calculus)]]
 		  > $F$ = [[Force]]
 		  > $D$ = [[Displacement]]
-	- However when the **[[Force]] is variable but [[Continuity|Continuous]]** over a [[Displacement]] then [[Work (Calculus)]] is given by:
+	- However when the **[[Force]] is variable but [[Continuity|Continuous]]** over a [[Displacement]], then [[Work (Calculus)]] is given by the [[Integral]] of [[Force]] over [[Displacement]]:
 		- > [!Equation]
-		  > $W = \lim_{ n \to \infty }\sum^{n}_{i=1}$
+		  > $$\large{W=\int_{a}^{b} f(x) \, dx}$$
+		  > 
+		  > $f(x)$ = Function that gives the variable force.
+		  > 
+		  > Proof is on page 32 of [[Application of Integrals - Textbook.pdf]]
 ---
 - ## Reference
-	- [[Application of Integrals - Textbook 1.pdf]]
+	- [[Application of Integrals - Textbook.pdf]]
