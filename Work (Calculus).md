@@ -23,6 +23,8 @@ Alias: []
 		  > $f(x)$ = Function that gives the variable force.
 		  > 
 		  > Proof is on page 32 of [[Application of Integrals - Textbook.pdf]]
+		- Example:
+		  ![[Drawing 2023-01-16 13.32.37.excalidraw]]
 ---
 - ## Reference
 	- [[Application of Integrals - Textbook.pdf]]
