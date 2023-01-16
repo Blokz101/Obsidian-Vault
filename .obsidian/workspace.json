@@ -8,43 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce3abe6ee88d550a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work (Calculus).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f234c27e2e2ecebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc Length.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5e6b15916427978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "247c623fcab84c1b",
             "type": "leaf",
             "state": {
@@ -74,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conic Section.md",
+                "file": "Arc Length.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +70,6 @@
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -170,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conic Section.md",
+                "file": "Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conic Section.md",
+                "file": "Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,17 +209,17 @@
       }
     ]
   },
-  "active": "e4a82e58cf189432",
+  "active": "247c623fcab84c1b",
   "lastOpenFiles": [
-    "Parametric Function.md",
     "Arc Length.md",
+    "Displacement.md",
     "Excalibrain Graph.md",
+    "Vector.md",
+    "Work (Calculus).md",
+    "Parametric Function.md",
+    "Conic Section.md",
     "Integral.md",
     "Riemann Sum.md",
-    "Displacement.md",
-    "Work (Calculus).md",
-    "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md",
-    "References/Application of Integrals - Textbook 1.pdf",
-    "Work (Chemistry).md"
+    "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md"
   ]
 }
