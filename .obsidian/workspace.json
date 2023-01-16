@@ -4,69 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f40f60a3261770",
+        "id": "9190a1510a0efb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "247c623fcab84c1b",
+            "id": "046589f373231a5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc Length.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e2bbc61c812a258f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parametric Function.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e4a82e58cf189432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc Length.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af6b42315d6485f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Displacement.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "512c2def1db25508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distance.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -132,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,52 +119,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0083f293fe05c300",
-        "type": "window",
-        "children": [
-          {
-            "id": "fcc60ca3237fcde8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59a7f0f1fea7e85c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain Graph.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 43,
-        "y": 900,
-        "width": 1366,
-        "height": 1024,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "247c623fcab84c1b",
+  "active": "046589f373231a5b",
   "lastOpenFiles": [
-    "Arc Length.md",
-    "Displacement.md",
     "Excalibrain Graph.md",
+    "Distance.md",
+    "Displacement.md",
+    "Arc Length.md",
+    "Parametric Function.md",
+    "Integral.md",
     "Vector.md",
     "Work (Calculus).md",
-    "Parametric Function.md",
     "Conic Section.md",
-    "Integral.md",
-    "Riemann Sum.md",
-    "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md"
+    "Riemann Sum.md"
   ]
 }
