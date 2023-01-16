@@ -59,6 +59,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md",
+                "file": "Arc Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md",
+                "file": "Arc Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,20 +169,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "60509a33bcb90c8d",
+        "id": "0083f293fe05c300",
         "type": "window",
         "children": [
           {
-            "id": "3c28b9e2878eae29",
+            "id": "fcc60ca3237fcde8",
             "type": "tabs",
             "children": [
               {
-                "id": "38e10a8bee7bd741",
+                "id": "59a7f0f1fea7e85c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md"
+                    "file": "Excalibrain Graph.md"
                   }
                 }
               }
@@ -191,24 +192,24 @@
         "direction": "vertical",
         "x": 43,
         "y": 900,
-        "width": 700,
-        "height": 845,
+        "width": 1366,
+        "height": 1024,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "38e10a8bee7bd741",
+  "active": "f234c27e2e2ecebe",
   "lastOpenFiles": [
+    "Displacement.md",
     "Work (Calculus).md",
+    "Excalibrain Graph.md",
     "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md",
     "Arc Length.md",
     "References/Application of Integrals - Textbook 1.pdf",
     "Work (Chemistry).md",
-    "Displacement.md",
     "Distance.md",
     "Force.md",
-    "Derivative.md",
-    "References/Excalidraw/Drawing 2023-01-15 11.26.23.excalidraw.md"
+    "Derivative.md"
   ]
 }

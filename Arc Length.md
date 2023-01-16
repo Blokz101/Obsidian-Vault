@@ -3,7 +3,7 @@ Alias: [Length Of An Arc]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Integral]] [[Riemann Sum]] [[Limit]] [[Parametric Function]]
+> Parents:: [[Integral]] [[Parametric Function]]
 > Friends:: 
 > Children:: 
 ---
