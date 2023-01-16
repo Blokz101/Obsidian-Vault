@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38e10a8bee7bd741",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ce3abe6ee88d550a",
             "type": "leaf",
             "state": {
@@ -172,6 +162,41 @@
       "templater-obsidian:Templater": true,
       "workspaces:Manage workspace layouts": false
     }
+  },
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "60509a33bcb90c8d",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c28b9e2878eae29",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38e10a8bee7bd741",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 43,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "38e10a8bee7bd741",
   "lastOpenFiles": [
