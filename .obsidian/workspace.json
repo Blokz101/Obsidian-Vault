@@ -33,6 +33,54 @@
             }
           },
           {
+            "id": "d5e6b15916427978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integral.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "247c623fcab84c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arc Length.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e2bbc61c812a258f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parametric Function.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4a82e58cf189432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conic Section.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "af6b42315d6485f4",
             "type": "leaf",
             "state": {
@@ -59,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Conic Section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Conic Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,17 +247,17 @@
       }
     ]
   },
-  "active": "f234c27e2e2ecebe",
+  "active": "e4a82e58cf189432",
   "lastOpenFiles": [
+    "Parametric Function.md",
+    "Arc Length.md",
+    "Excalibrain Graph.md",
+    "Integral.md",
+    "Riemann Sum.md",
     "Displacement.md",
     "Work (Calculus).md",
-    "Excalibrain Graph.md",
     "References/Excalidraw/Drawing 2023-01-16 13.32.37.excalidraw.md",
-    "Arc Length.md",
     "References/Application of Integrals - Textbook 1.pdf",
-    "Work (Chemistry).md",
-    "Distance.md",
-    "Force.md",
-    "Derivative.md"
+    "Work (Chemistry).md"
   ]
 }

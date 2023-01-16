@@ -3,7 +3,7 @@ Alias: [Integrals, Integration, Integrate]
 ---
 > [!Info]
 > Subject:: [[Calculus]]
-> Parents:: [[Summation Notation]] [[Limit]]
+> Parents:: [[Limit]] [[Riemann Sum]]
 > Friends:: [[Derivative]]
 > Children:: [[Integration By Parts]] [[U Substitution]]
 ---

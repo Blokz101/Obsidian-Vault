@@ -37,7 +37,7 @@ Modification Date: NaN
 		  [[Exponential]] form|$x=a^y$
 	- Review the Laws of Logs in the [[Logarithm]] note.
 - ### Parametric Curves
-	- [[Parametric Curve]]
+	- [[Parametric Function]]
 	- A function defined by two functions. One is a function that gives an x coord in terms of a third variable and the second is a function that gives the y coord in terms of that third variable. The result is a function that "draws" itself as you increase that third variable.
 - ### Conic Sections
 	- [[Conic Section]]

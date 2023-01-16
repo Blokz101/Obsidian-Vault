@@ -1,10 +1,12 @@
 ---
-Alias: [Riemann Sums]
-Creation Date: Thu November 3rd 2022 10:06:10 pm 
-Modification Date: NaN
+Alias: [Riemann Sum]
 ---
-#Permanent [[Calculus]]
-
+> [!Info]
+> Subject:: [[Calculus II]]
+> Parents:: [[Summation Notation]]
+> Friends:: 
+> Children:: [[Integral]]
+---
 - ## Definition
 	- A way to approximate the area under a curve with rectangles.
 	- **Right**|**Middle**|**Left**
@@ -30,8 +32,7 @@ Modification Date: NaN
 	  > $n$ = Number of rectangles used.
 	  > $\Delta x$ = The width of each rectangle.
 	  > $i$ = The index of a specific rectangle in the [[Riemann Sum]].
+---
 - ## Practice
 	- [[Drawing 2022-11-09 15.29.45.excalidraw]]
 - ## Reference
-	- Uses [[Summation Notation]].
-	- Used to prove the [[Integral]].
