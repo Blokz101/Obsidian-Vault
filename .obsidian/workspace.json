@@ -11,8 +11,12 @@
             "id": "046589f373231a5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arc Length.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arc Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arc Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
