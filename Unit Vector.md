@@ -21,10 +21,10 @@ Alias: []
 	  > 
 	- #### Conversion to Vector
 		- > [!Equation]
-		  >$$\large{\vec{v}=\left\langle \cos(|\vec{v}|*\theta) \right\rangle}$$ 
-		  > $$\large{\vec{v}=\left\langle \cos(|\vec{v}|*\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})\right\rangle}$$
+		  >$$\large{\vec{v}=\left\langle |\vec{v}|*\cos(\theta) \right\rangle}$$ 
+		  > $$\large{\vec{v}=\left\langle |\vec{v}|*\cos(\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})\right\rangle}$$
 		  > 
-		  > $\vec{v}$ = [[Vector]]
+		  > $\hat{v}$ = [[Vector]]
 		  > $|\vec{v}|$ = [[Magnitude]]
 		  > > [!Proof]- 
 		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
