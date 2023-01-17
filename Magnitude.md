@@ -8,7 +8,8 @@ Alias: [Magnitudes]
 > Children:: 
 ---
 - ## Definition
-	- The length of a [[Vector]]
+	- The length of a [[Vector]].
+		- [[Magnitude]] does not have [[Direction]].
 	- Symbol: $\large{|\vec{v}|}$
 	- We can use [[Pathergrans Theorm]] to find the [[Magnitude]].
 		- > [!Equation]
