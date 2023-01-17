@@ -15,15 +15,13 @@ Alias: [Riemann Sum]
 	  > Where: $$\Delta x=\frac{b-a}{n}$$
 	  > 
 	  > $A_t$ = The total area of the rectangles or the approximate area under the curve.
-	  > $a$ = Starting value of the [[Riemann Sum]].
-	  > $b$ = Ending value of the [[Riemann Sum]].
+	  > $a$ = Starting value.
+	  > $b$ = Ending value.
 	  > $n$ = Number of rectangles used.
 	  > $\Delta x$ = The width of each rectangle.
+	  > 
+	  > $x^*$ = The location of each rectangle, differs based on the type of [[Riemann Sum]] used. Given below.
 	  > $i$ = The index of a specific rectangle in the [[Riemann Sum]].
-	  > > [!Proof]
-	  > > The area of each rectangle in a **right** [[Riemann Sum]]
-	  > > $$A_{i}=f(x_{i})*\Delta x$$
-	  > > The location of each 
 	- **Right**|**Middle**|**Left**
 	  ---|---|---
 	![[Screen Shot 2022-11-30 at 3.23.44 PM.png]]|![[Screen Shot 2022-11-30 at 3.23.10 PM.png]]|![[Screen Shot 2022-11-30 at 3.22.45 PM.png]]

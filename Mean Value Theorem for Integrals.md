@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Mean Value Theorem]]
-> Friends:: 
+> Friends:: [[Integral]]
 > Children:: 
 ---
 - ## Definition
