@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9190a1510a0efb7c",
+        "id": "b6adc00905da4095",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee66c79d487abd0",
+            "id": "70d32f8bd27a465b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mean Value Theorem for Integrals.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5c484e87149b999a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magnitude.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0fde72a96e9cbf8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f04c70ac70ba34d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Riemann Sum.md",
-                "mode": "preview",
+                "file": "Unit Vector.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Unit Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +99,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Unit Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "024a63ba5b7ab62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c484e87149b999a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain Graph.md"
               }
             }
           }
@@ -146,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +140,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5c484e87149b999a",
+  "active": "70d32f8bd27a465b",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
+    "Unit Vector.md",
     "Mean Value Theorem for Integrals.md",
-    "Integral.md",
     "Riemann Sum.md",
+    "Integral.md",
+    "Magnitude.md",
     "Summation Notation.md",
     "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-17 14.25.39.excalidraw.md",
-    "Arc Length.md",
-    "Excalibrain Graph.md",
-    "Distance.md",
-    "Displacement.md"
+    "Arc Length.md"
   ]
 }

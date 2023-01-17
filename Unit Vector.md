@@ -14,7 +14,9 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\hat{v}=\frac{\vec{v}}{|\vec{v}|}}$$
 	  > 
+	  > $$
 	  > $\vec{v}$ = [[Vector]]
+	  > $|\vec{v}|$ = [[Magnitude]]
 	- #### Conversion to Vector
 		- > [!Equation]
 		  > $$\large{\vec{v}=<\cos(|\vec{v}|*\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})>}$$
