@@ -13,6 +13,6 @@ Alias: [Magnitudes]
 	- Symbol: $\large{|\vec{v}|}$
 	- We can use [[Pathergrans Theorm]] to find the [[Magnitude]].
 		- > [!Equation]
-		  > $$\large{|\vec{r}|}=\sqrt{ r^{2}_{x}+r^{2}_{y}+r^{2}_{z} }$$
+		  > $$\large{|\vec{v}|}=\sqrt{ x^{2}+y^{2}+z^{2} }$$
 ---
 - ## Reference
