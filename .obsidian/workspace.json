@@ -20,14 +20,31 @@
             }
           },
           {
-            "id": "d594aecd2ed846e3",
+            "id": "0fde72a96e9cbf8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Integral.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f04c70ac70ba34d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riemann Sum.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -90,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md",
+                "file": "Riemann Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md",
+                "file": "Riemann Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +185,17 @@
       }
     ]
   },
-  "active": "046589f373231a5b",
+  "active": "f04c70ac70ba34d8",
   "lastOpenFiles": [
+    "Integral.md",
     "Mean Value Theorem for Integrals.md",
-    "References/Excalidraw/Drawing 2023-01-17 14.25.39.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-17 14.25.39.excalidraw.md",
     "Arc Length.md",
     "Excalibrain Graph.md",
     "Distance.md",
     "Displacement.md",
     "Parametric Function.md",
-    "Integral.md",
     "Vector.md"
   ]
 }
