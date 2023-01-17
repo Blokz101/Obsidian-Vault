@@ -14,7 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "Unit Vector.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dbfd749969d146ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Direction.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -167,15 +179,15 @@
   },
   "active": "70d32f8bd27a465b",
   "lastOpenFiles": [
-    "Magnitude.md",
+    "Angular Direction.md",
     "Unit Vector.md",
     "Excalibrain Graph.md",
     "Vector.md",
+    "Magnitude.md",
     "Mean Value Theorem for Integrals.md",
     "Riemann Sum.md",
     "Integral.md",
     "Summation Notation.md",
-    "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-17 14.25.39.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md"
   ]
 }

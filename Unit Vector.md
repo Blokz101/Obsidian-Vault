@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Direction]]
-> Friends:: 
+> Friends:: [[Vector]]
 > Children:: 
 ---
 - ## Definition
@@ -18,16 +18,6 @@ Alias: []
 	  > $\hat{v}$ = [[Unit Vector]]
 	  > $\vec{v}$ = [[Vector]]
 	  > $|\vec{v}|$ = [[Magnitude]]
-	  > 
-	- #### Conversion to Vector
-		- > [!Equation]
-		  >$$\large{\vec{v}=\left\langle |\vec{v}|*\cos(\theta) \right\rangle}$$ 
-		  > $$\large{\vec{v}=\left\langle |\vec{v}|*\cos(\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})\right\rangle}$$
-		  > 
-		  > $\hat{v}$ = [[Vector]]
-		  > $|\vec{v}|$ = [[Magnitude]]
-		  > > [!Proof]- 
-		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
-		  > > Use this equation for each axis to convert them.
+	- ![[Angular Direction#^3f7153]]
 ---
 - ## Reference
