@@ -4,7 +4,7 @@ Alias: [Vectors]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Magnitude]] [[Direction]] [[Displacement]]
-> Friends:: [[Scaler]]
+> Friends:: [[Scaler]] [[Unit Vector]]
 > Children:: [[Vector Addition]]
 ---
 - ## Definition
