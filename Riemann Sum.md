@@ -14,7 +14,7 @@ Alias: [Riemann Sum]
 	![[Screen Shot 2022-11-30 at 3.23.44 PM.png]]|![[Screen Shot 2022-11-30 at 3.23.10 PM.png]]|![[Screen Shot 2022-11-30 at 3.22.45 PM.png]]
 	Each rectangle touches the function on its **right** side.|Each rectangle touches the function in the **middle**.|Each rectangle touches the function on its **left** side.
 	- > [!Equation]
-	  > $$\large{A_t=\sum_{i=1}^{n}[f(x^*)*\Delta x]}$$
+	  > $$\large{A=\sum_{i=1}^{n}f(x^*)*\Delta x}$$
 	  > 
 	  > Where: $$\Delta x=\frac{b-a}{n}$$
 	  > 
