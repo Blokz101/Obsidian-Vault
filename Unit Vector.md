@@ -14,9 +14,11 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\hat{v}=\frac{\vec{v}}{|\vec{v}|}}$$
 	  > 
-	  > $$
+	  > $\hat{v}$ = [[Unit Vector]]
 	  > $\vec{v}$ = [[Vector]]
 	  > $|\vec{v}|$ = [[Magnitude]]
+	  > 
+	  > Use this formula for each of $<v_{x},v_{y},v_{z}>$.
 	- #### Conversion to Vector
 		- > [!Equation]
 		  > $$\large{\vec{v}=<\cos(|\vec{v}|*\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})>}$$
