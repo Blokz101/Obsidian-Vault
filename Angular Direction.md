@@ -10,12 +10,13 @@ Alias: []
 - ## Definition
 	- The direction of a [[Vector]] can be described with a set of **three angles**, $\theta_{x}$, $\theta_{y}$, and $\theta_{z}$.
 	- ![[Drawing 2023-01-13 19.40.33.excalidraw|200]]
-	- #### Conversion To [[Unit Vector]] ^3f7153
+	- When working with just an $xy$ plane $\theta_{y}=90-\theta_{x}$
+	- #### Conversion To [[Unit Vector]]
 		- > [!Equation]
 		  >$$\large{\hat{v}=\left\langle \cos(\theta) \right\rangle}$$ 
 		  > $$\large{\hat{v}=\left\langle \cos(\theta_{x}),\cos(\theta_{y}),\cos(\theta_{x})\right\rangle}$$
 		  > 
-		  > $\hat{v}$ = [[Unit Vector]]
+		  > $\hat{v}$ = [[Unit Vector]] ^b4cb5a
 	- #### Conversion to [[Vector]]
 		- > [!Equation]
 		  >$$\large{\vec{v}=\left\langle |\vec{v}|*\cos(\theta) \right\rangle}$$ 
@@ -25,6 +26,6 @@ Alias: []
 		  > $|\vec{v}|$ = [[Magnitude]]
 		  > > [!Proof]- 
 		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
-		  > > Use this equation for each axis to convert them.
+		  > > Use this equation for each axis to convert them. ^6d47d4
 ---
 - ## Reference

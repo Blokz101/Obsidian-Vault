@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Vector.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Vector.md",
+                "file": "Angular Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Vector.md",
+                "file": "Angular Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,13 +178,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70d32f8bd27a465b",
+  "active": "dbfd749969d146ef",
   "lastOpenFiles": [
+    "Vector.md",
     "Angular Direction.md",
     "Unit Vector.md",
-    "Excalibrain Graph.md",
-    "Vector.md",
     "Magnitude.md",
+    "Excalibrain Graph.md",
     "Mean Value Theorem for Integrals.md",
     "Riemann Sum.md",
     "Integral.md",
