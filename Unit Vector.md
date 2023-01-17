@@ -18,7 +18,7 @@ Alias: []
 	  > $\vec{v}$ = [[Vector]]
 	  > $|\vec{v}|$ = [[Magnitude]]
 	  > 
-	  > Use this formula for each of $<v_{x},v_{y},v_{z}>$.
+	  > Use this formula for each of $\langle x_{x},v_{y},v_{z}\rangle$.
 	- #### Conversion to Vector
 		- > [!Equation]
 		  > $$\large{\vec{v}=<\cos(|\vec{v}|*\theta_{x}),|\vec{v}|*\cos(\theta_{y}),|\vec{v}|*\cos(\theta_{x})>}$$
