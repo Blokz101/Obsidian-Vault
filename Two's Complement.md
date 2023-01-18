@@ -5,15 +5,13 @@ Alias: [2C]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Signed Integer]]
 > Friends:: [[Signed Magnitude]] [[One's Complement]]
-> Children:: 
+> Children:: [[2C Addition]]
 ---
 - ## Definition
 	- Newer method of representing [[Signed Integer|Signed Integers]], works like an Odometer in an old car.
 		- If you roll the number back past 0, it flips to its largest negative number.
-		- ![[IMG_C713C3F094FF-1.jpeg|400]]
+		- ![[IMG_C713C3F094FF-1.jpeg|250]]
 	- The first bit is still the [[Most Significant Bit|Sign Bit]].
-	- Advantages
-		- 
 - #### Convert from [[Unsigned Integer]] to [[Two's Complement]]
 	- **Positive** [[Integer|Integers]] are represented the same way as [[Unsigned Integer|Unsigned Integers]] are.
 	- To convert an [[Unsigned Integer]] to a **negative** [[Two's Complement]] integer:
