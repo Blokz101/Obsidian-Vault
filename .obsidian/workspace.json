@@ -172,7 +172,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 751.5
+    "width": 751.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
