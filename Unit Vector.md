@@ -18,7 +18,7 @@ Alias: []
 	  > $\hat{v}$ = [[Unit Vector]]
 	  > $\vec{v}$ = [[Vector]]
 	  > $|\vec{v}|$ = [[Magnitude]]
-	- #### Conversion From Angles
-		- ![[Angular Direction#^b4cb5a]]
+- #### Conversion From Angles
+	- ![[Angular Direction#^b4cb5a]]
 ---
 - ## Reference

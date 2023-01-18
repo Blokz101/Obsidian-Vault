@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unit Vector.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -228,13 +228,13 @@
   },
   "active": "dbfd749969d146ef",
   "lastOpenFiles": [
-    "One's Complement.md",
+    "Unit Vector.md",
     "Two's Complement.md",
+    "One's Complement.md",
     "Signed Magnitude.md",
     "Angular Direction.md",
     "Excalibrain Graph.md",
     "Vector.md",
-    "Unit Vector.md",
     "Magnitude.md",
     "Mean Value Theorem for Integrals.md",
     "Riemann Sum.md"
