@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sign Extension.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -148,6 +148,7 @@
       {
         "id": "61b56479f72a3d3d",
         "type": "tabs",
+        "dimension": 35.888888888888886,
         "children": [
           {
             "id": "d648d65e31baa8ba",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sign Extension.md",
+                "file": "Most Significant Bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sign Extension.md",
+                "file": "Most Significant Bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sign Extension.md",
+                "file": "Most Significant Bit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,6 +220,7 @@
       {
         "id": "024a63ba5b7ab62c",
         "type": "tabs",
+        "dimension": 64.11111111111111,
         "children": [
           {
             "id": "5c484e87149b999a",
@@ -250,12 +252,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6d80fadcc097da2",
+  "active": "0828453fa26e53c6",
   "lastOpenFiles": [
-    "Word.md",
-    "Sign Extension.md",
-    "Two's Complement.md",
     "Excalibrain Graph.md",
+    "Sign Extension.md",
+    "Word.md",
+    "Two's Complement.md",
     "2C Addition and Subtraction.md",
     "Most Significant Bit.md",
     "Binary Addition.md",
