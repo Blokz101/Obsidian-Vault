@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 751.5
+    "width": 751.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,15 +252,15 @@
   },
   "active": "d6d80fadcc097da2",
   "lastOpenFiles": [
-    "Two's Complement.md",
+    "Word.md",
     "Sign Extension.md",
+    "Two's Complement.md",
     "Excalibrain Graph.md",
     "2C Addition and Subtraction.md",
     "Most Significant Bit.md",
     "Binary Addition.md",
     "Unit Vector.md",
     "One's Complement.md",
-    "Signed Magnitude.md",
-    "Angular Direction.md"
+    "Signed Magnitude.md"
   ]
 }
