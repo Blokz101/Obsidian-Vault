@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2C Addition.md",
+                "file": "2C Addition and Subtraction.md",
                 "mode": "source",
                 "source": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2C Addition.md",
+                "file": "2C Addition and Subtraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2C Addition.md",
+                "file": "2C Addition and Subtraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2C Addition.md",
+                "file": "2C Addition and Subtraction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",

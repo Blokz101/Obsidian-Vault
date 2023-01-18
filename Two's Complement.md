@@ -5,7 +5,7 @@ Alias: [2C]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Signed Integer]]
 > Friends:: [[Signed Magnitude]] [[One's Complement]]
-> Children:: [[2C Addition]]
+> Children:: [[2C Addition and Subtraction]]
 ---
 - ## Definition
 	- Newer method of representing [[Signed Integer|Signed Integers]], works like an Odometer in an old car.
