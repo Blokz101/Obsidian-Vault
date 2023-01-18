@@ -17,6 +17,6 @@ Alias: [2C Addition, 2C Subtracton]
 	- ![[IMG_666784C5CC08-1.jpeg|400]]
 - #### Subtraction
 	- Same as [[2C Addition and Subtraction|2C Addition]] but simply [[Negate]] the second number.
-	- ADD PICTURE HERE
+	- ![[IMG_1D31952B326F-1.jpeg]]
 ---
 - ## Reference
