@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular Direction.md",
+                "file": "Two's Complement.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac7b9f771bc0ad95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signed Magnitude.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Direction.md",
+                "file": "Two's Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Direction.md",
+                "file": "Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Direction.md",
+                "file": "Two's Complement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,17 +226,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "717c39184c5368a7",
+  "active": "dbfd749969d146ef",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
+    "One's Complement.md",
+    "Two's Complement.md",
+    "Signed Magnitude.md",
     "Angular Direction.md",
+    "Excalibrain Graph.md",
     "Vector.md",
     "Unit Vector.md",
     "Magnitude.md",
     "Mean Value Theorem for Integrals.md",
-    "Riemann Sum.md",
-    "Integral.md",
-    "Summation Notation.md",
-    "References/Excalidraw/Drawing 2023-01-17 14.25.42.excalidraw.md"
+    "Riemann Sum.md"
   ]
 }
