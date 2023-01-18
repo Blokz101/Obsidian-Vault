@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "10895786e860ad69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Most Significant Bit.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "51de4c1a0e081c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2C Addition and Subtraction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d6d80fadcc097da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sign Extension.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0828453fa26e53c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most Significant Bit.md",
                 "mode": "preview",
                 "source": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Sign Extension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Sign Extension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Sign Extension.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,17 +249,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5c484e87149b999a",
+  "active": "d6d80fadcc097da2",
   "lastOpenFiles": [
-    "2C Addition and Subtraction.md",
-    "Excalibrain Graph.md",
-    "Most Significant Bit.md",
     "Two's Complement.md",
+    "Sign Extension.md",
+    "Excalibrain Graph.md",
+    "2C Addition and Subtraction.md",
+    "Most Significant Bit.md",
+    "Binary Addition.md",
     "Unit Vector.md",
     "One's Complement.md",
     "Signed Magnitude.md",
-    "Angular Direction.md",
-    "Vector.md",
-    "Magnitude.md"
+    "Angular Direction.md"
   ]
 }

@@ -3,7 +3,7 @@ Alias: [MSB, Sign Bit]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[Signed Integer]]
 > Friends:: 
 > Children:: 
 ---
