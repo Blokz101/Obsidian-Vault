@@ -14,19 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fixed-Point Code.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2b842424d7fb12e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexadecimal Notation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexadecimal Notation.md",
+                "file": "Fixed-Point Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexadecimal Notation.md",
+                "file": "Fixed-Point Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hexadecimal Notation.md",
+                "file": "Fixed-Point Code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,12 +191,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2b842424d7fb12e4",
+  "active": "9569d7ee84a0496b",
   "lastOpenFiles": [
+    "Hexadecimal Notation.md",
     "Fixed-Point Code.md",
     "Floating-Point Code.md",
     "Hexadecimal Math.md",
-    "Hexadecimal Notation.md",
     "Overflow.md",
     "Bit.md",
     "Excalibrain Graph.md",
