@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f7464a1165112445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overflow.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "92800cd094ea394f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2C Addition and Subtraction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Overflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,17 +204,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0828453fa26e53c6",
+  "active": "f7464a1165112445",
   "lastOpenFiles": [
+    "2C Addition and Subtraction.md",
+    "Overflow.md",
     "Most Significant Bit.md",
+    "Word.md",
+    "Two's Complement.md",
     "Integral.md",
     "Work (Calculus).md",
     "Trigonometric Identities.md",
     "Arc Length.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
-    "Tangen.md",
-    "Intramolecular Forces.md",
-    "Drawing 2023-01-18 19.39.50.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
   ]
 }

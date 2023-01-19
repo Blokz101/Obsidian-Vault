@@ -1,5 +1,5 @@
 ---
-Alias: [MSB, Sign Bit]
+Alias: [MSB, Sign Bit, Sign Bits]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
