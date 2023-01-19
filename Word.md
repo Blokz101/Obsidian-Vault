@@ -1,5 +1,5 @@
 ---
-Alias: [Word Length, Word Lengths]
+Alias: [Words, Word Length, Word Lengths]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]

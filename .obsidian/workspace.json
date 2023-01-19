@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Overflow.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cde0c83594d45f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexadecimal Notation.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overflow.md",
+                "file": "Hexadecimal Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overflow.md",
+                "file": "Hexadecimal Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Overflow.md",
+                "file": "Hexadecimal Notation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,17 +216,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d7f564f63672785a",
+  "active": "cde0c83594d45f96",
   "lastOpenFiles": [
-    "References/IMG_D0D29BF3F3A7-1.jpeg",
+    "Word.md",
+    "Hexadecimal Notation.md",
     "Overflow.md",
+    "Excalibrain Graph.md",
+    "2C Addition and Subtraction.md",
+    "References/IMG_D0D29BF3F3A7-1.jpeg",
     "Most Significant Bit.md",
     "Two's Complement.md",
-    "2C Addition and Subtraction.md",
-    "Word.md",
     "Integral.md",
-    "Work (Calculus).md",
-    "Trigonometric Identities.md",
-    "Arc Length.md"
+    "Work (Calculus).md"
   ]
 }
