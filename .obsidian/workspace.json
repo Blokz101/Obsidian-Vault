@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51de4c1a0e081c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2C Addition and Subtraction.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d6d80fadcc097da2",
             "type": "leaf",
             "state": {
@@ -62,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Work (Calculus).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7d34f9d7621954e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arc Length.md",
                 "mode": "preview",
                 "source": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,17 +228,52 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b7d15490bc468a3",
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b28439591b72e794",
+        "type": "window",
+        "children": [
+          {
+            "id": "25a06032d9aa7be8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51de4c1a0e081c52",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 36,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "51de4c1a0e081c52",
   "lastOpenFiles": [
+    "Arc Length.md",
+    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
+    "Work (Calculus).md",
     "Integral.md",
     "Most Significant Bit.md",
     "Excalibrain Graph.md",
     "Sign Extension.md",
     "Word.md",
     "Two's Complement.md",
-    "2C Addition and Subtraction.md",
-    "Binary Addition.md",
-    "Unit Vector.md",
-    "One's Complement.md"
+    "2C Addition and Subtraction.md"
   ]
 }
