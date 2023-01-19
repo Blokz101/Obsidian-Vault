@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "Arc Length.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "96d246486048def4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,17 +202,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2653b0af555f2e2f",
+  "active": "96d246486048def4",
   "lastOpenFiles": [
-    "Energy.md",
+    "Arc Length.md",
     "Floating-Point Code.md",
+    "Energy.md",
     "Work (Chemistry).md",
     "Binary Point.md",
     "Fixed-Point Code.md",
     "Two's Complement.md",
     "Excalibrain Graph.md",
     "Hexadecimal Notation.md",
-    "Hexadecimal Math.md",
-    "Overflow.md"
+    "Hexadecimal Math.md"
   ]
 }
