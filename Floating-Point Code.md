@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[Fixed-Point Code]]
 > Friends:: 
 > Children:: 
 ---
@@ -17,7 +17,7 @@ Alias: []
 		- [[Bit|Bits]] 30-23: **Encoded Exponent**
 		- [[Bit|Bits]] 22-0: **Fraction**
 	- > [!Equation]
-	  > $$\large{N=-1^S*1.\text{Fraction}*2^{\text{Encoded Exponent}*2}}$$
+	  > $$\large{N=-1^S*1.\text{Fraction}*2^{\text{Encoded Exponent}-127}}$$
 	  > 
 	  > $S$ = [[Most Significant Bit|Sign Bit]]
 	  > $\text{Fraction}$ = Value of [[Bit|Bits]] 22-0
