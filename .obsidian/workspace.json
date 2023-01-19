@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Most Significant Bit.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "f7464a1165112445",
+            "id": "d7f564f63672785a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Overflow.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -204,13 +204,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f7464a1165112445",
+  "active": "d7f564f63672785a",
   "lastOpenFiles": [
-    "2C Addition and Subtraction.md",
-    "Overflow.md",
     "Most Significant Bit.md",
-    "Word.md",
     "Two's Complement.md",
+    "Overflow.md",
+    "2C Addition and Subtraction.md",
+    "Word.md",
     "Integral.md",
     "Work (Calculus).md",
     "Trigonometric Identities.md",
