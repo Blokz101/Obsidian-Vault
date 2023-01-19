@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Significant Bit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6444979907becf30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b7d15490bc468a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work (Calculus).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "22e70733bdb00e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trigonometric Identities.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "54c940b99ecd810c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc Length.md",
+                "file": "Two's Complement.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -132,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Two's Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Two's Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Two's Complement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,17 +179,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "54c940b99ecd810c",
+  "active": "0828453fa26e53c6",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
-    "Arc Length.md",
-    "Trigonometric Identities.md",
-    "Tangen.md",
+    "Most Significant Bit.md",
+    "Integral.md",
     "Work (Calculus).md",
+    "Trigonometric Identities.md",
+    "Arc Length.md",
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+    "Tangen.md",
     "Intramolecular Forces.md",
     "Drawing 2023-01-18 19.39.50.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
-    "Integral.md",
-    "Most Significant Bit.md"
+    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md"
   ]
 }
