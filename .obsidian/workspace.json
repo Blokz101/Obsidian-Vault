@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d80fadcc097da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sign Extension.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0828453fa26e53c6",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           },
           {
-            "id": "7d34f9d7621954e7",
+            "id": "54c940b99ecd810c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -132,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,19 +221,21 @@
     "type": "floating",
     "children": [
       {
-        "id": "b28439591b72e794",
+        "id": "16de04c8090c05bd",
         "type": "window",
         "children": [
           {
-            "id": "25a06032d9aa7be8",
+            "id": "a3c1f16815d01d23",
             "type": "tabs",
             "children": [
               {
-                "id": "51de4c1a0e081c52",
+                "id": "d6d80fadcc097da2",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
+                  }
                 }
               }
             ]
@@ -258,17 +251,17 @@
       }
     ]
   },
-  "active": "51de4c1a0e081c52",
+  "active": "d6d80fadcc097da2",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
-    "Arc Length.md",
     "Work (Calculus).md",
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+    "Arc Length.md",
+    "Drawing 2023-01-18 19.39.50.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
     "Integral.md",
     "Most Significant Bit.md",
     "Excalibrain Graph.md",
     "Sign Extension.md",
-    "Word.md",
-    "Two's Complement.md",
-    "2C Addition and Subtraction.md"
+    "Word.md"
   ]
 }

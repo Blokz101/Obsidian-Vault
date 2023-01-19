@@ -32,6 +32,6 @@ Alias: [Length Of An Arc]
 		  > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$$
 ---
 - ## Practice
-	- ![[Drawing 2023-01-18 19.39.50.excalidraw]]
+	- ![[Drawing 2023-01-18 19.57.46.excalidraw]]
 - ## Reference
 	- [[Arc Length - Textbook.pdf]]
