@@ -50,17 +50,9 @@
               "type": "markdown",
               "state": {
                 "file": "Trigonometric Identities.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "e12209d896e30427",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -273,8 +265,8 @@
   },
   "active": "22e70733bdb00e2c",
   "lastOpenFiles": [
-    "Tangen.md",
     "Trigonometric Identities.md",
+    "Tangen.md",
     "Work (Calculus).md",
     "Intramolecular Forces.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",

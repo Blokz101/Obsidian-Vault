@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Trigonometric Identity]]
 > Parents:: [[Sine]] [[Cosine]] [[Tangent]] [[Cosecant]] [[Secant]] [[Cotangent]]
 > Friends:: 
-> Children:: [[Reciprocal Identities]] [[quoti]]
+> Children:: [[Reciprocal Identities]] [[Quotient Identities]] [[Pythagorean Identities]] [[Trigonometric Sum and Difference]]
 ---
 - ## Definition
 	- [[Sine]], [[Cosine]], [[Tangent]], [[Cosecant]], [[Secant]], [[Cotangent]] and how they are related to one another.
