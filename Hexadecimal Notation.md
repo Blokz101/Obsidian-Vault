@@ -12,5 +12,6 @@ Alias: [Hexadecimal, Hexadecimals]
 		- Less error prone, [[Word|Words]] with long [[Word|Word Lengths]] are easier to corrupt. 
 	- To convert between [[Binary]] and [[Hexadecimal Notation|Hexadecimal]] simply group the [[Bit|Bits]] in groups of 4 and use the chart below.
 		- ![[IMG_6CA59A48BF8D-1.jpeg]]
+		- ![[IMG_71150ABC5484-1.jpeg|400]]
 ---
 - ## Reference
