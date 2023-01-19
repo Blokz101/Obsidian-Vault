@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Overflow.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -206,15 +206,15 @@
   },
   "active": "d7f564f63672785a",
   "lastOpenFiles": [
+    "References/IMG_D0D29BF3F3A7-1.jpeg",
+    "Overflow.md",
     "Most Significant Bit.md",
     "Two's Complement.md",
-    "Overflow.md",
     "2C Addition and Subtraction.md",
     "Word.md",
     "Integral.md",
     "Work (Calculus).md",
     "Trigonometric Identities.md",
-    "Arc Length.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
+    "Arc Length.md"
   ]
 }
