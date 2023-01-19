@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A decimal point but for [[Binary]] fraction representatio
+	- A decimal point but for [[Binary]] fraction representation.
 ---
 - ## Reference
