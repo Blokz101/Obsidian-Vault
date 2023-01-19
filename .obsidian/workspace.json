@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,9 +220,9 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": true,
       "templater-obsidian:Templater": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "floating": {
@@ -244,10 +241,8 @@
                 "id": "51de4c1a0e081c52",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -265,8 +260,8 @@
   },
   "active": "51de4c1a0e081c52",
   "lastOpenFiles": [
-    "Arc Length.md",
     "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
+    "Arc Length.md",
     "Work (Calculus).md",
     "Integral.md",
     "Most Significant Bit.md",
