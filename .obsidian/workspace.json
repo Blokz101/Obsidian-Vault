@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "Trigonometric Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,48 +228,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "16de04c8090c05bd",
-        "type": "window",
-        "children": [
-          {
-            "id": "a3c1f16815d01d23",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d6d80fadcc097da2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 36,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d6d80fadcc097da2",
+  "active": "22e70733bdb00e2c",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
     "Trigonometric Identities.md",
     "Tangen.md",
     "Work (Calculus).md",
     "Intramolecular Forces.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
     "Arc Length.md",
     "Drawing 2023-01-18 19.39.50.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-18 19.39.50.excalidraw.md",
