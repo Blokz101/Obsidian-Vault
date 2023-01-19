@@ -1,10 +1,12 @@
 ---
 Alias: [Bits, Binary Digit]
-Creation Date: Mon January 9th 2023 01:33:59 pm 
-Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-#Permanent [[Computer Systems]]
-
+> [!Info]
+> Subject:: [[Computer Systems]]
+> Parents:: [[Binary]]
+> Friends:: 
+> Children:: 
+---
 - ## Definition
 	- Either a 1 or 0
 	- Collections of [[Bit|Bits]] or a [[Word]] are used to store any type of information that the computer needs to store. 
@@ -13,6 +15,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- 2 bits have 4 states
 		- 3 bits have 8 states
 		- etc
+---
 - ## Reference
 	- [[Bit|Bits]] are used to create [[Unsigned Integer|Unsigned Integers]]
 	- [[Word]]
