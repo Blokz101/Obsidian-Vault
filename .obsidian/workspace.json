@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "8e97bb4ec803c333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two's Complement.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "2653b0af555f2e2f",
             "type": "leaf",
             "state": {
@@ -42,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4124c6c8834a1671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Point.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Binary Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Binary Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Binary Point.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,17 +204,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8e97bb4ec803c333",
+  "active": "4124c6c8834a1671",
   "lastOpenFiles": [
+    "Floating-Point Code.md",
     "Fixed-Point Code.md",
+    "Two's Complement.md",
     "Excalibrain Graph.md",
     "Hexadecimal Notation.md",
-    "Floating-Point Code.md",
     "Hexadecimal Math.md",
     "Overflow.md",
     "Bit.md",
     "Word.md",
-    "2C Addition and Subtraction.md",
-    "References/IMG_D0D29BF3F3A7-1.jpeg"
+    "2C Addition and Subtraction.md"
   ]
 }

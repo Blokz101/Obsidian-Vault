@@ -3,11 +3,11 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[Fixed-Point Code]] [[Floating-Point Code]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- A method to represent a large verity of fractions in [[Binary]] by having a movable [[Binary Point]].
+	- A decimal point but for [[Binary]] fraction representatio
 ---
 - ## Reference
