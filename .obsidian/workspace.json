@@ -38,18 +38,30 @@
               "type": "markdown",
               "state": {
                 "file": "Average Velocity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0cdebd9df986f3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit Vector.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "bb5251da6fa1a8f6",
+            "id": "cabf30eb440d539e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distance.md",
+                "file": "Magnitude.md",
                 "mode": "preview",
                 "source": true
               }
@@ -218,15 +230,15 @@
   },
   "active": "ed3772f4c33aea31",
   "lastOpenFiles": [
-    "Displacement.md",
-    "Vector.md",
-    "Distance.md",
+    "Magnitude.md",
+    "Unit Vector.md",
     "Excalibrain Graph.md",
+    "Vector.md",
     "Average Velocity.md",
+    "Displacement.md",
+    "Distance.md",
     "Arc Length.md",
     "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
-    "Floating-Point Code.md",
-    "Energy.md"
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
   ]
 }
