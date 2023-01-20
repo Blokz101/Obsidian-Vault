@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "118d2c3936f23138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Position Update.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0cdebd9df986f3d2",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instantaneous Velocity.md",
+                "file": "Position Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instantaneous Velocity.md",
+                "file": "Position Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Instantaneous Velocity.md",
+                "file": "Position Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +252,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "264cf3e55c820cd5",
+  "active": "118d2c3936f23138",
   "lastOpenFiles": [
-    "Average Velocity.md",
     "Instantaneous Velocity.md",
+    "Average Velocity.md",
     "Magnitude.md",
     "Unit Vector.md",
     "Excalibrain Graph.md",
