@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b989c5cf5fd6b66",
+            "id": "2d95f8f9c8ed387f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Average Value Of A Function.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Average Value Of A Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Average Value Of A Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Average Value Of A Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,17 +179,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0b989c5cf5fd6b66",
+  "active": "2d95f8f9c8ed387f",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-20 13.50.27.excalidraw.md",
+    "Average Value Of A Function.md",
+    "References/Excalidraw/Drawing 2023-01-20 13.50.32.excalidraw.md",
     "Magnitude.md",
     "Unit Vector.md",
     "Work (Calculus).md",
     "Hooke's Law.md",
     "Displacement.md",
     "Average Velocity.md",
-    "Instantaneous Velocity.md",
-    "Position Update.md",
-    "Excalibrain Graph.md",
-    "Newton.md"
+    "Instantaneous Velocity.md"
   ]
 }
