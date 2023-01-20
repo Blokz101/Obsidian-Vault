@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
-> Friends:: [[Mean Value Theorem for Integrals]]
-> Children:: 
+> Parents:: [[Integral]]
+> Friends:: 
+> Children:: [[Mean Value Theorem for Integrals]]
 ---
 - ## Definition
 	- > [!Equation]

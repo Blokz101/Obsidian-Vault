@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Average Value Of A Function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mean Value Theorem for Integrals.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac{1}{b-a}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "11afaf635e026b2f",
