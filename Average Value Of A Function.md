@@ -14,6 +14,4 @@ Alias: []
 	  > $a$ = Starting X Value
 	  > $b$ = Ending X Value
 ---
-- ## Practice
-	- [[Drawing 2023-01-20 13.50.27.excalidraw]]
 - ## Reference
