@@ -4,14 +4,16 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Mean Value Theorem for Integrals]]
 > Children:: 
 ---
 - ## Definition
 	- > [!Equation]
-	  > $$\large{\text{Average}=\frac{f(b)-f(a)}{b-a}}$$
+	  > $$\large{f_{avg}=\frac{1}{b-a}\int_{a}^{b} f(x) \, dx}$$
 	  > 
-	  > $a$ = Starting X Value
-	  > $b$ = Ending X Value
+	  > $a$ = Starting Value
+	  > $b$ = Ending Value
+	  > > [!Proof]-
+	  > > ![[Drawing 2023-01-17 14.25.42.excalidraw]]
 ---
 - ## Reference
