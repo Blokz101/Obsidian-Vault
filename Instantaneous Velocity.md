@@ -8,6 +8,10 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The [[Derivative]] of $\vec{r}$ in respect to [[Time]].
+	- The [[Velocity]] at an instant.
+		- Can be found when $\Delta t$ of [[Average Velocity]] approaches 0.
+		- This is the same as the [[Derivative]] of $\vec{r}$ in respect to [[Time]].
+	- > [!Equation]
+	  > $$\large{\vec{v}=\frac{d\vec{r}}{dt}=\left\langle \frac{dx}{dt},\frac{dy}{dt},\frac{dz}{dt} \right\rangle}$$
 ---
 - ## Reference
