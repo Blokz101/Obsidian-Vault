@@ -20,13 +20,25 @@
             }
           },
           {
-            "id": "9ef044bd492b87bb",
+            "id": "661c08174489a479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Displacement.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed3772f4c33aea31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Average Velocity.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
+                "file": "Displacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
+                "file": "Displacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
+                "file": "Displacement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,52 +216,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c52737939bb59924",
-        "type": "window",
-        "children": [
-          {
-            "id": "cfedea38f9928c35",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9569d7ee84a0496b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9569d7ee84a0496b",
+  "active": "661c08174489a479",
   "lastOpenFiles": [
+    "Vector.md",
     "Displacement.md",
-    "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
     "Distance.md",
+    "Excalibrain Graph.md",
+    "Average Velocity.md",
     "Arc Length.md",
+    "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
     "Floating-Point Code.md",
-    "Energy.md",
-    "Work (Chemistry).md",
-    "Binary Point.md",
-    "Fixed-Point Code.md"
+    "Energy.md"
   ]
 }
