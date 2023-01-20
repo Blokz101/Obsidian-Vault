@@ -19,6 +19,6 @@ Alias: []
 		  >$t_{i}$ = Initial [[Time]]
 	- The [[Magnitude]] of the [[Average Velocity]] is $|v_{avg}|$
 		- > [!Equation]
-		  > $$\large{|v_{avg}|=\sqrt{ \vec{v}_{avg}^2+\vec{v}_{avg}^2+\vec{v}_{avg}^2 }}$$
+		  > $$\large{|v_{avg}|=\sqrt{ \vec{v}_{avgX}^2+\vec{v}_{avgY}^2+\vec{v}_{avgZ}^2 }}$$
 ---
 - ## Reference

@@ -38,7 +38,19 @@
               "type": "markdown",
               "state": {
                 "file": "Average Velocity.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "264cf3e55c820cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instantaneous Velocity.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Instantaneous Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Instantaneous Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Instantaneous Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,17 +240,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ed3772f4c33aea31",
+  "active": "264cf3e55c820cd5",
   "lastOpenFiles": [
+    "Average Velocity.md",
+    "Instantaneous Velocity.md",
     "Magnitude.md",
     "Unit Vector.md",
     "Excalibrain Graph.md",
     "Vector.md",
-    "Average Velocity.md",
     "Displacement.md",
     "Distance.md",
     "Arc Length.md",
-    "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-01-19 20.55.33.excalidraw.md"
   ]
 }
