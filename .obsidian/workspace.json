@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hooke's Law.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -266,6 +266,8 @@
   },
   "active": "1bec53ee915ac8a1",
   "lastOpenFiles": [
+    "Newton.md",
+    "Hooke's Law.md",
     "Position Update.md",
     "Instantaneous Velocity.md",
     "Average Velocity.md",
@@ -273,8 +275,6 @@
     "Unit Vector.md",
     "Excalibrain Graph.md",
     "Vector.md",
-    "Displacement.md",
-    "Distance.md",
-    "Arc Length.md"
+    "Displacement.md"
   ]
 }
