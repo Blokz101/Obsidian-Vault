@@ -30,9 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9ef044bd492b87bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Displacement.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb5251da6fa1a8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distance.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Displacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Displacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Displacement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,17 +216,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2653b0af555f2e2f",
+  "active": "9ef044bd492b87bb",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+    "Distance.md",
+    "Displacement.md",
     "Arc Length.md",
+    "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
     "Floating-Point Code.md",
     "Energy.md",
     "Work (Chemistry).md",
     "Binary Point.md",
     "Fixed-Point Code.md",
-    "Two's Complement.md",
-    "Excalibrain Graph.md",
-    "Hexadecimal Notation.md"
+    "Two's Complement.md"
   ]
 }
