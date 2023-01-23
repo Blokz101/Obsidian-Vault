@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Momentum Principle.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -265,15 +265,15 @@
   },
   "active": "04ad044efeea30a1",
   "lastOpenFiles": [
-    "Impulse.md",
+    "Fundamental Principles.md",
     "The Momentum Principle.md",
+    "Impulse.md",
     "Net Force.md",
     "Momentum.md",
     "Gamma Factor.md",
     "Inertia.md",
     "Average Acceleration.md",
     "Acceleration.md",
-    "Velocity.md",
-    "Average Velocity.md"
+    "Velocity.md"
   ]
 }

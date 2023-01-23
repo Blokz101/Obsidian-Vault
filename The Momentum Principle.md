@@ -3,14 +3,14 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Fundamental Principles]] [[Net Force]] [[Time]] [[Momentum]]
+> Parents:: [[Fundamental Principles]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
 	- The change in [[Momentum]] is equal to the [[Net Force]] acting on the [[System]] multiplied by the [[Time]] interval during which the change took place.
 	- > [!Equation]
-	  > $$\large{\Delta \vec{p}=\underbrace{ \vec{F}_{net}*\Delta t} }_{ feafeafeafea }$$
+	  > $$\large{\Delta \vec{p}=\vec{F}_{net}*\Delta t}$$
 	  > 
 	  > $\Delta \vec{p}$ = Change in [[Momentum]]
 	  > $\vec{F}_{net}$ = [[Net Force]]
