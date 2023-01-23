@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Average Value Of A Function.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Average Value Of A Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Average Value Of A Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arc Length.md",
+                "file": "Average Value Of A Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,8 +206,8 @@
   },
   "active": "f73ccd69a3f09bb2",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "Arc Length.md",
+    "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
     "Limit.md",
     "Excalibrain Graph.md",
