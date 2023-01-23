@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [IEEE 754 Floating-Point Standard]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]

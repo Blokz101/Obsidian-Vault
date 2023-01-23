@@ -44,6 +44,14 @@
             }
           },
           {
+            "id": "3d2aaba64dea7827",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "e0abd6d999a967ba",
             "type": "leaf",
             "state": {
@@ -56,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -120,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floating-Point Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floating-Point Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Floating-Point Code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,17 +221,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "367f7362c60bc836",
+  "active": "3d2aaba64dea7827",
   "lastOpenFiles": [
-    "Fixed-Point Code.md",
+    "Acceleration.md",
     "Floating-Point Code.md",
+    "Fixed-Point Code.md",
     "Excalibrain Graph.md",
     "Computer Systems.md",
     "Mean Value Theorem for Integrals.md",
     "Average Value Of A Function.md",
     "Average Velocity.md",
     "References/Excalidraw/Drawing 2023-01-20 13.50.27.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-20 13.50.32.excalidraw.md",
-    "Magnitude.md"
+    "References/Excalidraw/Drawing 2023-01-20 13.50.32.excalidraw.md"
   ]
 }
