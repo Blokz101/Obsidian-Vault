@@ -1,10 +1,10 @@
 ---
-Alias: []
+Alias: [Momentums]
 ---
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[The Momentum Principle]]
 > Children:: 
 ---
 - ## Definition
@@ -16,6 +16,7 @@ Alias: []
 	  > $m$ = [[Mass]]
 	  > $\vec{v}$ = [[Velocity]]
 	  > 
-	  > For speeds less then 10% the [[Speed of Light]], the [[Gamma Factor]] can be ignored.
+	  > For speeds less than 10% the [[Speed of Light]], the [[Gamma Factor]] is so small that it can be ignored.
+	- Change in [[Momentum]] is not the same as the change in the [[Magnitude]] of [[Momentum]]
 ---
 - ## Reference
