@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Acceleration.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -30,8 +30,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "08999dd2ef66b1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instantaneous Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dd17ce549f6d0599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instantaneous Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,14 +120,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Instantaneous Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Instantaneous Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Instantaneous Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,8 +178,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "024a63ba5b7ab62c",
@@ -191,9 +215,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "3b687a78f70afee6",
+  "active": "08999dd2ef66b1a7",
   "lastOpenFiles": [
     "Average Velocity.md",
+    "Instantaneous Velocity.md",
     "Acceleration.md",
     "Vector.md",
     "Fixed-Point Code.md",
@@ -201,7 +226,6 @@
     "Arc Length.md",
     "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
-    "Limit.md",
-    "Excalibrain Graph.md"
+    "Limit.md"
   ]
 }
