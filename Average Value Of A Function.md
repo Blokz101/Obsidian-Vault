@@ -16,4 +16,6 @@ Alias: []
 	  > > [!Proof]-
 	  > > ![[Drawing 2023-01-17 14.25.42.excalidraw]]
 ---
+- ## Practice
+	- [[Drawing 2023-01-23 13.48.37.excalidraw]]
 - ## Reference
