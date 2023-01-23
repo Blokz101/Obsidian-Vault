@@ -3,7 +3,7 @@ Alias: [Momentums]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
+> Parents:: [[Mass]] [[Velocity]]
 > Friends:: [[The Momentum Principle]]
 > Children:: 
 ---

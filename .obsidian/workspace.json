@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Momentum Principle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4d6656012e749fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum Update.md",
+                "file": "Average Velocity.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -180,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "Average Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "Average Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "Average Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,17 +263,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4d6656012e749fdf",
+  "active": "04ad044efeea30a1",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
+    "Velocity.md",
+    "Momentum.md",
+    "Momentum Update.md",
     "The Momentum Principle.md",
     "Fundamental Principles.md",
-    "Momentum Update.md",
     "Impulse.md",
     "Net Force.md",
-    "Momentum.md",
     "Gamma Factor.md",
-    "Inertia.md",
-    "Average Acceleration.md",
-    "Acceleration.md"
+    "Inertia.md"
   ]
 }
