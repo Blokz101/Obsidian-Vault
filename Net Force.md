@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The sum of all the forces 
+	- The sum of all the [[Force|Forces]] acting on an object.
 ---
 - ## Reference
