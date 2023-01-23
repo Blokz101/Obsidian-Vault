@@ -8,7 +8,7 @@ Modification Date: NaN
 
 - Definition
 	- The rate at witch [[Work (Chemistry)]] is done
-	- Basically [[Acceleration]], but for [[Work (Chemistry)]] instead of [[Position]].
+	- Basically [[Average Acceleration]], but for [[Work (Chemistry)]] instead of [[Position]].
 	- General [[Power]] equation
 	  >$$P=\frac{W}{t}$$
 	  > $P$ = [[Power]]

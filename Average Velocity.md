@@ -5,11 +5,9 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: [[Displacement]]
 > Friends:: 
-> Children:: [[Instantaneous Velocity]]
+> Children:: 
 ---
 - ## Definition
-	- 
-- ## Average Velocity
 	- The average [[Velocity]] over a span of [[Time]].
 	- Symbol: $\vec{v}_{avg}$
 	- > [!Equation]
