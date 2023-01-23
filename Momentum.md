@@ -17,6 +17,7 @@ Alias: [Momentums]
 	  > $\vec{v}$ = [[Velocity]]
 	  > 
 	  > For speeds less than 10% the [[Speed of Light]], the [[Gamma Factor]] is so small that it can be ignored.
-	- Change in [[Momentum]] is not the same as the change in the [[Magnitude]] of [[Momentum]]
+	- Change in [[Momentum]] is not the same as the change in the [[Magnitude]] of [[Momentum]].
+		- $\large{|\Delta \vec{p}| \neq \Delta|\vec{p}|}$
 ---
 - ## Reference
