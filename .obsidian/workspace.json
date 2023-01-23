@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "4d6656012e749fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Momentum Update.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9126ac81035232bd",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Momentum Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Momentum Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Momentum Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,17 +275,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "04ad044efeea30a1",
+  "active": "4d6656012e749fdf",
   "lastOpenFiles": [
-    "Fundamental Principles.md",
     "The Momentum Principle.md",
+    "Fundamental Principles.md",
+    "Momentum Update.md",
     "Impulse.md",
     "Net Force.md",
     "Momentum.md",
     "Gamma Factor.md",
     "Inertia.md",
     "Average Acceleration.md",
-    "Acceleration.md",
-    "Velocity.md"
+    "Acceleration.md"
   ]
 }
