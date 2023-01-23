@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,8 +263,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "04ad044efeea30a1",
+  "active": "8da143b5b7613475",
   "lastOpenFiles": [
+    "Average Velocity.md",
     "Excalibrain Graph.md",
     "Velocity.md",
     "Momentum.md",
@@ -273,7 +274,6 @@
     "Fundamental Principles.md",
     "Impulse.md",
     "Net Force.md",
-    "Gamma Factor.md",
-    "Inertia.md"
+    "Gamma Factor.md"
   ]
 }
