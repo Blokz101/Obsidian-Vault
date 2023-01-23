@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Momentum.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Magnitude.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Magnitude.md",
+                "file": "Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,10 +275,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0c90171c0ce034a7",
+  "active": "8da143b5b7613475",
   "lastOpenFiles": [
-    "Pathergrans Theorem.md",
     "Magnitude.md",
+    "Pathergrans Theorem.md",
     "magni.md",
     "Momentum.md",
     "Average Velocity.md",

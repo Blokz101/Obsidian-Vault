@@ -11,7 +11,7 @@ Alias: [Magnitudes]
 	- The length of a [[Vector]].
 		- [[Magnitude]] does not have [[Direction]].
 		- > [!Warning]
-		  > [[Magnitude]] Will 
+		  > [[Magnitude]] Will be positive in most cases, be careful when subtracting and finding the change in [[Magnitude]].
 	- Symbol: $\large{|\vec{v}|}$
 	- We can use [[Pathergrans Theorem]] to find the [[Magnitude]].
 		- > [!Equation]
