@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "0c90171c0ce034a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnitude.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "04ad044efeea30a1",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Magnitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Magnitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Magnitude.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,17 +275,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8da143b5b7613475",
+  "active": "0c90171c0ce034a7",
   "lastOpenFiles": [
+    "Pathergrans Theorem.md",
+    "Magnitude.md",
+    "magni.md",
+    "Momentum.md",
     "Average Velocity.md",
     "Excalibrain Graph.md",
     "Velocity.md",
-    "Momentum.md",
     "Momentum Update.md",
     "The Momentum Principle.md",
-    "Fundamental Principles.md",
-    "Impulse.md",
-    "Net Force.md",
-    "Gamma Factor.md"
+    "Fundamental Principles.md"
   ]
 }

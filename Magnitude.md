@@ -10,8 +10,10 @@ Alias: [Magnitudes]
 - ## Definition
 	- The length of a [[Vector]].
 		- [[Magnitude]] does not have [[Direction]].
+		- > [!Warning]
+		  > [[Magnitude]] Will 
 	- Symbol: $\large{|\vec{v}|}$
-	- We can use [[Pathergrans Theorm]] to find the [[Magnitude]].
+	- We can use [[Pathergrans Theorem]] to find the [[Magnitude]].
 		- > [!Equation]
 		  > $$\large{|\vec{v}|}=\sqrt{ x^{2}+y^{2}+z^{2} }$$
 ---
