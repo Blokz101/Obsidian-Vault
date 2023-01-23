@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed-Point Code.md",
+                "file": "Floating-Point Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed-Point Code.md",
+                "file": "Floating-Point Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fixed-Point Code.md",
+                "file": "Floating-Point Code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,8 +216,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e0abd6d999a967ba",
+  "active": "367f7362c60bc836",
   "lastOpenFiles": [
+    "Fixed-Point Code.md",
     "Floating-Point Code.md",
     "Excalibrain Graph.md",
     "Computer Systems.md",
@@ -226,7 +227,6 @@
     "Average Velocity.md",
     "References/Excalidraw/Drawing 2023-01-20 13.50.27.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-20 13.50.32.excalidraw.md",
-    "Magnitude.md",
-    "Unit Vector.md"
+    "Magnitude.md"
   ]
 }
