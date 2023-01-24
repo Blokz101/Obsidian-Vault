@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moment.md",
+                "file": "Center Of Mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moment.md",
+                "file": "Center Of Mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moment.md",
+                "file": "Center Of Mass.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,10 +190,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "515c1f7043cb371b",
+  "active": "e813b64a97869c90",
   "lastOpenFiles": [
-    "Center Of Mass.md",
     "Moment.md",
+    "Center Of Mass.md",
     "References/Excalidraw/Drawing 2023-01-24 11.39.08.excalidraw.md",
     "Average Value Of A Function.md",
     "U Substitution.md",
