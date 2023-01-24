@@ -12,5 +12,6 @@
   "spellcheck": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "References",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "rightToLeft": false
 }
