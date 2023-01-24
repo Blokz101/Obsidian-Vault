@@ -20,6 +20,8 @@ Alias: [Balance Point]
 		  > > The [[Moment]] of the plane about the **y-axis** is the [[Integral]] of all the [[Mass]] multiplied by its distance from the **y-axis**.
 		  > > $$\large{M_{y}= \int_{a}^{b} \underbrace{ \rho f(x) }_{ \text{Mass} }*\underbrace{ x }_{ \text{Distance} } \, dx}$$
 		  > > The [[Moment]] of the plane about the **x-axis** is the [[Integral]] of all the [[Mass]] multiplied by its distance from the **x-axis**.
-		  > > $\large{}$
+		  > > $$\large{M_{x}=\int_{a}^{b} \underbrace{ \rho f(x) }_{ \text{Mass} }*\underbrace{ \frac{1}{2}f(x) }_{ \text{Distance} } \, dx}$$
+		  > > 
+		  > > 
 ---
 - ## Reference
