@@ -8,6 +8,6 @@ Alias: [Balance Point]
 > Children:: 
 ---
 - ## Definition
-	- Symbol: 
+	- Symbol: $\left( \bar{x},\bar{y} \right)$
 ---
 - ## Reference
