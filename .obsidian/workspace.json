@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,18 +231,18 @@
         "y": 0,
         "width": 700,
         "height": 845,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "cc256d3ad34e0b3c",
+  "active": "e8471350ed2e7831",
   "lastOpenFiles": [
-    "Arc Length.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
+    "Arc Length.md",
     "arc.md",
     "Average Value Of A Function.md",
-    "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "Two's Complement.md",
     "Velocity.md",
     "Acceleration.md",
