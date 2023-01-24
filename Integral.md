@@ -22,11 +22,12 @@ Alias: [Integrals, Integration, Integrate]
 		  > $\Delta x$ = The width of each approximation rectangle.
 		  > $i$ = The index of a specific rectangle in the [[Riemann Sum]].
 	- Methods of [[Integral|Integration]]
-			- [[Integration By Parts]]
-			- [[U Substitution]]
+		- [[Integration By Parts]]
+		- [[U Substitution]]
 ---
 - ## Practice
 	- [[Drawing 2022-11-11 21.07.30.excalidraw]]
 - ## Reference
-	- The opposite of a [[Derivative]].
-		- Uses a [[Riemann Sum]] as its proof.
+	- Used in:
+		- [[Arc Length]]
+		- [[Work (Calculus)]]

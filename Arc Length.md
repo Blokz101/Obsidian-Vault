@@ -3,7 +3,7 @@ Alias: [Length Of An Arc]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Integral]] [[Parametric Function]]
+> Parents:: 
 > Friends:: 
 > Children:: 
 ---

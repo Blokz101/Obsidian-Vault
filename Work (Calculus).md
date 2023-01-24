@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Integral]] [[Force]] [[Displacement]]
+> Parents:: [[Force]] [[Displacement]]
 > Friends:: [[Work (Chemistry)]]
 > Children:: 
 ---
