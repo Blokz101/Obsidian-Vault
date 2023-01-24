@@ -16,5 +16,7 @@ Alias: [Balance Point]
 		  > $$\large{\bar{y}=\frac{1}{A}\int_{a}^{b} \frac{1}{2}f(x)^2 \, dx}$$
 		  > 
 		  > $A$ = [[Area]] of the Plane
+		  > > [!Proof]-
+		  > > ![[Drawing 2023-01-24 11.39.08.excalidraw]]
 ---
 - ## Reference
