@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"dbfd67bd917e94dd","x":300,"y":-120,"width":400,"height":400,"type":"file","file":"Arc Length.md"},
-		{"id":"fc19877edd123ed8","x":196,"y":-315,"width":250,"height":60,"type":"text","text":"Hello!"}
-	],
-	"edges":[]
-}

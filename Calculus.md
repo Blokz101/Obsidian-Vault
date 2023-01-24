@@ -5,9 +5,9 @@ Modification Date: NaN
 ---
 #Permanent [[Calculus]]
 
-- ## Raw Files
-	- ```dataview
-		TABLE file.ctime as "Time Created"
-		FROM [[Calculus]]
-		SORT file.ctime DESC
-		```
+## Raw Files
+```dataview
+TABLE file.ctime as "Time Created"
+FROM [[Calculus]]
+SORT file.ctime DESC
+```

@@ -11,32 +11,11 @@
             "id": "f801a47f272e967d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "162be3662cfc4fcd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Calculus II.canvas",
-                "viewState": {
-                  "x": 560.3399999999999,
-                  "y": 195.31999999999974,
-                  "zoom": 0,
-                  "snapToGrid": true
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus II.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus II.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calculus II.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
+      "workspaces:Manage workspace layouts": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -190,20 +166,20 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "162be3662cfc4fcd",
+  "active": "f801a47f272e967d",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-24 15.50.37.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-24 15.50.33.excalidraw.md",
+    "TESTING.canvas",
     "Calculus.md",
+    "chemist.md",
+    "Calculus II.canvas.md",
     "Calculus II.canvas",
-    "Untitled.canvas",
     "Excalibrain Graph.md",
     "Center Of Mass.md",
-    "Integral.md",
-    "Hooke's Law.md",
-    "Calculus II.md",
-    "Work (Calculus).md",
-    "Arc Length.md"
+    "Integral.md"
   ]
 }
