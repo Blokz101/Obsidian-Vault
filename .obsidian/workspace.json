@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "Average Value Of A Function.md",
                 "mode": "preview",
                 "source": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Two's Complement.md",
+                "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,17 +178,52 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8cfa0c241a9f96e5",
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "44e2c15304aa5892",
+        "type": "window",
+        "children": [
+          {
+            "id": "db6ef8b47a6cf392",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8471350ed2e7831",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 40,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e8471350ed2e7831",
   "lastOpenFiles": [
+    "Average Value Of A Function.md",
+    "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
+    "Two's Complement.md",
     "Velocity.md",
     "Acceleration.md",
     "Net Force.md",
     "Impulse.md",
     "Average Velocity.md",
     "Magnitude.md",
-    "Average Acceleration.md",
-    "Inertia.md",
-    "Momentum.md",
-    "Pathergrans Theorem.md"
+    "Average Acceleration.md"
   ]
 }
