@@ -46,7 +46,7 @@
       "query": "line:([[Physics]])",
       "color": {
         "a": 1,
-        "rgb": 13407744
+        "rgb": 13399808
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.3255917484324372,
-  "close": false
+  "scale": 0.3345128513334455,
+  "close": true
 }
