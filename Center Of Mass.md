@@ -8,6 +8,6 @@ Alias: [Balance Point]
 > Children:: 
 ---
 - ## Definition
-	- 
+	- Symbol: 
 ---
 - ## Reference
