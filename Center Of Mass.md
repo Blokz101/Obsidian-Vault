@@ -21,7 +21,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > $A$ = [[Area]] of the Plane
 		  > 
 		  > > [!Proof]
-		  > > ![[Screen Shot 2023-01-24 at 12.27.19 PM.png]]
+		  > > ![[Drawing 2023-01-24 12.27.52.excalidraw]]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
 ---
 - ## Reference
