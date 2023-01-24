@@ -16,8 +16,10 @@ Alias: [Balance Point]
 		  > $$\large{\bar{y}=\frac{1}{A}\int_{a}^{b} \frac{1}{2}f(x)^2 \, dx}$$
 		  > 
 		  > $A$ = [[Area]] of the Plane
-		  > > [!Proof]-
-		  > > The [[Moment]] of the plane about the **y-axis** is the integral of all the mass multiplied by its distance from the **y-axis**.
-		  > > $\large{M_{y}=}$
+		  > > [!Proof]
+		  > > The [[Moment]] of the plane about the **y-axis** is the [[Integral]] of all the [[Mass]] multiplied by its distance from the **y-axis**.
+		  > > $$\large{M_{y}= \int_{a}^{b} \underbrace{ \rho f(x) }_{ \text{Mass} }*\underbrace{ x }_{ \text{Distance} } \, dx}$$
+		  > > The [[Moment]] of the plane about the **x-axis** is the [[Integral]] of all the [[Mass]] multiplied by its distance from the **x-axis**.
+		  > > $\large{}$
 ---
 - ## Reference
