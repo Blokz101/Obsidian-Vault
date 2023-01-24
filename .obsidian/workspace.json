@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Center Of Mass.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Center Of Mass.md",
+                "file": "Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Center Of Mass.md",
+                "file": "Moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Center Of Mass.md",
+                "file": "Moment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,10 +224,10 @@
       }
     ]
   },
-  "active": "e813b64a97869c90",
+  "active": "515c1f7043cb371b",
   "lastOpenFiles": [
-    "Moment.md",
     "Center Of Mass.md",
+    "Moment.md",
     "References/Excalidraw/Drawing 2023-01-24 11.39.08.excalidraw.md",
     "Average Value Of A Function.md",
     "U Substitution.md",

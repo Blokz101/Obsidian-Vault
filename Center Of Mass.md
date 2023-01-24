@@ -16,16 +16,5 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > $$\large{\bar{y}=\frac{1}{A}\int_{a}^{b} \frac{1}{2}f(x)^2 \, dx}$$
 		  > 
 		  > $A$ = [[Area]] of the Plane
-		  > > [!Proof]
-		  > > The [[Moment]] of the plane about an axis is the can be found by with an [[Integral]] of the [[Center Of Mass|Center of Masses]] of each **slice**.
-		  > > 
-		  > > Assume this function and slice, the center of each slice is its [[Center Of Mass]]:
-		  > > ![[Screen Shot 2023-01-24 at 11.59.13 AM.png|300]]
-		  > > 
-		  > > The [[Moment]] about the **y-axis** is the [[Integral]] of the [[Mass]] of the slice multiplied by the distance of the [[Center Of Mass]] of the slice to the **y-axis**.
-		  > > $$\large{M_{y}= \int_{a}^{b} \underbrace{ \rho f(x) }_{ \text{Mass of slice} }*\underbrace{ x }_{ \text{Distance of COM to y-axis} } \, dx}$$
-		  > > 
-		  > > The [[Moment]] about the **x-axis** is the [[Integral]] of the [[Mass]] of the slice multiplied by the distance of the [[Center Of Mass]] of the slice to the **x-axis**.
-		  > > $\large{M_{x}=\int_{a}^{b}  \, dx}$
 ---
 - ## Reference
