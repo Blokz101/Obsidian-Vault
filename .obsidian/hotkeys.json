@@ -7,7 +7,6 @@
       "key": "L"
     }
   ],
-  "editor:insert-link": [],
   "editor:insert-wikilink": [
     {
       "modifiers": [
@@ -119,5 +118,7 @@
       "key": "M"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "editor:insert-link": [],
+  "editor:toggle-checklist-status": []
 }
