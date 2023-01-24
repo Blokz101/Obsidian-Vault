@@ -24,7 +24,8 @@ Alias: []
 		  > 
 		  > Proof is on page 32 of [[Application of Integrals - Textbook.pdf]]
 		- Example:
-		  ![[Drawing 2023-01-16 13.32.37.excalidraw]]
+			- ![[Drawing 2023-01-16 13.32.37.excalidraw]]
 ---
 - ## Reference
+	- Useful in combination with [[Hooke's Law]] to work with **Springs**.
 	- [[Application of Integrals - Textbook.pdf]]

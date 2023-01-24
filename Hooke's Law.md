@@ -20,3 +20,4 @@ Alias: [Spring Constant]
 - ## Practice
 	- 
 - ## Reference
+	- Useful in combination with [[Work (Calculus)]]
