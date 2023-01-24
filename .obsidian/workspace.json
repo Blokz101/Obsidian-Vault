@@ -11,8 +11,12 @@
             "id": "f801a47f272e967d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Center Of Mass.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Center Of Mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Center Of Mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Center Of Mass.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",

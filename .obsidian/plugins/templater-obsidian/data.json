@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Vault/Permanent",
-      "template": "Other/Templates/Permanent Note Template.md"
+      "folder": "/",
+      "template": "Templates/Permanent Note Template.md"
     }
   ],
   "syntax_highlighting": true,
@@ -25,5 +25,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }

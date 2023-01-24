@@ -119,22 +119,5 @@
       ],
       "key": "M"
     }
-  ],
-  "graph:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
-  "excalibrain:excalibrain-start": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
   ]
 }
