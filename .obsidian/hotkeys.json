@@ -41,7 +41,6 @@
     }
   ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [],
-  "editor:delete-paragraph": [],
   "obsidian-excalidraw-plugin:fullscreen": [
     {
       "modifiers": [
@@ -119,5 +118,6 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "editor:delete-paragraph": []
 }
