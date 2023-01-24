@@ -148,7 +148,6 @@
   },
   "navigationHistory": [
     "Templates/Arc Length.md",
-    "Enthalpy.md",
     "DELETE.md",
     "Iphone.md",
     "Molecular Orbital Theory.md",
@@ -190,14 +189,15 @@
     "References/Excalidraw/Drawing 2023-01-24 12.27.52.excalidraw.md",
     "spring.md",
     "Average Value Of A Function.md",
-    "Work (Calculus).md",
     "Arc Length.md",
     "Calculus II.md",
-    "Hooke's Law.md",
     "Untitled 1.canvas",
     "Integral.md",
     "Center Of Mass.md",
-    "Calculus II.canvas"
+    "Calculus II.canvas",
+    "Enthalpy.md",
+    "Work (Calculus).md",
+    "Hooke's Law.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
