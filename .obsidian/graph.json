@@ -25,7 +25,7 @@
       "query": "line:([[Calculus]])",
       "color": {
         "a": 1,
-        "rgb": 14680064
+        "rgb": 7667712
       }
     },
     {
@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 37314
       }
+    },
+    {
+      "query": "line:([[Physics]])",
+      "color": {
+        "a": 1,
+        "rgb": 13407744
+      }
+    },
+    {
+      "query": "line:([[Calculus II]])",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -49,10 +63,10 @@
   "nodeSizeMultiplier": 0.994140625,
   "lineSizeMultiplier": 0.996229610482218,
   "collapse-forces": false,
-  "centerStrength": 0.462920046349942,
-  "repelStrength": 15.3623317586238,
-  "linkStrength": 0.749220073090293,
-  "linkDistance": 248,
-  "scale": 0.19894522899529057,
-  "close": true
+  "centerStrength": 0.520751953125,
+  "repelStrength": 10.8610026041667,
+  "linkStrength": 0.773640950520833,
+  "linkDistance": 149,
+  "scale": 0.3255917484324372,
+  "close": false
 }
