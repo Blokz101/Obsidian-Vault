@@ -1,10 +1,12 @@
 ---
 Alias: []
-Creation Date: Tue January 10th 2023 05:26:10 pm 
-Modification Date: NaN
 ---
-#Permanent [[Calculus]]
-
+> [!Info]
+> Subject:: [[Calculus]]
+> Parents:: [[Integral]]
+> Friends:: [[U Substitution]]
+> Children:: 
+---
 - ## Definition
 	- A method of [[Integral|Integration]]
 		- The goal is to pick a $u$ value that can be simplified by taking the [[Derivative]]. Therefore at after some number of repetitions it will simplify to the point where we can solve $\int v \, du$ in our head.
@@ -28,8 +30,7 @@ Modification Date: NaN
 		3. Algebra
 		4. Trig
 		5. Exponentials
+---
 - ## Practice
 	- [[Integration Practice.pdf]]
 - ## Reference
-	- [[Integral|Integration]]
-	- [[U Substitution]]

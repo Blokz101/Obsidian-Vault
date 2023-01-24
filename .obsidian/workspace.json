@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration By Parts.md",
+                "file": "U Substitution.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "U Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "U Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "U Substitution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,17 +191,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b5d11e2d2c0653ca",
+  "active": "b24752a601305c6c",
   "lastOpenFiles": [
-    "Mean Value Theorem for Integrals.md",
-    "Average Value Of A Function.md",
+    "Excalibrain Graph.md",
+    "U Substitution.md",
+    "Integral.md",
     "Integration By Parts.md",
+    "Average Value Of A Function.md",
+    "Mean Value Theorem for Integrals.md",
     "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "Arc Length.md",
     "References/Excalidraw/Drawing 2023-01-18 19.57.46.excalidraw.md",
-    "arc.md",
-    "Two's Complement.md",
-    "Velocity.md",
-    "Acceleration.md"
+    "arc.md"
   ]
 }
