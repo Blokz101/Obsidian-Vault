@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hooke's Law.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -60,6 +60,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "50ddbd4bc4e7bbc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
           }
         ]
       }
@@ -75,6 +85,7 @@
       {
         "id": "61b56479f72a3d3d",
         "type": "tabs",
+        "dimension": 41.333333333333336,
         "children": [
           {
             "id": "d648d65e31baa8ba",
@@ -142,10 +153,27 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "cb1e1dd16a6a6642",
+        "type": "tabs",
+        "dimension": 58.666666666666664,
+        "children": [
+          {
+            "id": "19e786b673c052d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalibrain Graph.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 579.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +188,52 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b1d417706582117c",
+        "type": "window",
+        "children": [
+          {
+            "id": "09cd79aa4d5f597a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc80f6492ae7c033",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "0c1a3f8320621133",
   "lastOpenFiles": [
     "Excalibrain Graph.md",
     "Hooke's Law.md",
+    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Work (Calculus).md",
     "Center Of Mass.md",
     "Test.md",
     "Vertical Line Test.md",
     "References/Excalidraw/Drawing 2023-01-24 15.50.37.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-24 15.50.33.excalidraw.md",
-    "TESTING.canvas",
-    "Calculus.md"
+    "TESTING.canvas"
   ]
 }
