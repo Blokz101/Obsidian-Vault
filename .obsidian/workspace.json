@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "dda4db0f1f6ad9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moment.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b24752a601305c6c",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U Substitution.md",
+                "file": "Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "U Substitution.md",
+                "file": "Moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "U Substitution.md",
+                "file": "Moment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,13 +203,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b24752a601305c6c",
+  "active": "dda4db0f1f6ad9c6",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
+    "Average Value Of A Function.md",
     "U Substitution.md",
+    "Excalibrain Graph.md",
     "Integral.md",
     "Integration By Parts.md",
-    "Average Value Of A Function.md",
     "Mean Value Theorem for Integrals.md",
     "References/Excalidraw/Drawing 2023-01-23 13.48.37.excalidraw.md",
     "Arc Length.md",
