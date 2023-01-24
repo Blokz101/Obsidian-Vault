@@ -17,6 +17,7 @@ Alias: [Balance Point]
 		  > 
 		  > $A$ = [[Area]] of the Plane
 		  > > [!Proof]-
-		  > > ![[Drawing 2023-01-24 11.39.08.excalidraw]]
+		  > > The [[Moment]] of the plane about the **y-axis** is the integral of all the mass multiplied by its distance from the **y-axis**.
+		  > > $\large{M_{y}=}$
 ---
 - ## Reference
