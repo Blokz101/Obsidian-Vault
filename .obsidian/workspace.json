@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Center Of Mass.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Moment.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -190,39 +190,6 @@
       "templater-obsidian:Templater": true,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
-  },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f3644c47a6f463b8",
-        "type": "window",
-        "children": [
-          {
-            "id": "d4c0e55207c8213c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dda4db0f1f6ad9c6",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "515c1f7043cb371b",
   "lastOpenFiles": [

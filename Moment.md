@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Moments]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
@@ -27,5 +27,6 @@ Alias: []
 		  > $$\large{M_{x}=\rho \int_{a}^{b} \frac{1}{2}f(x)^2 \, dx}$$
 		  > 
 		  > $\rho$ = [[Mass Density Constant]]
+---
 - ## Reference
-	- 
+	- [[Moments And Center Of Mass - Textbook.pdf]]
