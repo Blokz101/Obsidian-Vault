@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ae0c3c67119a452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMOS Circuit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1be38c13129aae24",
             "type": "leaf",
             "state": {
@@ -56,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AND Gate.md",
+                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AND Gate.md",
+                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AND Gate.md",
+                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,20 +243,49 @@
         "height": 845,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "0880c2f1aafc5215",
+        "type": "window",
+        "children": [
+          {
+            "id": "c451153c915a2a76",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ae0c3c67119a452",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 40,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "917918b13c727fc8",
+  "active": "8ae0c3c67119a452",
   "lastOpenFiles": [
-    "OR Gate.md",
     "AND Gate.md",
+    "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
+    "OR Gate.md",
     "NAND Gate.md",
     "NOR Gate.md",
     "CMOS Circuit.md",
     "NOT Gate.md",
     "Transistor.md",
     "Hooke's Law.md",
-    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
-    "Mass Density Constant.md"
+    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
   ]
 }
