@@ -26,6 +26,8 @@ Alias: []
 		- Example:
 			- ![[Drawing 2023-01-16 13.32.37.excalidraw]]
 ---
+- ## Practice
+	- [[Drawing 2023-01-24 16.16.30.excalidraw]]
 - ## Reference
 	- Useful in combination with [[Hooke's Law]] to work with **Springs**.
 	- [[Application of Integrals - Textbook.pdf]]

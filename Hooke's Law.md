@@ -18,6 +18,6 @@ Alias: [Spring Constant]
 	  > $x$ = [[Displacement]] from natural length in meters
 ---
 - ## Practice
-	- [[Drawing 2023-01-24 16.16.30.excalidraw]]
+	- Some spring practice in [[Work (Calculus)]]
 - ## Reference
 	- Useful in combination with [[Work (Calculus)]]
