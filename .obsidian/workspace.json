@@ -20,10 +20,10 @@
             }
           },
           {
-            "id": "00e6b3dcb262b0b9",
+            "id": "c1fc048738d5816a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -220,8 +220,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
+        "x": 40,
+        "y": 900,
         "width": 700,
         "height": 845,
         "maximize": true,
@@ -229,17 +229,17 @@
       }
     ]
   },
-  "active": "00e6b3dcb262b0b9",
+  "active": "c1fc048738d5816a",
   "lastOpenFiles": [
+    "mass.md",
+    "Hooke's Law.md",
+    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Molecular Orbital Theory.md",
     "Work (Calculus).md",
-    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Rate of Reaction.md",
-    "Hooke's Law.md",
     "Excalibrain Graph.md",
     "Center Of Mass.md",
     "Test.md",
-    "Vertical Line Test.md",
-    "References/Excalidraw/Drawing 2023-01-24 15.50.37.excalidraw.md"
+    "Vertical Line Test.md"
   ]
 }
