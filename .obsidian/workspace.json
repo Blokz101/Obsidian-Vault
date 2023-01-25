@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1be38c13129aae24",
+            "id": "06754227f14f9ff4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-25 10.34.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "16c79c6794223ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AND Gate.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "322db95172b4674d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +42,19 @@
             }
           },
           {
-            "id": "917918b13c727fc8",
+            "id": "b334b20302344986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AND Gate.md",
-                "mode": "source",
+                "file": "NOR Gate.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "1185904bc1bff655",
+            "id": "47ebc3257c579ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +64,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5eb53b78cda6c8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOT Gate.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -117,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
+                "file": "NAND Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
+                "file": "NAND Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
+                "file": "NAND Gate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,17 +310,17 @@
       }
     ]
   },
-  "active": "8ae0c3c67119a452",
+  "active": "322db95172b4674d",
   "lastOpenFiles": [
-    "AND Gate.md",
-    "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
-    "OR Gate.md",
+    "References/Excalidraw/Drawing 2023-01-25 10.34.07.excalidraw.md",
     "NAND Gate.md",
+    "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
     "NOR Gate.md",
-    "CMOS Circuit.md",
+    "References/Excalidraw/Drawing 2023-01-25 10.33.39.excalidraw.md",
+    "OR Gate.md",
     "NOT Gate.md",
-    "Transistor.md",
-    "Hooke's Law.md",
-    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-01-25 10.33.15.excalidraw.md",
+    "AND Gate.md",
+    "CMOS Circuit.md"
   ]
 }

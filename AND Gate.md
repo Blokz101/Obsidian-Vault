@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- And Gate
 		- Created by adding an [[NOT Gate|Inverter]] to an [[NAND Gate]]
-		- ![[Drawing 2023-01-25 10.27.11.excalidraw]]
+		- ![[Drawing 2023-01-25 10.31.30.excalidraw]]
 	- ![[IMG_EF6F1D6BECC5-1.jpeg]]
 ---
 - ## Reference
