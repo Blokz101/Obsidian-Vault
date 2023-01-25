@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "04620ee5bc5d2320",
+        "id": "89a9284204670650",
         "type": "tabs",
         "children": [
           {
-            "id": "a47efa554ba8a733",
+            "id": "534661376c47bf70",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -215,8 +215,10 @@
       }
     ]
   },
-  "active": "a47efa554ba8a733",
+  "active": "534661376c47bf70",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
+    "Trigonometric Identities.md",
     "NOT Gate.md",
     "OR Gate.md",
     "NOR Gate.md",
@@ -224,8 +226,6 @@
     "CMOS Circuit.md",
     "AND Gate.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-25 10.34.07.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-25 10.33.39.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-01-25 10.27.11.excalidraw.md"
   ]
 }

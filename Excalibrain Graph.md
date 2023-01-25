@@ -12,10 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Open a document in another pane and click it to get started.
+Enthalpy ^mATxvrTt
 
-For the best experience enable 'Open in adjacent pane'
-in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
+[[Enthalpy.md]] ^1Bcy4fG9
 
 %%
 # Drawing
@@ -26,44 +25,173 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"type": "text",
-			"version": 1,
-			"versionNonce": 423577018,
-			"isDeleted": false,
-			"id": "4mylk7KK",
-			"fillStyle": "hachure",
+			"id": "1Bcy4fG9",
+			"type": "rectangle",
+			"x": -89.5,
+			"y": -72,
+			"width": 162,
+			"height": 56,
+			"angle": 0,
+			"strokeColor": "#00000000",
+			"backgroundColor": "#C49A13FF",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 91599,
+			"version": 1,
+			"versionNonce": 293114208,
+			"updated": 1674661282251,
+			"isDeleted": false,
+			"groupIds": [
+				"8oiOyXFb"
+			],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "mATxvrTt"
+				}
+			],
+			"link": "[[Enthalpy.md]]",
+			"locked": false
+		},
+		{
+			"text": "Enthalpy",
+			"fontSize": 30,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 29,
+			"id": "mATxvrTt",
+			"type": "text",
+			"x": -79.5,
+			"y": -62,
+			"width": 142,
+			"height": 36,
 			"angle": 0,
-			"x": 0,
-			"y": 0,
-			"strokeColor": "white",
+			"strokeColor": "#000000ff",
 			"backgroundColor": "transparent",
-			"width": 703,
-			"height": 96,
-			"seed": 4429,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 93606,
+			"version": 1,
+			"versionNonce": 827906425,
+			"updated": 1674661282251,
+			"isDeleted": false,
+			"groupIds": [
+				"8oiOyXFb"
+			],
 			"boundElements": [],
-			"updated": 1650784785611,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
-			"rawText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
-			"baseline": 91,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'."
+			"containerId": "1Bcy4fG9",
+			"originalText": "Enthalpy",
+			"rawText": "Enthalpy"
+		},
+		{
+			"id": "ePdDOieG",
+			"type": "ellipse",
+			"x": -99.5,
+			"y": -49,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 93904,
+			"version": 1,
+			"versionNonce": 662890498,
+			"updated": 1674661282251,
+			"isDeleted": false,
+			"groupIds": [
+				"8oiOyXFb"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "Ap6UyrTk",
+			"type": "ellipse",
+			"x": -20,
+			"y": -82,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 1584,
+			"version": 1,
+			"versionNonce": 152878308,
+			"updated": 1674661282251,
+			"isDeleted": false,
+			"groupIds": [
+				"8oiOyXFb"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "YuxV0u6j",
+			"type": "ellipse",
+			"x": 10,
+			"y": -16,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 1
+			},
+			"seed": 63222,
+			"version": 1,
+			"versionNonce": 620567929,
+			"updated": 1674661282251,
+			"isDeleted": false,
+			"groupIds": [
+				"8oiOyXFb"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
-		"theme": "dark",
-		"viewBackgroundColor": "hsl(208, 80%, 23%)",
+		"theme": "light",
+		"viewBackgroundColor": "#0a2742ff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -74,10 +202,14 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
-		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"currentItemLinearStrokeSharpness": "round",
+		"scrollX": 486.8010128211398,
+		"scrollY": 286.18099139116634,
+		"zoom": {
+			"value": 1.896009699947262
+		},
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"colorPalette": {}
 	},

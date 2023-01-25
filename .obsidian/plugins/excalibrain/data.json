@@ -195,9 +195,9 @@
     "Integral.md",
     "Center Of Mass.md",
     "Calculus II.canvas",
-    "Enthalpy.md",
     "Work (Calculus).md",
-    "Hooke's Law.md"
+    "Hooke's Law.md",
+    "Enthalpy.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
