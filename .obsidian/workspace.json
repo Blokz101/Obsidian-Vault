@@ -157,8 +157,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb1e1dd16a6a6642",
@@ -179,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5,
-    "collapsed": true
+    "width": 579.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,15 +229,15 @@
   },
   "active": "c1fc048738d5816a",
   "lastOpenFiles": [
+    "Mass Density Constant.md",
+    "Density.md",
+    "Mass.md",
     "mass.md",
     "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Molecular Orbital Theory.md",
     "Work (Calculus).md",
     "Rate of Reaction.md",
-    "Excalibrain Graph.md",
-    "Center Of Mass.md",
-    "Test.md",
-    "Vertical Line Test.md"
+    "Excalibrain Graph.md"
   ]
 }
