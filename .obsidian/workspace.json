@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NAND Gate.md",
+                "file": "CMOS Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NAND Gate.md",
+                "file": "CMOS Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NAND Gate.md",
+                "file": "CMOS Circuit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,11 +279,11 @@
       }
     ]
   },
-  "active": "1be38c13129aae24",
+  "active": "8ae0c3c67119a452",
   "lastOpenFiles": [
+    "NAND Gate.md",
     "NOR Gate.md",
     "NOT Gate.md",
-    "NAND Gate.md",
     "CMOS Circuit.md",
     "Transistor.md",
     "Hooke's Law.md",
