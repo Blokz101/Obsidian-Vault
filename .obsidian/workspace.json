@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "04244bad6bf46943",
+        "id": "3549407c1693cac7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1a3f8320621133",
+            "id": "03fa84e63085f73c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b87b965787cf707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hooke's Law.md",
-                "mode": "preview",
+                "file": "Transistor.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Transistor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5
+    "width": 579.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +231,7 @@
       }
     ]
   },
-  "active": "fc80f6492ae7c033",
+  "active": "4b87b965787cf707",
   "lastOpenFiles": [
     "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
