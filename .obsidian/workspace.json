@@ -38,19 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "AND Gate.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7d22d80ebab2643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOR Gate.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -62,25 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "OR Gate.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ead9d7a2a6a6b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOT Gate.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OR Gate.md",
+                "file": "AND Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OR Gate.md",
+                "file": "AND Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OR Gate.md",
+                "file": "AND Gate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,11 +259,11 @@
       }
     ]
   },
-  "active": "1185904bc1bff655",
+  "active": "917918b13c727fc8",
   "lastOpenFiles": [
+    "OR Gate.md",
     "AND Gate.md",
     "NAND Gate.md",
-    "OR Gate.md",
     "NOR Gate.md",
     "CMOS Circuit.md",
     "NOT Gate.md",

@@ -8,6 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
+	- And Gate
+		- Created by adding an [[NOT Gate|Inverter]] to an [[NAND Gate]]
 	- 
 ---
 - ## Reference
