@@ -34,13 +34,49 @@
               "type": "markdown",
               "state": {
                 "file": "CMOS Circuit.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1be38c13129aae24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAND Gate.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7d22d80ebab2643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOR Gate.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ead9d7a2a6a6b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOT Gate.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "NOT Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "NOT Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "NOT Gate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,17 +279,17 @@
       }
     ]
   },
-  "active": "8ae0c3c67119a452",
+  "active": "3ead9d7a2a6a6b8d",
   "lastOpenFiles": [
-    "Transistor.md",
+    "NOR Gate.md",
+    "NAND Gate.md",
     "CMOS Circuit.md",
+    "NOT Gate.md",
+    "Transistor.md",
     "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Mass Density Constant.md",
     "Density.md",
-    "Mass.md",
-    "mass.md",
-    "Molecular Orbital Theory.md",
-    "Work (Calculus).md"
+    "Mass.md"
   ]
 }
