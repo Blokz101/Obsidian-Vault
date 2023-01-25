@@ -214,6 +214,8 @@
   },
   "active": "87a5d03efc8501bb",
   "lastOpenFiles": [
+    "Pressure.md",
+    "Work (Calculus).md",
     "Hooke's Law.md",
     "Average Value Of A Function.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
@@ -221,8 +223,6 @@
     "Trigonometric Identities.md",
     "NOT Gate.md",
     "OR Gate.md",
-    "NOR Gate.md",
-    "NAND Gate.md",
-    "CMOS Circuit.md"
+    "NOR Gate.md"
   ]
 }
