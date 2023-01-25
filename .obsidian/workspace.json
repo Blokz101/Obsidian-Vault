@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,10 +212,45 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "87a5d03efc8501bb",
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "51bd1280d56ca11c",
+        "type": "window",
+        "children": [
+          {
+            "id": "e56becd41e86d613",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4815f64325b1c4c1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 40,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4815f64325b1c4c1",
   "lastOpenFiles": [
-    "Pressure.md",
     "Work (Calculus).md",
+    "Pressure.md",
     "Hooke's Law.md",
     "Average Value Of A Function.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
