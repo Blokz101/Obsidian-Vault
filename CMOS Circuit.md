@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Computer Systems]]
 > Parents:: [[Transistor]]
 > Friends:: 
-> Children:: [[NOT Gate]] [[NOR Gate]] [[NAND Gate]]
+> Children:: [[NOT Gate]] [[OR Gate]] [[NOR Gate]] [[AND Gate]] [[NAND Gate]]
 ---
 - ## Definition
 	- Stands for **Complementary [[Transistor|MOS]] Circuit**.

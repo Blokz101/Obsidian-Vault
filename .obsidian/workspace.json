@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03fa84e63085f73c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b87b965787cf707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transistor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8ae0c3c67119a452",
             "type": "leaf",
             "state": {
@@ -52,6 +32,18 @@
             }
           },
           {
+            "id": "917918b13c727fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AND Gate.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f7d22d80ebab2643",
             "type": "leaf",
             "state": {
@@ -59,6 +51,18 @@
               "state": {
                 "file": "NOR Gate.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1185904bc1bff655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OR Gate.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -76,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -150,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "OR Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "OR Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CMOS Circuit.md",
+                "file": "OR Gate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,17 +283,17 @@
       }
     ]
   },
-  "active": "8ae0c3c67119a452",
+  "active": "1185904bc1bff655",
   "lastOpenFiles": [
+    "AND Gate.md",
     "NAND Gate.md",
+    "OR Gate.md",
     "NOR Gate.md",
-    "NOT Gate.md",
     "CMOS Circuit.md",
+    "NOT Gate.md",
     "Transistor.md",
     "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
-    "Mass Density Constant.md",
-    "Density.md",
-    "Mass.md"
+    "Mass Density Constant.md"
   ]
 }
