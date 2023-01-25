@@ -8,6 +8,7 @@ Alias: []
 > Children:: [[NOT Gate]] [[NOR Gate]] [[NAND Gate]]
 ---
 - ## Definition
+	- Stands for **Complementary [[Transistor|MOS]] Circuit**.
 	- Circus that use both [[Transistor|N-Type]] and [[Transistor|P-Type]] [[Transistor|Transistors]] to create logic gates.
 	- [[Transistor|P-Type]] are generally attached to power.
 		- Pulls the output UP when the input is 0.

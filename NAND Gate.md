@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[CMOS Circuit]]
 > Friends:: 
-> Children:: 
+> Children:: [[AND Gate]]
 ---
 - ## Definition
 	- 

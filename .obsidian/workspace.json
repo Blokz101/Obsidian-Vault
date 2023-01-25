@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "NAND Gate.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "NOR Gate.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -70,13 +70,13 @@
               "type": "markdown",
               "state": {
                 "file": "NOT Gate.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOT Gate.md",
+                "file": "NAND Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOT Gate.md",
+                "file": "NAND Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NOT Gate.md",
+                "file": "NAND Gate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,12 +279,12 @@
       }
     ]
   },
-  "active": "3ead9d7a2a6a6b8d",
+  "active": "1be38c13129aae24",
   "lastOpenFiles": [
     "NOR Gate.md",
+    "NOT Gate.md",
     "NAND Gate.md",
     "CMOS Circuit.md",
-    "NOT Gate.md",
     "Transistor.md",
     "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
