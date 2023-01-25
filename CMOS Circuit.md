@@ -14,7 +14,7 @@ Alias: []
 			- Pulls the output UP when the input is 0.
 		- [[Transistor|N-Type]] are generally attached to ground.
 			- Pulls the output DOWN when the input is 1.
-	- 
+	- The [[Transistor|Transistors]] are placed in either Serial(One after the other) or Parallel(Side by side).
 	- > [!Warning]
 	  > The **output** must always be connected to either **power** or **ground**. Never both, but also never neither.
 ---
