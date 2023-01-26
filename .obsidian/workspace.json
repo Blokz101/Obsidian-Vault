@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impulse.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impulse.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Impulse.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,17 +295,17 @@
       }
     ]
   },
-  "active": "c74b171f25ee92da",
+  "active": "53906d4eb732138c",
   "lastOpenFiles": [
-    "Momentum Update.md",
     "The Momentum Principle.md",
+    "Impulse.md",
+    "Momentum Update.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Net Force.md",
     "Iterative Prediction of Motion.md",
     "Average Velocity.md",
     "Momentum.md",
     "Position Update.md",
-    "Excalibrain Graph.md",
-    "Displacement.md"
+    "Excalibrain Graph.md"
   ]
 }

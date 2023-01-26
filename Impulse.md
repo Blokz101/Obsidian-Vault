@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[The Momentum Principle]]
 > Children:: 
 ---
 - ## Definition
@@ -16,3 +16,4 @@ Alias: []
 	  > $\Delta t$ = Change in [[Time]]
 ---
 - ## Reference
+	- Same as [[The Momentum Principle]].

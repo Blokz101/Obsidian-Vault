@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Fundamental Principles]]
-> Friends:: 
+> Friends:: [[Impulse]]
 > Children:: [[Momentum Update]]
 ---
 - ## Definition
@@ -17,3 +17,4 @@ Alias: []
 	  > $\Delta t$ = Change in [[Time]]
 ---
 - ## Reference
+	- Change in [[Momentum]] is the same as [[Impulse]].
