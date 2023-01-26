@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "136eedcb2ac8d34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iterative Prediction of Motion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "2bf70651cd6ed704",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -297,15 +309,15 @@
   },
   "active": "53906d4eb732138c",
   "lastOpenFiles": [
+    "Momentum.md",
+    "Iterative Prediction of Motion.md",
+    "Position Update.md",
     "The Momentum Principle.md",
+    "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Impulse.md",
     "Momentum Update.md",
-    "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Net Force.md",
-    "Iterative Prediction of Motion.md",
     "Average Velocity.md",
-    "Momentum.md",
-    "Position Update.md",
     "Excalibrain Graph.md"
   ]
 }
