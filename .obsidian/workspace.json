@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "2bf70651cd6ed704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Average Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "49f5cc2d51994435",
             "type": "leaf",
             "state": {
@@ -252,13 +264,13 @@
   "lastOpenFiles": [
     "Average Velocity.md",
     "Position Update.md",
+    "Displacement.md",
     "Iterative Prediction of Motion.md",
     "Momentum.md",
     "Momentum Update.md",
     "The Momentum Principle.md",
     "Pressure (Calculus).md",
     "Work (Calculus).md",
-    "Weight Density Constant.md",
-    "Density (Chemistry).md"
+    "Weight Density Constant.md"
   ]
 }

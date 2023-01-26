@@ -18,9 +18,13 @@ Alias: []
 	  > 
 	  > > [!Proof]
 	  > > [[Average Velocity]] Formula:
-	  > > $\vec{v}_{avg}=\frac{\Delta \vec{r}}{\Delta t}=\frac{\vec{r}_{f}-\vec{r}_{i}}{\Delta t}$
+	  > > $$\vec{v}_{avg}=\frac{\Delta \vec{r}}{\Delta t}=\frac{\vec{r}_{f}-\vec{r}_{i}}{\Delta t}$$
+	  > > Solve for $\vec{v}_{avg}$:
+	  > > $$\vec{r}_{f}=\vec{r}_{i}+(\vec{v}_{avg}*\Delta t)$$
 	  > > [[Momentum]] Formula:
 	  > > $$\vec{p}\approx m\vec{v}$$
+	  > > Solve for $\vec{v}$:
+	  > > $$\vec{v}=\frac{\vec{p}}{m}$$
 	  > > 
 	  > ^2eb7a6
 ---
