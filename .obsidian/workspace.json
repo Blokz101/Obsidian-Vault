@@ -80,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -284,15 +285,15 @@
   },
   "active": "53906d4eb732138c",
   "lastOpenFiles": [
+    "The Momentum Principle.md",
     "Momentum Update.md",
+    "Net Force.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Iterative Prediction of Motion.md",
     "Average Velocity.md",
     "Momentum.md",
     "Position Update.md",
-    "The Momentum Principle.md",
     "Excalibrain Graph.md",
-    "Displacement.md",
-    "Pressure (Calculus).md"
+    "Displacement.md"
   ]
 }
