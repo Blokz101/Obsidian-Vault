@@ -10,22 +10,22 @@ Alias: []
 - ## Definition
 	- If the [[Velocity]] is mostly constant then we can use the [[Average Velocity]] to predict the objects position in the future.
 	- > [!Equation]
-	  > $$\large{\vec{r}_{f}=\vec{r}_{i}+(\vec{v}_{avg}*\Delta t)}$$
+	  > $$\large{\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)}$$
 	  > 
 	  > $\vec{r}_{f}$ = Initial Position [[Vector]]
 	  > $\vec{r}_{i}$ = Final Position [[Vector]]
+	  > $\vec{p}$ = Current [[Momentum]]
+	  > $m$ = [[Mass]]
 	  > $\Delta t$ = Change in [[Time]]
 	  > 
-	  > > [!Proof]
-	  > > [[Average Velocity]] Formula:
+	  > > [!Proof]-
+	  > > [[Average Velocity]] Equation:
 	  > > $$\vec{v}_{avg}=\frac{\Delta \vec{r}}{\Delta t}=\frac{\vec{r}_{f}-\vec{r}_{i}}{\Delta t}$$
-	  > > Solve for $\vec{v}_{avg}$:
 	  > > $$\vec{r}_{f}=\vec{r}_{i}+(\vec{v}_{avg}*\Delta t)$$
-	  > > [[Momentum]] Formula:
+	  > > [[Momentum]] Equation:
 	  > > $$\vec{p}\approx m\vec{v}$$
-	  > > Solve for $\vec{v}$:
 	  > > $$\vec{v}=\frac{\vec{p}}{m}$$
-	  > > 
-	  > ^2eb7a6
+	  > > Substitute the [[Momentum]] equation into the [[Average Velocity]] equation:
+	  > > $$\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)$$^2eb7a6
 ---
 - ## Reference
