@@ -16,6 +16,12 @@ Alias: []
 	  > $\vec{r}_{i}$ = Final Position [[Vector]]
 	  > $\Delta t$ = Change in [[Time]]
 	  > 
-	  > This is simply the [[Average Velocity]] equation thats rearranged and $v_{avg}$ ^2eb7a6
+	  > > [!Proof]
+	  > > [[Average Velocity]] Formula:
+	  > > $\vec{v}_{avg}=\frac{\Delta \vec{r}}{\Delta t}=\vec{r}_{f}-\vec{r}_{i}$
+	  > > [[Momentum]] Formula:
+	  > > $$\vec{p}\approx m\vec{v}$$
+	  > > 
+	  > ^2eb7a6
 ---
 - ## Reference
