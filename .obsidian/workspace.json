@@ -61,24 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density.md",
+                "file": "Density (Chemistry).md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "17e74e6f9174b5f2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -152,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Pressure (Calculus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Pressure (Calculus).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Pressure (Calculus).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,14 +236,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "17e74e6f9174b5f2",
+  "active": "352cdb4bb5fa3bb0",
   "lastOpenFiles": [
+    "Density (Chemistry).md",
+    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Pressure (Calculus).md",
-    "Density.md",
     "Work (Calculus).md",
     "Pressure.md",
     "Hooke's Law.md",
-    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Arc Length.md",
     "Transistor.md",
     "Center Of Mass.md",

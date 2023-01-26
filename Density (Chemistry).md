@@ -10,7 +10,7 @@ Modification Date: NaN
 	- The degree of compactness of a substance
 	  > [!Equation]
 	  > $$\rho=\frac{m}{V}$$
-	  > $\rho$ = [[Density]]
+	  > $\rho$ = [[Density (Chemistry)]]
 	  > $m$ = [[Mass]]
 	  > $V$ = [[Volume]]
 - ## Symbol

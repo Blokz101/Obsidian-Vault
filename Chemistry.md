@@ -80,7 +80,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- [[Avogadro's Number]] ($6.022e23$ per mol)
 	- Other
 		- [[Avogadro's Law]]
-		- [[Density]] ($d=\frac{m}{v}$)
+		- [[Density (Chemistry)]] ($d=\frac{m}{v}$)
 - ## Raw Files
 	- ```dataview
 		TABLE file.ctime as "Time Created"

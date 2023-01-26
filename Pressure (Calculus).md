@@ -8,7 +8,15 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- > [!Equation]
-	  > $P=D*\rho$
+	- Generally [[Pressure (Calculus)]] is given by:
+		- > [!Equation]
+		  > $$\large{P=\frac{F}{A}}$$
+		  > 
+		  > $P$ = [[Pressure (Calculus)]]
+		  > $F$ = [[Force]]
+		  > $A$ = [[Area]]
+		  > 
+	- The [[Pressure (Calculus)]] of a **liquid** is given by:
+		- 
 ---
 - ## Reference
