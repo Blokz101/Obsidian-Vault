@@ -17,6 +17,8 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > After substitution for [[Moment|Moments]]:
 		  > $$\large{\bar{x}=\frac{1}{A}\int_{a}^{b} xf(x) \, dx}$$
 		  > $$\large{\bar{y}=\frac{1}{A}\int_{a}^{b} \frac{1}{2}f(x)^2 \, dx}$$
+		  > Where $A$ is:
+		  > $$\large{A=\int_{a}^{b} f(x) \, dx}$$
 		  > 
 		  > $A$ = [[Area]] of the Plane
 		  > 
