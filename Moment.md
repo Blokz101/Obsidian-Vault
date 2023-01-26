@@ -5,7 +5,7 @@ Alias: [Moments]
 > Subject:: [[Calculus II]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Center Of Mass]]
 ---
 - ## Definition
 	- Symbol: $M_{x}$ or $M_{y}$

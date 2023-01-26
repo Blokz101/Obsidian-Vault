@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "87a5d03efc8501bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moment.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40b6250e56737ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work (Calculus).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "fa996e9357a29954",
             "type": "leaf",
             "state": {
@@ -54,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -128,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Hooke's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Hooke's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+                "file": "Hooke's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,12 +197,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "fa996e9357a29954",
+  "active": "9ba38c13db0bae9d",
   "lastOpenFiles": [
-    "Work (Calculus).md",
     "Moment.md",
-    "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+    "Work (Calculus).md",
+    "Hooke's Law.md",
     "References/Excalidraw/Drawing 2023-01-25 16.48.54.excalidraw.md",
     "Pressure.md",
     "Average Value Of A Function.md",
