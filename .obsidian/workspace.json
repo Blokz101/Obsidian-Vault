@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work (Calculus).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,14 +56,6 @@
             }
           },
           {
-            "id": "b2bca214b76409b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3b5c85b473a8b194",
             "type": "leaf",
             "state": {
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -150,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pressure (Calculus).md",
+                "file": "Work (Calculus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pressure (Calculus).md",
+                "file": "Work (Calculus).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pressure (Calculus).md",
+                "file": "Work (Calculus).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,10 +236,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "352cdb4bb5fa3bb0",
+  "active": "f77e88ec34fc12cc",
   "lastOpenFiles": [
-    "Weight Density Constant.md",
     "Pressure (Calculus).md",
+    "Weight Density Constant.md",
     "Density (Chemistry).md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "Work (Calculus).md",

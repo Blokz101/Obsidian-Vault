@@ -30,4 +30,5 @@ Alias: []
 	- [[Drawing 2023-01-24 16.16.30.excalidraw]]
 - ## Reference
 	- Useful in combination with [[Hooke's Law]] to work with **Springs**.
+	- Useful in combination with [[Pressure (Calculus)]] to work with **Force at Depth**.
 	- [[Application of Integrals - Textbook.pdf]]
