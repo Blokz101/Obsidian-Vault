@@ -9,8 +9,9 @@ Alias: []
 ---
 - ## Definition
 	- > [!Equation]
-	  > $$\large{\text{Impulse}=\vec{F}_{net}*\Delta t}$$
+	  > $$\large{I=\vec{F}_{net}*\Delta t}$$
 	  > 
+	  > $I$ = [[Impulse]]
 	  > $\vec{F}_{net}$ = [[Net Force]]
 	  > $\Delta t$ = Change in [[Time]]
 ---
