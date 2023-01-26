@@ -17,4 +17,6 @@ Alias: []
 	  > $\Delta t$ = Change in [[Time]]
 	- **Change in [[Momentum]] is the same as [[Impulse]].**
 ---
+- ## Practice
+	- [[Drawing 2023-01-26 16.10.52.excalidraw]]
 - ## Reference

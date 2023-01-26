@@ -15,5 +15,7 @@ Alias: []
 	  > $\vec{F}_{net}$ = [[Net Force]]
 	  > $\Delta t$ = Change in [[Time]]
 ---
+- ## Practice
+	- [[Drawing 2023-01-26 16.10.52.excalidraw]]
 - ## Reference
 	- Same as [[The Momentum Principle]].

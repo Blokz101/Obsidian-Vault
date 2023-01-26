@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,50 +272,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a09a82f173277a6f",
-        "type": "window",
-        "children": [
-          {
-            "id": "37692d4190c30983",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53906d4eb732138c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "53906d4eb732138c",
+  "active": "49f5cc2d51994435",
   "lastOpenFiles": [
-    "The Momentum Principle.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+    "The Momentum Principle.md",
     "Impulse.md",
+    "Momentum Update.md",
     "Momentum.md",
     "Iterative Prediction of Motion.md",
     "Position Update.md",
-    "Momentum Update.md",
     "Net Force.md",
     "Average Velocity.md",
     "Excalibrain Graph.md"
