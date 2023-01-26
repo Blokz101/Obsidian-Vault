@@ -15,6 +15,6 @@ Alias: []
 		  > $\vec{p}_{f}$ = Final [[Momentum]]
 		  > $\vec{p}_{i}$ = Initial [[Momentum]]
 		  > $\vec{F}_{net}$ = [[Net Force]]
-		  > $\Delta t$ = Change in [[Time]]
+		  > $\Delta t$ = Change in [[Time]] ^dcf00a
 ---
 - ## Reference

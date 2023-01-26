@@ -16,6 +16,6 @@ Alias: []
 	  > $\vec{r}_{i}$ = Final Position [[Vector]]
 	  > $\Delta t$ = Change in [[Time]]
 	  > 
-	  > This is simply the [[Average Velocity]] equation thats rearranged
+	  > This is simply the [[Average Velocity]] equation thats rearranged ^2eb7a6
 ---
 - ## Reference
