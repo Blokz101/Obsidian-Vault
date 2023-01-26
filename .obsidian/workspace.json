@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Momentum.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Position Update.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Position Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Position Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Position Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,17 +248,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "5a3aac6b5cf2bf0c",
+  "active": "f856ff4511e8e48d",
   "lastOpenFiles": [
-    "Average Velocity.md",
     "Iterative Prediction of Motion.md",
+    "Momentum.md",
+    "Average Velocity.md",
     "Position Update.md",
     "Momentum Update.md",
     "The Momentum Principle.md",
     "Pressure (Calculus).md",
     "Work (Calculus).md",
     "Weight Density Constant.md",
-    "Density (Chemistry).md",
-    "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
+    "Density (Chemistry).md"
   ]
 }
