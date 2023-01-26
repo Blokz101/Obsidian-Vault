@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Work (Calculus).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,13 +236,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "f77e88ec34fc12cc",
+  "active": "352cdb4bb5fa3bb0",
   "lastOpenFiles": [
+    "Work (Calculus).md",
     "Pressure (Calculus).md",
     "Weight Density Constant.md",
     "Density (Chemistry).md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
-    "Work (Calculus).md",
     "Pressure.md",
     "Hooke's Law.md",
     "Arc Length.md",
