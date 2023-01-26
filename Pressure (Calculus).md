@@ -17,6 +17,11 @@ Alias: []
 		  > $A$ = [[Area]]
 		  > 
 	- The [[Pressure (Calculus)]] of a **liquid** is given by:
-		- 
+		- > [!Equation]
+		  > $$\large{P=\rho*d}$$
+		  > 
+		  > $P$ = [[Pressure (Calculus)]]
+		  > $\rho$ = [[Weight Density Constant]]
+		  > $d$ = Depth from surface
 ---
 - ## Reference
