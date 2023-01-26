@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: [[Displacement]]
 > Friends:: 
-> Children:: 
+> Children:: [[Position Update]] [[Velocity]]
 ---
 - ## Definition
 	- The average [[Velocity]] over a span of [[Time]].

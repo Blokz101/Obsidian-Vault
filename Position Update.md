@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
+> Parents:: [[Momentum]] [[Average Velocity]]
 > Friends:: 
-> Children:: 
+> Children:: [[Iterative Prediction of Motion]]
 ---
 - ## Definition
 	- If the [[Velocity]] is mostly constant then we can use the [[Average Velocity]] to predict the objects position in the future.

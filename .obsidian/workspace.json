@@ -92,7 +92,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Momentum Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Momentum Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Momentum Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,17 +259,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "53906d4eb732138c",
+  "active": "352cdb4bb5fa3bb0",
   "lastOpenFiles": [
+    "Iterative Prediction of Motion.md",
+    "Average Velocity.md",
     "Momentum.md",
     "Position Update.md",
-    "Average Velocity.md",
-    "Displacement.md",
-    "Iterative Prediction of Motion.md",
-    "Momentum Update.md",
     "The Momentum Principle.md",
+    "Excalibrain Graph.md",
+    "Displacement.md",
+    "Momentum Update.md",
     "Pressure (Calculus).md",
-    "Work (Calculus).md",
-    "Weight Density Constant.md"
+    "Work (Calculus).md"
   ]
 }

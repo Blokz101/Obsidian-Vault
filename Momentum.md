@@ -5,7 +5,7 @@ Alias: [Momentums]
 > Subject:: [[Physics]]
 > Parents:: [[Mass]] [[Velocity]]
 > Friends:: [[The Momentum Principle]]
-> Children:: 
+> Children:: [[Position Update]]
 ---
 - ## Definition
 	- Symbol: $\vec{p}$
