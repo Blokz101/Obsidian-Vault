@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistor.md",
+                "file": "Arc Length.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "f77e88ec34fc12cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work (Calculus).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17e74e6f9174b5f2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transistor.md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transistor.md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transistor.md",
+                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,17 +222,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "246fecbe4249fd19",
+  "active": "17e74e6f9174b5f2",
   "lastOpenFiles": [
+    "Work (Calculus).md",
+    "Arc Length.md",
+    "Transistor.md",
     "Center Of Mass.md",
     "Hooke's Law.md",
     "Moment.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
-    "Work (Calculus).md",
     "References/Excalidraw/Drawing 2023-01-25 16.48.54.excalidraw.md",
     "Pressure.md",
-    "Average Value Of A Function.md",
-    "Excalibrain Graph.md",
-    "Trigonometric Identities.md"
+    "Average Value Of A Function.md"
   ]
 }
