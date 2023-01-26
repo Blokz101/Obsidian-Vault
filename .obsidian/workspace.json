@@ -230,8 +230,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 40,
-        "y": 900,
+        "x": 0,
+        "y": 0,
         "width": 700,
         "height": 845,
         "maximize": true,
@@ -241,8 +241,8 @@
   },
   "active": "534661376c47bf70",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-25 16.48.54.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-25 16.48.54.excalidraw.md",
     "Work (Calculus).md",
     "Pressure.md",
     "Hooke's Law.md",
