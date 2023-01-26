@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +239,7 @@
       }
     ]
   },
-  "active": "4815f64325b1c4c1",
+  "active": "534661376c47bf70",
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2023-01-24 16.16.30.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-25 16.48.54.excalidraw.md",
