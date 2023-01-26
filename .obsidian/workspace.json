@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "53906d4eb732138c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterative Prediction of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4fe013f536dbc3d0",
             "type": "leaf",
             "state": {
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,8 +247,45 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": true
     }
   },
-  "active": "352cdb4bb5fa3bb0",
+  "floating": {
+    "id": "d9595163fbb98eef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a09a82f173277a6f",
+        "type": "window",
+        "children": [
+          {
+            "id": "37692d4190c30983",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53906d4eb732138c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 40,
+        "y": 900,
+        "width": 700,
+        "height": 845,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "53906d4eb732138c",
   "lastOpenFiles": [
+    "Momentum Update.md",
+    "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Iterative Prediction of Motion.md",
     "Average Velocity.md",
     "Momentum.md",
@@ -268,8 +293,6 @@
     "The Momentum Principle.md",
     "Excalibrain Graph.md",
     "Displacement.md",
-    "Momentum Update.md",
-    "Pressure (Calculus).md",
-    "Work (Calculus).md"
+    "Pressure (Calculus).md"
   ]
 }

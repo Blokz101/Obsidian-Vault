@@ -17,4 +17,6 @@ Alias: []
 		  > $\vec{F}_{net}$ = [[Net Force]]
 		  > $\Delta t$ = Change in [[Time]] ^dcf00a
 ---
+- ## Practice
+	- [[Drawing 2023-01-26 16.10.52.excalidraw]]
 - ## Reference
