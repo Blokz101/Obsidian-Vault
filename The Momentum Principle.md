@@ -15,6 +15,6 @@ Alias: []
 	  > $\Delta \vec{p}$ = Change in [[Momentum]]
 	  > $\vec{F}_{net}$ = [[Net Force]]
 	  > $\Delta t$ = Change in [[Time]]
+	- **Change in [[Momentum]] is the same as [[Impulse]].**
 ---
 - ## Reference
-	- Change in [[Momentum]] is the same as [[Impulse]].
