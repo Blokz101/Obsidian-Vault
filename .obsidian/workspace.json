@@ -123,23 +123,11 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -2723.1125116819308,
-                  "y": -1505.3131021692102,
-                  "zoom": -1.301745188976764,
+                  "x": -3635.3999999999996,
+                  "y": -1638.8400000000006,
+                  "zoom": 0,
                   "snapToGrid": true
                 }
-              }
-            }
-          },
-          {
-            "id": "80a804b023515e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binomial Expansion.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
@@ -218,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Position Update.md",
+                "file": "Motion Note Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Position Update.md",
+                "file": "Motion Note Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Position Update.md",
+                "file": "Motion Note Web.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,12 +337,12 @@
   },
   "active": "49f5cc2d51994435",
   "lastOpenFiles": [
-    "Binomial Expansion.md",
+    "Average Velocity.md",
     "Motion Note Web.canvas",
+    "Binomial Expansion.md",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
     "Displacement.md",
-    "Average Velocity.md",
     "Position Update.md",
     "Gamma Factor.md",
     "Momentum Update.md",

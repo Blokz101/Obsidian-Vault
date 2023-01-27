@@ -7,18 +7,16 @@
 		{"id":"f163d7ef8744c0df","x":-2649,"y":-2097,"width":400,"height":400,"type":"file","file":"Momentum.md"},
 		{"id":"5ebfc2ff830c1141","x":-3225,"y":-2036,"width":400,"height":400,"type":"file","file":"Displacement.md"},
 		{"id":"8733e5726fc03497","x":-1934,"y":-2036,"width":400,"height":400,"type":"file","file":"Net Force.md"},
-		{"id":"4dde6da73e079bf5","x":-3790,"y":-2630,"width":400,"height":400,"type":"file","file":"Velocity.md"},
-		{"id":"8973660d24297800","x":-3790,"y":-1992,"width":400,"height":400,"type":"file","file":"Average Velocity.md"},
-		{"id":"a3ce279ce3d06e17","x":-1800,"y":-480,"width":400,"height":400,"type":"file","file":"Impulse.md"}
+		{"id":"a3ce279ce3d06e17","x":-1800,"y":-480,"width":400,"height":400,"type":"file","file":"Impulse.md"},
+		{"id":"4dde6da73e079bf5","x":-4040,"y":-2497,"width":400,"height":400,"type":"file","file":"Velocity.md"},
+		{"id":"8973660d24297800","x":-4040,"y":-2036,"width":400,"height":400,"type":"file","file":"Average Velocity.md"}
 	],
 	"edges":[
 		{"id":"1c77c04416316e03","fromNode":"536f18352b445da7","fromSide":"bottom","toNode":"f163d7ef8744c0df","toSide":"top"},
 		{"id":"1cc05c38d464686b","fromNode":"41e1497dce007592","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},
 		{"id":"7555ef6de6881ff3","fromNode":"7c98fb061e2373a6","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},
 		{"id":"e169d29ef87270a9","fromNode":"f163d7ef8744c0df","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"},
-		{"id":"e948cb314a661827","fromNode":"4dde6da73e079bf5","fromSide":"bottom","toNode":"8973660d24297800","toSide":"top"},
 		{"id":"834f069622c6bc8c","fromNode":"5ebfc2ff830c1141","fromSide":"bottom","toNode":"41e1497dce007592","toSide":"top"},
-		{"id":"890c89eb42843e7a","fromNode":"8973660d24297800","fromSide":"bottom","toNode":"41e1497dce007592","toSide":"top"},
 		{"id":"f987c5c4be46fe7a","fromNode":"8733e5726fc03497","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"}
 	]
 }
