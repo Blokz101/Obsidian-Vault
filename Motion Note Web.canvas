@@ -7,14 +7,14 @@
 		{"id":"7c98fb061e2373a6","x":-5360,"y":-1240,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
 		{"id":"41e1497dce007592","x":-4740,"y":-1240,"width":400,"height":400,"type":"file","file":"Position Update.md"},
 		{"id":"33b63ff2f08761ad","x":-5080,"y":-560,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"},
-		{"id":"a3ce279ce3d06e17","x":-3680,"y":-560,"width":400,"height":400,"type":"file","file":"Impulse.md"},
-		{"id":"5ebfc2ff830c1141","x":-4120,"y":-1100,"width":400,"height":400,"type":"file","file":"Displacement.md"},
 		{"id":"4dde6da73e079bf5","x":-4340,"y":-2497,"width":400,"height":400,"type":"file","file":"Velocity.md"},
 		{"id":"8733e5726fc03497","x":-6040,"y":-2497,"width":400,"height":400,"type":"file","file":"Net Force.md"},
-		{"id":"0ac5b17b5b53a181","x":-5960,"y":-640,"width":400,"height":400,"type":"file","file":"Acceleration.md"},
 		{"id":"c2483f2a3ba8840b","x":-5280,"y":-2097,"width":400,"height":400,"type":"file","file":"The Momentum Principle.md"},
 		{"id":"f163d7ef8744c0df","x":-4800,"y":-2097,"width":400,"height":400,"type":"file","file":"Momentum.md"},
-		{"id":"536f18352b445da7","x":-4800,"y":-3040,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"}
+		{"id":"536f18352b445da7","x":-4800,"y":-3040,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
+		{"id":"0ac5b17b5b53a181","x":-5980,"y":-1424,"width":400,"height":400,"type":"file","file":"Acceleration.md"},
+		{"id":"5ebfc2ff830c1141","x":-4170,"y":-1300,"width":400,"height":400,"type":"file","file":"Displacement.md"},
+		{"id":"a3ce279ce3d06e17","x":-3700,"y":-1360,"width":400,"height":400,"type":"file","file":"Impulse.md"}
 	],
 	"edges":[
 		{"id":"1cc05c38d464686b","fromNode":"41e1497dce007592","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},

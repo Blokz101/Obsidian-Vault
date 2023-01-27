@@ -15,9 +15,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -4600,
-                  "y": -2840,
-                  "zoom": 0,
+                  "x": -4567.513090929553,
+                  "y": -1297.090098173643,
+                  "zoom": -1.1752309847871458,
                   "snapToGrid": true
                 }
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamma Factor.md",
+                "file": "Motion Note Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamma Factor.md",
+                "file": "Motion Note Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gamma Factor.md",
+                "file": "Motion Note Web.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
