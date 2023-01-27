@@ -22,3 +22,4 @@ Alias: []
 		  > $$\large{|v_{avg}|=\sqrt{ \vec{v}_{avgX}^2+\vec{v}_{avgY}^2+\vec{v}_{avgZ}^2 }}$$
 ---
 - ## Reference
+	- [[Motion Note Web.canvas]]

@@ -29,3 +29,4 @@ Alias: []
 	  > > $$\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)$$^2eb7a6
 ---
 - ## Reference
+	- [[Motion Note Web.canvas]]
