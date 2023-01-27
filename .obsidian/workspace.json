@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c74b171f25ee92da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Impulse.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5a3aac6b5cf2bf0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d058d42e1b8077a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2e31073f13c8f381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamma Factor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "42f571317324acb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Position Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f856ff4511e8e48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Average Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae17c9bc5ea7f808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Displacement.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cc0e34443d478867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "136eedcb2ac8d34e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterative Prediction of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "49f5cc2d51994435",
             "type": "leaf",
             "state": {
@@ -123,16 +15,15 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3826.2771443613215,
-                  "y": -1386.2578762820192,
-                  "zoom": -0.785119385421276,
+                  "x": -3185.2035791657095,
+                  "y": -1328.7391359776318,
+                  "zoom": -0.8124406151970227,
                   "snapToGrid": true
                 }
               }
             }
           }
         ],
-        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -337,15 +228,15 @@
   },
   "active": "49f5cc2d51994435",
   "lastOpenFiles": [
-    "Average Velocity.md",
+    "Position Update.md",
     "Motion Note Web.canvas",
-    "Binomial Expansion.md",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
-    "Displacement.md",
-    "Position Update.md",
     "Gamma Factor.md",
-    "Momentum Update.md",
-    "Momentum.md"
+    "Momentum.md",
+    "Impulse.md",
+    "Average Velocity.md",
+    "Binomial Expansion.md",
+    "Displacement.md"
   ]
 }
