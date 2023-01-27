@@ -9,6 +9,7 @@ Alias: []
 ---
 - ## Definition
 	- Use [[Momentum Update]] and [[Position Update]] to find the next [[Position]] and [[Momentum]].
+	- Only works if the [[Net Force]] is 
 - ## Steps
 	- #### Calculate The Net Force
 		- Use info from the problem to find the [[Net Force]] acting on the object.

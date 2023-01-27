@@ -12,9 +12,10 @@
 		{"id":"c2483f2a3ba8840b","x":-5280,"y":-2097,"width":400,"height":400,"type":"file","file":"The Momentum Principle.md"},
 		{"id":"f163d7ef8744c0df","x":-4800,"y":-2097,"width":400,"height":400,"type":"file","file":"Momentum.md"},
 		{"id":"536f18352b445da7","x":-4800,"y":-3040,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
-		{"id":"0ac5b17b5b53a181","x":-5980,"y":-1424,"width":400,"height":400,"type":"file","file":"Acceleration.md"},
-		{"id":"5ebfc2ff830c1141","x":-4170,"y":-1300,"width":400,"height":400,"type":"file","file":"Displacement.md"},
-		{"id":"a3ce279ce3d06e17","x":-3700,"y":-1360,"width":400,"height":400,"type":"file","file":"Impulse.md"}
+		{"id":"a3ce279ce3d06e17","x":-2600,"y":-2600,"width":400,"height":400,"type":"file","file":"Impulse.md"},
+		{"id":"5ebfc2ff830c1141","x":-2600,"y":-2160,"width":400,"height":400,"type":"file","file":"Displacement.md"},
+		{"id":"0ac5b17b5b53a181","x":-2600,"y":-1720,"width":400,"height":400,"type":"file","file":"Acceleration.md"},
+		{"id":"2d9030d97d0a2f9d","x":-2620,"y":-2640,"width":440,"height":1340,"type":"group","label":"Random Shit"}
 	],
 	"edges":[
 		{"id":"1cc05c38d464686b","fromNode":"41e1497dce007592","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},
@@ -23,8 +24,8 @@
 		{"id":"0f62ef7cddff2a2b","fromNode":"8973660d24297800","fromSide":"bottom","toNode":"8f219716da4aa148","toSide":"top"},
 		{"id":"29f2ef23428d647d","fromNode":"8733e5726fc03497","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"},
 		{"id":"4ca031da8c0f55fc","fromNode":"c2483f2a3ba8840b","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"},
-		{"id":"0b26647ab2bb0a7a","fromNode":"7c98fb061e2373a6","fromSide":"right","toNode":"41e1497dce007592","toSide":"left"},
 		{"id":"1c77c04416316e03","fromNode":"536f18352b445da7","fromSide":"bottom","toNode":"f163d7ef8744c0df","toSide":"top"},
-		{"id":"b2937ff3a4568e97","fromNode":"f163d7ef8744c0df","fromSide":"bottom","toNode":"41e1497dce007592","toSide":"top"}
+		{"id":"b2937ff3a4568e97","fromNode":"f163d7ef8744c0df","fromSide":"bottom","toNode":"41e1497dce007592","toSide":"top"},
+		{"id":"95fb395a73cb390d","fromNode":"7c98fb061e2373a6","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"}
 	]
 }
