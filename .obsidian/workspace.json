@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+                "file": "The Momentum Principle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,11 +307,11 @@
       }
     ]
   },
-  "active": "6754cacdb9820400",
+  "active": "49f5cc2d51994435",
   "lastOpenFiles": [
+    "Momentum Update.md",
     "The Momentum Principle.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
-    "Momentum Update.md",
     "Impulse.md",
     "Momentum.md",
     "Iterative Prediction of Motion.md",
