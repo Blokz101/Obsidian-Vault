@@ -297,16 +297,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "6754cacdb9820400",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md"
-                  }
-                }
-              },
-              {
                 "id": "352cdb4bb5fa3bb0",
                 "type": "leaf",
                 "state": {
@@ -316,16 +306,15 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 36,
+        "x": 34,
         "y": 900,
         "width": 700,
         "height": 845,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
@@ -334,8 +323,8 @@
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
     "Iterative Prediction of Motion.md",
-    "Position Update.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+    "Position Update.md",
     "The Momentum Principle.md",
     "Impulse.md",
     "Average Velocity.md",
