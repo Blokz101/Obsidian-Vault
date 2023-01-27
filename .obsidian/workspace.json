@@ -326,21 +326,21 @@
         "y": -82,
         "width": 700,
         "height": 845,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "42f571317324acb7",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
+    "Position Update.md",
     "The Momentum Principle.md",
     "Impulse.md",
     "Average Velocity.md",
     "Gamma Factor.md",
-    "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
     "Momentum.md",
     "Iterative Prediction of Motion.md",
-    "Position Update.md",
     "Momentum Update.md",
     "Net Force.md"
   ]
