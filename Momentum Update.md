@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[The Momentum Principle]]
-> Friends:: [[Momentum]]
+> Friends:: [[Momentum]] [[Motion Note Web.canvas]]
 > Children:: [[Iterative Prediction of Motion]]
 ---
 - ## Definition

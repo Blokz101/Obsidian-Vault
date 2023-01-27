@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Momentum]] [[Average Velocity]]
-> Friends:: 
+> Friends:: [[Motion Note Web.canvas]]
 > Children:: [[Iterative Prediction of Motion]]
 ---
 - ## Definition

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[The Momentum Principle]]
+> Friends:: [[The Momentum Principle]] [[Motion Note Web.canvas]]
 > Children:: 
 ---
 - ## Definition
@@ -19,3 +19,4 @@ Alias: []
 	- [[Drawing 2023-01-26 16.10.52.excalidraw]]
 - ## Reference
 	- Same as [[The Momentum Principle]].
+	- [[Motion Note Web.canvas]]

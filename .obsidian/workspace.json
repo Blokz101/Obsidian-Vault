@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Momentum.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -121,18 +121,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
+                  "x": -3498.1824533876884,
+                  "y": -710.304094693841,
+                  "zoom": -0.20837535639603935,
                   "snapToGrid": false
                 }
               }
             }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -335,9 +335,9 @@
       }
     ]
   },
-  "active": "49f5cc2d51994435",
+  "active": "5a3aac6b5cf2bf0c",
   "lastOpenFiles": [
-    "The Momentum Principle.md",
+    "Motion Note Web.canvas",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
     "Displacement.md",

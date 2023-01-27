@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: 
-> Friends:: [[Distance]]
+> Friends:: [[Distance]] [[Motion Note Web.canvas]]
 > Children:: 
 ---
 - ## Definition

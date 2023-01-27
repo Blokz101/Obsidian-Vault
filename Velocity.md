@@ -4,7 +4,7 @@ Alias: [Instantaneous Velocity]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Average Velocity]]
-> Friends:: 
+> Friends:: [[Motion Note Web.canvas]]
 > Children:: 
 ---
 - ## Definition

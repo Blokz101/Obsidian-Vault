@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Displacement]]
-> Friends:: 
+> Friends:: [[Motion Note Web.canvas]]
 > Children:: [[Position Update]] [[Velocity]]
 ---
 - ## Definition

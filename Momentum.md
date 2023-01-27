@@ -4,7 +4,7 @@ Alias: [Momentums]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Mass]] [[Velocity]]
-> Friends:: [[The Momentum Principle]]
+> Friends:: [[The Momentum Principle]] [[Motion Note Web.canvas]]
 > Children:: [[Position Update]]
 ---
 - ## Definition

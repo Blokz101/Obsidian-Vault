@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Motion Note Web.canvas]]
 > Children:: 
 ---
 - ## Definition
