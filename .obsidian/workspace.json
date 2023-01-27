@@ -123,9 +123,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3546.4130100603657,
-                  "y": -1757.2231403063488,
-                  "zoom": -0.8999051434795062,
+                  "x": -3826.2771443613215,
+                  "y": -1386.2578762820192,
+                  "zoom": -0.785119385421276,
                   "snapToGrid": true
                 }
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Motion Note Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Motion Note Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "Motion Note Web.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
