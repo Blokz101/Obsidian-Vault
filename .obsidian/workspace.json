@@ -15,9 +15,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -4320.1899188278685,
-                  "y": -949.605653701741,
-                  "zoom": -1.3015215873718278,
+                  "x": -4531.69058842151,
+                  "y": -1907.7362521613888,
+                  "zoom": -1.4242107534408583,
                   "snapToGrid": true
                 }
               }
@@ -217,8 +217,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 34,
-        "y": 900,
+        "x": 0,
+        "y": 0,
         "width": 700,
         "height": 845,
         "maximize": true,
@@ -228,15 +228,15 @@
   },
   "active": "49f5cc2d51994435",
   "lastOpenFiles": [
-    "Position Update.md",
+    "Acceleration.md",
     "Motion Note Web.canvas",
+    "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
+    "Position Update.md",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
     "Gamma Factor.md",
     "Momentum.md",
     "Impulse.md",
-    "Average Velocity.md",
-    "Binomial Expansion.md",
-    "Displacement.md"
+    "Average Velocity.md"
   ]
 }
