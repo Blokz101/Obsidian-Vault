@@ -104,7 +104,6 @@
             }
           }
         ],
-        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,7 +306,7 @@
       }
     ]
   },
-  "active": "49f5cc2d51994435",
+  "active": "6754cacdb9820400",
   "lastOpenFiles": [
     "Momentum Update.md",
     "The Momentum Principle.md",
