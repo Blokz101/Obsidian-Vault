@@ -10,12 +10,11 @@ Alias: []
 - ## Definition
 	- If the [[Velocity]] is mostly constant then we can use the [[Average Velocity]] to predict the objects position in the future.
 	- > [!Equation]
-	  > $$\large{\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)}$$
+	  > $$\large{\vec{r}_{f}=\vec{r}_{i}+\vec{v}\Delta t}$$
 	  > 
 	  > $\vec{r}_{f}$ = Initial Position [[Vector]]
 	  > $\vec{r}_{i}$ = Final Position [[Vector]]
-	  > $\vec{p}$ = Current [[Momentum]]
-	  > $m$ = [[Mass]]
+	  > $\vec{v}$ = [[Velocity]]
 	  > $\Delta t$ = Change in [[Time]]
 	  > 
 	  > > [!Proof]-
@@ -27,6 +26,15 @@ Alias: []
 	  > > $$\vec{v}=\frac{\vec{p}}{m}$$
 	  > > Substitute the [[Momentum]] equation into the [[Average Velocity]] equation:
 	  > > $$\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)$$^2eb7a6
+		- To do [[Position Update]] with [[Momentum]], simply substitute it in:
+		- > [!Equation]
+		  > $$\large{\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)}$$
+		  > 
+		  > $\vec{r}_{f}$ = Initial Position [[Vector]]
+	  > $\vec{r}_{i}$ = Final Position [[Vector]]
+	  > $\vec{p}$ = Current [[Momentum]]
+	  > $m$ = [[Mass]]
+	  > $\Delta t$ = Change in [[Time]]
 ---
 - ## Reference
 	- [[Motion Note Web.canvas]]
