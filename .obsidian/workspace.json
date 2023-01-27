@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "The Momentum Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "The Momentum Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "The Momentum Principle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,15 +319,15 @@
       }
     ]
   },
-  "active": "f856ff4511e8e48d",
+  "active": "49f5cc2d51994435",
   "lastOpenFiles": [
+    "Position Update.md",
+    "Average Velocity.md",
     "Iterative Prediction of Motion.md",
     "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
     "References/Excalidraw/Drawing 2023-01-26 16.10.52.excalidraw.md",
-    "Position Update.md",
     "The Momentum Principle.md",
     "Impulse.md",
-    "Average Velocity.md",
     "Gamma Factor.md",
     "Momentum.md",
     "Momentum Update.md"
