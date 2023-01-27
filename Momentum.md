@@ -10,7 +10,6 @@ Alias: [Momentums]
 - ## Definition
 	- Symbol: $\vec{p}$
 	- > [!Equation]
-	  >For speeds under 10% of the [[Speed of Light]] this equation is extremely accurate: 
 	  > 
 	  > $$\large{\vec{p}\approx m\vec{v}}$$
 	  > 
