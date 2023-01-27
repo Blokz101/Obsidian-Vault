@@ -2,14 +2,14 @@
 	"nodes":[
 		{"id":"41e1497dce007592","x":-3225,"y":-1387,"width":400,"height":400,"type":"file","file":"Position Update.md"},
 		{"id":"7c98fb061e2373a6","x":-2690,"y":-1503,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
-		{"id":"33b63ff2f08761ad","x":-2334,"y":-987,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"},
 		{"id":"536f18352b445da7","x":-2649,"y":-2674,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
 		{"id":"f163d7ef8744c0df","x":-2649,"y":-2097,"width":400,"height":400,"type":"file","file":"Momentum.md"},
 		{"id":"5ebfc2ff830c1141","x":-3225,"y":-2036,"width":400,"height":400,"type":"file","file":"Displacement.md"},
 		{"id":"8733e5726fc03497","x":-1934,"y":-2036,"width":400,"height":400,"type":"file","file":"Net Force.md"},
 		{"id":"a3ce279ce3d06e17","x":-1800,"y":-480,"width":400,"height":400,"type":"file","file":"Impulse.md"},
 		{"id":"4dde6da73e079bf5","x":-4040,"y":-2497,"width":400,"height":400,"type":"file","file":"Velocity.md"},
-		{"id":"8973660d24297800","x":-4040,"y":-2036,"width":400,"height":400,"type":"file","file":"Average Velocity.md"}
+		{"id":"8973660d24297800","x":-4040,"y":-2036,"width":400,"height":400,"type":"file","file":"Average Velocity.md"},
+		{"id":"33b63ff2f08761ad","x":-2940,"y":-800,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"}
 	],
 	"edges":[
 		{"id":"1c77c04416316e03","fromNode":"536f18352b445da7","fromSide":"bottom","toNode":"f163d7ef8744c0df","toSide":"top"},

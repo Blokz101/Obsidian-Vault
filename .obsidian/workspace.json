@@ -123,9 +123,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3635.3999999999996,
-                  "y": -1638.8400000000006,
-                  "zoom": 0,
+                  "x": -3546.4130100603657,
+                  "y": -1757.2231403063488,
+                  "zoom": -0.8999051434795062,
                   "snapToGrid": true
                 }
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Average Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Average Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Average Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,7 +297,7 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": true
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
