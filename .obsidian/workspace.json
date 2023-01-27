@@ -15,9 +15,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -4567.513090929553,
-                  "y": -1297.090098173643,
-                  "zoom": -1.1752309847871458,
+                  "x": -4540,
+                  "y": -1040,
+                  "zoom": 0,
                   "snapToGrid": true
                 }
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Position Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Position Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Position Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +221,7 @@
         "y": 0,
         "width": 700,
         "height": 845,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
