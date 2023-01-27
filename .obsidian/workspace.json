@@ -15,9 +15,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -4217.577483025293,
-                  "y": -1173.2064969721202,
-                  "zoom": -1.3580659411599234,
+                  "x": -4299.108849711432,
+                  "y": -1964.7195339671266,
+                  "zoom": -1.2504661997407664,
                   "snapToGrid": true
                 }
               }
@@ -228,11 +228,11 @@
   },
   "active": "49f5cc2d51994435",
   "lastOpenFiles": [
-    "Position Update.md",
+    "Iterative Prediction of Motion.md",
     "Motion Note Web.canvas",
+    "Position Update.md",
     "Acceleration.md",
     "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
-    "Iterative Prediction of Motion.md",
     "Velocity.md",
     "Gamma Factor.md",
     "Momentum.md",
