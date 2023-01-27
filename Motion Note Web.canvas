@@ -1,14 +1,16 @@
 {
 	"nodes":[
-		{"id":"a3ce279ce3d06e17","x":-2765,"y":-187,"width":400,"height":400,"type":"file","file":"Impulse.md"},
-		{"id":"f163d7ef8744c0df","x":-2890,"y":-285,"width":400,"height":400,"type":"file","file":"Momentum.md"},
-		{"id":"7c98fb061e2373a6","x":-2965,"y":-387,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
-		{"id":"536f18352b445da7","x":-3090,"y":-485,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
-		{"id":"41e1497dce007592","x":-3165,"y":-587,"width":400,"height":400,"type":"file","file":"Position Update.md"},
-		{"id":"8973660d24297800","x":-3290,"y":-685,"width":400,"height":400,"type":"file","file":"Average Velocity.md"},
-		{"id":"5ebfc2ff830c1141","x":-3365,"y":-787,"width":400,"height":400,"type":"file","file":"Displacement.md"},
-		{"id":"4dde6da73e079bf5","x":-3490,"y":-885,"width":400,"height":400,"type":"file","file":"Velocity.md"},
-		{"id":"33b63ff2f08761ad","x":-3565,"y":-987,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"}
+		{"id":"4dde6da73e079bf5","x":-3690,"y":-85,"width":400,"height":400,"type":"file","file":"Velocity.md"},
+		{"id":"5ebfc2ff830c1141","x":-3690,"y":-787,"width":400,"height":400,"type":"file","file":"Displacement.md"},
+		{"id":"8973660d24297800","x":-3290,"y":-27,"width":400,"height":400,"type":"file","file":"Average Velocity.md"},
+		{"id":"536f18352b445da7","x":-2453,"y":173,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
+		{"id":"a3ce279ce3d06e17","x":-2334,"y":-387,"width":400,"height":400,"type":"file","file":"Impulse.md"},
+		{"id":"f163d7ef8744c0df","x":-2453,"y":750,"width":400,"height":400,"type":"file","file":"Momentum.md"},
+		{"id":"41e1497dce007592","x":-3225,"y":-1387,"width":400,"height":400,"type":"file","file":"Position Update.md"},
+		{"id":"7c98fb061e2373a6","x":-2690,"y":-1503,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
+		{"id":"33b63ff2f08761ad","x":-2334,"y":-987,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1c77c04416316e03","fromNode":"536f18352b445da7","fromSide":"bottom","toNode":"f163d7ef8744c0df","toSide":"top"}
+	]
 }

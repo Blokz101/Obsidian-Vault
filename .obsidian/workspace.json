@@ -123,8 +123,8 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3062.3550714285698,
-                  "y": -177.8695714285714,
+                  "x": -2651.8397857142877,
+                  "y": -847.8614999999998,
                   "zoom": -1.0580690562555302,
                   "snapToGrid": false
                 }
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 10,
+        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomial Expansion.md",
+                "file": "Position Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomial Expansion.md",
+                "file": "Position Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Binomial Expansion.md",
+                "file": "Position Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,8 +347,9 @@
       }
     ]
   },
-  "active": "80a804b023515e44",
+  "active": "49f5cc2d51994435",
   "lastOpenFiles": [
+    "Binomial Expansion.md",
     "Motion Note Web.canvas",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
@@ -357,7 +358,6 @@
     "Position Update.md",
     "Gamma Factor.md",
     "Momentum Update.md",
-    "Momentum.md",
-    "Impulse.md"
+    "Momentum.md"
   ]
 }
