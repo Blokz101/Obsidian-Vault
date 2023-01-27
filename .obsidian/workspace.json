@@ -130,9 +130,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "80a804b023515e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binomial Expansion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 10,
         "stacked": true
       }
     ],
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Binomial Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Binomial Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Motion Note Web.canvas",
+                "file": "Binomial Expansion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -335,8 +347,9 @@
       }
     ]
   },
-  "active": "49f5cc2d51994435",
+  "active": "80a804b023515e44",
   "lastOpenFiles": [
+    "Motion Note Web.canvas",
     "Iterative Prediction of Motion.md",
     "Velocity.md",
     "Displacement.md",
@@ -345,7 +358,6 @@
     "Gamma Factor.md",
     "Momentum Update.md",
     "Momentum.md",
-    "Motion Note Web.canvas",
     "Impulse.md"
   ]
 }
