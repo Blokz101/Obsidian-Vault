@@ -1,26 +1,30 @@
 {
 	"nodes":[
-		{"id":"7c98fb061e2373a6","x":-2690,"y":-1503,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
-		{"id":"536f18352b445da7","x":-2649,"y":-2674,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
-		{"id":"8733e5726fc03497","x":-1934,"y":-2036,"width":400,"height":400,"type":"file","file":"Net Force.md"},
-		{"id":"33b63ff2f08761ad","x":-2940,"y":-800,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"},
 		{"id":"4dde6da73e079bf5","x":-4340,"y":-2497,"width":400,"height":400,"type":"file","file":"Velocity.md"},
 		{"id":"8973660d24297800","x":-4340,"y":-2036,"width":400,"height":400,"type":"file","file":"Average Velocity.md"},
 		{"id":"d942686fcc410c47","x":-4360,"y":-2540,"width":780,"height":1140,"type":"group","label":"Velocity"},
-		{"id":"5ebfc2ff830c1141","x":-4880,"y":-2036,"width":400,"height":400,"type":"file","file":"Displacement.md"},
-		{"id":"ec8ab4d5d55669b3","x":-4900,"y":-2078,"width":440,"height":462,"type":"group","label":"Position"},
 		{"id":"7e73066a4e646baa","x":-4340,"y":-1540,"width":340,"height":116,"type":"text","text":"[[Average Velocity]] Formula\n$$\\large{\\vec{v}_{avg}=\\frac{\\vec{r}_{f}-\\vec{r}_{i}}{\\Delta t}}$$"},
 		{"id":"8f219716da4aa148","x":-3940,"y":-1540,"width":340,"height":116,"type":"text","text":"[[Average Velocity]] Formula\n$$\\large{\\vec{v}_{avg}=\\frac{\\vec{r}_{f}-\\vec{r}_{i}}{t_{f}-t_{i}}}$$"},
-		{"id":"41e1497dce007592","x":-4280,"y":-1240,"width":400,"height":400,"type":"file","file":"Position Update.md"},
-		{"id":"f163d7ef8744c0df","x":-3520,"y":-2036,"width":400,"height":400,"type":"file","file":"Momentum.md"},
-		{"id":"a3ce279ce3d06e17","x":-3500,"y":-360,"width":400,"height":400,"type":"file","file":"Impulse.md"}
+		{"id":"a3ce279ce3d06e17","x":-2520,"y":-500,"width":400,"height":400,"type":"file","file":"Impulse.md"},
+		{"id":"8733e5726fc03497","x":-6040,"y":-2497,"width":400,"height":400,"type":"file","file":"Net Force.md"},
+		{"id":"7c98fb061e2373a6","x":-5360,"y":-1240,"width":400,"height":400,"type":"file","file":"Momentum Update.md"},
+		{"id":"41e1497dce007592","x":-4740,"y":-1240,"width":400,"height":400,"type":"file","file":"Position Update.md"},
+		{"id":"33b63ff2f08761ad","x":-5080,"y":-560,"width":400,"height":400,"type":"file","file":"Iterative Prediction of Motion.md"},
+		{"id":"5ebfc2ff830c1141","x":-2960,"y":-1040,"width":400,"height":400,"type":"file","file":"Displacement.md"},
+		{"id":"536f18352b445da7","x":-4400,"y":-3300,"width":400,"height":400,"type":"file","file":"Gamma Factor.md"},
+		{"id":"f163d7ef8744c0df","x":-5060,"y":-2497,"width":400,"height":400,"type":"file","file":"Momentum.md"},
+		{"id":"c2483f2a3ba8840b","x":-5060,"y":-2036,"width":400,"height":400,"type":"file","file":"The Momentum Principle.md"}
 	],
 	"edges":[
 		{"id":"1c77c04416316e03","fromNode":"536f18352b445da7","fromSide":"bottom","toNode":"f163d7ef8744c0df","toSide":"top"},
 		{"id":"1cc05c38d464686b","fromNode":"41e1497dce007592","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},
-		{"id":"7555ef6de6881ff3","fromNode":"7c98fb061e2373a6","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},
 		{"id":"c22db428c1831869","fromNode":"4dde6da73e079bf5","fromSide":"bottom","toNode":"8973660d24297800","toSide":"top"},
 		{"id":"03f7276e8f918e79","fromNode":"8973660d24297800","fromSide":"bottom","toNode":"7e73066a4e646baa","toSide":"top"},
-		{"id":"0f62ef7cddff2a2b","fromNode":"8973660d24297800","fromSide":"bottom","toNode":"8f219716da4aa148","toSide":"top"}
+		{"id":"0f62ef7cddff2a2b","fromNode":"8973660d24297800","fromSide":"bottom","toNode":"8f219716da4aa148","toSide":"top"},
+		{"id":"29f2ef23428d647d","fromNode":"8733e5726fc03497","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"},
+		{"id":"36a07c3287553f64","fromNode":"f163d7ef8744c0df","fromSide":"bottom","toNode":"c2483f2a3ba8840b","toSide":"top"},
+		{"id":"4ca031da8c0f55fc","fromNode":"c2483f2a3ba8840b","fromSide":"bottom","toNode":"7c98fb061e2373a6","toSide":"top"},
+		{"id":"0b26647ab2bb0a7a","fromNode":"7c98fb061e2373a6","fromSide":"right","toNode":"41e1497dce007592","toSide":"left"},
+		{"id":"9d14bba9d0e54800","fromNode":"f163d7ef8744c0df","fromSide":"right","toNode":"41e1497dce007592","toSide":"top"}
 	]
 }
