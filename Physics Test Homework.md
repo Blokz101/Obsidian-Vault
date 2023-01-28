@@ -18,15 +18,23 @@
 
 ###### A
 ```python
+#Given Mass
+mass = 0.003
+
+#Given Time
 initial_time = 12.51
 final_time = 12.57
 
+#Given Positions
 initial_position = np.array([5.77, 2.38, -8.49])
 final_position = np.array([5.90, 2.23, -9.51])
 
 change_in_time = final_time - initial_time
-print("Change in time: ", change_in_time)
+print("change_in_time =", change_in_time)
+ 
+average_velocity = (final_position - initial_position)/change_in_time
+print("average_velocity =", average_velocity)
 
-change_in_position = final_position - initial_position
-print("Change in time: ", change_in_position)
+average_momentum = average_velocity * mass
+print("average_momentum =", average_momentum)
 ```
