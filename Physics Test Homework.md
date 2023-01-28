@@ -95,4 +95,11 @@ print("initial_momentum =", initial_momentum)
 Calculate final momentum
 ```python
 final_momentum = initial_momentum + (thruster_force * thruster_time)
+print("final_momentum", final_momentum)
+```
+Calculate velocity and position
+```python
+final_velocity = final_momentum / mass
+final_position = initial_position + final_velocity * thruster_time
+print("final_position = ", final_position)
 ```
