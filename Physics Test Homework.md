@@ -18,8 +18,8 @@
 
 ###### A
 ```python
-initial_position: double[] = [5.77, 2.38, -8.49]
-final_position: double[] = [5.90, 2.23, -9.51]
+initial_position = [5.77, 2.38, -8.49]
+final_position = [5.90, 2.23, -9.51]
 
 print(initial_position)
 ```
