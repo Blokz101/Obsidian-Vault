@@ -80,5 +80,19 @@ print("net_force =", net_force)
 
 Given info
 ```python
-
+mass = 4.0e4
+initial_velocity = np.array( [0, 23e3, 0] )
+initial_position = np.array( [5e3, 4e3, 0] )
+thruster_force = np.array( [4.0e5, 0, 0] )
+thruster_time = 25
+coasting_time = 60^2
+```
+Calculate initial momentum
+```python
+initial_momentum = initial_velocity * mass
+print("initial_momentum =", initial_momentum)
+```
+Calculate final momentum
+```python
+final_momentum = initial_momentum + (thruster_force * thruster_time)
 ```
