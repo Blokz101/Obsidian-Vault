@@ -25,8 +25,8 @@ initial_position = np.array([5.77, 2.38, -8.49])
 final_position = np.array([5.90, 2.23, -9.51])
 
 change_in_time = final_time - initial_time
+print("Change in time: ", change_in_time)
 
 change_in_position = final_position - initial_position
-
-print(change_in_position)
+print("Change in time: ", change_in_position)
 ```
