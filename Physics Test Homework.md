@@ -17,10 +17,13 @@
 > C.) In the time interval from $t=12.51$s to $t=15.51$s, what was the average net force acting on the ball, express your result as a vector.
 
 ###### A
+Initial Constants
 ```python
 #Given Mass
-mass = 0.003
-
+mass = 2.7e-3
+```
+Find the average momentum for the first stage
+```python
 #Given Time
 initial_time = 12.51
 final_time = 12.57
@@ -30,10 +33,10 @@ initial_position = np.array([5.77, 2.38, -8.49])
 final_position = np.array([5.90, 2.23, -9.51])
 
 change_in_time = final_time - initial_time
-print("change_in_time =", change_in_time)
- 
-average_velocity = (final_position - initial_position)/change_in_time
-print("average_velocity =", average_velocity)
+print("change_in_time =", np.round(change_in_time, 3))
+
+average_velocity = (final_position - initial_position) / change_in_time
+print("average_velocity =", np.round(average_velocity, 3))
 
 average_momentum = average_velocity * mass
 print("average_momentum =", average_momentum)
