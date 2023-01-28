@@ -34,10 +34,31 @@ final_position = np.array([5.90, 2.23, -9.51])
 
 change_in_time = final_time - initial_time
 print("change_in_time =", np.round(change_in_time, 3))
+```
+```python
+average_velocity = (final_position - initial_position) / change_in_time
+print("average_velocity =", np.round(average_velocity, 3))
+```
+```python
+average_momentum = average_velocity * mass
+print("average_momentum =", np.round(average_momentum,3))
+```
+Find the average momentum for the second stage
+```python
+#Given Time
+initial_time = 15.51
+final_time = 15.57
+
+#Given Positions
+initial_position = np.array([17.15, 8.76, -60.51])
+final_position = np.array([17.48, 9.17, -61.53])
+
+change_in_time = final_time - initial_time
+print("change_in_time =", np.round(change_in_time, 3))
 
 average_velocity = (final_position - initial_position) / change_in_time
 print("average_velocity =", np.round(average_velocity, 3))
 
 average_momentum = average_velocity * mass
-print("average_momentum =", average_momentum)
+print("average_momentum =", np.round(average_momentum,3))
 ```
