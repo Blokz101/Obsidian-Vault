@@ -17,7 +17,7 @@
 > C.) In the time interval from $t=12.51$s to $t=15.51$s, what was the average net force acting on the ball, express your result as a vector.
 
 ###### Part A
-Initial Constants
+Given info from the problem
 ```python
 #Given Mass
 mass = 2.7e-3
