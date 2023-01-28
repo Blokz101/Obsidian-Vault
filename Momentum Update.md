@@ -18,6 +18,6 @@ Alias: []
 		  > $\Delta t$ = Change in [[Time]] ^dcf00a
 ---
 - ## Practice
-	- [[Physics Test Homework]]
+	- [[Physics Homework 2.1 - 2.4]]
 - ## Reference
 	- [[Motion Note Web.canvas]]

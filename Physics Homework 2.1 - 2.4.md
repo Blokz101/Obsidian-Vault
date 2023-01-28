@@ -16,7 +16,7 @@
 > 
 > C.) In the time interval from $t=12.51$s to $t=15.51$s, what was the average net force acting on the ball, express your result as a vector.
 
-###### A
+###### Part A
 Initial Constants
 ```python
 #Given Mass
@@ -45,7 +45,7 @@ Find the average momentum for the first stage:
 stage_one_average_momentum = average_velocity * mass
 print("average_momentum =", average_momentum)
 ```
-###### B
+###### Part B
 Find the average momentum for the second stage:
 ```python
 #Given Time
@@ -65,7 +65,7 @@ print("average_velocity =", average_velocity)
 stage_two_average_momentum = average_velocity * mass
 print("average_momentum =", average_momentum)
 ```
-###### C
+###### Part C
 Find the net force:
 ```python
 #Given Time

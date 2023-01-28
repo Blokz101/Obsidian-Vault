@@ -18,5 +18,7 @@ Alias: []
 	- #### Update Position
 		- ![[Position Update#^2eb7a6]]
 ---
+- ## Practice
+	- [[Physics Homework 2.1 - 2.4]]
 - ## Reference
 	- [[Motion Note Web.canvas]]
