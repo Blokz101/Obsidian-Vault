@@ -120,5 +120,13 @@
   ],
   "editor:delete-paragraph": [],
   "editor:insert-link": [],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "execute-code:run-all-code-blocks-in-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
 }

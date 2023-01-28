@@ -40,9 +40,10 @@ average_velocity = (final_position - initial_position) / change_in_time
 print("average_velocity =", np.round(average_velocity, 3))
 ```
 ```python
-average_momentum = average_velocity * mass
+stage_one_average_momentum = average_velocity * mass
 print("average_momentum =", np.round(average_momentum,3))
 ```
+###### B
 Find the average momentum for the second stage
 ```python
 #Given Time
@@ -59,6 +60,18 @@ print("change_in_time =", np.round(change_in_time, 3))
 average_velocity = (final_position - initial_position) / change_in_time
 print("average_velocity =", np.round(average_velocity, 3))
 
-average_momentum = average_velocity * mass
+stage_two_average_momentum = average_velocity * mass
 print("average_momentum =", np.round(average_momentum,3))
+```
+###### C
+Find the net force
+```python
+#Given Time
+initial_time = 12.51
+final_time = 15.51
+
+change_in_momentum = stage_two_average_momentum - stage_one_average_momentum
+change_in_time = final_time - initial_time
+net_force = change_in_momentum / change_in_time
+print("net_force =", np.round(net_force,3))
 ```
