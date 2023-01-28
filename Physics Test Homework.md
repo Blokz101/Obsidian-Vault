@@ -33,15 +33,15 @@ initial_position = np.array([5.77, 2.38, -8.49])
 final_position = np.array([5.90, 2.23, -9.51])
 
 change_in_time = final_time - initial_time
-print("change_in_time =", np.round(change_in_time, 3))
+print("change_in_time =", change_in_time)
 ```
 ```python
 average_velocity = (final_position - initial_position) / change_in_time
-print("average_velocity =", np.round(average_velocity, 3))
+print("average_velocity =", average_velocity)
 ```
 ```python
 stage_one_average_momentum = average_velocity * mass
-print("average_momentum =", np.round(average_momentum,3))
+print("average_momentum =", average_momentum)
 ```
 ###### B
 Find the average momentum for the second stage
@@ -55,13 +55,13 @@ initial_position = np.array([17.15, 8.76, -60.51])
 final_position = np.array([17.48, 9.17, -61.53])
 
 change_in_time = final_time - initial_time
-print("change_in_time =", np.round(change_in_time, 3))
+print("change_in_time =", change_in_time)
 
 average_velocity = (final_position - initial_position) / change_in_time
-print("average_velocity =", np.round(average_velocity, 3))
+print("average_velocity =", average_velocity)
 
 stage_two_average_momentum = average_velocity * mass
-print("average_momentum =", np.round(average_momentum,3))
+print("average_momentum =", average_momentum)
 ```
 ###### C
 Find the net force
@@ -73,5 +73,12 @@ final_time = 15.51
 change_in_momentum = stage_two_average_momentum - stage_one_average_momentum
 change_in_time = final_time - initial_time
 net_force = change_in_momentum / change_in_time
-print("net_force =", np.round(net_force,3))
+print("net_force =", net_force)
+```
+#### Problem 2
+> Suppose you are navigating a spacecraft far from other objects. The mass of the spacecraft is $4.0e4$ kg (about $40$ tons). The rocket engines are shut off, and you're coasting along with a constant velocity of $\left\langle 0, 23, 0  \right\rangle$ km/s. As you pass the location $\left\langle 5, 4, 0 \right\rangle$ km you briefly fire side thruster rockets, so that your spacecraft experiences a net force of $\left\langle 4.0e5, 0, 0 \right\rangle$ N for $25$ s. The ejected gases have a mass that is small compared to the mass of the spacecraft. You then continue coasting with the rocket engines turned off. Where are you an hour later?
+
+Given info
+```python
+
 ```
