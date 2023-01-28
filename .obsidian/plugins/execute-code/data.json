@@ -24,7 +24,7 @@
   "pythonPath": "/Users/marcusq/opt/anaconda3/bin/python",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
-  "pythonInject": "",
+  "pythonInject": "import numpy as np",
   "shellPath": "bash",
   "shellArgs": "",
   "shellFileExtension": "sh",
