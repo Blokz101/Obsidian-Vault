@@ -94,7 +94,7 @@ thruster_force = np.array( [4.0e5, 0, 0] )
 thruster_time = 25
 
 #Given coasting time
-coasting_time = 60^2
+coasting_time = 60*60
 ```
 Calculate initial momentum:
 ```python
@@ -118,6 +118,9 @@ initial_position = final_position
 ```
 Using the same momentum / velocity, update the position again for the next hour to account for the time traveled with the thrusters off:
 ```python
-final_position = initial_position + final_velocity * thruster_time
+final_position = initial_position + final_velocity * coasting_time
+print("initial_position = ", initial_position)
+print("final_velocity = ", final_velocity)
+print("coasting_time = ", coasting_time)
 print("final_position = ", final_position)
 ```
