@@ -15,3 +15,11 @@
 > B.) In the late time interval from $t=15.51$s to $t=15.57$s, what was the average momentum of the ball? Express your result as a vector.
 > 
 > C.) In the time interval from $t=12.51$s to $t=15.51$s, what was the average net force acting on the ball, express your result as a vector.
+
+###### A
+```python
+initial_position: double[] = [5.77, 2.38, -8.49]
+final_position: double[] = [5.90, 2.23, -9.51]
+
+print(initial_position)
+```
