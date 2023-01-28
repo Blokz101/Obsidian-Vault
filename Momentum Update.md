@@ -17,5 +17,7 @@ Alias: []
 		  > $\vec{F}_{net}$ = [[Net Force]]
 		  > $\Delta t$ = Change in [[Time]] ^dcf00a
 ---
+- ## Practice
+	- [[Physics Test Homework]]
 - ## Reference
 	- [[Motion Note Web.canvas]]
