@@ -11,15 +11,11 @@
             "id": "49f5cc2d51994435",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Motion Note Web.canvas",
-                "viewState": {
-                  "x": -4277.431211126507,
-                  "y": -1164.018868451,
-                  "zoom": -0.9989761728048324,
-                  "snapToGrid": true
-                }
+                "file": "Iterative Prediction of Motion.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -191,48 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d9595163fbb98eef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a9fcca9bf88afb26",
-        "type": "window",
-        "children": [
-          {
-            "id": "061062d98d262754",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "352cdb4bb5fa3bb0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "49f5cc2d51994435",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
     "Iterative Prediction of Motion.md",
     "Motion Note Web.canvas",
     "Position Update.md",
     "Acceleration.md",
-    "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
     "Velocity.md",
     "Gamma Factor.md",
     "Momentum.md",
