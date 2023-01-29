@@ -25,8 +25,8 @@ Alias: []
 	  > > $$\vec{p}\approx m\vec{v}$$
 	  > > $$\vec{v}=\frac{\vec{p}}{m}$$
 	  > > Substitute the [[Momentum]] equation into the [[Average Velocity]] equation:
-	  > > $$\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)$$^2eb7a6
-		- To do [[Position Update]] with [[Momentum]], simply substitute it in:
+	  > > $$\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)$$
+	- To do [[Position Update]] with [[Momentum]], simply substitute it in:
 		- > [!Equation]
 		  > $$\large{\vec{r}_{f}=\vec{r}_{i}+\left( \frac{\vec{p}}{m} *\Delta t \right)}$$
 		  > 
