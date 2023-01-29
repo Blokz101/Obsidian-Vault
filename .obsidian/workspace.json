@@ -47,9 +47,9 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3869.54765714286,
-                  "y": -1350.3392571428572,
-                  "zoom": -2.4428487344416934,
+                  "x": -4056.864247914218,
+                  "y": -1354.1148191154919,
+                  "zoom": -2.3757378327680585,
                   "snapToGrid": false
                 }
               }
@@ -226,15 +226,15 @@
   },
   "active": "9be8da07687b5937",
   "lastOpenFiles": [
-    "Iterative Prediction of Motion.md",
+    "Newton.md",
     "Analytic Prediction Of Motion.md",
+    "Iterative Prediction of Motion.md",
     "Motion Note Web.canvas",
     "Tags.md",
     "Nominal Motor Voltage.md",
     "Arc Length.md",
     "References/Excalidraw/Arc Length Proof 1.md",
     "Physics Homework 2.1 - 2.4.md",
-    "Momentum Update.md",
-    "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md"
+    "Momentum Update.md"
   ]
 }

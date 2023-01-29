@@ -12,8 +12,15 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\left( \frac{\vec{F}_{net}}{m} \right)t^2$$
 	  > 
-	  > $\vec{r}_{i}$ = Final [[Position]] in **meters**
-	  > $\vec{r}_{f}$ = Final [[Position]] in ****
+	  > $\vec{r}_{i}$ = Final [[Position]] in $m$
+	  > $\vec{r}_{f}$ = Final [[Position]] in $m$
+	  > $\vec{v}_{i}$ = [[Velocity]] in $\frac{m}{s}$
+	  > $\vec{F}_{net}$ = [[Net Force]] in $N$
+	  > $m$ = [[Mass]] in $g$
+	  > $t$ = [[Time]] in $s$
+- ## Steps
+	- #### Update Final Velocity
+		- Use [[Momentum Update]] divided by [[Mass]] to get 
 ---
 - ## Reference
 	- [[Motion Note Web.canvas]]

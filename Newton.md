@@ -1,5 +1,5 @@
 ---
-Alias: [N]
+Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
