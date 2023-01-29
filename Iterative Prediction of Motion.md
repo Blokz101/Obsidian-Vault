@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- When the [[Net Force]] is constant we can use [[Momentum Update]] and [[Position Update]] to predict motion.
+	- When the [[Net Force]] is constant we can use [[Momentum Update]] and [[Position Update]] to predict motion by running this calculation over and over and over again.
 - ## Steps
 	- #### Calculate The Net Force
 		- Use info from the problem to find the [[Net Force]] acting on the object.

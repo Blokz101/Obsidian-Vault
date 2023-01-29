@@ -8,7 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- When the [[Net Force]] is constant we can use the arithmetic [[Average Velocity]] to predict motion.
+	- When the [[Net Force]] is constant we can use the arithmetic [[Average Velocity]] to create a function to find [[Position]] as a function of [[Time]].
+		- This means that instead of iterating though many steps to find the [[Position]] at a specific time, we can do it one simple step.
 	- > [!Equation]
 	  > $$\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\left( \frac{\vec{F}_{net}}{m} \right)t^2$$
 	  > 

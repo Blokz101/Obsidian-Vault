@@ -75,15 +75,16 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -6846.703218099645,
-                  "y": -1257.5805986938508,
-                  "zoom": -2.3757378327680585,
+                  "x": -4219.937716380081,
+                  "y": -1607.7446621735742,
+                  "zoom": -1.5944638343486153,
                   "snapToGrid": false
                 }
               }
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,11 +252,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9be8da07687b5937",
+  "active": "a808267f40508867",
   "lastOpenFiles": [
+    "Analytic Prediction Of Motion.md",
     "Iterative Prediction of Motion.md",
     "Position Update.md",
-    "Analytic Prediction Of Motion.md",
     "Momentum Update.md",
     "Velocity Update.md",
     "Motion Note Web.canvas",
