@@ -14,6 +14,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "46b5244d4451740d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "stacked": true
@@ -182,6 +190,7 @@
   },
   "active": "2f91d57efac3a4df",
   "lastOpenFiles": [
+    "Tags.md",
     "Nominal Motor Voltage.md",
     "Arc Length.md",
     "References/Excalidraw/Arc Length Proof 1.md",
@@ -190,7 +199,6 @@
     "Momentum Update.md",
     "References/Excalidraw/Drawing 2023-01-26 22.19.48.excalidraw.md",
     "Motion Note Web.canvas",
-    "Position Update.md",
-    "Acceleration.md"
+    "Position Update.md"
   ]
 }
