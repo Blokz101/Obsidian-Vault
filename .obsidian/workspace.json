@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Position Update.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Position Update.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Position Update.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Position Update.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,14 +252,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab4e563d34dd3f5e",
+  "active": "a808267f40508867",
   "lastOpenFiles": [
-    "Iterative Prediction of Motion.md",
     "Position Update.md",
     "Analytic Prediction Of Motion.md",
+    "Momentum Update.md",
+    "Iterative Prediction of Motion.md",
     "Velocity Update.md",
     "Motion Note Web.canvas",
-    "Momentum Update.md",
     "Newton.md",
     "Tags.md",
     "Nominal Motor Voltage.md",

@@ -12,10 +12,10 @@ Alias: []
 		- > [!Equation]
 		  > $$\large{\vec{p}_{f}=\vec{p}_{i}+\vec{F}_{net}*\Delta t}$$
 		  > 
-		  > $\vec{p}_{f}$ = Final [[Momentum]]
-		  > $\vec{p}_{i}$ = Initial [[Momentum]]
-		  > $\vec{F}_{net}$ = [[Net Force]]
-		  > $\Delta t$ = Change in [[Time]] ^dcf00a
+		  > $\vec{p}_{f}$ = Final [[Momentum]] in $Ns$
+		  > $\vec{p}_{i}$ = Initial [[Momentum]] in $Ns$
+		  > $\vec{F}_{net}$ = [[Net Force]] in $N$
+		  > $\Delta t$ = Change in [[Time]]  in $s$^dcf00a
 ---
 - ## Practice
 	- [[Physics Homework 2.1 - 2.4]]

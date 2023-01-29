@@ -19,6 +19,7 @@ Alias: []
 	  > $m$ = [[Mass]] in $g$
 	  > $t$ = [[Time]] in $s$
 - ## Steps
+	- These steps are the exact same as the formula above, just broken down into their base equations.
 	- #### Find Final Velocity
 		- Use [[Velocity Update]] to find the final [[Velocity]]:
 		- ![[Velocity Update#^4fa492]]
@@ -27,6 +28,6 @@ Alias: []
 		- ![[Average Velocity#^c156d3]]
 	- #### Update Position
 		- Using the [[Average Velocity]] update the [[Position]] for the next time interval:
-		- ![[Position Update#^2eb7a6]]
+		- ![[Position Update#^45f2fb]]
 - ## Reference
 	- [[Motion Note Web.canvas]]
