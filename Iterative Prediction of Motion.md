@@ -16,7 +16,7 @@ Alias: []
 		- Use [[Momentum Update]] to update the [[Momentum]] of the object.
 		- ![[Momentum Update#^dcf00a]]
 	- #### Update Position
-		- Use the new [[Momentum]] to find the 
+		- Use the new [[Momentum]] to find the new [[Position]] of the object.
 		- ![[Position Update#^2eb7a6]]
 ---
 - ## Practice

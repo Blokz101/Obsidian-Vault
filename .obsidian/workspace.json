@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Analytic Prediction Of Motion.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Iterative Prediction of Motion.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,11 +224,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a808267f40508867",
+  "active": "9be8da07687b5937",
   "lastOpenFiles": [
+    "Iterative Prediction of Motion.md",
     "Analytic Prediction Of Motion.md",
     "Motion Note Web.canvas",
-    "Iterative Prediction of Motion.md",
     "Tags.md",
     "Nominal Motor Voltage.md",
     "Arc Length.md",

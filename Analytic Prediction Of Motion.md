@@ -10,7 +10,10 @@ Alias: []
 - ## Definition
 	- When the [[Net Force]] is constant we can use the arithmetic [[Average Velocity]] to predict motion.
 	- > [!Equation]
-	  > $\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\frac{\vec{F}_{net}}{m}t^2$
+	  > $$\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\left( \frac{\vec{F}_{net}}{m} \right)t^2$$
+	  > 
+	  > $\vec{r}_{i}$ = Final [[Position]] in **meters**
+	  > $\vec{r}_{f}$ = Final [[Position]] in ****
 ---
 - ## Reference
 	- [[Motion Note Web.canvas]]
