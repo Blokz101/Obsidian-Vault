@@ -4,12 +4,11 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Momentum Update]] [[Position Update]]
-> Friends:: [[Motion Note Web.canvas]]
+> Friends:: [[Analytic Prediction Of Motion]] [[Motion Note Web.canvas]]
 > Children:: 
 ---
 - ## Definition
-	- Use [[Momentum Update]] and [[Position Update]] to find the next [[Position]] and [[Momentum]].
-	- Only works if the [[Net Force]] is constant.
+	- When the [[Net Force]] is constant we can use [[Momentum Update]] and [[Position Update]] to predict motion.
 - ## Steps
 	- #### Calculate The Net Force
 		- Use info from the problem to find the [[Net Force]] acting on the object.
