@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Analytic Prediction Of Motion.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Iterative Prediction of Motion.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -47,8 +47,8 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -3131.2924000000025,
-                  "y": -1360.4523428571429,
+                  "x": -3869.54765714286,
+                  "y": -1350.3392571428572,
                   "zoom": -2.4428487344416934,
                   "snapToGrid": false
                 }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,11 +224,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9be8da07687b5937",
+  "active": "a808267f40508867",
   "lastOpenFiles": [
+    "Analytic Prediction Of Motion.md",
     "Motion Note Web.canvas",
     "Iterative Prediction of Motion.md",
-    "Analytic Prediction Of Motion.md",
     "Tags.md",
     "Nominal Motor Voltage.md",
     "Arc Length.md",

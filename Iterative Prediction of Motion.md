@@ -13,8 +13,10 @@ Alias: []
 	- #### Calculate The Net Force
 		- Use info from the problem to find the [[Net Force]] acting on the object.
 	- #### Update Momentum
+		- Use [[Momentum Update]] to update the [[Momentum]] of the object.
 		- ![[Momentum Update#^dcf00a]]
 	- #### Update Position
+		- Use the new [[Momentum]] to find the 
 		- ![[Position Update#^2eb7a6]]
 ---
 - ## Practice
