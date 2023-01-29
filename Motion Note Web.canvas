@@ -15,7 +15,8 @@
 		{"id":"41e1497dce007592","x":-4800,"y":-1240,"width":400,"height":400,"type":"file","file":"Position Update.md"},
 		{"id":"7e73066a4e646baa","x":-4350,"y":-1540,"width":340,"height":116,"type":"text","text":"[[Average Velocity]] Formula\n$$\\large{\\vec{v}_{avg}=\\frac{\\vec{r}_{f}-\\vec{r}_{i}}{\\Delta t}}$$"},
 		{"id":"33b63ff2f08761ad","x":-5220,"y":-700,"width":820,"height":700,"type":"file","file":"Iterative Prediction of Motion.md"},
-		{"id":"dfacd14b75b1708c","x":-4210,"y":-1100,"width":400,"height":400,"type":"file","file":"Analytic Prediction Of Motion.md"}
+		{"id":"dfacd14b75b1708c","x":-4210,"y":-1100,"width":400,"height":400,"type":"file","file":"Analytic Prediction Of Motion.md"},
+		{"id":"a1b5625f2972f5d3","x":-3800,"y":-900,"width":400,"height":400,"type":"file","file":"Velocity Update.md"}
 	],
 	"edges":[
 		{"id":"1cc05c38d464686b","fromNode":"41e1497dce007592","fromSide":"bottom","toNode":"33b63ff2f08761ad","toSide":"top"},

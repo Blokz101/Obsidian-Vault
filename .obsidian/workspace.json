@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Velocity Update.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -71,8 +71,8 @@
               "state": {
                 "file": "Motion Note Web.canvas",
                 "viewState": {
-                  "x": -4056.864247914218,
-                  "y": -1354.1148191154919,
+                  "x": -6846.703218099645,
+                  "y": -1257.5805986938508,
                   "zoom": -2.3757378327680585,
                   "snapToGrid": false
                 }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Velocity Update.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Velocity Update.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Velocity Update.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,14 +248,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e7c7b634aa7a883",
+  "active": "9be8da07687b5937",
   "lastOpenFiles": [
-    "Momentum Update.md",
     "Velocity Update.md",
+    "Motion Note Web.canvas",
+    "Momentum Update.md",
     "Analytic Prediction Of Motion.md",
     "Newton.md",
     "Iterative Prediction of Motion.md",
-    "Motion Note Web.canvas",
     "Tags.md",
     "Nominal Motor Voltage.md",
     "Arc Length.md",

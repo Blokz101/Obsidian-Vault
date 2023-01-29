@@ -16,7 +16,7 @@ Alias: []
 		  >$\vec{r}_{f}$ = Final [[Position]] [[Vector]]
 		  >$\vec{r}_{i}$ = Initial [[Position]] [[Vector]]
 		  >$t_{f}$ = Final [[Time]]
-		  >$t_{i}$ = Initial [[Time]]
+		  >$t_{i}$ = Initial [[Time]] ^c156d3
 	- The [[Magnitude]] of the [[Average Velocity]] is $|v_{avg}|$
 		- > [!Equation]
 		  > $$\large{|v_{avg}|=\sqrt{ \vec{v}_{avgX}^2+\vec{v}_{avgY}^2+\vec{v}_{avgZ}^2 }}$$

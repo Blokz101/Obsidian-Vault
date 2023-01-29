@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: [[The Momentum Principle]]
 > Friends:: [[Momentum]] [[Motion Note Web.canvas]]
-> Children:: [[Iterative Prediction of Motion]]
+> Children:: [[Velocity Update]] [[Iterative Prediction of Motion]]
 ---
 - ## Definition
 	- Rearranging [[The Momentum Principle]] we can predict [[Momentum]] with [[Net Force]] and [[Time]]:

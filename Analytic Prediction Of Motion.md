@@ -20,12 +20,8 @@ Alias: []
 	  > $t$ = [[Time]] in $s$
 - ## Steps
 	- #### Update Final Velocity
-		- Use [[Momentum Update]] divided by [[Mass]] to find the final [[Velocity]].
-		- > [!Equation]
-		  > From [[Momentum Update]]:
-		  > $$\vec{p}_{f}=\vec{p}_{i}+\vec{F}_{net}*\Delta t$$
-		  > Divide by [[Mass]]:
-		  > 
+		- Use [[Velocity Update]] to find the final [[Velocity]]:
+		- ![[Velocity Update#^4fa492]]
 ---
 - ## Reference
 	- [[Motion Note Web.canvas]]
