@@ -4,87 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "89a9284204670650",
+        "id": "3219e0efc6bed42b",
         "type": "tabs",
         "children": [
           {
-            "id": "9be8da07687b5937",
+            "id": "4ac57ce50029ab4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c08e8420fa0b9fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
-                "mode": "preview",
+                "file": "Calculus II.md",
+                "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "ab4e563d34dd3f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Position Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e7c7b634aa7a883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Velocity Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "717757972263becc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a808267f40508867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterative Prediction of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e20164170e866842",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Motion Note Web.canvas",
-                "viewState": {
-                  "x": -4219.937716380081,
-                  "y": -1607.7446621735742,
-                  "zoom": -1.5944638343486153,
-                  "snapToGrid": false
-                }
               }
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -158,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +128,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,17 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a808267f40508867",
+  "active": "4ac57ce50029ab4a",
   "lastOpenFiles": [
-    "Analytic Prediction Of Motion.md",
+    "Calculus II.md",
     "Iterative Prediction of Motion.md",
+    "Analytic Prediction Of Motion.md",
     "Position Update.md",
-    "Momentum Update.md",
     "Velocity Update.md",
+    "Momentum Update.md",
     "Motion Note Web.canvas",
     "Newton.md",
     "Tags.md",
-    "Nominal Motor Voltage.md",
-    "Arc Length.md"
+    "Nominal Motor Voltage.md"
   ]
 }
