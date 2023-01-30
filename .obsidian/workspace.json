@@ -19,15 +19,20 @@
             "id": "c08e8420fa0b9fac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Calculus II.md",
-                "mode": "source",
-                "source": true
+                "file": "Calculus II Unit 1 Review.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.46599501927693676,
+                  "snapToGrid": false
+                }
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculus II Unit 1 Review.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculus II Unit 1 Review.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calculus II Unit 1 Review.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,17 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ac57ce50029ab4a",
+  "active": "c08e8420fa0b9fac",
   "lastOpenFiles": [
+    "Riemann Sum.md",
+    "Calculus II Unit 1 Review.canvas",
+    "Work (Chemistry).md",
+    "Distance.md",
+    "Displacement.md",
     "Calculus II.md",
     "Iterative Prediction of Motion.md",
     "Analytic Prediction Of Motion.md",
     "Position Update.md",
-    "Velocity Update.md",
-    "Momentum Update.md",
-    "Motion Note Web.canvas",
-    "Newton.md",
-    "Tags.md",
-    "Nominal Motor Voltage.md"
+    "Velocity Update.md"
   ]
 }
