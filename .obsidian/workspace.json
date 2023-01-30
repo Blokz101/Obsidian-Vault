@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Calculus II Unit 1 Review.canvas",
+                "file": "Calculus II Unit 1.canvas",
                 "viewState": {
-                  "x": 521.439825892638,
-                  "y": -187.85572526668656,
-                  "zoom": -1.0746248547236124,
+                  "x": 152.11039918421085,
+                  "y": -4.749564463894853,
+                  "zoom": -0.3975959539413452,
                   "snapToGrid": true
                 }
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "Calculus II Unit 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "Calculus II Unit 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Value Of A Function.md",
+                "file": "Calculus II Unit 1.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +193,7 @@
   },
   "active": "c08e8420fa0b9fac",
   "lastOpenFiles": [
-    "Calculus II Unit 1 Review.canvas",
+    "Calculus II Unit 1.canvas",
     "Riemann Sum.md",
     "Work (Chemistry).md",
     "Distance.md",
