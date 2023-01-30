@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ac57ce50029ab4a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "c08e8420fa0b9fac",
             "type": "leaf",
             "state": {
@@ -23,16 +15,15 @@
               "state": {
                 "file": "Calculus II Unit 1 Review.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.46599501927693676,
-                  "snapToGrid": false
+                  "x": 521.439825892638,
+                  "y": -187.85572526668656,
+                  "zoom": -1.0746248547236124,
+                  "snapToGrid": true
                 }
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus II Unit 1 Review.canvas",
+                "file": "Average Value Of A Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus II Unit 1 Review.canvas",
+                "file": "Average Value Of A Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calculus II Unit 1 Review.canvas",
+                "file": "Average Value Of A Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,8 +193,8 @@
   },
   "active": "c08e8420fa0b9fac",
   "lastOpenFiles": [
-    "Riemann Sum.md",
     "Calculus II Unit 1 Review.canvas",
+    "Riemann Sum.md",
     "Work (Chemistry).md",
     "Distance.md",
     "Displacement.md",
