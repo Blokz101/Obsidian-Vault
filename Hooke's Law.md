@@ -19,5 +19,8 @@ Alias: [Spring Constant]
 ---
 - ## Practice
 	- Some spring practice in [[Work (Calculus)]]
+	- [[Calculus II Recitation Jan 19.pdf]]
+	- [[Calculus II Recitation Jan 26.pdf]]
+	- [[Calculus II Test 1 Review 1.pdf]]
 - ## Reference
 	- Useful in combination with [[Work (Calculus)]]

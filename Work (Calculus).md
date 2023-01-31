@@ -27,6 +27,8 @@ Alias: []
 			- ![[Drawing 2023-01-16 13.32.37.excalidraw]]
 ---
 - ## Practice
+	- [[Calculus II Recitation Jan 26.pdf]]
+	- [[Calculus II Recitation Jan 19.pdf]]
 	- [[Calculus II Test 1 Review 1.pdf]]
 - ## Reference
 	- Useful in combination with [[Hooke's Law]] to work with **Springs**.

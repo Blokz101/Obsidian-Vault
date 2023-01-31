@@ -27,6 +27,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
 ---
 - ## Practice
+	- [[Calculus II Recitation Jan 26.pdf]]
 	- [[Calculus II Test 1 Review.pdf]]
 - ## Reference
 	- [[Moments And Center Of Mass - Textbook 1.pdf]]
