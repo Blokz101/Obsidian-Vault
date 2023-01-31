@@ -27,8 +27,7 @@ Alias: []
 			- ![[Drawing 2023-01-16 13.32.37.excalidraw]]
 ---
 - ## Practice
-	- [[Drawing 2023-01-24 16.16.30.excalidraw]]
+	- [[Calculus II Test 1 Review 1.pdf]]
 - ## Reference
 	- Useful in combination with [[Hooke's Law]] to work with **Springs**.
-	- Useful in combination with [[Pressure (Calculus)]] to work with **Force at Depth**.
 	- [[Application of Integrals - Textbook.pdf]]
