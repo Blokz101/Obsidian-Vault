@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Velocity Update.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net Force.md",
+                "file": "Velocity Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Net Force.md",
+                "file": "Velocity Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Net Force.md",
+                "file": "Velocity Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,17 +247,17 @@
       }
     ]
   },
-  "active": "2c47cfbe70b30958",
+  "active": "f16da277fc22ccc7",
   "lastOpenFiles": [
-    "Velocity Update.md",
+    "Net Force.md",
     "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
+    "Velocity Update.md",
     "Analytic Prediction Of Motion.md",
     "Average Velocity.md",
     "Velocity.md",
     "Hooke's Law.md",
     "Work (Calculus).md",
     "Calculus II.md",
-    "Pressure (Calculus).md",
-    "Center Of Mass.md"
+    "Pressure (Calculus).md"
   ]
 }

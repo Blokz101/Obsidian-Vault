@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- Divide the [[Momentum Update]] equation by [[Mass]], we can predict [[Velocity]] with [[Net Force]], [[Mass]], and [[Time]].
+	- Divide the [[Momentum Update]] equation by [[Mass]] and substitute in [[Acceleration]], we can predict [[Velocity]] with [[Net Force]], [[Mass]], and [[Time]].
 	- > [!Equation]
 	  > $$\large{\vec{v}_{f}}=\vec{v}_{i}+\left( \frac{\vec{F}_{net}}{m} \right)*\Delta t$$
 	  > 
