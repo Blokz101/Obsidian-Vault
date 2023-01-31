@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- Divide the [[Momentum Update]] equation by [[Mass]] and substitute in [[Acceleration]], we can predict [[Velocity]] with [[Net Force]], [[Mass]], and [[Time]].
 	- > [!Equation]
-	  > $$\large{\vec{v}_{f}}=\vec{v}_{i}+a*\Delta t$$
+	  > $$\large{\vec{v}_{f}}=\vec{v}_{i}+\vec{a}*\Delta t$$
 	  > 
 	  > $\vec{v}_{f}$ = Final [[Velocity]] in $\frac{m}{s}$
 	  > $\vec{v}_{i}$ = Initial [[Velocity]] in $\frac{m}{s}$

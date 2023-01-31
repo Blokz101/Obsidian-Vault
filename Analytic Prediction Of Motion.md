@@ -11,13 +11,12 @@ Alias: []
 	- When the [[Net Force]] is constant we can use the arithmetic [[Average Velocity]] to create a function to find [[Position]] as a function of [[Time]].
 		- This means that instead of iterating though many steps to find the [[Position]] at a specific time, we can do it one simple step.
 	- > [!Equation]
-	  > $$\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\left( \frac{\vec{F}_{net}}{m} \right)t^2$$
+	  > $$\large{\vec{r}_{f}=\vec{r}_{i}}+\vec{v}_{i}t+\frac{1}{2}\vec{a}*t^2$$
 	  > 
 	  > $\vec{r}_{i}$ = Final [[Position]] in $m$
 	  > $\vec{r}_{f}$ = Final [[Position]] in $m$
 	  > $\vec{v}_{i}$ = [[Velocity]] in $\frac{m}{s}$
-	  > $\vec{F}_{net}$ = [[Net Force]] in $N$
-	  > $m$ = [[Mass]] in $g$
+	  > $\vec{a}$ = [[Acceleration]] in $\frac{m}{s^2}$
 	  > $t$ = [[Time]] in $s$
 - ## Steps
 	- These steps are the exact same as the formula above, just broken down into their base equations.

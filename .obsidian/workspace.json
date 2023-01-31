@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "d3b9b729fea99d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceleration.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2e50b5534b51092e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velocity Update.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "17733ffbbbd76f05",
             "type": "leaf",
             "state": {
@@ -116,6 +140,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -189,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+                "file": "Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+                "file": "Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+                "file": "Acceleration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -318,17 +343,17 @@
       }
     ]
   },
-  "active": "0a589c1d2ec10402",
+  "active": "d3b9b729fea99d7a",
   "lastOpenFiles": [
     "Analytic Prediction Of Motion.md",
-    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
+    "Velocity Update.md",
+    "Excalibrain Graph.md",
+    "Velocity.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
     "Vector.md",
     "Angular Direction.md",
-    "Velocity Update.md",
     "Average Velocity.md",
-    "The Momentum Principle.md",
-    "Momentum Update.md",
-    "Average Acceleration.md"
+    "The Momentum Principle.md"
   ]
 }
