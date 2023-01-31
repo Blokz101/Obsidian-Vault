@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "2d0a171d82e73686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics Homework 2.1 - 2.4.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "65fd2ed17e849a54",
             "type": "leaf",
             "state": {
@@ -140,6 +152,7 @@
             }
           }
         ],
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Physics Homework 2.1 - 2.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Physics Homework 2.1 - 2.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Physics Homework 2.1 - 2.4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -342,14 +355,14 @@
       }
     ]
   },
-  "active": "e3c41830bdcb2c98",
+  "active": "2d0a171d82e73686",
   "lastOpenFiles": [
     "Iterative Prediction of Motion.md",
+    "Analytic Prediction Of Motion.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
     "Excalibrain Graph.md",
     "Momentum Update.md",
     "Momentum.md",
-    "Analytic Prediction Of Motion.md",
     "Acceleration.md",
     "Net Force.md",
     "Velocity Update.md",
