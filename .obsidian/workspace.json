@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "2d0a171d82e73686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Homework 2.1 - 2.4.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "65fd2ed17e849a54",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -226,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Homework 2.1 - 2.4.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Homework 2.1 - 2.4.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics Homework 2.1 - 2.4.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -355,8 +343,9 @@
       }
     ]
   },
-  "active": "2d0a171d82e73686",
+  "active": "1c2af7f4f62b3ecd",
   "lastOpenFiles": [
+    "Physics Homework 2.1 - 2.4.md",
     "Iterative Prediction of Motion.md",
     "Analytic Prediction Of Motion.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
@@ -365,7 +354,6 @@
     "Momentum.md",
     "Acceleration.md",
     "Net Force.md",
-    "Velocity Update.md",
-    "Velocity.md"
+    "Velocity Update.md"
   ]
 }
