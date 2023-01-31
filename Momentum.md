@@ -17,7 +17,7 @@ Alias: [Momentums]
 	  > 
 	  > $$\large{\vec{p}= \gamma * m\vec{v}}$$
 	  > 
-	  > $\vec{p}$ = [[Momentum]]
+	  > $\vec{p}$ = [[Momentum]] in $kg\frac{m}{s}$
 	  > $\gamma$ = [[Gamma Factor]]
 	  > $m$ = [[Mass]]
 	  > $\vec{v}$ = [[Velocity]]

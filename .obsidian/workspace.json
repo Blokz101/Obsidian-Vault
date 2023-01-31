@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Acceleration.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "65fd2ed17e849a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Momentum.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b23bde7d41d10b45",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,17 +355,17 @@
       }
     ]
   },
-  "active": "d3b9b729fea99d7a",
+  "active": "65fd2ed17e849a54",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+    "Momentum.md",
+    "Momentum Update.md",
     "Analytic Prediction Of Motion.md",
+    "Acceleration.md",
+    "Net Force.md",
     "Velocity Update.md",
     "Excalibrain Graph.md",
     "Velocity.md",
-    "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
-    "Vector.md",
-    "Angular Direction.md",
-    "Average Velocity.md",
-    "The Momentum Principle.md"
+    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md"
   ]
 }

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Acceleration]] [[Mass]]
 > Children:: 
 ---
 - ## Definition
@@ -15,5 +15,12 @@ Alias: []
 	  > $F_{net}$ = [[Net Force]] in $N$
 	  > $m$ = Mass in $g$
 	  > $a$ = [[Acceleration]] in $\frac{m}{s^2}$
+	- To find the [[Acceleration]] from [[Net Force]] just rearrange the equation above.
+		- > [!Equation]
+		  > $$\large{a=\frac{\vec{F}_{net}}{m}}$$
+		  > 
+		  > $a$ = [[Acceleration]] in $\frac{m}{s^2}$
+		  > $\vec{F}_{net}$ = [[Net Force]] in $N$
+		  > $m$ = [[Mass]] in $g$ ^963757
 ---
 - ## Reference
