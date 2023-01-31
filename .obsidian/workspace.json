@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9a8cc77b42ea3309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Average Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f16da277fc22ccc7",
             "type": "leaf",
             "state": {
@@ -92,7 +104,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -166,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,17 +306,17 @@
       }
     ]
   },
-  "active": "489251016c27f03f",
+  "active": "e3c41830bdcb2c98",
   "lastOpenFiles": [
+    "Average Velocity.md",
+    "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",
+    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
     "Momentum Update.md",
     "Average Acceleration.md",
     "Velocity Update.md",
     "Acceleration.md",
     "Net Force.md",
-    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md",
-    "Analytic Prediction Of Motion.md",
-    "Average Velocity.md",
     "Velocity.md"
   ]
 }
