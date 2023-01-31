@@ -31,6 +31,6 @@ Alias: []
 		- Using the [[Average Velocity]] update the [[Position]] for the next time interval:
 		- ![[Position Update#^45f2fb]]
 - ## Practice
-	- 
+	- [[Drawing 2023-01-31 10.43.54.excalidraw]]
 - ## Reference
 	- [[Motion Note Web.canvas]]
