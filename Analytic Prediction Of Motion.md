@@ -30,5 +30,7 @@ Alias: []
 	- #### Update Position
 		- Using the [[Average Velocity]] update the [[Position]] for the next time interval:
 		- ![[Position Update#^45f2fb]]
+- ## Practice
+	- 
 - ## Reference
 	- [[Motion Note Web.canvas]]
