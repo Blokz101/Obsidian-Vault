@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "Iterative Prediction of Motion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Momentum.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -355,17 +355,17 @@
       }
     ]
   },
-  "active": "65fd2ed17e849a54",
+  "active": "1c2af7f4f62b3ecd",
   "lastOpenFiles": [
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
-    "Momentum.md",
+    "Iterative Prediction of Motion.md",
+    "Excalibrain Graph.md",
     "Momentum Update.md",
+    "Momentum.md",
     "Analytic Prediction Of Motion.md",
     "Acceleration.md",
     "Net Force.md",
     "Velocity Update.md",
-    "Excalibrain Graph.md",
-    "Velocity.md",
-    "References/Excalidraw/Drawing 2023-01-31 10.43.54.excalidraw.md"
+    "Velocity.md"
   ]
 }

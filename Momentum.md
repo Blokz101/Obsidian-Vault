@@ -17,10 +17,10 @@ Alias: [Momentums]
 	  > 
 	  > $$\large{\vec{p}= \gamma * m\vec{v}}$$
 	  > 
-	  > $\vec{p}$ = [[Momentum]] in $kg\frac{m}{s}$
+	  > $\vec{p}$ = [[Momentum]] in $kg\frac{m}{s}$ or $Ns$
 	  > $\gamma$ = [[Gamma Factor]]
-	  > $m$ = [[Mass]]
-	  > $\vec{v}$ = [[Velocity]]
+	  > $m$ = [[Mass]] in $kg$
+	  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$
 	- **[[Magnitude]] of change in [[Momentum]]** is **not** the same as the **Change in the [[Magnitude]] of [[Momentum]]**.
 		- $\large{|\Delta \vec{p}| \neq \Delta|\vec{p}|}$
 		- [[Magnitude]] does not have a direction and therefore will not be negative in most cases. 
