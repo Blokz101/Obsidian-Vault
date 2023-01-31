@@ -12,7 +12,7 @@ Alias: []
 	- > [!Warning]
 	  > This equation requires dozens of iterations to be even semi accurate even with a constant [[Net Force]].
 	  > 
-	  > The much
+	  > The much better version of this is [[Analytic Prediction Of Motion]].
 - ## Steps
 	- #### Calculate The Net Force
 		- Use info from the problem to find the [[Net Force]] acting on the object.
