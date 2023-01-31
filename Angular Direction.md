@@ -24,6 +24,9 @@ Alias: []
 		  > 
 		  > $\vec{v}$ = [[Vector]]
 		  > $|\vec{v}|$ = [[Magnitude]]
+		  > > [!Warning]
+		  > > This is not reliable and starts messing up when the vector does not point into the first quadrant.
+		  >
 		  > > [!Proof]- 
 		  > > Rearrange the equation for a [[Unit Vector]] to get $\large{\vec{v}=|\vec{v}|*\hat{v}}$.
 		  > > Use this equation for each axis to convert them. ^6d47d4
