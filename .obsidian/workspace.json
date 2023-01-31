@@ -20,127 +20,19 @@
             }
           },
           {
-            "id": "d3b9b729fea99d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceleration.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17733ffbbbd76f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Direction.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a8cc77b42ea3309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Average Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f16da277fc22ccc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Velocity Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1c2af7f4f62b3ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Iterative Prediction of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65fd2ed17e849a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b23bde7d41d10b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Momentum Principle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cf6c6c29b5760114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceleration.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d20ff4ceb175ac67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Average Acceleration.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2c47cfbe70b30958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Net Force.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -308,52 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "708bffa50e0f40e8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c55d5ea0b4a4eb62",
-        "type": "window",
-        "children": [
-          {
-            "id": "88a125b51841372b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0a589c1d2ec10402",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1c2af7f4f62b3ecd",
   "lastOpenFiles": [
-    "Physics Homework 2.1 - 2.4.md",
-    "Iterative Prediction of Motion.md",
     "Analytic Prediction Of Motion.md",
+    "Iterative Prediction of Motion.md",
+    "The Momentum Principle.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
+    "Physics Homework 2.1 - 2.4.md",
     "Excalibrain Graph.md",
     "Momentum Update.md",
     "Momentum.md",
     "Acceleration.md",
-    "Net Force.md",
-    "Velocity Update.md"
+    "Net Force.md"
   ]
 }
