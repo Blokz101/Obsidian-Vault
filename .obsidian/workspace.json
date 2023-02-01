@@ -4,107 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3219e0efc6bed42b",
+        "id": "5b41876b51e08aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c41830bdcb2c98",
+            "id": "155392c0cd48f42e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analytic Prediction Of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "bf255d5679566477",
+            "id": "c40da8ab7eae98cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Momentum Update.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2bc53a346b78a90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set-Reset Latch.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35d8a974845c082a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gated D-Latch.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6c17b23a4485afea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Register.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "154ada52af31aed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8cbf2c01e7be9fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static RAM.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a76e3a2188acfa00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic RAM.md",
-                "mode": "preview",
+                "file": "Hooke's Law.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -178,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Hooke's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Hooke's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalibrain Graph.md",
+                "file": "Hooke's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,17 +196,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19e786b673c052d0",
+  "active": "c40da8ab7eae98cd",
   "lastOpenFiles": [
     "Memory.md",
+    "Analytic Prediction Of Motion.md",
+    "Momentum Update.md",
+    "Set-Reset Latch.md",
+    "Gated D-Latch.md",
+    "Register.md",
     "Dynamic RAM.md",
     "Static RAM.md",
-    "Register.md",
-    "Gated D-Latch.md",
-    "Set-Reset Latch.md",
-    "Sequential Circuit.md",
-    "Momentum Update.md",
-    "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
-    "Analytic Prediction Of Motion.md"
+    "Excalibrain Graph.md",
+    "Sequential Circuit.md"
   ]
 }

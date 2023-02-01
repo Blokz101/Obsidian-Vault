@@ -11,6 +11,8 @@ Alias: [Spring Constant]
 	- The [[Force]] that a spring exerts is directly proportional to its [[Displacement]] from its **natural length**.
 	- Spring Constant Symbol: $k$
 	- > [!Equation]
+	  > $\large{|\vec{F}_{\text{spring}}|=k|L|}$
+	- > [!Equation]
 	  > $$\large{F=kx}$$
 	  > 
 	  > $F$ = [[Force]] in [[Newton|N]]
