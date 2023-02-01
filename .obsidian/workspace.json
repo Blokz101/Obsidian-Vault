@@ -56,13 +56,25 @@
             }
           },
           {
+            "id": "f59e45b90b274a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Adder.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a74d428d119fadf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Multiplexer.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Full Adder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Full Adder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Full Adder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,9 +284,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a74d428d119fadf6",
+  "active": "f59e45b90b274a33",
   "lastOpenFiles": [
     "Decoder.md",
+    "Multiplexer.md",
     "DeMorgan's Law.md",
     "Product of Sums.md",
     "Sum of Products.md",
@@ -282,7 +295,6 @@
     "Excalibrain Graph.md",
     "Two's Complement.md",
     "Odd Powers of Sin and Cos.md",
-    "Even Powers of Sin and Cos.md",
-    "Trigonometric Identities.md"
+    "Even Powers of Sin and Cos.md"
   ]
 }
