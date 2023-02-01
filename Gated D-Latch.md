@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Gated D-Latches]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
