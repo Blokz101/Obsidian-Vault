@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "778b04653f7271fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trigonometric Identities.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f401b09dd1a23696",
             "type": "leaf",
             "state": {
@@ -234,9 +246,9 @@
   },
   "active": "cc803f498b925d51",
   "lastOpenFiles": [
-    "Even Powers of Sin and Cos.md",
-    "Odd Powers of Sin and Cos.md",
     "Trigonometric Identities.md",
+    "Odd Powers of Sin and Cos.md",
+    "Even Powers of Sin and Cos.md",
     "Trigonometric Substations.md",
     "Hooke's Law (Physics).md",
     "Hooke's Law (Calculus II).md",
