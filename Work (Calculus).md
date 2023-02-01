@@ -31,5 +31,5 @@ Alias: []
 	- [[Calculus II Recitation Jan 19.pdf]]
 	- [[Calculus II Test 1 Review 1.pdf]]
 - ## Reference
-	- Useful in combination with [[Hooke's Law]] to work with **Springs**.
+	- Useful in combination with [[Hooke's Law (Calculus II)]] to work with **Springs**.
 	- [[Application of Integrals - Textbook.pdf]]

@@ -4,20 +4,20 @@ Alias: [Spring Constant]
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Hooke's Law (Physics)]]
 > Children:: 
 ---
 - ## Definition
 	- The [[Force]] that a spring exerts is directly proportional to its [[Displacement]] from its **natural length**.
 	- Spring Constant Symbol: $k$
 	- > [!Equation]
-	  > $$\large{|\vec{F}_{\text{spring}}|=k|L|}$$
-	  > $\large{L=}$
+	  > $$\large{|\vec{F}_{\text{spring}}|=k|s|}$$
+	  > $\large{s=L-L_0}$
 	- > [!Equation]
 	  > $$\large{F=kx}$$
 	  > 
 	  > $F$ = [[Force]] in [[Newton|N]]
-	  > $k$ = [[Hooke's Law|Spring Constant]]
+	  > $k$ = [[Hooke's Law (Calculus II)|Spring Constant]]
 	  > $x$ = [[Displacement]] from natural length in meters
 ---
 - ## Practice
