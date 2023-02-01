@@ -9,6 +9,9 @@ Alias: [RS Latch]
 ---
 - ## Definition
 	- A simple storage element
+	- Two inputs:
+		- S (Set): Set the value to **1**.
+		- R (Reset): Set the value to **0**.
 	- ![[IMG_D16EAC8205AB-1.jpeg]]
 	- R and S are set to **1** by default and should never both be **0**.
 	- Activate R or S by switching switching that input **0** and **1** again.
