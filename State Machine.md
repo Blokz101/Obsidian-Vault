@@ -9,7 +9,7 @@ Alias: [State Machines]
 ---
 - ## Definition
 	- A type of [[Sequential Circuit]] that combines logic with [[Memory]].
-	- It "remembers" its **state** and changes it current **state** and **output** based on **inputs** and its **current state**.
+	- It "remembers" its [[State]] and changes it current [[State]] and **output** based on **inputs** and its **current** [[State]].
 	- 
 ---
 - ## Reference

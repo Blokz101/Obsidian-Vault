@@ -5,9 +5,11 @@ Alias: []
 > Subject:: [[Computer Systems]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[State Machine]]
 ---
 - ## Definition
-	- A snapshot of all the relevant elements of a system at a 
+	- A snapshot of all the relevant elements of a system at a particular instant.
+	- > [!Example]
+	  > The [[State]] of a 
 ---
 - ## Reference

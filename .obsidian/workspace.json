@@ -335,6 +335,7 @@
   "active": "a14bde3daa0967aa",
   "lastOpenFiles": [
     "State Machine.md",
+    "State.md",
     "Memory.md",
     "Four-Bit Adder.md",
     "Full Adder.md",
@@ -342,7 +343,6 @@
     "Decoder.md",
     "Multiplexer.md",
     "DeMorgan's Law.md",
-    "Product of Sums.md",
-    "Sum of Products.md"
+    "Product of Sums.md"
   ]
 }
