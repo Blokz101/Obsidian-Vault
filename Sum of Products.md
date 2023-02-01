@@ -8,7 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- Uses **positive logic**:
+	- A method to create a circuit for any truth table.
+	- Uses **positive logic** (Focuses on the **1**s):
 		- One [[AND Gate]] for each **1** output.
 	- ![[IMG_F881498BEB91-1.jpeg]]
 	- To create a logic circuit that will output the given truth table using [[Sum of Products]], focus on the **1** outputs. Place one [[AND Gate]] for each series of inputs that yields a **1**.
