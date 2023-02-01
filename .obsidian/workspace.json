@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "State Machine.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "State.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State.md",
+                "file": "State Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State.md",
+                "file": "State Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "State.md",
+                "file": "State Machine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -332,10 +332,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a14bde3daa0967aa",
+  "active": "058d975858e0c9df",
   "lastOpenFiles": [
-    "State Machine.md",
     "State.md",
+    "State Machine.md",
     "Memory.md",
     "Four-Bit Adder.md",
     "Full Adder.md",

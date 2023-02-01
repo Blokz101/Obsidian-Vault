@@ -9,7 +9,5 @@ Alias: []
 ---
 - ## Definition
 	- A snapshot of all the relevant elements of a system at a particular instant.
-	- > [!Example]
-	  > The [[State]] of a 
 ---
 - ## Reference
