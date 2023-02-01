@@ -62,6 +62,54 @@
               "type": "markdown",
               "state": {
                 "file": "Full Adder.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1822457f281aee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Four-Bit Adder.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3063e88e094b4b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "058d975858e0c9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Machine.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a14bde3daa0967aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -190,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Adder.md",
+                "file": "State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Adder.md",
+                "file": "State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Full Adder.md",
+                "file": "State.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,17 +332,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f59e45b90b274a33",
+  "active": "a14bde3daa0967aa",
   "lastOpenFiles": [
+    "State Machine.md",
+    "Memory.md",
+    "Four-Bit Adder.md",
+    "Full Adder.md",
+    "Computer Systems.md",
     "Decoder.md",
     "Multiplexer.md",
     "DeMorgan's Law.md",
     "Product of Sums.md",
-    "Sum of Products.md",
-    "References/Excalidraw/Drawing 2023-02-01 14.59.36.excalidraw.md",
-    "Excalibrain Graph.md",
-    "Two's Complement.md",
-    "Odd Powers of Sin and Cos.md",
-    "Even Powers of Sin and Cos.md"
+    "Sum of Products.md"
   ]
 }
