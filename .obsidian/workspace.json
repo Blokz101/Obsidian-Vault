@@ -66,9 +66,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "154ada52af31aed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Register.md",
+                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Register.md",
+                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Register.md",
+                "file": "Memory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,17 +248,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c17b23a4485afea",
+  "active": "154ada52af31aed7",
   "lastOpenFiles": [
-    "Gated D-Latch.md",
     "Register.md",
+    "Memory.md",
+    "Gated D-Latch.md",
     "Set-Reset Latch.md",
     "Sequential Circuit.md",
     "Momentum Update.md",
     "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
     "Analytic Prediction Of Motion.md",
     "Iterative Prediction of Motion.md",
-    "The Momentum Principle.md",
-    "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md"
+    "The Momentum Principle.md"
   ]
 }

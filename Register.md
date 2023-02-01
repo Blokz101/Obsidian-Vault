@@ -1,11 +1,11 @@
 ---
-Alias: []
+Alias: [Registers]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Gated D-Latch]]
 > Friends:: 
-> Children:: 
+> Children:: [[Memory]]
 ---
 - ## Definition
 	- Uses [[Gated D-Latch|Gated D-Latches]] in series to store multiple [[Bit|Bits]] at once.
