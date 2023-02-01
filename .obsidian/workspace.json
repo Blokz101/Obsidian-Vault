@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
+                "file": "Momentum Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
+                "file": "Momentum Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
+                "file": "Momentum Update.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,45 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "708bffa50e0f40e8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3708c994c587a1c4",
-        "type": "window",
-        "children": [
-          {
-            "id": "22f4fcb70495f6b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1c2af7f4f62b3ecd",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1c2af7f4f62b3ecd",
+  "active": "bf255d5679566477",
   "lastOpenFiles": [
-    "Momentum Update.md",
     "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
+    "Momentum Update.md",
     "Analytic Prediction Of Motion.md",
     "Iterative Prediction of Motion.md",
     "The Momentum Principle.md",
