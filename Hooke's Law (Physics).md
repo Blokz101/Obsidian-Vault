@@ -19,5 +19,12 @@ Alias: []
 	  >$L$ = Current Length in $m$
 	  >$L_{0}$ = Resting Length in $m$
 	  >$\hat{L}$ = [[Unit Vector]] of [[Displacement]] direction
+	- To just find the magnitude you can ignore the direction entirely:
+		- > [!Equation]
+		  > $$\large{|\vec{F}_{net}|=k*|s|}$$
+		  > 
+		  > $|\vec{F}_{net}|$ = [[Magnitude]] of the [[Force]] that the spring exerts in $N$
+		  > $k$ = Sprint Constant
+		  > $s$ = [[Displacement]] in $m$
 ---
 - ## Reference
