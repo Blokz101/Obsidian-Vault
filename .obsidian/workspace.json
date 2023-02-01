@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2bc53a346b78a90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RS Latch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "RS Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "RS Latch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum Update.md",
+                "file": "RS Latch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,17 +212,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf255d5679566477",
+  "active": "2bc53a346b78a90d",
   "lastOpenFiles": [
-    "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
+    "Sequential Circuit.md",
     "Momentum Update.md",
+    "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
     "Analytic Prediction Of Motion.md",
     "Iterative Prediction of Motion.md",
     "The Momentum Principle.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
     "Physics Homework 2.1 - 2.4.md",
     "Excalibrain Graph.md",
-    "Momentum.md",
-    "Acceleration.md"
+    "Momentum.md"
   ]
 }
