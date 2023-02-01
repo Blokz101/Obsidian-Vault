@@ -12,8 +12,8 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{Sin^{2n+1}(x)=(1-Cos^2(x))^n*Sin(x)}$$
 	  > $$\large{Cos^{2n+1}(x)=(1-Sin^2(x))^n*Cos(x)}$$
-		- This is simply the basic [[Pythagorean Identities]] rearranged:
-		- > [!Equation]
+	- This is simply the basic [[Pythagorean Identities]] rearranged:
+	- > [!Equation]
 		  > Some $Sin$ function where $n$ is **even**, therefore $2n+1$ is **odd**.
 		  > $$Sin^{2n+1}(x)$$
 		  > Split apart the exponent:
