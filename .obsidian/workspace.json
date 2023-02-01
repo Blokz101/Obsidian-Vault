@@ -62,13 +62,13 @@
               "type": "markdown",
               "state": {
                 "file": "Register.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gated D-Latch.md",
+                "file": "Register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gated D-Latch.md",
+                "file": "Register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gated D-Latch.md",
+                "file": "Register.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,10 +236,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35d8a974845c082a",
+  "active": "6c17b23a4485afea",
   "lastOpenFiles": [
-    "Register.md",
     "Gated D-Latch.md",
+    "Register.md",
     "Set-Reset Latch.md",
     "Sequential Circuit.md",
     "Momentum Update.md",
