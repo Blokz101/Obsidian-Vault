@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "Odd Powers of Sin and Cos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -235,8 +235,8 @@
   "active": "cc803f498b925d51",
   "lastOpenFiles": [
     "Even Powers of Sin and Cos.md",
-    "Trigonometric Identities.md",
     "Odd Powers of Sin and Cos.md",
+    "Trigonometric Identities.md",
     "Trigonometric Substations.md",
     "Hooke's Law (Physics).md",
     "Hooke's Law (Calculus II).md",
