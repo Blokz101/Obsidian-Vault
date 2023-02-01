@@ -38,13 +38,25 @@
               "type": "markdown",
               "state": {
                 "file": "Set-Reset Latch.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35d8a974845c082a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gated D-Latch.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set-Reset Latch.md",
+                "file": "Gated D-Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set-Reset Latch.md",
+                "file": "Gated D-Latch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Set-Reset Latch.md",
+                "file": "Gated D-Latch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,8 +224,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bc53a346b78a90d",
+  "active": "35d8a974845c082a",
   "lastOpenFiles": [
+    "Set-Reset Latch.md",
+    "Gated D-Latch.md",
     "Sequential Circuit.md",
     "Momentum Update.md",
     "References/Excalidraw/Drawing 2023-01-31 18.53.07.excalidraw.md",
@@ -221,8 +235,6 @@
     "Iterative Prediction of Motion.md",
     "The Momentum Principle.md",
     "References/Excalidraw/Drawing 2023-01-31 16.28.38.excalidraw.md",
-    "Physics Homework 2.1 - 2.4.md",
-    "Excalibrain Graph.md",
-    "Momentum.md"
+    "Physics Homework 2.1 - 2.4.md"
   ]
 }
