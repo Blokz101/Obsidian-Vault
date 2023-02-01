@@ -3,11 +3,11 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
+> Parents:: [[Pathergrans Theorem]]
 > Friends:: [[Trigonometric Identities]]
 > Children:: 
 ---
 - ## Definition
-	- We cn 
+	- We can use [[Pathergrans Theorem]] to solve [[Integral|Integrals]] with substitution.
 ---
 - ## Reference
