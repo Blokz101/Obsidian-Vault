@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RS Latch.md",
+                "file": "Set-Reset Latch.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RS Latch.md",
+                "file": "Set-Reset Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RS Latch.md",
+                "file": "Set-Reset Latch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RS Latch.md",
+                "file": "Set-Reset Latch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
