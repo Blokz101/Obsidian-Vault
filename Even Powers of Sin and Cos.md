@@ -15,6 +15,11 @@ Alias: []
 	- This comes from the [[Double Angle Identities]]:
 	- > [!Equation]
 	  > [[Double Angle Identities]]:
-	  > $$
+	  > $$\cos 2x=\cos^2x-\sin^2x$$
+	  > Subsitute with [[Pythagorean Identities]]:
+	  > $$\cos 2x=(1-\sin^2x)-\sin^2x$$
+	  > $$\cos 2x=1-2\sin^2x$$
+	  > $$2\sin^2x=1-\cos 2x$$
+	  > $$\sin^2x=\frac{1-\cos 2x}{2}$$
 ---
 - ## Reference
