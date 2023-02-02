@@ -21,11 +21,11 @@ Alias: []
 	  > $$\sqrt{ a^2-(a\sin\theta)^2 }$$
 	  > $$\sqrt{ a^2-a^2\sin^2\theta }$$
 	  > Set $\sqrt{ a^2-x^2 }$ equal to $\sqrt{ a^2-a^2\sin^2\theta }$ and solve:
-	  > $$\begin{align}\begin{split}
-	  > \sqrt{ a^2-x^2 }=\sqrt{ a^2-a^2\sin^2\theta }\\
-	  > =\sqrt{ a^2(1-\sin^2\theta) }\\
-	  > =\sqrt{ a^2\cos^2\theta }\\
-	  > =a\cos \theta
-	  > \end{split}\\\end{align}$$
+	  > $$\begin{align}
+	  > \sqrt{ a^2-x^2 }&=\sqrt{ a^2-a^2\sin^2\theta }\\
+	  > &=\sqrt{ a^2(1-\sin^2\theta) }\\
+	  > &=\sqrt{ a^2\cos^2\theta }\\
+	  > &=a\cos \theta
+	  > \end{align}$$
 ---
 - ## Reference
