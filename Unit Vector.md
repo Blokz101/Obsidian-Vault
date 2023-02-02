@@ -13,7 +13,7 @@ Alias: []
 	- All [[Unit Vector]] are **less than one**.
 	- > [!Equation]
 	  > $$\large{\hat{v}=\frac{\vec{v}}{|\vec{v}|}}$$
-	  > $$\large{\hat{v}=\left\langle \frac{v_{x}}{|v|_{x}},\frac{\vec{v}_{y}}{|\vec{v}|_{y}},\frac{\vec{v}_{z}}{|\vec{v}|_{z}} \right\rangle}$$
+	  > $$\large{\hat{v}=\left\langle \frac{v_{x}}{|\vec{v}|_{x}},\frac{v_{y}}{|\vec{v}|_{y}},\frac{v_{z}}{|\vec{v}|_{z}} \right\rangle}$$
 	  > 
 	  > $\hat{v}$ = [[Unit Vector]]
 	  > $\vec{v}$ = [[Vector]]
