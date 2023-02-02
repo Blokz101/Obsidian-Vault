@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Hooke's Law (Physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Hooke's Law (Physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Hooke's Law (Physics).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,17 +272,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e0c1d87ffdda0f4",
+  "active": "5dd2569888bb796c",
   "lastOpenFiles": [
+    "Unit Vector.md",
+    "Trigonometric Substitutions.md",
     "Even Powers of Sin and Cos.md",
     "Odd Powers of Sin and Cos.md",
     "Analytic Prediction Of Motion.md",
     "Trigonometric Identities.md",
     "Iterative Prediction of Motion.md",
-    "Unit Vector.md",
     "Hooke's Law (Physics).md",
     "Hooke's Law (Calculus II).md",
-    "Physics Homework 2.6.md",
-    "Physics Homework 2.1 - 2.4.md"
+    "Physics Homework 2.6.md"
   ]
 }
