@@ -17,7 +17,7 @@ Alias: []
 	   > > ![[Screen Shot 2023-02-01 at 11.30.03 PM.png|200]]
 	   > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
 	   > > $$\sqrt{ a^2-x^2 }$$
-	   > > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve for $x$:
+	   > > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve:
 	   > > $$\begin{align}
 	   > \sin\theta&=\frac{x}{a}\\
 	   > x&=a\sin\theta
@@ -32,6 +32,13 @@ Alias: []
 	   > &=a\cos \theta
 	   > \end{align}$$
 	- > [!Equation]
-	  > 
+	  > $$\large{\sqrt{ x^2-a^2 }=a\sec\theta}$$
+	  > > [!Proof]
+	  > > If we draw out a right triangle and label one side $a$ and the hypotenuse $x$:
+	  > > ![[Screen Shot 2023-02-02 at 12.43.43 AM.png|200]]
+	  > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
+	  > > $$\sqrt{ x^2-a^2 }$$
+	  > > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve:
+	  > > 
 ---
 - ## Reference

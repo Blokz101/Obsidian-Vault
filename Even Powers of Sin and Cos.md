@@ -17,10 +17,10 @@ Alias: []
 	  > [[Double Angle Identities]]:
 	  > $$\cos 2x=\cos^2x-\sin^2x$$
 	  > Substitute with [[Pythagorean Identities]]:
-	  > $$\beg{align}
+	  > $$\begin{align}
 	  > \cos 2x&=(1-\sin^2x)-\sin^2x\\
 	  > &=1-2\sin^2x
-	  > $$
+	  > \end{align}$$
 	  > Solve for $\sin^2x$:
 	  > $$\begin{align}
 	  > 2\sin^2x&=1-\cos 2x\\
