@@ -22,7 +22,8 @@ Alias: [D Flipflop]
 	  > And the lights that are on for each [[State]] is determined by each [[State]]
 	  > ![[IMG_0703EA2309C3-1.jpeg|300]]
 	  > 
-	  > The full circuit would end up looking like this
-	  > ![[IMG_FC60A2FE3EAC-1.jpeg|250]] ![[IMG_85AC9753BCE1-1.jpeg|250]]
+	  > The full circuit would end up looking like this:
+	  > ![[IMG_FC60A2FE3EAC-1.jpeg|400]]
+	  > ![[IMG_85AC9753BCE1-1.jpeg|400]]
 ---
 - ## Reference

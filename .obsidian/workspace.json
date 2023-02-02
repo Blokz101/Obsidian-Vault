@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01741d3002737a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master-Slave Flipflop.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9ab5a145ed1a5b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clock.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "cc803f498b925d51",
             "type": "leaf",
             "state": {
@@ -56,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master-Slave Flipflop.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master-Slave Flipflop.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Master-Slave Flipflop.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,9 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01741d3002737a40",
+  "active": "f401b09dd1a23696",
   "lastOpenFiles": [
     "Clock.md",
+    "Even Powers of Sin and Cos.md",
     "Master-Slave Flipflop.md",
     "Hooke's Law (Physics).md",
     "Multiplexer.md",
@@ -233,7 +211,6 @@
     "Memory.md",
     "Four-Bit Adder.md",
     "Full Adder.md",
-    "Decoder.md",
-    "DeMorgan's Law.md"
+    "Decoder.md"
   ]
 }
