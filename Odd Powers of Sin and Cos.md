@@ -15,12 +15,12 @@ Alias: []
 	- This is simply the basic [[Pythagorean Identities]] rearranged:
 	- > [!Equation]
 		  > Some $Sin$ function where $n$ is **even**, therefore $2n+1$ is **odd**.
-		  > $$Sin^{2n+1}(x)$$
+		  > $$\sin^{2n+1}$
 		  > Split apart the exponent:
-		  > $$=Sin^{2n}(x)*Sin^1(x)$$
-		  >  $$=(Sin^2(x))^n*Sin(x)$$
+		  > $$=\sin^{2n}(x)*\sin^1x$$
+		  >  $$=(\sin^2(x))^n*\sinx$$
 		  >  Substitute with [[Pythagorean Identities]]:
-		  >  $$=(1-Cos^2(x))^n*Sin(x)$$
+		  >  $$=(1-\cos^2(x))^n*\sinx$$
 		  >  The exact same process applies for $Cos(x)$.
 ---
 - ## Reference
