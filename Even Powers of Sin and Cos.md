@@ -22,6 +22,7 @@ Alias: []
 	  > Solve for $\sin^2x$:
 	  > $$2\sin^2x=1-\cos 2x$$
 	  > $$\sin^2x=\frac{1-\cos 2x}{2}$$
+	  > $$\sin^2x=\frac{1}{2}(1-\cos 2x)$$
 	  > The exact same applies for $\cos x$
 ---
 - ## Reference
