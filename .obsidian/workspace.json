@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,17 +272,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb31d5b4751817d8",
+  "active": "f401b09dd1a23696",
   "lastOpenFiles": [
+    "Odd Powers of Sin and Cos.md",
+    "Analytic Prediction Of Motion.md",
+    "Trigonometric Identities.md",
     "Iterative Prediction of Motion.md",
     "Unit Vector.md",
-    "Analytic Prediction Of Motion.md",
     "Hooke's Law (Physics).md",
     "Even Powers of Sin and Cos.md",
     "Hooke's Law (Calculus II).md",
     "Physics Homework 2.6.md",
-    "Physics Homework 2.1 - 2.4.md",
-    "Odd Powers of Sin and Cos.md",
-    "Trigonometric Substitutions.md"
+    "Physics Homework 2.1 - 2.4.md"
   ]
 }
