@@ -32,8 +32,8 @@ Alias: []
 	   > &=a\cos \theta
 	   > \end{align}$$
 	- > [!Equation]
-	  > $$\large{\sqrt{ x^2-a^2 }=a\sec\theta}$$
-	  > > [!Proof]
+	  > $$\large{\sqrt{ x^2-a^2 }=a\tan\theta}$$
+	  > > [!Proof]-
 	  > > If we draw out a right triangle and label one side $a$ and the hypotenuse $x$:
 	  > > ![[Screen Shot 2023-02-02 at 12.43.43 AM.png|200]]
 	  > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
@@ -52,7 +52,29 @@ Alias: []
 	 & =\sqrt{ a^2\sec^2\theta-a^2 } \\
 	 & =\sqrt{ a^2(\sec^2\theta-1) } \\
 	 & =\sqrt{ a^2\tan\theta } \\
-	 & =
+	 & =a\tan\theta
+	\end{align}
+	  > > $$
+- > [!Equation]
+	  > $$\large{\sqrt{ x^2+a^2 }=a\sec\theta}$$
+	  > > [!Proof]
+	  > > If we draw out a right triangle and label one side $a$ and the hypotenuse $x$:
+	  > > ![[Screen Shot 2023-02-02 at 1.09.18 AM.png|200]]
+	  > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
+	  > > $$\sqrt{ x^2+a^2 }$$
+	  > > Using basic $\sin$ and $\cos$ rules we can find the $\tan$ of $\theta$ and solve:
+	  > > $$\begin{align}
+	 \tan\theta & =\frac{\sin\theta}{\cos\theta} \\
+	 & =\frac{\left( \frac{x}{a} \right)}{}
+	\end{align}
+	  > > $$
+	  > > Substitute this into $\sqrt{ x^2-a^2 }$, set the two equations equal to each other, and solve:
+	  > > $$\begin{align}
+	\sqrt{ x^2-a^2 } & =\sqrt{ (a\sec\theta)^2-a^2 } \\
+	 & =\sqrt{ a^2\sec^2\theta-a^2 } \\
+	 & =\sqrt{ a^2(\sec^2\theta-1) } \\
+	 & =\sqrt{ a^2\tan\theta } \\
+	 & =a\tan\theta
 	\end{align}
 	  > > $$
 - ## Reference
