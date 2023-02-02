@@ -22,7 +22,7 @@ Alias: []
 	   > \sin\theta&=\frac{x}{a}\\
 	   > x&=a\sin\theta
 	   > \end{align}$$
-	   > > Substitute this into $\sqrt{ a^2-x^2 }$  and solve:
+	   > > Substitute this into $\sqrt{ a^2-x^2 }$, set the two equations equal to each other, and solve:
 	   > > $$\begin{align}
 	   > \sqrt{ a^2-x^2 }&=\sqrt{ a^2-(a\sin\theta)^2 }\\
 	   > &=\sqrt{ a^2-a^2\sin^2\theta }\\
@@ -46,5 +46,13 @@ Alias: []
 	 x& =a\sec\theta
 	\end{align}
 	  > > $$
-	  > > Substitute this into $\sqrt{ a^2-x^2 }$  and solve:
+	  > > Substitute this into $\sqrt{ x^2-a^2 }$, set the two equations equal to each other, and solve:
+	  > > $$\begin{align}
+	\sqrt{ x^2-a^2 } & =\sqrt{ (a\sec\theta)^2-a^2 } \\
+	 & =\sqrt{ a^2\sec^2\theta-a^2 } \\
+	 & =\sqrt{ a^2(\sec^2\theta-1) } \\
+	 & =\sqrt{ a^2\tan\theta } \\
+	 & =
+	\end{align}
+	  > > $$
 - ## Reference
