@@ -22,6 +22,7 @@ Alias: [Spring Constant (Physics)]
 	- To just find the magnitude you can ignore the direction entirely:
 		- > [!Equation]
 		  > $$\large{|\vec{F}_{net}|=k*|s|}$$
+		  > $$\large{s=|\vec{L}|-L_{0}}$$
 		  > 
 		  > $|\vec{F}_{net}|$ = [[Magnitude]] of the [[Force]] that the spring exerts in $N$
 		  > $k$ = Sprint Constant

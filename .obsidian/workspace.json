@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "08809cd04947dee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hooke's Law (Calculus II).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5dd2569888bb796c",
             "type": "leaf",
             "state": {
@@ -66,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8cd7f6857142b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytic Prediction Of Motion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hooke's Law (Calculus II).md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hooke's Law (Calculus II).md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hooke's Law (Calculus II).md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,13 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08809cd04947dee5",
+  "active": "8cd7f6857142b2ce",
   "lastOpenFiles": [
-    "Physics Homework 2.6.md",
-    "Hooke's Law (Calculus II).md",
-    "Physics Homework 2.1 - 2.4.md",
     "Hooke's Law (Physics).md",
     "Even Powers of Sin and Cos.md",
+    "Hooke's Law (Calculus II).md",
+    "Physics Homework 2.6.md",
+    "Physics Homework 2.1 - 2.4.md",
     "Odd Powers of Sin and Cos.md",
     "Trigonometric Substitutions.md",
     "Trigonometric Substations.md",
