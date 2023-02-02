@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Spring Constant (Physics)]
 ---
 > [!Info]
 > Subject:: [[Physics]]

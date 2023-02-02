@@ -1,5 +1,5 @@
 ---
-Alias: [Spring Constant]
+Alias: [Spring Constant (Calculus II)]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
