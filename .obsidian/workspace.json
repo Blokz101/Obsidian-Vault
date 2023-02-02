@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even Powers of Sin and Cos.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even Powers of Sin and Cos.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Even Powers of Sin and Cos.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f401b09dd1a23696",
+  "active": "cc803f498b925d51",
   "lastOpenFiles": [
-    "Odd Powers of Sin and Cos.md",
     "Even Powers of Sin and Cos.md",
+    "Odd Powers of Sin and Cos.md",
     "Trigonometric Identities.md",
     "Clock.md",
     "Master-Slave Flipflop.md",
