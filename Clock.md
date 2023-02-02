@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Rising Edge, Falling Edge]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]

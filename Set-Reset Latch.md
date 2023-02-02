@@ -1,5 +1,5 @@
 ---
-Alias: [RS Latch]
+Alias: [RS Latch, RS Latches]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
