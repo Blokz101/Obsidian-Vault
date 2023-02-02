@@ -65,7 +65,10 @@ Alias: []
 	  > > Using basic $\sin$ and $\cos$ rules we can find the $\tan$ of $\theta$ and solve:
 	  > > $$\begin{align}
 	 \tan\theta & =\frac{\sin\theta}{\cos\theta} \\
-	 & =\frac{\left( \frac{x}{a} \right)}{}
+	 \tan\theta & =\frac{\frac{x}{\sqrt{ x^2+a^2 }}}{\frac{a}{\sqrt{ x^2+a^2 }}} \\
+	 \tan\theta & =\frac{x}{\cancel{ \sqrt{ x^2+a^2 } }}*\frac{\cancel{ \sqrt{ x^2+a^2 } }}{a} \\
+	 \tan\theta & =\frac{x}{a} \\
+	 x&= a\tan\theta
 	\end{align}
 	  > > $$
 	  > > Substitute this into $\sqrt{ x^2-a^2 }$, set the two equations equal to each other, and solve:
