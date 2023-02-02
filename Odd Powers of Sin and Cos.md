@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Pythagorean Identities]]
+> Parents:: [[Techniques of Integration]] [[Pythagorean Identities]]
 > Friends:: [[Even Powers of Sin and Cos]]
 > Children:: 
 ---
