@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
+> Parents:: Techniques of Integration
 > Friends:: [[Odd Powers of Sin and Cos]]
 > Children:: 
 ---
