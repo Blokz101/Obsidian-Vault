@@ -39,6 +39,6 @@ Alias: []
 	  > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
 	  > > $$\sqrt{ x^2-a^2 }$$
 	  > > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve:
-	  > > $$\begin{align}\end{align}$$
----
+	  > > $$\begin{align}
+   >>\end{align}$$
 - ## Reference
