@@ -90,9 +90,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bb31d5b4751817d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trigonometric Identities.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Trigonometric Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Iterative Prediction of Motion.md",
+                "file": "Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +272,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0837bc2bcf0d40e0",
+  "active": "bb31d5b4751817d8",
   "lastOpenFiles": [
+    "Iterative Prediction of Motion.md",
     "Unit Vector.md",
     "Analytic Prediction Of Motion.md",
     "Hooke's Law (Physics).md",
@@ -270,7 +283,6 @@
     "Physics Homework 2.6.md",
     "Physics Homework 2.1 - 2.4.md",
     "Odd Powers of Sin and Cos.md",
-    "Trigonometric Substitutions.md",
-    "Trigonometric Substations.md"
+    "Trigonometric Substitutions.md"
   ]
 }
