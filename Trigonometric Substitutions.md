@@ -38,7 +38,13 @@ Alias: []
 	  > > ![[Screen Shot 2023-02-02 at 12.43.43 AM.png|200]]
 	  > > Then using [[Pathergrans Theorem]] we can deduce that the remaining side is:
 	  > > $$\sqrt{ x^2-a^2 }$$
-	  > > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve:
+	  > > Using basic $\sin$ and $\cos$ rules we can find the $\sec$ of $\theta$ and solve:
 	  > > $$\begin{align}
-   >>\end{align}$$
+	 \sec\theta & =\frac{1}{\cos\theta} \\
+	 \sec\theta & =\frac{1}{\frac{a}{x}} \\
+	\sec\theta & =\frac{x}{a} \\
+	 x& =a\sec\theta
+	\end{align}
+	  > > $$
+	  > > Substitute this into $\sqrt{ a^2-x^2 }$  and solve:
 - ## Reference
