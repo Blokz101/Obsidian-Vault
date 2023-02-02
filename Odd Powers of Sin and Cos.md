@@ -21,6 +21,6 @@ Alias: []
 		  >  $$=(\sin^2x)^n*\sin x$$
 		  >  Substitute with [[Pythagorean Identities]]:
 		  >  $$=(1-\cos^2x)^n*\sin x$$
-		  >  The exact same process applies for $Cos(x)$.
+		  >  The exact same process applies for $\cos x$.
 ---
 - ## Reference
