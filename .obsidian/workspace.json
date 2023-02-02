@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Trigonometric Substitutions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Even Powers of Sin and Cos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Even Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,10 +224,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e0c1d87ffdda0f4",
+  "active": "f401b09dd1a23696",
   "lastOpenFiles": [
-    "Trigonometric Substations.md",
     "Trigonometric Substitutions.md",
+    "Trigonometric Substations.md",
     "Trigonometric Identities.md",
     "Odd Powers of Sin and Cos.md",
     "TEST.md",
