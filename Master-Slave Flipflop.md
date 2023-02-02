@@ -14,7 +14,15 @@ Alias: [D Flipflop]
 	- > [!Example]
 	  > A danger sign with a an arrow made of lights. Make a small animation for the lights where they light up from left to right.
 	  > ![[IMG_8E2EEA6BFDBB-1.jpeg]]
-	  > There are four [[State|States]] as listed above and so we only need 
-	- The next [[State]] is determined by the 
+	  > There are four [[State|States]] as listed above and so we only need 2 [[Bit|Bits]] to represent all the [[State|States]]. Let these [[Bit|Bits]] be $S_{1}$ and $S_{0}$.
+	  > 
+	  > The next [[State]] is determined using the status of the switch and the current [[State]].
+	  > ![[IMG_11D4A9B7F7A9-1.jpeg|300]]
+	  > 
+	  > And the lights that are on for each [[State]] is determined by each [[State]]
+	  > ![[IMG_0703EA2309C3-1.jpeg|300]]
+	  > 
+	  > The full circuit would end up looking like this
+	  > ![[IMG_FC60A2FE3EAC-1.jpeg|250]] ![[IMG_85AC9753BCE1-1.jpeg|250]]
 ---
 - ## Reference
