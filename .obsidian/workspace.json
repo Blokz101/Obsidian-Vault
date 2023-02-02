@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Trigonometric Substitutions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -239,6 +239,7 @@
   "active": "4b5490a9dd57df22",
   "lastOpenFiles": [
     "Trigonometric Substitutions.md",
+    "TEST.md",
     "Odd Powers of Sin and Cos.md",
     "Even Powers of Sin and Cos.md",
     "Trigonometric Identities.md",
@@ -246,7 +247,6 @@
     "Master-Slave Flipflop.md",
     "Hooke's Law (Physics).md",
     "Multiplexer.md",
-    "State Machine.md",
-    "Memory.md"
+    "State Machine.md"
   ]
 }
