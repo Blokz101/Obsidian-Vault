@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
+> Parents:: [[Pathergrans Theorem]]
 > Friends:: 
 > Children:: 
 ---
@@ -15,11 +15,15 @@ Alias: []
 	  > If we draw out a right triangle and label one side $x$ and the hypotenuse $a$, using [[Pathergrans Theorem]] we can deduce that the remaining side is:
 	  > $$\sqrt{ a^2-x^2 }$$
 	  > Using basic $\sin$ and $\cos$ rules we can find the $\sin$ of $\theta$ and solve for $x$:
-	  > $$\sin\theta=\frac{x}{a}$$
-	  > $$x=a\sin\theta$$
-	  > Substitute this into $\sqrt{ a^2-x^2 }$:
-	  > $$\sqrt{ a^2-(a\sin\theta)^2 }$$
-	  > $$\sqrt{ a^2-a^2\sin^2\theta }$$
+	  > $$\begin{align}
+	  > \sin\theta&=\frac{x}{a}\\
+	  > x&=a\sin\theta
+	  > \end{align}$$
+	  > Substitute this into $\sqrt{ a^2-x^2 }$  and solve:
+	  > $$\begin{align}
+	  > \sqrt{ a^2-x^2 }&=\sqrt{ a^2-(a\sin\theta)^2 }\\
+	  > &=\sqrt{ a^2-a^2\sin^2\theta }
+	  > \end{align}$$
 	  > Set $\sqrt{ a^2-x^2 }$ equal to $\sqrt{ a^2-a^2\sin^2\theta }$ and solve:
 	  > $$\begin{align}
 	  > \sqrt{ a^2-x^2 }&=\sqrt{ a^2-a^2\sin^2\theta }\\
