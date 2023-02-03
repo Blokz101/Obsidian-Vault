@@ -25,5 +25,6 @@ Alias: []
 ---
 - ## Practice
 	- [[Physics Homework 2.1 - 2.4]]
+	- [[Homework 2.6 1.pdf]]
 - ## Reference
 	- [[Motion Note Web.canvas]]

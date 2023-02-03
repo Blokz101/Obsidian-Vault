@@ -28,4 +28,6 @@ Alias: [Spring Constant (Physics)]
 		  > $k$ = Sprint Constant
 		  > $s$ = [[Displacement]] in $m$
 ---
+- ## Practice
+	- [[Homework 2.6.pdf]]
 - ## Reference
