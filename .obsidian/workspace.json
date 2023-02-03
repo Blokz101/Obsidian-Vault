@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "Trigonometric Identities.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Trigonometric Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,8 +236,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11a7351d31f61c43",
+  "active": "bb31d5b4751817d8",
   "lastOpenFiles": [
+    "Unit Circle.md",
     "Even Powers of Sin and Cos.md",
     "Analytic Prediction Of Motion.md",
     "Unit Vector.md",
@@ -246,7 +247,6 @@
     "Trigonometric Substitutions.md",
     "Odd Powers of Sin and Cos.md",
     "Trigonometric Identities.md",
-    "Hooke's Law (Calculus II).md",
-    "Physics Homework 2.6.md"
+    "Hooke's Law (Calculus II).md"
   ]
 }

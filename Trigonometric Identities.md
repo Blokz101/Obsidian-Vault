@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus]]
 > Parents:: [[Sine]] [[Cosine]] [[Tangent]] [[Cosecant]] [[Secant]] [[Cotangent]]
-> Friends:: 
+> Friends:: [[Unit Circle]] [[]]
 > Children:: [[Reciprocal Identities]] [[Quotient Identities]] [[Pythagorean Identities]] [[Trigonometric Sum and Difference]]
 ---
 - ## Definition
