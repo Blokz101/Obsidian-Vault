@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +260,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c09629058a59ba65",
+  "active": "841d703c10e4f640",
   "lastOpenFiles": [
+    "Analytic Prediction Of Motion.md",
     "Gravitational Force.md",
     "Hooke's Law (Physics).md",
     "Reciprocity.md",
@@ -270,7 +271,6 @@
     "Fundamental Forces.md",
     "Trigonometric Substitutions.md",
     "Unit Circle.md",
-    "Excalibrain Graph.md",
-    "Even and Odd Powers of Sin and Cos.md"
+    "Excalibrain Graph.md"
   ]
 }
