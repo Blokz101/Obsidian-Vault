@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odd Powers of Sin and Cos.md",
-                "mode": "preview",
+                "file": "Even and Odd Powers of Sin and Cos.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,12 +247,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1320e126594b44ec",
+  "active": "cc803f498b925d51",
   "lastOpenFiles": [
     "Even Powers of Sin and Cos.md",
-    "Odd Powers of Sin and Cos.md",
-    "Unit Circle.md",
+    "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Derivatives and Integrals.md",
+    "Unit Circle.md",
     "Trigonometric Identities.md",
     "Analytic Prediction Of Motion.md",
     "Unit Vector.md",

@@ -4,10 +4,10 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Techniques of Integration]] [[Pythagorean Identities]]
-> Friends:: [[Even Powers of Sin and Cos]]
+> Friends:: 
 > Children:: 
 ---
-- ## Definition
+- ## Odd Powers Of Sin and Cos
 	- In order to integrate $Sin$ or $Cos$ that are raised to a high **even** power we can use this this formula to expand them:
 	- > [!Equation]
 	  > $$\large{\sin^{2n+1} x=(1-\cos^2x)^n*\sin x}$$
