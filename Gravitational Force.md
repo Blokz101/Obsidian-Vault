@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[]]
+> Subject:: [[Physics]]
 > Parents:: 
 > Friends:: 
 > Children:: 
