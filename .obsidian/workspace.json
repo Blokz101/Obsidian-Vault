@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c09629058a59ba65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytic Prediction Of Motion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ce98ca8b0761afec",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gravitational Force.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gravitational Force.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gravitational Force.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,10 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "841d703c10e4f640",
+  "active": "c09629058a59ba65",
   "lastOpenFiles": [
-    "Hooke's Law (Physics).md",
     "Gravitational Force.md",
+    "Hooke's Law (Physics).md",
     "Reciprocity.md",
     "Superposition.md",
     "Trigonometric Derivatives and Integrals.md",
