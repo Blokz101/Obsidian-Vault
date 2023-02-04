@@ -1,11 +1,11 @@
 ---
-Alias: []
+Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
+> Parents:: [[Superposition]]
 > Friends:: 
-> Children:: 
+> Children:: [[Reciprocity]]
 ---
 - ## Definition
 	- The force of **gravity** between two objects.
@@ -16,4 +16,6 @@ Alias: []
 	  > $m_{\text{1 or 2}}$ = [[Mass]] of Object in $kg$
 	  > $\vec{r}$ = The [[Position]] [[Vector]] from object $1$ to $2$ in $m$
 ---
+- ## Practice
+	- 
 - ## Reference
