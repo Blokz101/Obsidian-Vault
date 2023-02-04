@@ -62,12 +62,13 @@
               "type": "markdown",
               "state": {
                 "file": "Trigonometric Derivatives and Integrals.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,9 +248,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc803f498b925d51",
+  "active": "1320e126594b44ec",
   "lastOpenFiles": [
     "Even Powers of Sin and Cos.md",
+    "Odd Powers of Sin and Cos.md",
     "Unit Circle.md",
     "Trigonometric Derivatives and Integrals.md",
     "Trigonometric Identities.md",
@@ -257,7 +259,6 @@
     "Unit Vector.md",
     "Iterative Prediction of Motion.md",
     "Hooke's Law (Physics).md",
-    "Trigonometric Substitutions.md",
-    "Odd Powers of Sin and Cos.md"
+    "Trigonometric Substitutions.md"
   ]
 }

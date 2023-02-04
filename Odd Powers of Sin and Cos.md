@@ -23,4 +23,6 @@ Alias: []
 		  >  $$=(1-\cos^2x)^n*\sin x$$
 		  >  The exact same process applies for $\cos x$.
 ---
+- ## Practice
+	- [[Homework 2.1.pdf]]
 - ## Reference
