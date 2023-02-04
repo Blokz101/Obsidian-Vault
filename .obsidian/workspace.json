@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "841d703c10e4f640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gravitational Force.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,17 +224,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1320e126594b44ec",
+  "active": "841d703c10e4f640",
   "lastOpenFiles": [
+    "Trigonometric Derivatives and Integrals.md",
+    "Gravitational Force.md",
+    "Fundamental Forces.md",
     "Trigonometric Substitutions.md",
     "Unit Circle.md",
     "Excalibrain Graph.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Even Powers of Sin and Cos.md",
-    "Trigonometric Derivatives and Integrals.md",
     "Trigonometric Identities.md",
-    "Analytic Prediction Of Motion.md",
-    "Unit Vector.md",
-    "Iterative Prediction of Motion.md"
+    "Analytic Prediction Of Motion.md"
   ]
 }
