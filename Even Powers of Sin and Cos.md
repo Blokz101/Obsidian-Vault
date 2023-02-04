@@ -29,4 +29,6 @@ Alias: []
 	  > \end{align}$$
 	  > The exact same applies for $\cos x$
 ---
+- ## Practice
+- [[Homework 2.1.pdf]]
 - ## Reference

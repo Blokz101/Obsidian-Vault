@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Odd Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,12 +247,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11a7351d31f61c43",
+  "active": "cc803f498b925d51",
   "lastOpenFiles": [
+    "Even Powers of Sin and Cos.md",
+    "Unit Circle.md",
     "Trigonometric Derivatives and Integrals.md",
     "Trigonometric Identities.md",
-    "Unit Circle.md",
-    "Even Powers of Sin and Cos.md",
     "Analytic Prediction Of Motion.md",
     "Unit Vector.md",
     "Iterative Prediction of Motion.md",
