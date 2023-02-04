@@ -1,11 +1,12 @@
 ---
 Alias: []
-Creation Date: Fri August 26th 2022 12:25:48 pm 
-Modification Date: NaN
 ---
-# NaN
-#Permanent [[Calculus]]
-
+> [!Info]
+> Subject:: [[Calculus]]
+> Parents:: 
+> Friends:: [[Trigonometric Identities]]
+> Children:: 
+---
 - ## Definition
 	- ![[Pasted image 20220826122554.png]]
 		- $sin$ refers to the $y$ values of the coordinates and $cos$ refers to the $x$ values for the coordinates.
@@ -25,4 +26,5 @@ Modification Date: NaN
 		  >   
 		  >   Degrees:
 		  >   - Increase by 30, 15, 15, 30 all the way around.
+---
 - ## Reference
