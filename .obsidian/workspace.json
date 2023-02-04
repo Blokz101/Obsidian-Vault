@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,8 +248,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce98ca8b0761afec",
+  "active": "841d703c10e4f640",
   "lastOpenFiles": [
+    "Hooke's Law (Physics).md",
     "Gravitational Force.md",
     "Reciprocity.md",
     "Superposition.md",
@@ -258,7 +259,6 @@
     "Trigonometric Substitutions.md",
     "Unit Circle.md",
     "Excalibrain Graph.md",
-    "Even and Odd Powers of Sin and Cos.md",
-    "Even Powers of Sin and Cos.md"
+    "Even and Odd Powers of Sin and Cos.md"
   ]
 }

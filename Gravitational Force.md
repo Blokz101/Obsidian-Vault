@@ -11,6 +11,7 @@ Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 	- The force of **gravity** between two objects.
 	- > [!Equation]
 	  > $$\large{\vec{F}_{\text{grav on 2 by 1}}=-G \frac{m_{1}m_{2}}{|\vec{r}|^2}\hat{r}}$$
+	  > $$\large{\vec{r}=\vec{r}_{2}-\vec{r}_{1}}$$
 	  > 
 	  > $G$ = [[Gravitational Constant]] or $6.7e-11  \frac{Nm^2}{kg^2}$.
 	  > $m_{\text{1 or 2}}$ = [[Mass]] of Object in $kg$
