@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,10 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc803f498b925d51",
+  "active": "1320e126594b44ec",
   "lastOpenFiles": [
-    "Unit Circle.md",
     "Trigonometric Substitutions.md",
+    "Unit Circle.md",
     "Excalibrain Graph.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Even Powers of Sin and Cos.md",
