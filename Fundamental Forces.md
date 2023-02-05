@@ -9,6 +9,5 @@ Alias: [Fundamental Force]
 ---
 - ## Definition
 	- The main forces in the universe that govern interactions.
-	- 
 ---
 - ## Reference
