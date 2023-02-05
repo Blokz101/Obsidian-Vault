@@ -9,6 +9,7 @@ Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 ---
 - ## Definition
 	- The force of **gravity** between two objects.
+	- For the two equations below assume there are two objects, **Object 1**
 	- > [!Equation]
 	  > $$\large{\vec{F}_{\text{grav on 2 by 1}}=-G \frac{m_{1}m_{2}}{|\vec{r}|^2}\hat{r}}$$
 	  > $$\large{\vec{r}=\vec{r}_{2}-\vec{r}_{1}}$$
