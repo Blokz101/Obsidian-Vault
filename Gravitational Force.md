@@ -3,7 +3,7 @@ Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Superposition]]
+> Parents:: [[Superposition]] [[Fundamental Forces]]
 > Friends:: 
 > Children:: [[Reciprocity]]
 ---
