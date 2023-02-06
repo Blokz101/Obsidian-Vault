@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decoder.md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decoder.md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Decoder.md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,10 +284,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74d2196d13a88acb",
+  "active": "86bd394c03d0cc56",
   "lastOpenFiles": [
-    "Multiplexer.md",
     "Decoder.md",
+    "Multiplexer.md",
     "Momentum.md",
     "Gamma Factor.md",
     "Excalibrain Graph.md",
