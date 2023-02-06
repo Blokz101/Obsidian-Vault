@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "52e0cc22bca3566c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiplexer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "74d2196d13a88acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoder.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8c145c28aa2e6a73",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Multiplexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Multiplexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Multiplexer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,17 +284,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "442b1acaa88613cf",
+  "active": "52e0cc22bca3566c",
   "lastOpenFiles": [
+    "Decoder.md",
+    "Multiplexer.md",
+    "Momentum.md",
     "Gamma Factor.md",
     "Excalibrain Graph.md",
     "Gravitational Force.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Unit Circle.md",
     "Unit Cell.md",
-    "Fundamental Forces.md",
-    "Trigonometric Derivatives and Integrals.md",
-    "Weak Force.md",
-    "Electromagnetic Force.md"
+    "Fundamental Forces.md"
   ]
 }
