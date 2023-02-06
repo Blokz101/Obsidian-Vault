@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit Circle.md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,8 +247,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c145c28aa2e6a73",
+  "active": "841d703c10e4f640",
   "lastOpenFiles": [
+    "Unit Circle.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Unit Cell.md",
     "Gravitational Force.md",
@@ -258,7 +258,6 @@
     "Weak Force.md",
     "Electromagnetic Force.md",
     "Strong Force.md",
-    "Trigonometric Substitutions.md",
-    "Iterative Prediction of Motion.md"
+    "Trigonometric Substitutions.md"
   ]
 }
