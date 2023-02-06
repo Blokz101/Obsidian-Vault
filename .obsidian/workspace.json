@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Decoder.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Decoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Decoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Multiplexer.md",
+                "file": "Decoder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,10 +284,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52e0cc22bca3566c",
+  "active": "74d2196d13a88acb",
   "lastOpenFiles": [
-    "Decoder.md",
     "Multiplexer.md",
+    "Decoder.md",
     "Momentum.md",
     "Gamma Factor.md",
     "Excalibrain Graph.md",
