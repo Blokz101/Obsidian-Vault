@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f6dba62769428273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summation Notation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "442b1acaa88613cf",
             "type": "leaf",
             "state": {
@@ -286,15 +298,15 @@
   },
   "active": "86bd394c03d0cc56",
   "lastOpenFiles": [
+    "Derivative Sum Rule.md",
+    "Summation Notation.md",
+    "Gravitational Force.md",
     "Decoder.md",
     "Multiplexer.md",
     "Momentum.md",
     "Gamma Factor.md",
     "Excalibrain Graph.md",
-    "Gravitational Force.md",
     "Even and Odd Powers of Sin and Cos.md",
-    "Unit Circle.md",
-    "Unit Cell.md",
-    "Fundamental Forces.md"
+    "Unit Circle.md"
   ]
 }
