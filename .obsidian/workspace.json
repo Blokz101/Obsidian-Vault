@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3cfcd20535fd193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86bd394c03d0cc56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb94ea172dd03615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamma Factor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58e6b0703cefa75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Direction.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f6dba62769428273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summation Notation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "442b1acaa88613cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "52e0cc22bca3566c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiplexer.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "74d2196d13a88acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decoder.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c145c28aa2e6a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Circle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "739dfc48183aa5cd",
             "type": "leaf",
             "state": {
@@ -140,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -226,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Trigonometric Derivatives and Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -320,17 +211,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86bd394c03d0cc56",
+  "active": "739dfc48183aa5cd",
   "lastOpenFiles": [
-    "Conic Section.md",
-    "Parametric Function.md",
+    "Unit Circle.md",
+    "Decoder.md",
+    "Multiplexer.md",
     "Momentum.md",
-    "Gamma Factor.md",
-    "Angular Direction.md",
-    "Unit Vector.md",
-    "Gravitational Force.md",
-    "Derivative Sum Rule.md",
     "Summation Notation.md",
-    "Decoder.md"
+    "Angular Direction.md",
+    "Gamma Factor.md",
+    "Even and Odd Powers of Sin and Cos.md",
+    "References/Homework 2.1.pdf",
+    "Conic Section.md"
   ]
 }
