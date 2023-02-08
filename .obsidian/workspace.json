@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cd850fde102cd894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trigonometric Substitutions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c01d33554e9648aa",
             "type": "leaf",
             "state": {
@@ -32,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Trigonometric Substitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Trigonometric Substitutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Derivatives and Integrals.md",
+                "file": "Trigonometric Substitutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,8 +224,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "739dfc48183aa5cd",
+  "active": "cd850fde102cd894",
   "lastOpenFiles": [
+    "Trigonometric Derivatives and Integrals.md",
     "Unit Circle.md",
     "Decoder.md",
     "Multiplexer.md",
@@ -221,7 +235,6 @@
     "Angular Direction.md",
     "Gamma Factor.md",
     "Even and Odd Powers of Sin and Cos.md",
-    "References/Homework 2.1.pdf",
-    "Conic Section.md"
+    "References/Homework 2.1.pdf"
   ]
 }
