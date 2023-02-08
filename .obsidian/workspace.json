@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "961e66b5a2d88267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Machine.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c01d33554e9648aa",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "State Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "State Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "State Machine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,8 +236,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd850fde102cd894",
+  "active": "961e66b5a2d88267",
   "lastOpenFiles": [
+    "Trigonometric Substitutions.md",
     "Trigonometric Derivatives and Integrals.md",
     "Unit Circle.md",
     "Decoder.md",
@@ -234,7 +247,6 @@
     "Summation Notation.md",
     "Angular Direction.md",
     "Gamma Factor.md",
-    "Even and Odd Powers of Sin and Cos.md",
-    "References/Homework 2.1.pdf"
+    "Even and Odd Powers of Sin and Cos.md"
   ]
 }
