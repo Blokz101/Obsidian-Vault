@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "5403b96bbfb98975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Even and Odd Powers of Sin and Cos.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c01d33554e9648aa",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Machine.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Machine.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "State Machine.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,8 +248,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "961e66b5a2d88267",
+  "active": "5403b96bbfb98975",
   "lastOpenFiles": [
+    "State Machine.md",
     "Trigonometric Substitutions.md",
     "Trigonometric Derivatives and Integrals.md",
     "Unit Circle.md",
@@ -246,7 +259,6 @@
     "Momentum.md",
     "Summation Notation.md",
     "Angular Direction.md",
-    "Gamma Factor.md",
-    "Even and Odd Powers of Sin and Cos.md"
+    "Gamma Factor.md"
   ]
 }
