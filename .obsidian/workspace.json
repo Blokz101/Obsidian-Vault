@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Gravitational Force.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,8 +248,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5403b96bbfb98975",
+  "active": "c01d33554e9648aa",
   "lastOpenFiles": [
+    "Gravitational Force.md",
+    "Even and Odd Powers of Sin and Cos.md",
     "State Machine.md",
     "Trigonometric Substitutions.md",
     "Trigonometric Derivatives and Integrals.md",
@@ -257,8 +259,6 @@
     "Decoder.md",
     "Multiplexer.md",
     "Momentum.md",
-    "Summation Notation.md",
-    "Angular Direction.md",
-    "Gamma Factor.md"
+    "Summation Notation.md"
   ]
 }
