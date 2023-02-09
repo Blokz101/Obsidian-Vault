@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c06bbcb3b92723e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trigonometric Substitutions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cd850fde102cd894",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trigonometric Substitutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5,
-    "collapsed": true
+    "width": 579.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,17 +271,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df8aa8ca13cc55fa",
+  "active": "c06bbcb3b92723e0",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
+    "Table Of Integrals.md",
+    "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Derivatives and Integrals.md",
     "Trigonometric Substitutions.md",
     "Gravitational Force.md",
-    "Even and Odd Powers of Sin and Cos.md",
     "State Machine.md",
     "Unit Circle.md",
     "Decoder.md",
-    "Multiplexer.md",
-    "Momentum.md",
-    "Summation Notation.md"
+    "Multiplexer.md"
   ]
 }
