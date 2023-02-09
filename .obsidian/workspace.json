@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Trigonometric Substitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Trigonometric Substitutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Trigonometric Substitutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,8 +260,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f3927df02b617af",
+  "active": "c06bbcb3b92723e0",
   "lastOpenFiles": [
+    "Partial Fractions.md",
     "Trigonometric Substitutions.md",
     "Excalibrain Graph.md",
     "Table Of Integrals.md",
@@ -270,7 +271,6 @@
     "Gravitational Force.md",
     "State Machine.md",
     "Unit Circle.md",
-    "Decoder.md",
-    "Multiplexer.md"
+    "Decoder.md"
   ]
 }
