@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "6f3927df02b617af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partial Fractions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cd850fde102cd894",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Partial Fractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Partial Fractions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Substitutions.md",
+                "file": "Partial Fractions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,13 +260,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c06bbcb3b92723e0",
+  "active": "6f3927df02b617af",
   "lastOpenFiles": [
+    "Trigonometric Substitutions.md",
     "Excalibrain Graph.md",
     "Table Of Integrals.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Derivatives and Integrals.md",
-    "Trigonometric Substitutions.md",
     "Gravitational Force.md",
     "State Machine.md",
     "Unit Circle.md",
