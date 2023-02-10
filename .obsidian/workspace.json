@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Even and Odd Powers of Sin and Cos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -296,16 +296,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb5ac8ec5a24038",
+  "active": "df8aa8ca13cc55fa",
   "lastOpenFiles": [
+    "Trigonometric Substitutions.md",
+    "Electromagnetic Force.md",
     "Fundamental Forces.md",
     "Gravitational Force.md",
-    "Electromagnetic Force.md",
     "Coulomb's Law of Force.md",
     "Charge.md",
     "Conservation of Momentum.md",
     "Electric Force.md",
-    "Trigonometric Substitutions.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Partial Fractions.md"
   ]
