@@ -3,8 +3,8 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
-> Friends:: [[Strong Force]]
+> Parents:: [[Charge]]
+> Friends:: [[Strong Force]] [[Coulomb's Law of Force]]
 > Children:: 
 ---
 - ## Definition
