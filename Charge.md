@@ -10,6 +10,10 @@ Alias: []
 - ## Definition
 	- How overall positive or negative an [[Ion]] is.
 	- > [!Equation]
+	  > Each [[Electron]] and [[Proton]] have the following symbol and charge:
+	  > $$\large{e^-=-1.6e-19}$$
+	  > $$\large{p^+=1.6e-19}$$
+	- > [!Equation]
 		  > $$\large{c=p-e}$$
 		  > 
 		  > $c$ = [[Charge]] (integer)
