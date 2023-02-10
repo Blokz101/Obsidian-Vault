@@ -10,5 +10,6 @@ Alias: []
 - ## Definition
 	- 
 ---
-- ## Reference
+- ## Practice
 	- [[MA241 Partial Fractions Recitation 1.pdf]]
+- ## Reference
