@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "cd850fde102cd894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trigonometric Substitutions.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5403b96bbfb98975",
             "type": "leaf",
             "state": {
@@ -262,11 +250,11 @@
   },
   "active": "c06bbcb3b92723e0",
   "lastOpenFiles": [
-    "Partial Fractions.md",
+    "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Substitutions.md",
+    "Partial Fractions.md",
     "Excalibrain Graph.md",
     "Table Of Integrals.md",
-    "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Derivatives and Integrals.md",
     "Gravitational Force.md",
     "State Machine.md",
