@@ -15,7 +15,7 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 	  > 
 	  > $\vec{F}_{\text{electric}}$ = The [[Electric Force]] in $N$
 	  > $Q$ = [[Charge]] in $C$
-	  > $|\vec{r}|$ = [[Magnitude]] of position in $m$
+	  > $\vec{r}$ = Position of [[Charge]] source 1 to [[Charge]] source 2 in $m$
 ---
 - ## Practice
 	- [[Homework 3.11-3.12.pdf]]
