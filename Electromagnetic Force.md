@@ -13,6 +13,6 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 	  > $$\large{\vec{F}_{\text{electric}}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q_{1}Q_{2}}{|\vec{r}|^2}\hat{r}}$$
 	  > 
 	  > $\vec{F}_{\text{electric}}$ = The [[Electric Force]] in $N$
-	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e$
+	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9$ $\frac{Nm^2}{c^2}$
 ---
 - ## Reference
