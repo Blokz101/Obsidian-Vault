@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charge (Chemistry).md",
-                "mode": "source",
+                "file": "Charge.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge (Chemistry).md",
+                "file": "Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge (Chemistry).md",
+                "file": "Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge (Chemistry).md",
+                "file": "Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,6 +287,7 @@
   "active": "2bbba2d8d41dd199",
   "lastOpenFiles": [
     "Electromagnetic Force.md",
+    "Charge.md",
     "Fundamental Forces.md",
     "Conservation of Momentum.md",
     "Electric Force.md",
@@ -294,7 +295,6 @@
     "Even and Odd Powers of Sin and Cos.md",
     "Partial Fractions.md",
     "Excalibrain Graph.md",
-    "Table Of Integrals.md",
-    "Trigonometric Derivatives and Integrals.md"
+    "Table Of Integrals.md"
   ]
 }

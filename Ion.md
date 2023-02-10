@@ -7,7 +7,7 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- **[[Ion|Ions]] are always [[Charge (Chemistry)|charged]], never neutral**
+	- **[[Ion|Ions]] are always [[Charge|charged]], never neutral**
 		- The number of [[Proton|Protons]] in an [[Ion]] is constant, however [[Electron|Electrons]] can be added or removed. Given the [[Element]] and charge you can determine the number of [[Electron|Electrons]] the [[Ion]] has
 		  > [!Example]
 		  > $$Cl^{1-}$$
