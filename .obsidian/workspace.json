@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electromagnetic Force.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -298,12 +298,12 @@
   },
   "active": "e5920da5a6b624b4",
   "lastOpenFiles": [
+    "Electromagnetic Force.md",
+    "Gravitational Force.md",
     "Conservation of Momentum.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Substitutions.md",
-    "Electromagnetic Force.md",
     "Fundamental Forces.md",
-    "Gravitational Force.md",
     "Coulomb's Law of Force.md",
     "Charge.md",
     "Electric Force.md",
