@@ -9,13 +9,13 @@ Modification Date: NaN
 - ## Definition
 	- Monoatomic means they derive from a single [[Atom]] where [[Electron|Electrons]] have been added or removed.
 - ## Notes
-	- [[Charge|Charges]] ^bd0b9a
+	- [[Charge (Chemistry)|Charges]] ^bd0b9a
 		- They like to gain or loose enough [[Electron|Electrons]] to be equal to the number of [[Electron|Electrons]] of the nearest [[Noble Gas]].
 		- The chart below shows the charges of each [[Monoatomic Ion]].
 		  ![[Periodic Table Image.png]]
 - ## Names
 	- [[Ion|Cations]]
-		- For [[Element|Elements]] whose [[Charge]] is simple one, the name is the same as the [[Element]].
+		- For [[Element|Elements]] whose [[Charge (Chemistry)]] is simple one, the name is the same as the [[Element]].
 		- Ex. $Na$: Sodium Atom -> $Na^{1+}$ : Sodium Ion
 	- [[Ion|Anions]]
 		- Use the name of the [[Element]] with the suffix "ide"

@@ -14,6 +14,7 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 	  > 
 	  > $\vec{F}_{\text{electric}}$ = The [[Electric Force]] in $N$
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9$ $\frac{Nm^2}{c^2}$
+	  > $Q$ = [[Charge (Chemistry)]]
 ---
 - ## Practice
 	- [[Homework 3.11-3.12.pdf]]

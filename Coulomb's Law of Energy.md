@@ -6,7 +6,7 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Derived from [[Coulomb's Law of Force]]. States that the electric force of one charge on another depends on the magnitude of the [[Charge|Charges]] and the distance between them.
+	- Derived from [[Coulomb's Law of Force]]. States that the electric force of one charge on another depends on the magnitude of the [[Charge (Chemistry)|Charges]] and the distance between them.
   - > [!How to derive]
 	  > [[Coulomb's Law of Force]]:
 	  > $\large{F=\frac{kq_1q_2}{Ɛr^2}}$
@@ -25,7 +25,7 @@ Modification Date: NaN
 	  > $$\large{E=\frac{kq_1q_2}{Ɛr}}$$
 	  > $E$ = [[Energy]]
 	  > $k$ = [[Coulomb's Constant]] = ($8.9875e9\frac{Nm^2}{C^2}$)
-	  > $q$ = [[Charge]] (Coulombs)
+	  > $q$ = [[Charge (Chemistry)]] (Coulombs)
 	  > $Ɛ$ = [[Dielectric Constant]]
 	  > $r$ = Distance
 	  > 

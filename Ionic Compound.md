@@ -18,7 +18,7 @@ Modification Date: NaN
 	- The [[Metal|Metals]] and [[Non-Metal|Non-Metals]] become attracted to each other because of the difference in their charges (one negative and one positive). ^ed6c41
 - ## Finding the [[Chemical Formula]]
 	- To find the [[Chemical Formula]] for an [[Ionic Compound]] you need to first predict the ratio in which the [[Atom|Atoms]] in the [[Ionic Compound]] will combine in.
-		1. Determine the [[Charge]] on each of the [[Ion|Ions]]
+		1. Determine the [[Charge (Chemistry)]] on each of the [[Ion|Ions]]
 		2. Predict the ratio in which they will combine
 		3. The names are simply combinations of the individual [[Ion|Ions]]
 	- > [!Example]

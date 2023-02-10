@@ -7,7 +7,7 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The [[Charge]] that reflects the number of [[Electron|Electrons]] an [[Element]] must gain or lose to bond with another [[Atom]].
+	- The [[Charge (Chemistry)]] that reflects the number of [[Electron|Electrons]] an [[Element]] must gain or lose to bond with another [[Atom]].
 	- In general a main group [[Element|Element's]] [[Oxidation State|Oxidation Number]] will range from: **the group of the [[Element]] to the group of the [[Element]] minus 8**.
 		- > [!Example]-
 		> $Cl$ is in group $7A$:
@@ -46,6 +46,6 @@ Modification Date: NaN
 	- [[Drawing 2022-09-17 17.13.32.excalidraw]]
 	- [[Drawing 2022-09-26 11.52.17.excalidraw]]
 - ## Reference
-	- [[Charge]] applies to [[Molecule|Molecules]] and [[Oxidation State|Oxidation Number]] applies to [[Element|Elements]].
+	- [[Charge (Chemistry)]] applies to [[Molecule|Molecules]] and [[Oxidation State|Oxidation Number]] applies to [[Element|Elements]].
 	- Needed in [[Predicting Chemical Formulas]].
 	- [[Oxidation and Reduction Reaction]].

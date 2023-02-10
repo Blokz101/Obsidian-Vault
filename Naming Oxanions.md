@@ -16,7 +16,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	4. The highest **minus THREE Oxygen** gets the prefix **hypo-** and the suffix **-ite**.
 	- ![[IMG_AC4317B6C20B-1.jpeg|400]]
 - ## Steps (If the [[Oxanion]] has Hydrogen)
-	1. Use the main steps above to determine the base name, but ignore the Hydrogen and subtract 1 from the overall [[Charge]] for each Hydrogen Atom.
+	1. Use the main steps above to determine the base name, but ignore the Hydrogen and subtract 1 from the overall [[Charge (Chemistry)]] for each Hydrogen Atom.
 		- This is for use in finding the base name ONLY
 	2. Add:
 		1. "hydrogen" or "bi" to the front if there is one Hydrogen [[Atom]].
