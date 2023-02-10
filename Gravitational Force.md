@@ -34,5 +34,5 @@ Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 - ## Practice
 	- [[Homework 3.5.pdf]]
 	- [[PY205 Homework 3.1-3.4.pdf]]
-	- [[Homework 3.7.pdf]]
+	- [[PY205 Homework 3.7.pdf]]
 - ## Reference

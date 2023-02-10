@@ -19,6 +19,6 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 	  > $\vec{r}$ = Position of [[Charge]] source 1 to position of [[Charge]] source 2 in $m$
 ---
 - ## Practice
-	- [[Homework 3.11-3.12.pdf]]
-	- [[Homework 3.7.pdf]]
+	- [[PY205 Homework 3.11-3.12.pdf]]
+	- [[PY205 Homework 3.7.pdf]]
 - ## Reference

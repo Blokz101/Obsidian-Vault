@@ -79,5 +79,5 @@ Alias: []
 	  > > $$
 ---
 - ## Practice
-	- [[Calculus 2 Homework 2.2.pdf]]
+	- [[MA241 Homework 2.2.pdf]]
 - ## Reference

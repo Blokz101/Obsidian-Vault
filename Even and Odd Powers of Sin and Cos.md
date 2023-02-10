@@ -50,5 +50,5 @@ Alias: []
 	  > The exact same applies for $\cos x$
 ---
 - ## Practice
-	- [[Homework 2.1.pdf]]
+	- [[MA241 Homework 2.1.pdf]]
 - ## Reference

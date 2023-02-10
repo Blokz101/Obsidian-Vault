@@ -11,5 +11,5 @@ Alias: []
 	- 
 ---
 - ## Practice
-	- [[Homework 2.1.pdf]]
+	- [[MA241 Homework 2.1.pdf]]
 - ## Reference

@@ -12,5 +12,5 @@ Alias: []
 	- Using the same reasoning you can conclude that as long as **no external force acts on a system, its [[Momentum]] will remain constant**.
 ---
 - ## Practice
-	- [[Homework 3.11-3.12.pdf]]
+	- [[PY205 Homework 3.11-3.12.pdf]]
 - ## Reference
