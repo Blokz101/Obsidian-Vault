@@ -74,6 +74,18 @@
               "type": "markdown",
               "state": {
                 "file": "Electromagnetic Force.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e5920da5a6b624b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gravitational Force.md",
                 "mode": "preview",
                 "source": true
               }
@@ -286,15 +298,15 @@
   },
   "active": "6bb5ac8ec5a24038",
   "lastOpenFiles": [
-    "Coulomb's Law of Force.md",
-    "Electromagnetic Force.md",
-    "Charge.md",
     "Fundamental Forces.md",
+    "Gravitational Force.md",
+    "Electromagnetic Force.md",
+    "Coulomb's Law of Force.md",
+    "Charge.md",
     "Conservation of Momentum.md",
     "Electric Force.md",
     "Trigonometric Substitutions.md",
     "Even and Odd Powers of Sin and Cos.md",
-    "Partial Fractions.md",
-    "Excalibrain Graph.md"
+    "Partial Fractions.md"
   ]
 }
