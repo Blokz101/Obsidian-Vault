@@ -20,12 +20,19 @@ Alias: []
             
 	- The theory of [[Partial Fractions]] state that a **rational function** $f(x)=\frac{N(x)}{D(x)}$ where the [[Degree]] of $N(x)$ is less then the [[Degree]] of $D(x)$ can be split into the product of linear factors: $px + q$, and/or irreducible quadratic factors: $ax2 + bx + c$.
 		- > [!Equation]
-		  > If all the factors are linear we can split them like this:
+		  > If all the factors are **linear** we can split them like this:
 		  > $$\large{\frac{N(x)}{D(x)}=\frac{A_{1}}{px+q}+\frac{A_{2}}{px+q}+\frac{A_{3}}{px+q}+\dots+\frac{A_{n+1}}{px+q}}$$
 		  > Where $px+q$ is different for each **rational fraction**.
 		  > 
-		  > If one of the linear factors are repeated we can use the same technique but split it by increasing power:
+		  > If one or more of the **linear** factors are repeated we can use the same technique but split it by increasing power:
 		  > $$\large{\frac{N(x)}{D(x)}=\frac{A_{1}}{(rx+s)^1}+\frac{A_{2}}{(rx+s)^2}+\frac{A_{3}}{(rx+s)^3}+\dots+\frac{A_{n+1}}{(rx+s)^n}}$$
+		  
+		- > [!Equation]
+		  > If some of the factors are **quadratic** then we can split them like this:
+		  > $\large{\frac{N(x)}{D(x)}=\frac{A_{1}x+B_{1}}{ax^2+bx+c}+\frac{A_{2}x+B_{2}}{ax^2+bx+c}+\dots+\frac{A_{n+1}x+B_{n+1}}{ax^2+bx+c}}$
+		  > Where $ax^2+bx+c$ is different for each **rational function**.
+		  > 
+		  > If one or more of the **quadratic** factors are repeated we can use the same technique but split it by increasing power
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
