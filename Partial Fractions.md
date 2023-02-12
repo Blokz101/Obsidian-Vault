@@ -29,10 +29,11 @@ Alias: []
 		  
 		- > [!Equation]
 		  > If some of the factors are **quadratic** then we can split them like this:
-		  > $\large{\frac{N(x)}{D(x)}=\frac{A_{1}x+B_{1}}{ax^2+bx+c}+\frac{A_{2}x+B_{2}}{ax^2+bx+c}+\dots+\frac{A_{n+1}x+B_{n+1}}{ax^2+bx+c}}$
+		  > $$\large{\frac{N(x)}{D(x)}=\frac{A_{1}x+B_{1}}{ax^2+bx+c}+\frac{A_{2}x+B_{2}}{ax^2+bx+c}+\dots+\frac{A_{n+1}x+B_{n+1}}{ax^2+bx+c}}$$
 		  > Where $ax^2+bx+c$ is different for each **rational function**.
 		  > 
-		  > If one or more of the **quadratic** factors are repeated we can use the same technique but split it by increasing power
+		  > If one or more of the **quadratic** factors are repeated we can use the same technique but split it by increasing power:
+		  > $$\large{\frac{N(x)}{D(x)}=\frac{A_{1}x+B_{1}}{(ax^2+bx+c)^1}+\frac{A_{2}x+B_{2}}{(ax^2+bx+c)^2}+\dots+\frac{A_{n+1}x+B_{n+1}}{(ax^2+bx+c)^n}}$$
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
