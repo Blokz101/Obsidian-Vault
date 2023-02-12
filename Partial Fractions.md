@@ -8,7 +8,10 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A method of integrating 
+	- A method of splitting **rational functions** into their sums of simpler **rational functions**.
+		- Essentially the reverse of this operation:
+		- > [!Equation]
+		  > $\frac{1}{x^2+1}+\frac{x}{x+4}$
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
