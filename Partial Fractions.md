@@ -18,7 +18,7 @@ Alias: []
 	 & =\frac{x^3+2x+4}{x^3+4x^2+x+4}
             > \end{align}$$
             
-	- The 
+	- The theory of [[Partial Fractions]] state that a **rational function** $f(x)=\frac{N(x)}{D(x)}$ where the [[Degree]] of $N(x)$ is less then the [[Degree]] of $D(x)$ can be split into the product of linear factors: $px + q$, and/or irreducible quadratic factors: $ax2 + bx + c$.
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
