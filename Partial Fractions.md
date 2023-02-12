@@ -11,7 +11,10 @@ Alias: []
 	- A method of splitting **rational functions** into their sums of simpler **rational functions**.
 		- Essentially the reverse of this operation:
 		- > [!Equation]
-		  > $\frac{1}{x^2+1}+\frac{x}{x+4}$
+		  > $$\begin{align}
+		\frac{1}{x^2+1}+\frac{x}{x+4}&=\frac{1(x+4)}{(x^2+1)(x+4)}+\frac{x(x^2+1)}{(x^2+1)(x+4)} \\
+	 &= \frac{x+4}{x^3+4x^2+x+4}+
+            > \end{align}$$
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
