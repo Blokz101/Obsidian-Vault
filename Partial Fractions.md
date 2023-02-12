@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- A method of integrating 
 ---
 - ## Practice
 	- [[MA241 Homework 2.3.pdf]]
