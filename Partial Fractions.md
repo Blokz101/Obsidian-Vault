@@ -11,5 +11,6 @@ Alias: []
 	- 
 ---
 - ## Practice
+	- [[MA241 Homework 2.3.pdf]]
 	- [[MA241 Partial Fractions Recitation 1.pdf]]
 - ## Reference
