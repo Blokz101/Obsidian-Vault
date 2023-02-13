@@ -30,17 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a6fe5138867df26c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Partial Fractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Partial Fractions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Partial Fractions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6fe5138867df26c",
+  "active": "9d0caab74d97c29e",
   "lastOpenFiles": [
     "Partial Fractions.md",
     "Even and Odd Powers of Sin and Cos.md",
