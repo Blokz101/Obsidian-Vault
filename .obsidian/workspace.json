@@ -11,8 +11,12 @@
             "id": "a8034cdb484372ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hexadecimal Notation.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hexadecimal Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hexadecimal Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Hexadecimal Notation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
