@@ -13,6 +13,6 @@ Alias: []
 	- One of the main things that we want to do is find the "length" of each "spring". This is so we can calculate things like the stretch of **springs in parallel**.
 		- ![[Screen Shot 2023-02-13 at 6.31.14 PM.png|200]]
 		- > [!Equation]
-		  > $\large{L=\sqrt[3]{ a+ } }$
+		  > $\large{L=\sqrt[3]{ n*V } }$
 ---
 - ## Reference
