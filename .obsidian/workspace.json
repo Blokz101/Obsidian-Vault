@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "3188a77d21681f25",
+            "id": "b9ac8fb4f88efc50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spring and Ball Model.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -224,17 +224,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3188a77d21681f25",
+  "active": "b9ac8fb4f88efc50",
   "lastOpenFiles": [
-    "References/Screen Shot 2023-02-13 at 6.32.12 PM.png",
-    "Spring and Ball Model.md",
-    "Stiffness of Multiple Springs.md",
     "Hexadecimal Notation.md",
     "Master-Slave Flipflop.md",
+    "References/Screen Shot 2023-02-13 at 6.36.31 PM.png",
+    "Spring and Ball Model.md",
+    "References/Screen Shot 2023-02-13 at 6.32.12 PM.png",
+    "Stiffness of Multiple Springs.md",
     "Partial Fractions.md",
     "Conservation of Momentum.md",
     "Excalibrain Graph.md",
-    "State Machine.md",
-    "Even and Odd Powers of Sin and Cos.md"
+    "State Machine.md"
   ]
 }
