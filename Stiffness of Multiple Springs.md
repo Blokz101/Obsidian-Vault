@@ -8,6 +8,6 @@ Alias: []
 > Children:: [[Spring and Ball Model]]
 ---
 - ## Definition
-	- 
+	- Using the [[The Momentum Principle]] we can determine the
 ---
 - ## Reference

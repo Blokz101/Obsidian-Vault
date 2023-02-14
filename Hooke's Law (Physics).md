@@ -1,5 +1,5 @@
 ---
-Alias: [Spring Constant (Physics)]
+Alias: [Spring Constant (Physics), Spring Stiffne]
 ---
 > [!Info]
 > Subject:: [[Physics]]
