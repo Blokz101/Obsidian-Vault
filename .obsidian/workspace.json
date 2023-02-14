@@ -33,24 +33,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "4ff69fa826447469",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b0adc0f6455d23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stiffness of Multiple Springs.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
