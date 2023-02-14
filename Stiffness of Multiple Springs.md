@@ -36,6 +36,9 @@ Alias: []
 	  > $$\large{k_{\text{n springs}}=\frac{1}{n}}k_{\text{1 spring}}$$
 - ## Springs in Parallel
 	- > [!Equation]
-	  > When springs are attached side by side and have the same weight applied to them, each spring will support half the weight 
+	  > When springs are attached side by side and have the same weight applied to them, each spring will support half the weight.
+	  > 
+	  > So we can find the [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] of each spring in parallel by accounting for the lessened mass that each spring has to support in our previous equation.
+	  > $\large{k=\frac{\frac{m}{2}a}{s}}$
 ---
 - ## Reference
