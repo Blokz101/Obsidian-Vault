@@ -8,6 +8,15 @@ Alias: []
 > Children:: [[Spring and Ball Model]]
 ---
 - ## Definition
-	- Using the [[The Momentum Principle]] we can determine the
+	- Using the [[The Momentum Principle]] and [[Hooke's Law (Physics)]] we can determine the [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] of springs in both **series** and **parallel**.
+	- As a reference point, we need to find the [[Hooke's Law (Physics)|Spring Constant (Physics)]] of a single **spring** being stretched by some force.
+		- > [!Equation]
+		  > For simplicity, we will assume a setup with a spring hanging f
+		  > ![[Screen Shot 2023-02-14 at 4.50.01 PM.png|50]]
+		  > The [[The Momentum Principle]] states:
+		  > $\Delta \vec{p}=\vec{F}_{net}\Delta t$
+		  > The weight is at rest so we can 
+- ## Springs in Series
+- ## Springs in Parallel
 ---
 - ## Reference

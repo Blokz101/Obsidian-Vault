@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Stiffness of Multiple Springs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Hooke's Law (Physics).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Stiffness of Multiple Springs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Stiffness of Multiple Springs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hooke's Law (Physics).md",
+                "file": "Stiffness of Multiple Springs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,8 +224,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eacfdd59572d67db",
+  "active": "ecc4463580ba53a3",
   "lastOpenFiles": [
+    "Hooke's Law (Physics).md",
     "Stiffness of Multiple Springs.md",
     "Spring and Ball Model.md",
     "Trigonometric Substitutions.md",
@@ -234,7 +235,6 @@
     "Arc Length.md",
     "Master-Slave Flipflop.md",
     "References/Screen Shot 2023-02-13 at 6.36.31 PM.png",
-    "References/Screen Shot 2023-02-13 at 6.32.12 PM.png",
-    "Partial Fractions.md"
+    "References/Screen Shot 2023-02-13 at 6.32.12 PM.png"
   ]
 }

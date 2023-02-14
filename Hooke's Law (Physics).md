@@ -1,11 +1,11 @@
 ---
-Alias: [Spring Constant (Physics), Spring Stiffne]
+Alias: [Spring Constant (Physics), Spring Stiffness (Physics)]
 ---
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
 > Friends:: [[Hooke's Law (Calculus II)]]
-> Children:: 
+> Children:: [[Stiffness of Multiple Springs]]
 ---
 - ## Definition
 	- States that the force that a sprint exerts is directly proportional to how much it is stretched.
