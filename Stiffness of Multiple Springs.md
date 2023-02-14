@@ -14,12 +14,20 @@ Alias: []
 		  > For simplicity, we will assume a setup with a spring hanging from the ceiling with a weight attached to it. The weight is not moving.
 		  > 
 		  > The [[The Momentum Principle]] states:
-		  > $\Delta \vec{p}=\vec{F}_{net}\Delta t$
-		  > The weight is at rest so we know that there is no change in [[Momentum]]
+		  > $$\Delta \vec{p}=\vec{F}_{net}\Delta t$$
+		  > The weight is at rest so we know that there is no change in [[Momentum]]:
 		  > $$\begin{align}
-		0 & = \vec{F}_{net}
+		0 & = \vec{F}_{net}\Delta t \\
+	 0 & = \vec{F}_{net} \\
+	 0 & = (\vec{F}_{\text{spring}}+\vec{F}_{\text{gravity}}) \\
+	 \vec{F}_{\text{spring}} & = -\vec{F}_{\text{gravity}} \\
+	 |\vec{F}_{\text{spring}}| & = |\vec{F}_{\text{gravity}}| \\
+	 ks & =ma \\
+	 k & = \frac{ma}{s}
 		> \end{align}$$
+		> Where $k$ is the [[Hooke's Law (Physics)|Spring Constant (Physics)]] and $s$ is the spring **displacement**.
 - ## Springs in Series
+	- When springs attached end to end 
 - ## Springs in Parallel
 ---
 - ## Reference
