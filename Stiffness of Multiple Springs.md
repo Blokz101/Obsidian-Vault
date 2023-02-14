@@ -31,8 +31,11 @@ Alias: []
 	  > When springs attached end to end have the same weight applied to them they will each stretch the same amount. 
 	  > 
 	  > So we can find the [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] for the entire longer spring by accounting for the doubled stretch in our previous equation.
-	  > $$\large{k=\frac{mg}{2s}}$$
-	  > 
+	  > $$\begin{align}
+	k_{\text{2 springs}}&=\frac{mg}{2s} \\
+	k_{\text{2 spring}s}&=\frac{1}{2}k_{\text{1 spring}} \\
+	\large{2*k_{\text{2 springs}}}&\large{=k_{\text{1 spring}}}
+	> \end{align}$$
 - ## Springs in Parallel
 	- > [!Equation]
 	  > When springs are attached side by side and have the same weight applied to them, each spring will support half the weight.
