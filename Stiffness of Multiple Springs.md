@@ -27,7 +27,15 @@ Alias: []
 		> \end{align}$$
 		> Where $k$ is the [[Hooke's Law (Physics)|Spring Constant (Physics)]] and $s$ is the spring **displacement**.
 - ## Springs in Series
-	- When springs attached end to end 
+	- > [!Equation]
+	  > When springs attached end to end have the same weight applied to them they will each stretch the same amount. 
+	  > 
+	  > So we can find the [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] for the entire longer spring by accounting for the doubled stretch in our previous equation.
+	  > $$\large{k=\frac{ma}{2s}}$$
+	  > In general:
+	  > $$\large{k_{\text{n springs}}=\frac{1}{n}}k_{\text{1 spring}}$$
 - ## Springs in Parallel
+	- > [!Equation]
+	  > When springs are attached side by side and have the same weight applied to them, each spring will support half the weight 
 ---
 - ## Reference
