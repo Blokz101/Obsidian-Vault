@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Improper Integrals.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improper Integrals.md",
+                "file": "Young's Modulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improper Integrals.md",
+                "file": "Young's Modulus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Improper Integrals.md",
+                "file": "Young's Modulus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,14 +272,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57e0fa8bf4d18157",
+  "active": "d4d1413783609409",
   "lastOpenFiles": [
+    "Stiffness of Multiple Springs.md",
+    "Improper Integrals.md",
     "Friction Force.md",
     "Fundamental Theorem Of Calculus.md",
-    "Improper Integrals.md",
     "Young's Modulus.md",
     "Normal Force.md",
-    "Stiffness of Multiple Springs.md",
     "Hooke's Law (Physics).md",
     "References/Excalidraw/Drawing 2023-02-14 17.12.18.excalidraw.md",
     "References/Screen Shot 2023-02-14 at 4.50.01 PM.png",

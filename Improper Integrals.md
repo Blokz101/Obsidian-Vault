@@ -19,10 +19,14 @@ Alias: []
 		  > $$\large{\int_{ -\infty}^{a} f(x) \, dx=\lim_{ t \to -\infty }\int_{t}^{a} f(x) \, dx}$$
 		- > [!Equation]
 		  > To take the [[Integral]] from negative infinity to infinity:
-		  > $\large{\int_{-\infty}^{\infty} f(x) \, dx=}$
+		  > $$\large{\int_{-\infty}^{\infty} f(x) \, dx=\int_{-\infty}^{a} f(x) \, dx+\int_{a}^{\infty} f(x) \, dx}$$
+		  > 
+		  > Where $a$ is some finite value that we can choose.
 	- > [!Warning]
 	  > Our ability to evaluate the [[Integral]] depends on the curve decreasing fast enough so that its infinitely long region has a finite area. 
 	  > 
 	  > If the curve **converges** with an axis the [[Limit]] will be **finite**. If the curve **diverges** from an axis the [[Limit]] will be some form of **infinity**
 ---
+- ## Practice
+	- 
 - ## Reference

@@ -26,4 +26,6 @@ Alias: []
 		  > $k_{s}$ = [[Hooke's Law (Physics)|Spring Constant (Physics)]] of an atomic bond
 		  > $d$ = Diameter of an [[Atom]] in $m$
 ---
+- ## Practice
+	- [[Homework 4.5-4.6.pdf]]
 - ## Reference

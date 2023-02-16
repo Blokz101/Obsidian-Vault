@@ -49,4 +49,6 @@ Alias: []
 	> In general:
 	> $$\large{k_{\text{n springs}}=n*k_{\text{1 spring}}}$$
 ---
+- ## Practice
+	- [[Homework 4.5-4.6.pdf]]
 - ## Reference
