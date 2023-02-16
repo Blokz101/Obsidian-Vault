@@ -19,5 +19,8 @@ Alias: []
 		  > $A$ = The **area** of a **cross section** in $m^2$
 		  > $L$ = The **resting length** of the material in $L$
 		  > $\Delta L$ = The amount the material stretched past $L$ in $m$
+	- To find the atomic bond [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] we can use this equation:
+		- > [!Equation]
+		  > $\large{Y=\frac{k_{s}}{d}}$
 ---
 - ## Reference

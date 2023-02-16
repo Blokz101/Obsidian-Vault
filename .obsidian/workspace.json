@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Young's Modulus.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Friction Force.md",
+                "file": "Young's Modulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Friction Force.md",
+                "file": "Young's Modulus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Friction Force.md",
+                "file": "Young's Modulus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,8 +248,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2d2ffcad2a35748",
+  "active": "d4d1413783609409",
   "lastOpenFiles": [
+    "Friction Force.md",
     "Normal Force.md",
     "Young's Modulus.md",
     "Stiffness of Multiple Springs.md",
@@ -258,7 +259,6 @@
     "References/Screen Shot 2023-02-14 at 4.50.01 PM.png",
     "Spring and Ball Model.md",
     "Trigonometric Substitutions.md",
-    "Hexadecimal Notation.md",
-    "Center Of Mass.md"
+    "Hexadecimal Notation.md"
   ]
 }
