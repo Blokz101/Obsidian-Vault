@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Integral]] [[Limit]]
-> Friends:: 
+> Friends:: [[Functions With Vertical Asymptotes]]
 > Children:: 
 ---
 - ## Definition
