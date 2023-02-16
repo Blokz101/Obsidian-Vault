@@ -17,6 +17,7 @@ Alias: []
 		  > 
 		  > $F_{t}$ = [[Tension Force]] in $N$
 		  > $A$ = The **area** of a **cross section** in $m^2$
-		  > $\Delta L$ = The 
+		  > $L$ = The **resting length** of the material in $L$
+		  > $\Delta L$ = The amount the material stretched past $L$ in $m$
 ---
 - ## Reference
