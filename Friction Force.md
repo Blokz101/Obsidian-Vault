@@ -1,5 +1,5 @@
 ---
-Alias: [Friction]
+Alias: [Friction, Static Friction, Kinetic Friction]
 ---
 > [!Info]
 > Subject:: [[Physics]]
@@ -14,7 +14,19 @@ Alias: [Friction]
 	- There are two types of [[Friction Force|Friction]]:
 		- Static Friction
 			- The force that opposes motion when the **object is at rest**.
-			- > [!Equat]
-		- Kinetic Friction: The force that opposes motion when the **object is in motion**.
+			- > [!Equation]
+			  > $$\large{F_{\text{static}}\leq\mu_{s}F_{N}}$$
+			  > 
+			  > $F_{\text{static}}$ = [[Friction Force|Static Friction]] force in $N$
+			  > $\mu_{s}$ = [[Friction Force|Static Friction]] Coefficient
+			  > $F_{n}$ = [[Normal Force]] in $N$
+		- Kinetic Friction
+			- The force that opposes motion when the **object is in motion**.
+			- > [!Equation]
+			  > $$\large{F_{\text{kinetic}}\approx\mu_{k}F_{N}}$$
+			  > 
+			  > $F_{\text{kinetic}}$ = [[Friction Force|Static Friction]] force in $N$
+			  > $\mu_{k}$ = [[Friction Force|Static Friction]] Coefficient
+			  > $F_{n}$ = [[Normal Force]] in $N$
 ---
 - ## Reference
