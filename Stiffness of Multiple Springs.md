@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: [[Hooke's Law (Physics)]]
 > Friends:: 
-> Children:: [[Spring and Ball Model]]
+> Children:: [[Spring and Ball Model]] [[Young's Modulus]]
 ---
 - ## Definition
 	- Using the [[The Momentum Principle]] and [[Hooke's Law (Physics)]] we can determine the [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] of springs in both **series** and **parallel**.
