@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "57e0fa8bf4d18157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Improper Integrals.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ac1fbe5b4369618f",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Young's Modulus.md",
+                "file": "Improper Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Young's Modulus.md",
+                "file": "Improper Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Young's Modulus.md",
+                "file": "Improper Integrals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,11 +260,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4d1413783609409",
+  "active": "57e0fa8bf4d18157",
   "lastOpenFiles": [
+    "Young's Modulus.md",
     "Friction Force.md",
     "Normal Force.md",
-    "Young's Modulus.md",
     "Stiffness of Multiple Springs.md",
     "Hooke's Law (Physics).md",
     "References/Excalidraw/Drawing 2023-02-14 17.12.18.excalidraw.md",
