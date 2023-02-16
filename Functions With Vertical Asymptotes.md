@@ -18,6 +18,10 @@ Alias: []
 	  > To take the [[Integral]] of a function leading away from a [[Vertical Asymptote]] at $x=a$:
 	  > $$\large{\int_{a}^{b} f(x) \, dx=\lim_{ t \to a^+ }\int_{t}^{b} f(x) \, dx}$$
 	- > [!Equation]
-	  > 
+	  > ![[Screen Shot 2023-02-16 at 4.31.26 PM.png|200]]
+	  > To take the [[Integral]] of a function with a [[Vertical Asymptote]] in the middle of it at $x=c$:
+	  > $$\large{\int_{a}^{b} f(x) \, dx=\int_{a}^{c} f(x) \, dx+\int_{c}^{b} f(x) \, dx}$$
 ---
+- ## Practice
+	- 
 - ## Reference

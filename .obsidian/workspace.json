@@ -44,13 +44,13 @@
             }
           },
           {
-            "id": "1b07794724c95ad3",
+            "id": "1c3228e92161a366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Functions With Vertical Asymptotes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -284,11 +284,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b07794724c95ad3",
+  "active": "1c3228e92161a366",
   "lastOpenFiles": [
-    "Normal Force.md",
-    "Functions With Vertical Asymptotes.md",
     "Improper Integrals.md",
+    "Functions With Vertical Asymptotes.md",
+    "Normal Force.md",
     "Young's Modulus.md",
     "Stiffness of Multiple Springs.md",
     "Friction Force.md",
