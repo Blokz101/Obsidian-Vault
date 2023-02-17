@@ -23,5 +23,5 @@ Alias: []
 	  > $$\large{\int_{a}^{b} f(x) \, dx=\int_{a}^{c} f(x) \, dx+\int_{c}^{b} f(x) \, dx}$$
 ---
 - ## Practice
-	- 
+	- [[MA241 Homework 2.6.pdf]]
 - ## Reference

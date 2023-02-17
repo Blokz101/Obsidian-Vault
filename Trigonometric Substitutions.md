@@ -80,4 +80,5 @@ Alias: []
 ---
 - ## Practice
 	- [[MA241 Homework 2.2.pdf]]
+	- [[MA241 Homework 2.6.pdf]]
 - ## Reference

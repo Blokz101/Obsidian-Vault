@@ -28,5 +28,5 @@ Alias: []
 	  > If the curve **converges** with an axis the [[Limit]] will be **finite**. If the curve **diverges** from an axis the [[Limit]] will be some form of **infinity**
 ---
 - ## Practice
-	- 
+	- [[MA241 Homework 2.6.pdf]]
 - ## Reference
