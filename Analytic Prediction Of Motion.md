@@ -25,7 +25,8 @@ Alias: []
 		- ![[Velocity Update#^4fa492]]
 	- #### Find Average Velocity
 		- Use the final and initial velocity to find the arithmetic [[Average Velocity]] over the next time interval:
-		- ![[Average Velocity#^c156d3]]
+		- > [!Equation]
+		  > $$\large{\vec{v}_{avg}=\frac{\vec{v}_{f}-\vec{v}_{i}}{2}}$$
 	- #### Update Position
 		- Using the [[Average Velocity]] update the [[Position]] for the next time interval:
 		- ![[Position Update#^45f2fb]]
