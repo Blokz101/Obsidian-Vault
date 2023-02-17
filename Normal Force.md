@@ -12,4 +12,6 @@ Alias: [Normal Forces]
 	- Visualized with the [[Spring and Ball Model]]:
 	  ![[Screen Shot 2023-02-15 at 9.23.00 PM.png|400]]
 ---
+- ## Practice
+	- [[MA241 Homework 4.7-4.8.pdf]]
 - ## Reference

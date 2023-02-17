@@ -17,5 +17,7 @@ Alias: []
 	  > $\vec{a}$ = [[Acceleration]] in $\frac{m}{s^2}$
 	  > $\Delta t$ = Change in [[Time]] in $s$ ^4fa492
 ---
+- ## Practice
+	- [[MA241 Homework 4.7-4.8.pdf]]
 - ## Reference
 	- [[Motion Note Web.canvas]]

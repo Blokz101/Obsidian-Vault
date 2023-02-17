@@ -29,4 +29,6 @@ Alias: [Friction, Static Friction, Kinetic Friction]
 			  > $\mu_{k}$ = [[Friction Force|Static Friction]] Coefficient
 			  > $F_{n}$ = [[Normal Force]] in $N$
 ---
+- ## Practice
+	- [[MA241 Homework 4.7-4.8.pdf]]
 - ## Reference

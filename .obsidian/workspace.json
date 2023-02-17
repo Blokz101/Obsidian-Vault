@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Normal Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Normal Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Normal Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -320,8 +320,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7183931316b4d9ec",
+  "active": "ac1fbe5b4369618f",
   "lastOpenFiles": [
+    "Friction Force.md",
     "Velocity Update.md",
     "Analytic Prediction Of Motion.md",
     "Improper Integrals.md",
@@ -330,7 +331,6 @@
     "Normal Force.md",
     "Young's Modulus.md",
     "Stiffness of Multiple Springs.md",
-    "Friction Force.md",
     "Fundamental Theorem Of Calculus.md"
   ]
 }
