@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0726dd029e3343fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine and Instruction Cycle.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Von Neumann Machine.md",
+                "file": "Machine and Instruction Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Von Neumann Machine.md",
+                "file": "Machine and Instruction Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Von Neumann Machine.md",
+                "file": "Machine and Instruction Cycle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,17 +213,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3965509cd7d862c5",
+  "active": "0726dd029e3343fb",
   "lastOpenFiles": [
+    "Von Neumann Machine.md",
+    "Machine and Instruction Cycle.md",
     "Processing Unit.md",
     "Arithmetic Logic Unit.md",
-    "Von Neumann Machine.md",
     "Excalibrain Graph.md",
     "Fundamental Theorem Of Calculus.md",
     "Hooke's Law (Physics).md",
     "Friction Force.md",
     "Stiffness of Multiple Springs.md",
-    "Young's Modulus.md",
-    "Improper Integrals.md"
+    "Young's Modulus.md"
   ]
 }
