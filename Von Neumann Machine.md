@@ -12,7 +12,7 @@ Alias: [The Stored Program Computer]
 	- Consists of three main parts
 		- [[Memory]]: For storing and retrieving data.
 		- [[Processing Unit]]: For performing arithmetic and logical operations.
-		- [[Control Unit]]: For interpreting instructions.
+		- [[Control Unit]]: Essentially a [[State Machine]] to interpreting instructions.
 	- ![[Screen Shot 2023-02-18 at 12.58.59 AM.png|400]]
 ---
 - ## Reference

@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6f72c9e6931872a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processing Unit.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -163,7 +175,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb1e1dd16a6a6642",
@@ -203,13 +216,13 @@
   "lastOpenFiles": [
     "Excalibrain Graph.md",
     "Von Neumann Machine.md",
+    "Processing Unit.md",
     "Fundamental Theorem Of Calculus.md",
     "Hooke's Law (Physics).md",
     "Friction Force.md",
     "Stiffness of Multiple Springs.md",
     "Young's Modulus.md",
     "Improper Integrals.md",
-    "Analytic Prediction Of Motion.md",
-    "Velocity Update.md"
+    "Analytic Prediction Of Motion.md"
   ]
 }
