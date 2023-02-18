@@ -26,13 +26,37 @@
               "type": "markdown",
               "state": {
                 "file": "Machine and Instruction Cycle.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b8b8783c871cf050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75c644ba958f4a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instruction Set Architecture.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine and Instruction Cycle.md",
+                "file": "Instruction Set Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine and Instruction Cycle.md",
+                "file": "Instruction Set Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Machine and Instruction Cycle.md",
+                "file": "Instruction Set Architecture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,17 +237,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0726dd029e3343fb",
+  "active": "75c644ba958f4a09",
   "lastOpenFiles": [
-    "Von Neumann Machine.md",
+    "Instruction.md",
     "Machine and Instruction Cycle.md",
+    "Von Neumann Machine.md",
     "Processing Unit.md",
     "Arithmetic Logic Unit.md",
     "Excalibrain Graph.md",
     "Fundamental Theorem Of Calculus.md",
     "Hooke's Law (Physics).md",
     "Friction Force.md",
-    "Stiffness of Multiple Springs.md",
-    "Young's Modulus.md"
+    "Stiffness of Multiple Springs.md"
   ]
 }
