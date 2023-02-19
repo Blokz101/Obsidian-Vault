@@ -24,9 +24,13 @@ Alias: [Differential Equations]
 	 h'(t) & =-gt+C_{1} \\
 	 h(t) & =-\frac{1}{2}gt^2+C_{1}t+C_{2}
 	 \end{align}$$
-	 > Using the specifics from the problem we can find $C_{1}$ and $C_{2}$:
-	 > $$\begin{align}
-	h'(t)=V
+	    > Using the specifics from the problem we can find $C_{1}$ and $C_{2}$:
+	    > $$\begin{align}
+	 h'(0) & =v_{i} \\
+	 & =10 \\
+	 h'(0) & =-g(0)+C_{1} \\
+     10 & =-g(0)+C_{1} \\
+	 C_{1} & =10
 	 \end{align}$$
 	 
 	- There are two general types:
