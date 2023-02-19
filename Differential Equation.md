@@ -9,7 +9,7 @@ Alias: [Differential Equations]
 ---
 - ## Definition
 	- An equation that contains at least one [[Derivative]] of an **unknown function**.
-		- > [!Equation]
+		- > [!Example]-
 		  > Find a [[Differential Equation]] to find a position of time function for the ball.
 		  > ![[Drawing 2023-02-19 01.35.23.excalidraw|200]]
 		  > 
@@ -41,9 +41,14 @@ Alias: [Differential Equations]
 	 C_{2} & =2
 	 \end{align}$$
 	   > So the answer is:
-	   > $$$$
-	 
-	- There are two general types:
+	   > $$\large{h(t)=-\frac{1}{2}t^2+10t+2}$$
+	- There are two general **solutions**:
+		- **Explicit Solutions**:
+			- Solutions with generalized parameters in it. Basically a solution with $C$ variables left in.
+		- **Implicit Solutions**:
+			- Specific solutions that are fully defined.
+			- We get these by using **initial conditions** to solve for all remaining $C$ variables.
+	- There are two general **types**:
 		- Ordinary [[Differential Equation]] (ODE)
 		- Partial [[Differential Equation]] (PDE)
 	- The **order** of a [[Differential Equation]] is the highest order of the [[Derivative]] of the **unknown function**.
