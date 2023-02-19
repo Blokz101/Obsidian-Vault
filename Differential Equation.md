@@ -9,7 +9,7 @@ Alias: [Differential Equations]
 ---
 - ## Definition
 	- An equation that contains at least one [[Derivative]] of an **unknown function**.
-		- Example: Find $y(t)'=\cos(2x)$
+		- 
 	- There are two general types:
 		- Ordinary [[Differential Equation]] (ODE)
 		- Partial [[Differential Equation]] (PDE)
