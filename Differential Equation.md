@@ -12,7 +12,11 @@ Alias: [Differential Equations]
 		- > [!Equation]
 		  > ![[Drawing 2023-02-19 01.35.23.excalidraw|200]]
 		  > Find a [[Differential Equation]] to find a position of time function for the ball.
-		  > 
+		  > $$\begin{align}
+	 h(t) & =\text{position function} \\
+	 h''(t) & =\text{acceleration function} \\
+	 & = -g
+		\end{align}$$
 	- There are two general types:
 		- Ordinary [[Differential Equation]] (ODE)
 		- Partial [[Differential Equation]] (PDE)
