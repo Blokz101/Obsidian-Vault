@@ -24,7 +24,7 @@ Alias: [Differential Equations]
 	 h'(t) & =-gt+C_{1} \\
 	 h(t) & =-\frac{1}{2}gt^2+C_{1}t+C_{2}
 	 \end{align}$$
-	    > Using the specifics from the problem we can find $C_{1}$ and $C_{2}$:
+	    > Using the specifics from the problem we can find $C_{1}$:
 	    > $$\begin{align}
 	 h'(0) & =v_{i} \\
 	 & =10 \\
@@ -32,6 +32,16 @@ Alias: [Differential Equations]
      10 & =-g(0)+C_{1} \\
 	 C_{1} & =10
 	 \end{align}$$
+	    > And do the same for $C_{2}$:
+	    > $$\begin{align}
+	 h(0) & =r_{i} \\
+	 & =2 \\
+	 h(0) & =-\frac{1}{2}g(0)^2+10(0)+C_{2} \\
+	 2 & =-\frac{1}{2}g(0)^2+10(0)+C_{2} \\
+	 C_{2} & =2
+	 \end{align}$$
+	   > So the answer is:
+	   > $$$$
 	 
 	- There are two general types:
 		- Ordinary [[Differential Equation]] (ODE)
