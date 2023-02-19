@@ -8,25 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3965509cd7d862c5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "0726dd029e3343fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine and Instruction Cycle.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -66,6 +52,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
+                "file": "Differential Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
+                "file": "Differential Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
+                "file": "Differential Equation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,17 +233,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3965509cd7d862c5",
+  "active": "2828c3cbf9ee5a6c",
   "lastOpenFiles": [
+    "References/Excalidraw/Drawing 2023-02-19 01.40.21.excalidraw.md",
     "Differential Equation.md",
+    "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
     "Instruction Set Architecture.md",
     "Instruction.md",
     "Machine and Instruction Cycle.md",
     "Von Neumann Machine.md",
     "Processing Unit.md",
     "Arithmetic Logic Unit.md",
-    "Excalibrain Graph.md",
-    "Fundamental Theorem Of Calculus.md",
-    "Hooke's Law (Physics).md"
+    "Excalibrain Graph.md"
   ]
 }
