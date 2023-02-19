@@ -10,13 +10,25 @@ Alias: [Differential Equations]
 - ## Definition
 	- An equation that contains at least one [[Derivative]] of an **unknown function**.
 		- > [!Equation]
-		  > ![[Drawing 2023-02-19 01.35.23.excalidraw|200]]
 		  > Find a [[Differential Equation]] to find a position of time function for the ball.
+		  > ![[Drawing 2023-02-19 01.35.23.excalidraw|200]]
+		  > 
+		  > We let the position function be $h(t)$:
 		  > $$\begin{align}
 	 h(t) & =\text{position function} \\
 	 h''(t) & =\text{acceleration function} \\
 	 & = -g
 		\end{align}$$
+		 > Therefore:
+		> $$\begin{align}
+	 h'(t) & =-gt+C_{1} \\
+	 h(t) & =-\frac{1}{2}gt^2+C_{1}t+C_{2}
+	 \end{align}$$
+	 > Using the specifics from the problem we can find $C_{1}$ and $C_{2}$:
+	 > $$\begin{align}
+	h'(t)=V
+	 \end{align}$$
+	 
 	- There are two general types:
 		- Ordinary [[Differential Equation]] (ODE)
 		- Partial [[Differential Equation]] (PDE)
