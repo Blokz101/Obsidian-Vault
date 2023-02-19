@@ -9,7 +9,9 @@ Alias: [Differential Equations]
 ---
 - ## Definition
 	- An equation that contains at least one [[Derivative]] of an **unknown function**.
-		- 
+		- > [!Equation]
+		  > 
+		  > Find a [[Differential Equation]] to find a function for position of time.
 	- There are two general types:
 		- Ordinary [[Differential Equation]] (ODE)
 		- Partial [[Differential Equation]] (PDE)

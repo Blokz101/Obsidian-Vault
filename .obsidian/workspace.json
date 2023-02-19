@@ -11,11 +11,9 @@
             "id": "3965509cd7d862c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Von Neumann Machine.md",
-                "mode": "preview",
-                "source": true
+                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md"
               }
             }
           },
@@ -68,7 +66,6 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2828c3cbf9ee5a6c",
+  "active": "3965509cd7d862c5",
   "lastOpenFiles": [
+    "Differential Equation.md",
     "Instruction Set Architecture.md",
     "Instruction.md",
     "Machine and Instruction Cycle.md",
@@ -259,7 +257,6 @@
     "Arithmetic Logic Unit.md",
     "Excalibrain Graph.md",
     "Fundamental Theorem Of Calculus.md",
-    "Hooke's Law (Physics).md",
-    "Friction Force.md"
+    "Hooke's Law (Physics).md"
   ]
 }
