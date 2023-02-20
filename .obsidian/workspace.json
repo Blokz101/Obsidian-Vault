@@ -66,9 +66,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "35ee1801750427ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trapezoidal Sum.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "532643b890ab6e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riemann Sum.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trapezoidal Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trapezoidal Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Trapezoidal Sum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,17 +273,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dd89ae5bb78b5b2",
+  "active": "35ee1801750427ef",
   "lastOpenFiles": [
+    "Riemann Sum.md",
+    "Trapezoidal Sum.md",
+    "Even and Odd Powers of Sin and Cos.md",
     "Trigonometric Substitutions.md",
     "Trigonometric Identities.md",
     "Differential Equation.md",
     "References/Excalidraw/Drawing 2023-02-19 01.40.21.excalidraw.md",
     "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md",
     "Instruction Set Architecture.md",
-    "Instruction.md",
-    "Machine and Instruction Cycle.md",
-    "Von Neumann Machine.md",
-    "Processing Unit.md"
+    "Instruction.md"
   ]
 }

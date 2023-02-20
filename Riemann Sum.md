@@ -4,7 +4,7 @@ Alias: [Riemann Sum]
 > [!Info]
 > Subject:: [[Calculus]]
 > Parents:: [[Summation Notation]]
-> Friends:: 
+> Friends:: [[Trapezoidal Sum]]
 > Children:: [[Integral]]
 ---
 - ## Definition
