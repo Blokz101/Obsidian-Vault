@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trapezoidal Sum.md",
+                "file": "Trigonometric Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trapezoidal Sum.md",
+                "file": "Trigonometric Identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trapezoidal Sum.md",
+                "file": "Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,12 +285,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35ee1801750427ef",
+  "active": "8a70f6383d73fedc",
   "lastOpenFiles": [
+    "Trapezoidal Sum.md",
     "Trigonometric Identities.md",
     "Trigonometric Substitutions.md",
     "Even and Odd Powers of Sin and Cos.md",
-    "Trapezoidal Sum.md",
     "Riemann Sum.md",
     "Differential Equation.md",
     "References/Excalidraw/Drawing 2023-02-19 01.40.21.excalidraw.md",
