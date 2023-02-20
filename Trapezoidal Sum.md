@@ -9,5 +9,9 @@ Alias: []
 ---
 - ## Definition
 	- A way to approximate the **area under a curve** with trapezoids. 
+	- ![[Screen Shot 2023-02-20 at 10.06.53 AM.png|400]]
+	- > [!Equation]
+	  > $$\large{\int_{a}^{b} f(x) \, dx\approx \frac{1}{2}h[f(x_{0})+2f(x_{1})+2f(x_{2})+\dots+2f(x_{n-1})+f(x_{n})]}$$
+	  > $\large{\Delta x=\frac{b-a}{n}}$
 ---
 - ## Reference
