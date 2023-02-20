@@ -17,7 +17,8 @@ Alias: []
 	  > $n$ = The number of trapezoids
 	  > $\Delta x$ = The width of each trapezoid
 	- > [!Equation]
+	  > The upper bound for the error can be found like this:
 	  > $$\large{|E_{t}|\leq \frac{K(b-a)^2}{12n^2}}$$
-	  > Such that $|f''(x)|\leq K$.
+	  > Given that $|f''(x)|\leq K$.
 ---
 - ## Reference
