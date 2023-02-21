@@ -19,6 +19,10 @@ Alias: []
 	  > $$-kx=m \frac{d^2x}{dt^2}$$
 	  >$k$ and $m$ are **constants** and $x$ and $\frac{d^2x}{dt^2}$ are **functions**. To simplify the next assumption, ignore $k$ and $m$.
 	  >$$x= \frac{d^2x}{dt^2}$$
-	  > We need a function appears in its own second [[Derivative]]. The answer is $\sin x$ or $\cos x$. Af
+	  > We need a function appears in its own second [[Derivative]]. The answer is $\sin x$ or $\cos x$. After testing both we can see that $\cos x$ is required.
+	  > $$x=A\cos (\omega t)$$
+	  > Where $A$ is the variable that modifies **amplitude** and $\omega$ is the variable that modifies **period**.
+	  > $$\frac{dx}{dt}=-A\omega\sin (\omega t)$$
+	  > $$\frac{d^2x}{dt^2}=-A\omega }$$
 ---
 - ## Reference
