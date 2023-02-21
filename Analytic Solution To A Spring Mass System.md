@@ -12,7 +12,8 @@ Alias: []
 		- > [!Equation]
 		  >$$x=A\cos(\omega t)$$
 		  > $$\omega=\sqrt{ \frac{k}{m} }$$
-		  > $A$ or **amplitude** is found by plugging in initial conditions.
+		  > $A$ = Amplitude in $m$
+		  > $\omega$ = 
 		  > > [!Proof]-
 		  > > Assume a spring block on a spring that is sliding without friction along the **x-axis**. The goal is to find a **position function of time**.
 		  > > 
