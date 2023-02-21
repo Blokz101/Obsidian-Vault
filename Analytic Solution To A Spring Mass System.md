@@ -39,8 +39,10 @@ Alias: []
 		  > > $A$ or **amplitude** is found by plugging in initial conditions.
 	- To find the **period** and **frequency**
 		- > [!Equation]
-		  > 
-		  > > [!Proof]
-		  > > We know from the previous 
+		  > We know from the previous equation that the **period** of the **position** function is modified by $\omega$. We also know that when $\omega$ is $1$ then the **period** is $2\pi$ by default.
+		  > $$\omega t=2\pi$$
+		  > $$t=\frac{2\pi}{\omega}$$
+		  > The frequency is $\frac{1}{p}$ or:
+		  > $$t=\frac{\omega}{2\pi}$$
 ---
 - ## Reference
