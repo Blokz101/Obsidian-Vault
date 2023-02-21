@@ -16,6 +16,10 @@ Alias: []
 	  > $\vec{F}_{net}$ = [[Net Force]]
 	  > $\Delta t$ = Change in [[Time]]
 	- **Change in [[Momentum]] is the same as [[Impulse]].**
+- ## [[Derivative]] Form
+	- > [!Equation]
+	  >  $$\large{\frac{d\vec{p}}{pt}=F_{net}}$$
+	  > $$\large{\frac{d\vec{p}}{dt}=m \frac{d\vec{v}}{dt}}$$
 ---
 - ## Practice
 	- [[Drawing 2023-01-26 16.10.52.excalidraw]]

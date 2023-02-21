@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- > [!Equation]
 	  > $$\begin{align}
-	 F_{x} & =-k \\
+	 
 	 \end{align}$$
 ---
 - ## Reference
