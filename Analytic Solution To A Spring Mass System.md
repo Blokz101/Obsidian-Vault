@@ -23,6 +23,13 @@ Alias: []
 	  > $$x=A\cos (\omega t)$$
 	  > Where $A$ is the variable that modifies **amplitude** and $\omega$ is the variable that modifies **period**.
 	  > $$\frac{dx}{dt}=-A\omega\sin (\omega t)$$
-	  > $$\frac{d^2x}{dt^2}=-A\omega }$$
+	  > $$\frac{d^2x}{dt^2}=-A\omega^2\cos(\omega t)$$
+	  > Substitute for $x$ and $\frac{d^2x}{dt^2}$:
+	  > $$-kA\cos(\omega t)=m*-A\omega^2\cos(\omega t)$$
+	  > $$k=m\omega^2$$
+	  > $$\omega=\sqrt{ \frac{k}{m} }$$
+	  > So the function for **position** ends up being:
+	  > $$x=A\cos(\omega t)$$
+	  > $$\omega=\sqrt{ k.m }$$
 ---
 - ## Reference
