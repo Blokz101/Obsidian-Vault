@@ -13,7 +13,7 @@ Alias: []
 		  >$$x=A\cos(\omega t)$$
 		  > $$\omega=\sqrt{ \frac{k}{m} }$$
 		  > $A$ = Amplitude in $m$
-		  > $\omega$ = 
+		  > $\omega$ = Angular Frequency in $\frac{\text{radians}}{\text{seconds}}$
 		  > > [!Proof]-
 		  > > Assume a spring block on a spring that is sliding without friction along the **x-axis**. The goal is to find a **position function of time**.
 		  > > 
@@ -41,9 +41,9 @@ Alias: []
 	- To find the **period** and **frequency**
 		- > [!Equation]
 		  > We know from the previous equation that the **period** of the **position** function is modified by $\omega$. We also know that when $\omega$ is $1$ then the **period** is $2\pi$ by default.
-		  > $$\omega t=2\pi$$
-		  > $$t=\frac{2\pi}{\omega}$$
-		  > The frequency is $\frac{1}{p}$ or:
-		  > $$t=\frac{\omega}{2\pi}$$
+		  > $$\large{\omega t=2\pi}$$
+		  > Angular Frequency: $\large{\omega=\frac{2\pi}{t}}$
+		  > Period: $\large{t=\frac{2\pi}{\omega}}$
+		  > Frequency: $\large{f=\frac{1}{p}=\frac{\omega}{2\pi}}$
 ---
 - ## Reference
