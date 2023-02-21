@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a28b3667b6ed02ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gravitational Force.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "4dd89ae5bb78b5b2",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Gravitational Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Gravitational Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Trigonometric Identities.md",
+                "file": "Gravitational Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,10 +297,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a70f6383d73fedc",
+  "active": "a28b3667b6ed02ed",
   "lastOpenFiles": [
-    "Trapezoidal Sum.md",
     "Trigonometric Identities.md",
+    "Trapezoidal Sum.md",
     "Trigonometric Substitutions.md",
     "Even and Odd Powers of Sin and Cos.md",
     "Riemann Sum.md",

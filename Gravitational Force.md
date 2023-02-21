@@ -19,7 +19,7 @@ Alias: [Gravitational Forces, Force of Gravity, Forces of Gravity]
 	  > $G$ = [[Gravitational Constant]] or $6.7e-11  \frac{Nm^2}{kg^2}$
 	  > $m$ = [[Mass]] of the object in $kg$
 	  
-	- > [!Official Equation]-
+	- > [!Official Equation]
 	  > > [!Warning]
 	  > > This is the official equation and it works, but its really fucked up and not intuitive to use. Be careful with your position vector if you use it.
 	  >
