@@ -14,8 +14,14 @@ Alias: []
 	 \vec{F}_{net} & =m \frac{d^2\vec{r}}{dt^2} \\
 	 -kx & =m \frac{d^2\vec{x}}{dt^2}
 	 \end{align}$$
-	 > What $m$ and $k$ are **constants** and $x$ and $\frac{d^2x}{dt^2}$ are **functions**. When taking the [[Derivative]] of a function, what function's ex? 
+	 > What $m$ and $k$ are **constants** and $x$ and $\frac{d^2x}{dt^2}$ are **functions**. When taking the [[Derivative]] of a function, what function's exponents are not lessened? 
 	 > 
-	 > $\sin x$ or $\cos x$. Try each one in thie problem 
+	 > $\cos x$.
+	 > 
+	 > Use $a\cos\omega x$, where $a$ is the variable for **amplitude** and $\omega$ is the variable for **period**.
+	 > 
+	 > $$\begin{align}
+	
+	\end{align}$$
 ---
 - ## Reference
