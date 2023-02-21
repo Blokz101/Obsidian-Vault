@@ -10,7 +10,8 @@ Alias: []
 - ## Definition
 	- > [!Equation]
 	  > $$\begin{align}
-	 
+	 \frac{d\vec{p}}{dt} & =m \frac{d^2r}{dt^2} \\
+	 F_{net} & =
 	 \end{align}$$
 ---
 - ## Reference
