@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -321,8 +321,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6aaebffba253a12",
+  "active": "5db8fa18cd275a90",
   "lastOpenFiles": [
+    "The Momentum Principle.md",
     "Analytic Solution To A Spring Mass System.md",
     "Gravitational Force.md",
     "Trigonometric Identities.md",
@@ -331,7 +332,6 @@
     "Even and Odd Powers of Sin and Cos.md",
     "Riemann Sum.md",
     "Differential Equation.md",
-    "References/Excalidraw/Drawing 2023-02-19 01.40.21.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-02-19 01.35.23.excalidraw.md"
+    "References/Excalidraw/Drawing 2023-02-19 01.40.21.excalidraw.md"
   ]
 }
