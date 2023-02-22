@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ce1246ddaba324b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moment.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f6aaebffba253a12",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stiffness of Multiple Springs.md",
+                "file": "Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stiffness of Multiple Springs.md",
+                "file": "Moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stiffness of Multiple Springs.md",
+                "file": "Moment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,8 +273,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebff06055490c39e",
+  "active": "ce1246ddaba324b8",
   "lastOpenFiles": [
+    "Stiffness of Multiple Springs.md",
     "Hooke's Law (Physics).md",
     "Analytic Solution To A Spring Mass System.md",
     "Excalibrain Graph.md",
@@ -271,7 +284,6 @@
     "Trigonometric Identities.md",
     "Trapezoidal Sum.md",
     "Trigonometric Substitutions.md",
-    "Even and Odd Powers of Sin and Cos.md",
-    "Riemann Sum.md"
+    "Even and Odd Powers of Sin and Cos.md"
   ]
 }
