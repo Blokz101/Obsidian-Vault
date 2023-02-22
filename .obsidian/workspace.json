@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ebff06055490c39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stiffness of Multiple Springs.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f6aaebffba253a12",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Solution To A Spring Mass System.md",
+                "file": "Stiffness of Multiple Springs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Solution To A Spring Mass System.md",
+                "file": "Stiffness of Multiple Springs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Solution To A Spring Mass System.md",
+                "file": "Stiffness of Multiple Springs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,17 +261,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5db8fa18cd275a90",
+  "active": "ebff06055490c39e",
   "lastOpenFiles": [
-    "Excalibrain Graph.md",
+    "Hooke's Law (Physics).md",
     "Analytic Solution To A Spring Mass System.md",
+    "Excalibrain Graph.md",
     "The Momentum Principle.md",
     "Gravitational Force.md",
     "Trigonometric Identities.md",
     "Trapezoidal Sum.md",
     "Trigonometric Substitutions.md",
     "Even and Odd Powers of Sin and Cos.md",
-    "Riemann Sum.md",
-    "Differential Equation.md"
+    "Riemann Sum.md"
   ]
 }
