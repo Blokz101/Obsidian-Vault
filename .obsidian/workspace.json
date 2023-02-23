@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "9bc8720837e1d69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finding Unknown Forces.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f6aaebffba253a12",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moment.md",
+                "file": "Finding Unknown Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moment.md",
+                "file": "Finding Unknown Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moment.md",
+                "file": "Finding Unknown Forces.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,8 +285,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce1246ddaba324b8",
+  "active": "9bc8720837e1d69e",
   "lastOpenFiles": [
+    "Moment.md",
+    "Finding Unknown Forces.md",
     "Stiffness of Multiple Springs.md",
     "Hooke's Law (Physics).md",
     "Analytic Solution To A Spring Mass System.md",
