@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Curving Motion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4242d166d6498a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Dot Product.md",
                 "mode": "source",
                 "source": true
               }
@@ -68,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
+                "file": "Vector Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
+                "file": "Vector Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
+                "file": "Vector Dot Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,44 +261,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "bb602ab8b764861a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9b10fc7b4ca11135",
-        "type": "window",
-        "children": [
-          {
-            "id": "03c174e0694a0c87",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a28b3667b6ed02ed",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 34,
-        "y": 900,
-        "width": 700,
-        "height": 845,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a28b3667b6ed02ed",
+  "active": "4242d166d6498a09",
   "lastOpenFiles": [
     "Curving Motion.md",
+    "Vector Dot Product.md",
     "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
     "Finding Unknown Forces.md",
     "Moment.md",
