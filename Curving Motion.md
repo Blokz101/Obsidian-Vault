@@ -20,5 +20,6 @@ Alias: []
 		  > ---
 		  > $$\large{\vec{F}_{\parallel}=|\vec{p}| \frac{d\hat{p}}{dt}}$$
 		  > $$\large{\vec{F}_{\perp}=\hat{p} \frac{d\vec{p}}{dt}}$$
+		- Use the [[Vector Dot Product]] to find the **parallel** component.
 ---
 - ## Reference
