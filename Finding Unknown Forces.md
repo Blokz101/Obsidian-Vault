@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
+> Parents:: [[The Momentum Principle]]
 > Friends:: 
 > Children:: 
 ---
@@ -15,6 +15,7 @@ Alias: []
 		2. Contact Forces (Ex. [[Normal Force]], [[Tension Force]], [[Friction Force]])
 	4. Draw a free body diagram and label each [[Force]]
 	5. Observe the rate of change of [[Momentum]]
-	6. Apply [[The Momentum Principle]] to find the [[Net Force]]
+	6. Apply [[The Momentum Principle]] to find the [[Net Force]] ($\frac{d\vec{p}}{dt}=\vec{F}_{net}$)
+	7. Solve for the unknown contributions to the [[Net Force]]
 ---
 - ## Reference
