@@ -18,4 +18,6 @@ Alias: []
 	6. Apply [[The Momentum Principle]] to find the [[Net Force]] ($\frac{d\vec{p}}{dt}=\vec{F}_{net}$)
 	7. Solve for the unknown contributions to the [[Net Force]]
 ---
+- ## Practice
+	- [[PY205 Homework 5.1-5.4.pdf]]
 - ## Reference

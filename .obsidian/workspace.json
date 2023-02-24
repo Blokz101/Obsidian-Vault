@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "9b2cd37fcba924ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/PY205 Homework 5.1-5.4.pdf"
+              }
+            }
+          },
+          {
             "id": "f6aaebffba253a12",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -154,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "References/PY205 Homework 5.1-5.4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "References/PY205 Homework 5.1-5.4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "References/PY205 Homework 5.1-5.4.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,13 +259,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4242d166d6498a09",
+  "active": "9b2cd37fcba924ef",
   "lastOpenFiles": [
-    "Curving Motion.md",
+    "Finding Unknown Forces.md",
+    "References/PY205 Homework 5.1-5.4.pdf",
     "Vector Dot Product.md",
+    "Curving Motion.md",
     "References/Excalidraw/Drawing 2023-02-23 00.54.30.excalidraw.md",
     "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
-    "Finding Unknown Forces.md",
     "Moment.md",
     "Stiffness of Multiple Springs.md",
     "Hooke's Law (Physics).md",
