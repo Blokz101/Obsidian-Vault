@@ -116,18 +116,6 @@
             }
           },
           {
-            "id": "69cc020e720e50bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring and Ball Model.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b74b235e704b1788",
             "type": "leaf",
             "state": {
@@ -140,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring and Ball Model.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring and Ball Model.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spring and Ball Model.md",
+                "file": "Analytic Prediction Of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -296,15 +284,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69cc020e720e50bd",
+  "active": "9100a0e5fae26af0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Spring and Ball Model.md",
+    "Second Order Linear Homogeneous Differential Equations.md",
+    "conflict-files-obsidian-git.md",
     "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",
     "Momentum.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
-    "Second Order Linear Homogeneous Differential Equations.md",
     "Conservation of Energy.md",
     "Energy (Physics).md",
     "Electric Potential Energy.md",
