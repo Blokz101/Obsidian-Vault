@@ -12,6 +12,6 @@ Alias: []
 	- > [!Equation]
 	  >  $$\Delta E=W$$
 	  >  $$\Delta K+\Delta U=W$$
-	  >  $$U_{i}+K_{i}=U_{f}+K_{f}+W$$
+	  >  $$U_{f}+K_{f}=U_{i}+K_{i}+W$$
 ---
 - ## Reference

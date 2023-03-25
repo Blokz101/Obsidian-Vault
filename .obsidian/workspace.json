@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4cc11a371dbec9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy (Physics).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0c60cfbf11271e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Potential Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ebb29c636f454ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonal Trajectory.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0cee59bbe37d1eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gravitational Potential Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "33b8eaaa3f9f2a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electric Potential Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4703047f29d48b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy (Physics).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba9c9e78bb09359e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conservation of Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ecfe505bbc43f350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Momentum Principle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9100a0e5fae26af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analytic Prediction Of Motion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b74b235e704b1788",
             "type": "leaf",
             "state": {
@@ -126,9 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cdd5445fed19e2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7ff8f3a38846eda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications of Second-Order Differential Equations.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -190,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Applications of Second-Order Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Applications of Second-Order Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Applications of Second-Order Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,25 +200,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9100a0e5fae26af0",
+  "active": "7ff8f3a38846eda9",
   "lastOpenFiles": [
-    "Spring and Ball Model.md",
     "Second Order Linear Homogeneous Differential Equations.md",
-    "conflict-files-obsidian-git.md",
+    "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Applications of Second-Order Differential Equations.md",
+    "Energy (Physics).md",
     "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",
-    "Momentum.md",
-    "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Potential Energy.md",
+    "Orthogonal Trajectory.md",
     "Conservation of Energy.md",
-    "Energy (Physics).md",
     "Electric Potential Energy.md",
     "Gravitational Potential Energy.md",
+    "Spring and Ball Model.md",
+    "conflict-files-obsidian-git.md",
+    "Momentum.md",
     "References/PY205 Homework 6.7-6.8.pdf",
     "Electromagnetic Force.md",
     "Charge.md",
-    "Orthogonal Trajectory.md",
     "References/MA241 Homework 3.5.pdf",
-    "Potential Energy.md",
     "LC3 Opcodes.md",
     "ASCII Characters.md",
     "Memory.md",
@@ -317,7 +234,6 @@
     "Population Model.md",
     "Mixing Problems.md",
     "Compound Interest.md",
-    "Work (Physics).md",
     "References/Screen Shot 2023-03-20 at 12.12.52 PM.png",
     "References/LC3 Assembly Manual.pdf",
     "References/LC3 Quick Reference Guide.pdf",

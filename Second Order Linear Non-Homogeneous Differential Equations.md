@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Differential Equation]]
 > Friends:: [[Second Order Linear Homogeneous Differential Equations]]
-> Children:: 
+> Children:: [[Applications of Second-Order Differential Equations]]
 ---
 - ## Definition
 	- A [[Differential Equation]] in the form of:
