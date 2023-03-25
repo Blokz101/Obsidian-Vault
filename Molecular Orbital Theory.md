@@ -24,17 +24,17 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Shorthand
 	- Each [[Atom]] in a [[Pi Bond]] has one [[Hybridization Theory|Unhybridized]] **p** [[Orbital]].
 	- The system will have as many [[Molecular Orbital Theory|Molecular Orbitals]] as [[Atom|Atomic]] [[Orbital|Orbitals]].
-	- The lowest [[Energy]] [[Orbital]] is the one with **0 nodes**.
+	- The lowest [[Energy (Chemistry)]] [[Orbital]] is the one with **0 nodes**.
 	- Increase the number of **nodes** by one to get each [[Orbital]].
 		- **Nodes** are spaced equally.
 		- Mix as many of the [[Orbital|Orbitals]] as possible.
 		- In a system with an odd number of [[Atom|Atoms]] a **node** may have to be at the center of that atom. This [[Orbital]] cannot be mixed then.
 - ## Visualizing [[Orbital|Orbitals]]
-	- This is what the **n = 2** orbitals look like when ranked by [[Energy]].
+	- This is what the **n = 2** orbitals look like when ranked by [[Energy (Chemistry)]].
 		- ![[IMG_F2787B5197D4-1.jpeg]]
 		- The **2s** [[Orbital|Orbitals]] are the lowest energy by default and then the **2p**.
-		- The **bonds** come first because they are more stable and therefore lower [[Energy]].
-		- The **anti sigma bond** is higher in [[Energy]] then the **anti pi bonds**.
+		- The **bonds** come first because they are more stable and therefore lower [[Energy (Chemistry)]].
+		- The **anti sigma bond** is higher in [[Energy (Chemistry)]] then the **anti pi bonds**.
 - ## Bonding and Anti Bonding
 	- If there are more **bonds** then **anti bonds**, then the [[Molecule]] is considered to be **bonding**.
 	- If there are more **anti bonds** then **bonds**, then the [[Molecule]] is considered to be **anti bonding**.

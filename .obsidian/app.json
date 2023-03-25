@@ -13,5 +13,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "References",
   "showInlineTitle": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "readableLineLength": true
 }

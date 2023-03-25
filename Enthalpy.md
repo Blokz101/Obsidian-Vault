@@ -8,16 +8,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Definition
 	- A change in [[Enthalpy]] is notated as **$\Delta H$**.
 	- The change in [[Heat]] at a **constant** [[Pressure]].
-		- Ex: Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy]] is released during the process.
+		- Ex: Water changing phases from a [[Liquid]] to a [[Gas]] would have positive [[Enthalpy]] because [[Energy (Chemistry)]] is released during the process.
 	- > [!Equation]
 	> $$\Delta E_{system}=\Delta H+w$$
 	> 
-	> $\Delta E_{system}$ = [[Energy]] of the system
+	> $\Delta E_{system}$ = [[Energy (Chemistry)]] of the system
 	> $\Delta H$ = [[Enthalpy]]
 	> $w$ = [[Work (Chemistry)]]
 	
 - ## [[Enthalpy]] In Chemical Reactions
-	- The [[Enthalpy]] of a reaction can be calculated by comparing the [[Energy]] in the **bonds** of the **reactants** and the [[Energy]] in the **bonds** of the **product**. The difference is the [[Enthalpy]].
+	- The [[Enthalpy]] of a reaction can be calculated by comparing the [[Energy (Chemistry)]] in the **bonds** of the **reactants** and the [[Energy (Chemistry)]] in the **bonds** of the **product**. The difference is the [[Enthalpy]].
 		- > [!Equation]
 		> $$\Delta H \approx \sum \#_{bonds\ broken} - \sum \#_{bonds\ formed}$$
 		- **Bond Energies** can be found with this chart

@@ -23,11 +23,11 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- Because the [[Effective Nuclear Charge]] increases from left to right and top to bottom, it pulls [[Electron|Electrons]] to it more closely. This translates to more energy  to remove an [[Electron]] from orbit, and greater ability pull [[Electron|Electrons]] in.
 		- Exception for **[[Electronegativity]]** and [[Noble Gas|Noble Gases]] because [[Noble Gas|Noble Gases]] cannot accept another [[Electron]]. This means that they have a very low [[Electronegativity]] despite a high [[Effective Nuclear Charge]].
 		- ![[IMG_F968DCB6A61F-1.jpeg]]
-	- #### Orbital [[Energy]]
+	- #### Orbital [[Energy (Chemistry)]]
 		- Given by this equation located in the [[Bohr's Model]] note:
 		  ![[Bohr's Model#^9d1d37]]
 		- Increases from **right to left and top to bottom**.
-		- Because as [[Effective Nuclear Charge]] increases so does the energy and as the [[Principle Quantum Number|Energy Level]] increases the [[Energy]] decreases because it gets farther from the [[Nucleus]].
-		- When comparing [[Orbital Angular Momentum Quantum Number|Sublevel]] [[Energy]] within the same [[Element]], use the [[Orbital Angular Momentum Quantum Number]] as a secondary indicator of energy.
+		- Because as [[Effective Nuclear Charge]] increases so does the energy and as the [[Principle Quantum Number|Energy Level]] increases the [[Energy (Chemistry)]] decreases because it gets farther from the [[Nucleus]].
+		- When comparing [[Orbital Angular Momentum Quantum Number|Sublevel]] [[Energy (Chemistry)]] within the same [[Element]], use the [[Orbital Angular Momentum Quantum Number]] as a secondary indicator of energy.
 	- 
 - ## Reference

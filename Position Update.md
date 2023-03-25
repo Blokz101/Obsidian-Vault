@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Momentum]] [[Average Velocity]]
-> Friends:: [[Motion Note Web.canvas]]
+> Friends:: 
 > Children:: [[Iterative Prediction of Motion]]
 ---
 - ## Definition
@@ -37,4 +37,4 @@ Alias: []
 	  > $\Delta t$ = Change in [[Time]] in $s$ ^8f2a5a
 ---
 - ## Reference
-	- [[Motion Note Web.canvas]]
+	- 

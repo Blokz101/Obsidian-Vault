@@ -4,7 +4,7 @@ Alias: [Momentums]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Mass]] [[Velocity]]
-> Friends:: [[The Momentum Principle]] [[Motion Note Web.canvas]]
+> Friends:: [[The Momentum Principle]]
 > Children:: [[Position Update]]
 ---
 - ## Definition
@@ -28,4 +28,3 @@ Alias: [Momentums]
 			- **Change in the [[Magnitude]] of [[Momentum]]** will normally be negative.
 ---
 - ## Reference
-	- [[Motion Note Web.canvas]]

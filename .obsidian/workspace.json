@@ -4,81 +4,129 @@
     "type": "split",
     "children": [
       {
-        "id": "514f27e14ad70902",
+        "id": "49342cac5ac5ce77",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ebcf525f8c9836",
+            "id": "d4cc11a371dbec9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curving Motion.md",
+                "file": "Energy (Physics).md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4242d166d6498a09",
+            "id": "0c60cfbf11271e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Potential Energy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "9b2cd37fcba924ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/PY205 Homework 5.1-5.4.pdf"
-              }
-            }
-          },
-          {
-            "id": "f6aaebffba253a12",
+            "id": "ebb29c636f454ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Momentum Principle.md",
+                "file": "Orthogonal Trajectory.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4dd89ae5bb78b5b2",
+            "id": "0cee59bbe37d1eb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Even and Odd Powers of Sin and Cos.md",
+                "file": "Gravitational Potential Energy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "b8b8783c871cf050",
+            "id": "33b8eaaa3f9f2a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruction.md",
+                "file": "Electric Potential Energy.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4703047f29d48b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy (Physics).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ba9c9e78bb09359e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conservation of Energy.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ecfe505bbc43f350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e920dfb9520a2d62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "b74b235e704b1788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Order Linear Homogeneous Differential Equations.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -98,25 +146,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\rho",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f35277fea9803616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enthalpy.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
               }
             }
           },
@@ -129,24 +164,13 @@
                 "sortOrder": "byModifiedTime"
               }
             }
-          },
-          {
-            "id": "4e0c1d87ffdda0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trigonometric Substitutions.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 294.5,
     "collapsed": true
   },
   "right": {
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/PY205 Homework 5.1-5.4.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/PY205 Homework 5.1-5.4.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/PY205 Homework 5.1-5.4.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,14 +240,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.129346935456858,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb1e1dd16a6a6642",
@@ -259,24 +282,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b2cd37fcba924ef",
+  "active": "e920dfb9520a2d62",
   "lastOpenFiles": [
-    "Finding Unknown Forces.md",
-    "References/PY205 Homework 5.1-5.4.pdf",
-    "Vector Dot Product.md",
-    "Curving Motion.md",
-    "References/Excalidraw/Drawing 2023-02-23 00.54.30.excalidraw.md",
-    "References/Excalidraw/Drawing 2023-02-23 00.09.14.excalidraw.md",
-    "Moment.md",
-    "Stiffness of Multiple Springs.md",
-    "Hooke's Law (Physics).md",
-    "Analytic Solution To A Spring Mass System.md",
-    "Excalibrain Graph.md",
-    "The Momentum Principle.md",
-    "Gravitational Force.md",
-    "Trigonometric Identities.md",
-    "Trapezoidal Sum.md",
-    "Trigonometric Substitutions.md",
-    "Even and Odd Powers of Sin and Cos.md"
+    "Second Order Linear Homogeneous Differential Equations.md",
+    "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Conservation of Energy.md",
+    "Energy (Physics).md",
+    "Electric Potential Energy.md",
+    "Gravitational Potential Energy.md",
+    "References/PY205 Homework 6.7-6.8.pdf",
+    "Electromagnetic Force.md",
+    "Charge.md",
+    "Orthogonal Trajectory.md",
+    "References/MA241 Homework 3.5.pdf",
+    "Potential Energy.md",
+    "LC3 Opcodes.md",
+    "ASCII Characters.md",
+    "Memory.md",
+    "References/MA241 Homework 3.3.pdf",
+    "Complex Number.md",
+    "Differential Equation.md",
+    "Imaginary Number.md",
+    "Real Number.md",
+    "References/MA241 Homework 3.4.pdf",
+    "References/MA241 Homework 3.2.pdf",
+    "References/MA241 Homework 3.1.pdf",
+    "Population Model.md",
+    "Mixing Problems.md",
+    "Compound Interest.md",
+    "Work (Physics).md",
+    "Kinetic Energy.md",
+    "Exponential Growth and Decay.md",
+    "Separable Differential Equation.md",
+    "Newton's Law of Heating and Cooling.md",
+    "References/Screen Shot 2023-03-20 at 12.12.52 PM.png",
+    "References/LC3 Assembly Manual.pdf",
+    "References/LC3 Quick Reference Guide.pdf",
+    "Instruction.md",
+    "References/Screen Shot 2023-03-20 at 11.57.35 AM.png",
+    "References/IMG_E067456076F7-1.jpeg",
+    "References/Screen Shot 2023-03-11 at 12.22.00 PM.png",
+    "one.asm",
+    "References/four 1.asm",
+    "References/Screen Shot 2023-03-04 at 8.59.54 PM.png",
+    "Motion Note Web.canvas",
+    "test.canvas",
+    "References/Screen Shot 2023-02-23 at 10.24.46 PM.png",
+    "References/Screen Shot 2023-02-23 at 10.02.15 PM.png"
   ]
 }

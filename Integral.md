@@ -4,8 +4,8 @@ Alias: [Integrals, Integration, Integrate]
 > [!Info]
 > Subject:: [[Calculus]]
 > Parents:: [[Limit]] [[Riemann Sum]]
-> Friends:: [[Derivative]]
-> Children:: [[Integration By Parts]] [[U Substitution]]
+> Friends:: [[Derivative]] [[Integral Tables]]
+> Children:: [[Techniques of Integration]]
 ---
 - ## Definition
 	- Finds the area under a curve.

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Displacement]]
-> Friends:: [[Motion Note Web.canvas]]
+> Friends:: 
 > Children:: [[Position Update]] [[Velocity]]
 ---
 - ## Definition
@@ -22,4 +22,3 @@ Alias: []
 		  > $$\large{|v_{avg}|=\sqrt{ \vec{v}_{avgX}^2+\vec{v}_{avgY}^2+\vec{v}_{avgZ}^2 }}$$
 ---
 - ## Reference
-	- [[Motion Note Web.canvas]]

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Average Velocity]] [[Position Update]]
-> Friends:: [[Iterative Prediction of Motion]] [[Motion Note Web.canvas]]
+> Friends:: [[Iterative Prediction of Motion]]
 > Children:: 
 ---
 - ## Definition
@@ -38,4 +38,3 @@ Alias: []
 	- [[Drawing 2023-01-31 18.53.07.excalidraw]]
 	- [[MA241 Homework 4.7-4.8.pdf]]
 - ## Reference
-	- [[Motion Note Web.canvas]]

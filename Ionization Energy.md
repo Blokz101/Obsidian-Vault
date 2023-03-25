@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The amount of [[Energy]] that is required to remove an [[Electron]] from an isolated [[Atom]] or [[Molecule]].
+	- The amount of [[Energy (Chemistry)]] that is required to remove an [[Electron]] from an isolated [[Atom]] or [[Molecule]].
 	  - > [!Equation]
 	  > $$IE=+\frac{Z_{eff}^2}{n^2}$$
 	  > 
@@ -17,4 +17,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 - ## Reference
 	- [[Effective Nuclear Charge Related Trends]]
 	- Has the same equation as [[Electronegativity]].
-	- Has the same equation as [[Energy]], just negative.
+	- Has the same equation as [[Energy (Chemistry)]], just negative.

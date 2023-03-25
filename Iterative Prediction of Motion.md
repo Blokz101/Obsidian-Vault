@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Momentum Update]] [[Position Update]]
-> Friends:: [[Analytic Prediction Of Motion]] [[Motion Note Web.canvas]]
+> Friends:: [[Analytic Prediction Of Motion]]
 > Children:: 
 ---
 - ## Definition
@@ -28,4 +28,3 @@ Alias: []
 	- [[Homework 2.6 1.pdf]]
 	- [[Homework 3.5.pdf]]
 - ## Reference
-	- [[Motion Note Web.canvas]]

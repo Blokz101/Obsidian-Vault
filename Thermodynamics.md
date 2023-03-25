@@ -6,16 +6,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The study of [[Energy]] and its transformations.
+	- The study of [[Energy (Chemistry)]] and its transformations.
 - ## First Law of Thermodynamics
-	- [[Energy]] can never be created or destroyed, only changed.
+	- [[Energy (Chemistry)]] can never be created or destroyed, only changed.
 		- [[Work (Chemistry)]] and [[Heat]] can be transformed into one another.
 		- > [!Equation]
                 > $$\Delta E_{universe} = \Delta E_{system}+\Delta E_{surrounding}=0$$
                 > 
-                > $\Delta E_{universe}$ = [[Energy]] of the **system** and its **surroundings**.
-                > $\Delta E_{system}$ = [[Energy]] in the system.. .  ​                > $\Delta E_{surrounding}$ = [[Energy]] in the surroundings.
-	- If the **system** wants to absorb [[Energy]] then the **surroundings** must give up that [[Energy]] to maintain an equilibrium.
+                > $\Delta E_{universe}$ = [[Energy (Chemistry)]] of the **system** and its **surroundings**.
+                > $\Delta E_{system}$ = [[Energy (Chemistry)]] in the system.. .  ​                > $\Delta E_{surrounding}$ = [[Energy (Chemistry)]] in the surroundings.
+	- If the **system** wants to absorb [[Energy (Chemistry)]] then the **surroundings** must give up that [[Energy (Chemistry)]] to maintain an equilibrium.
 - ## Second Law Of Thermodynamics
 	- [[Entropy]] must be **greater than zero for all [[Spontaneity|Spontaneous]] processes**.
 		- > [!Equation]
@@ -30,10 +30,10 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Reworking the **Second Law** and substituting in [[Entropy]], we can predict wether a reaction will be [[Spontaneity|Spontaneous]] or [[Spontaneity|Non-Spontaneous]].
 		- > [!Equation]
               > $$\Delta G = \Delta H-T\Delta S < 0$$
-              > $\Delta G$ = [[Free Energy]] in [[Energy|kJ]]
+              > $\Delta G$ = [[Free Energy]] in [[Energy (Chemistry)|kJ]]
               > $T$ = [[Temperature]] in [[Temperature|K]]
-              > $\Delta H$ = [[Enthalpy]] in [[Energy|kJ]]
-              > $\Delta S$ = [[Entropy]] in [[Energy|kJ]]/[[Temperature|K]]
+              > $\Delta H$ = [[Enthalpy]] in [[Energy (Chemistry)|kJ]]
+              > $\Delta S$ = [[Entropy]] in [[Energy (Chemistry)|kJ]]/[[Temperature|K]]
               > 
               > > [!Proof]-
               > > Equation|Step
@@ -46,7 +46,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- A **negative $\Delta H$**, or **positive $\Delta S$** contributes to making **$\Delta G$ negative** or the reaction [[Spontaneity|Spontaneous]].
 		- If **$\Delta G$** is positive then the reaction can still be [[Spontaneity|Spontaneous]] but would **happen in reverse**. The reactants becoming the products and the products becoming the reactants.
 - ## Reference
-	- [[Thermodynamics]] describes the initial and final [[Energy]] of a reaction while [[Kinetics]] describes the path taken to get from the initial to final [[Energy]].
+	- [[Thermodynamics]] describes the initial and final [[Energy (Chemistry)]] of a reaction while [[Kinetics]] describes the path taken to get from the initial to final [[Energy (Chemistry)]].
 	- Elements
 		- [[Heat]]
 		- [[Work (Chemistry)]]

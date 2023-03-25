@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Instructions]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
@@ -10,10 +10,8 @@ Alias: []
 - ## Definition
 	- A series of [[Bit|Bits]] that tells a [[Control Unit]] what to do.
 	- Has two main parts:
-		- Opcode
-			- The operation to be performed.
-		- Operands
-			- The data or locations of the data that the operation is to be performed on.
+		- [[LC3 Opcodes]]: The operation to be performed.
+		- **Operands**: The data or locations of the data that the operation is to be performed on.
 	- Each [[Instruction]] is either executed completely or not at all.
 ---
 - ## Reference

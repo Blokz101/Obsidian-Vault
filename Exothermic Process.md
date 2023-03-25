@@ -7,8 +7,8 @@ Modification Date: NaN
 
 - ## Definition ^a1df59
 	- This is a [[Spontaneity|Spontaneous]] reaction.
-	- A [[Process]] in which the initial state of [[Energy]] is **higher** then the final.
-	- [[Energy]] **is released** during this [[Process]].
+	- A [[Process]] in which the initial state of [[Energy (Chemistry)]] is **higher** then the final.
+	- [[Energy (Chemistry)]] **is released** during this [[Process]].
 - ## Reference
 	- The opposite of an [[Endothermic Process]].
-	- [[Energy]] is [[Absorption and Emission|Emitted]].
+	- [[Energy (Chemistry)]] is [[Absorption and Emission|Emitted]].

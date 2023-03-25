@@ -15,12 +15,12 @@ Modification Date: NaN
 	  > $\lambda$ = [[Wavelength]] (Meters)
 	  > $v$ = [[Frequency]] ([[Hertz]])
 	- The **longer** the [[Wavelength]].
-		- The **lower** the [[Energy]].
+		- The **lower** the [[Energy (Chemistry)]].
 		- The **lower** the [[Frequency]].
 	- The **shorter** the [[Wavelength]].
-		- The **higher** the [[Energy]].
+		- The **higher** the [[Energy (Chemistry)]].
 		- The **higher** the [[Frequency]].
 - ## Reference
 	- A characteristic of a wave on the [[Spectrum of Light]].
-	- [[Energy]] and [[Frequency]] are **directly** related (See [[Planck's Equation]]).
+	- [[Energy (Chemistry)]] and [[Frequency]] are **directly** related (See [[Planck's Equation]]).
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.

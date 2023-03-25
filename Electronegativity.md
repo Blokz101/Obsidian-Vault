@@ -20,4 +20,4 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- [[Effective Nuclear Charge Related Trends]]
 	- Directly related to [[Effective Nuclear Charge]], they describe only slightly different things.
 	- Has the same equation as [[Ionization Energy]].
-	- Has the same equation as [[Energy]], just negative.
+	- Has the same equation as [[Energy (Chemistry)]], just negative.

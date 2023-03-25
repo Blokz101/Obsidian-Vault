@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Non-Spontaneously]] though an external circuit.
-		- Converts **mechanical** [[Energy]] into **chemical** [[Energy]].
+		- Converts **mechanical** [[Energy (Chemistry)]] into **chemical** [[Energy (Chemistry)]].
 		- The product are higher up in energy then the reactants.
 		- Think of it like a battery **recharging**.
 - ## Reference

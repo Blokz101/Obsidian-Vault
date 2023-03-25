@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[The Momentum Principle]]
-> Friends:: [[Momentum]] [[Motion Note Web.canvas]]
+> Friends:: [[Momentum]]
 > Children:: [[Velocity Update]] [[Iterative Prediction of Motion]]
 ---
 - ## Definition
@@ -20,4 +20,3 @@ Alias: []
 - ## Practice
 	- [[Physics Homework 2.1 - 2.4]]
 - ## Reference
-	- [[Motion Note Web.canvas]]

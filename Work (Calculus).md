@@ -4,11 +4,11 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Force]] [[Displacement]]
-> Friends:: [[Work (Chemistry)]]
+> Friends:: [[Work (Chemistry)]] [[Work (Physics)]]
 > Children:: 
 ---
 - ## Definition
-	- The [[Energy]] transferred to or from an object via the application of [[Force]] along a [[Displacement]].
+	- The [[Energy (Chemistry)]] transferred to or from an object via the application of [[Force]] along a [[Displacement]].
 	- When **[[Force]] is constant** over a [[Displacement]] then [[Work (Calculus)]] can be given by:
 		- > [!Equation]
 		  > $$W=F*D$$

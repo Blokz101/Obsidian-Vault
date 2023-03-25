@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[Motion Note Web.canvas]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
@@ -16,4 +16,3 @@ Alias: []
 	  > $c$ = [[Speed of Light]]
 ---
 - ## Reference
-	- [[Motion Note Web.canvas]]

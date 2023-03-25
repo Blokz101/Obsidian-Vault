@@ -3,8 +3,8 @@ Alias: [Instantaneous Velocity]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Average Velocity]]
-> Friends:: [[Motion Note Web.canvas]]
+> Parents:: [[Average Velocity]] [[Velocity Update]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
@@ -15,4 +15,3 @@ Alias: [Instantaneous Velocity]
 	  > $$\large{\vec{v}_{\text{instant}}=\frac{d\vec{r}}{dt}=\left\langle \frac{dx}{dt},\frac{dy}{dt},\frac{dz}{dt} \right\rangle}$$
 ---
 - ## Reference
-	- [[Motion Note Web.canvas]]

@@ -10,7 +10,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- Bonding between two of the same [[Atom|Atoms]].
 - ## Bonding ([[Molecular Orbital Theory]]) ^aad43a
 	- ![[Screenshot 2022-10-04 at 9.47.13 AM.jpeg|400]]
-	- The [[Electron|Electrons]] fill up the **bonding** and **anti bonding** [[Orbital|Orbitals]] in order of [[Energy]].
+	- The [[Electron|Electrons]] fill up the **bonding** and **anti bonding** [[Orbital|Orbitals]] in order of [[Energy (Chemistry)]].
 	- At the end the [[Bond Order]] can be calculated.
 - ## Reference
 	- [[Molecular Orbital Theory]].

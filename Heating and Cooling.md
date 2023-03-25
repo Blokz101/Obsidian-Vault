@@ -12,7 +12,7 @@ Modification Date: NaN
 	- Equation
 	  > [!Equation]
 	  > $$q=m*c*\triangle T$$
-	  > $q$ = [[Energy]] in Joules
+	  > $q$ = [[Energy (Chemistry)]] in Joules
 	  > $m$ = [[Mass]] in Grams
 	  > $c$ = [[Specific Heat Capacity]] in $\frac{J}{g}$
 	  > $\triangle T$ = Change in [[Temperature]] in [[Celsius]]

@@ -9,11 +9,11 @@ Modification Date: NaN
 - ## Definition
 	- [[Electron|Electrons]] can jump from energy level to energy level.
 		- When it **absorbs** energy it jumps from a **lower energy level to a higher one**.
-		- When it **releases** energy it drops from a **higher energy level to a lower one** and  emits [[Energy]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
+		- When it **releases** energy it drops from a **higher energy level to a lower one** and  emits [[Energy (Chemistry)]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
 			- > [!Equation]
 		  > $$\large{E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})}$$
 		  > 
-		  > $E$ = [[Energy]] (J)
+		  > $E$ = [[Energy (Chemistry)]] (J)
 	      > $h$ = [[Planck's Equation]] = $6.626e-34$ ($Js$).
 		  > $R$ = [[Rydberg's Constant]] = $3.29e15$ ($s^{-1}$)
 	      > $n_{lo}$ = Energy Level (integer) that is the lowest.

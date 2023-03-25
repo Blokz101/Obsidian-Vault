@@ -7,8 +7,8 @@ Modification Date: NaN
 
 - ## Definition  ^938bc5
 	- This is a [[Spontaneity|Non-Spontaneous]] reaction.
-	- A [[Process]] in which the initial state of [[Energy]] is **lower** then the final. 
-	- [[Energy]] **is absorbed** for this [[Process]].
+	- A [[Process]] in which the initial state of [[Energy (Chemistry)]] is **lower** then the final. 
+	- [[Energy (Chemistry)]] **is absorbed** for this [[Process]].
 - ## Reference
 	- The opposite of an [[Exothermic Process]].
-	- [[Energy]] is [[Absorption and Emission|Absorbed]].
+	- [[Energy (Chemistry)]] is [[Absorption and Emission|Absorbed]].

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Momentum Update]]
-> Friends:: [[Velocity]] [[Motion Note Web.canvas]]
+> Friends:: [[Velocity]]
 > Children:: 
 ---
 - ## Definition
@@ -20,4 +20,3 @@ Alias: []
 - ## Practice
 	- [[MA241 Homework 4.7-4.8.pdf]]
 - ## Reference
-	- [[Motion Note Web.canvas]]

@@ -6,7 +6,7 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition (Physics)
-	- Measure of [[Energy]] transfer that occurs when an object is moved over a distance by an external force.
+	- Measure of [[Energy (Chemistry)]] transfer that occurs when an object is moved over a distance by an external force.
 	- > [!Equation]
 	  > $$W=FD$$
 	  > $W$ = [[Work (Chemistry)]]

@@ -21,4 +21,4 @@ Modification Date: NaN
 - ## Reference
 	- A characteristic if a wave on the [[Spectrum of Light]].
 	- [[Frequency]] and [[Wavelength]] are **Inversely** related.
-	- [[Energy]] and [[Frequency]] are **Directly** related.
+	- [[Energy (Chemistry)]] and [[Frequency]] are **Directly** related.

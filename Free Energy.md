@@ -14,8 +14,8 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- > [!Equation]
 		  > $$\Delta G = \Delta G\degree+RT*ln(K)$$
 		  > 
-		  > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
-		  > $\Delta G\degree$ = [[Free Energy]] in **standard conditions** in [[Energy|J]]
+		  > $\Delta G$ = [[Free Energy]] in [[Energy (Chemistry)|J]]
+		  > $\Delta G\degree$ = [[Free Energy]] in **standard conditions** in [[Energy (Chemistry)|J]]
 		  > $R$ = [[Ideal Gas Constant]]
 		  > $T$ = [[Temperature]] in [[Temperature|K]]
 		  > $K$ = [[Equilibrium Constant]]

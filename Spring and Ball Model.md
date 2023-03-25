@@ -15,5 +15,5 @@ Alias: []
 	- Use [[Avogadro's Number]] and basic math to solve for things like bond length. Examples are below in the practice.
 ---
 - ## Practice
-	- [[MA241 Homework 4.1-4.4.pdf]]
+	- [[PY205 Homework 4.1-4.4.pdf]]
 - ## Reference

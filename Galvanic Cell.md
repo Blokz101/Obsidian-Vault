@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- A type of [[Electrochemical Cell]] where [[Electron|Electrons]] transfer [[Spontaneity|Spontaneously]] though an external circuit.
-		- Converts **chemical** [[Energy]] into **mechanical** [[Energy]].
+		- Converts **chemical** [[Energy (Chemistry)]] into **mechanical** [[Energy (Chemistry)]].
 		- The product are higher up in energy then the reactants.
 		- Think of it like a battery **discharging**.
 	- ![[IMG_34EA197AEA1F-1.jpeg]]
@@ -24,16 +24,16 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 	- > [!Equation]
 	  > $$E_{cell}=E_{cathode}-E_{anode}$$
 	  > 
-	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	  > $E_{cell}$ = The potential energy of the cell in [[Energy (Chemistry)|J]]/[[Coulomb's Law of Energy|C]]
 	  > $E_{cathode}$ = The [[Voltage]] released according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] for the **cathode compartment** in [[Voltage|V]].
 	  > $E_{anode}$ = The [[Voltage]] released according to the [[Half Oxidation and Reduction Reaction|Half Redox Reaction]] for the **anode compartment** in [[Voltage|V]].
 	- > [!Equation]
 	  > $$\Delta G = -n*F*E_{cell}$$
 	  > 
-	  > $\Delta G$ = [[Free Energy]] in [[Energy|J]]
+	  > $\Delta G$ = [[Free Energy]] in [[Energy (Chemistry)|J]]
 	  > $n$ = Amount of [[Electron]] transferred in the [[Oxidation and Reduction Reaction|Redox Reaction]] in [[Mole|Moles]]
 	  > $F$ = [[Faraday's Constant]] in [[Coulomb's Law of Energy|C]]/[[Mole|Moles]]
-	  > $E_{cell}$ = The potential energy of the cell in [[Energy|J]]/[[Coulomb's Law of Energy|C]]
+	  > $E_{cell}$ = The potential energy of the cell in [[Energy (Chemistry)|J]]/[[Coulomb's Law of Energy|C]]
 	- Note that if $E_{cell}$ then that will force $\Delta G<0$ and make the **reactions** [[Spontaneity|Spontaneous]].
 - ## Reference
 	- [[Electrolytic Cell]] is its counterpart.

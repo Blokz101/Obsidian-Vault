@@ -20,4 +20,4 @@ Modification Date: NaN
 	  > $\lambda$ = [[Wavelength]] (Meters)
 	  > $v$ = [[Frequency]] ([[Hertz]])
 - ## Reference
-	- Is a **constant**, however is related to [[Frequency]] and [[Energy]]
+	- Is a **constant**, however is related to [[Frequency]] and [[Energy (Chemistry)]]

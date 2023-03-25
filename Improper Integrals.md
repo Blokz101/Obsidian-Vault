@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Integral]] [[Limit]]
+> Parents:: [[Limit]] [[Techniques of Integration]]
 > Friends:: [[Functions With Vertical Asymptotes]]
 > Children:: 
 ---

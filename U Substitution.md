@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus]]
-> Parents:: [[Integral]]
+> Parents:: [[Techniques of Integration]]
 > Friends:: [[Integration By Parts]]
 > Children:: 
 ---

@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- Designates the level or shell that the [[Electron]] is in.
-		- Primary indicator of [[Energy]].
+		- Primary indicator of [[Energy (Chemistry)]].
 		- Often referred to as the [[Energy Level]]
 	- Is dependent on the row its element is in on the [[Periodic Table]] and what group it is in.[^1]. 
 	- There are $2n^2$ spots for [[Electron|Electrons]] in per each [[Principle Quantum Number|Energy Level]]. We dont see them all on the periodic table however because it is only a map of what we know.

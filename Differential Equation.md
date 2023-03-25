@@ -5,7 +5,7 @@ Alias: [Differential Equations]
 > Subject:: [[Calculus II]]
 > Parents:: 
 > Friends:: [[Integral]]
-> Children:: 
+> Children:: [[Second Order Linear Homogeneous Differential Equations]] [[Second Order Linear Non-Homogeneous Differential Equations]]
 ---
 - ## Definition
 	- An equation that contains at least one [[Derivative]] of an **unknown function**.
@@ -53,4 +53,6 @@ Alias: [Differential Equations]
 		- Partial [[Differential Equation]] (PDE)
 	- The **order** of a [[Differential Equation]] is the highest order of the [[Derivative]] of the **unknown function**.
 ---
+- ## Practice
+	- [[MA241 Homework 3.2.pdf]]
 - ## Reference
