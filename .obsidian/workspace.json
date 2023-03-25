@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electrical Circuits.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -202,6 +202,7 @@
   },
   "active": "f46fa0603bdd3dd1",
   "lastOpenFiles": [
+    "References/Screen Shot 2023-03-25 at 7.53.46 PM.png",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Electrical Circuits.md",
     "Applications of Second-Order Differential Equations.md",
@@ -230,7 +231,6 @@
     "Complex Number.md",
     "Differential Equation.md",
     "Imaginary Number.md",
-    "Real Number.md",
     "References/MA241 Homework 3.4.pdf",
     "References/MA241 Homework 3.2.pdf",
     "References/MA241 Homework 3.1.pdf",
