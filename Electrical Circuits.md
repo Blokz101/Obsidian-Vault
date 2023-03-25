@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[]]
+> Subject:: [[Calculus II]]
 > Parents:: 
 > Friends:: 
 > Children:: 
