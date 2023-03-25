@@ -97,19 +97,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "The Momentum Principle.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "e920dfb9520a2d62",
+            "id": "9100a0e5fae26af0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Analytic Prediction Of Motion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "69cc020e720e50bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring and Ball Model.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -126,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -188,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Spring and Ball Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Spring and Ball Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Spring and Ball Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,10 +296,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e920dfb9520a2d62",
+  "active": "69cc020e720e50bd",
   "lastOpenFiles": [
-    "Second Order Linear Homogeneous Differential Equations.md",
+    "conflict-files-obsidian-git.md",
+    "Spring and Ball Model.md",
+    "Analytic Prediction Of Motion.md",
+    "The Momentum Principle.md",
+    "Momentum.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Second Order Linear Homogeneous Differential Equations.md",
     "Conservation of Energy.md",
     "Energy (Physics).md",
     "Electric Potential Energy.md",
@@ -311,14 +330,9 @@
     "Mixing Problems.md",
     "Compound Interest.md",
     "Work (Physics).md",
-    "Kinetic Energy.md",
-    "Exponential Growth and Decay.md",
-    "Separable Differential Equation.md",
-    "Newton's Law of Heating and Cooling.md",
     "References/Screen Shot 2023-03-20 at 12.12.52 PM.png",
     "References/LC3 Assembly Manual.pdf",
     "References/LC3 Quick Reference Guide.pdf",
-    "Instruction.md",
     "References/Screen Shot 2023-03-20 at 11.57.35 AM.png",
     "References/IMG_E067456076F7-1.jpeg",
     "References/Screen Shot 2023-03-11 at 12.22.00 PM.png",
