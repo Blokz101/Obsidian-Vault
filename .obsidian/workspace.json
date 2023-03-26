@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "da08d51b5615cb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mixing Problems.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "Mixing Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "Mixing Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "Mixing Problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,11 +212,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f46fa0603bdd3dd1",
+  "active": "da08d51b5615cb9e",
   "lastOpenFiles": [
+    "Electrical Circuits.md",
     "References/Screen Shot 2023-03-25 at 7.53.46 PM.png",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
-    "Electrical Circuits.md",
     "Applications of Second-Order Differential Equations.md",
     "Mixing Problems.md",
     "Integral.md",

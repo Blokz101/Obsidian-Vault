@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Kirchhoff’s Second Law]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
@@ -17,6 +17,13 @@ Alias: []
 		- $R$, $L$ and $C$ are constants. The voltage $E$ could be a constant battery or an oscillating house voltage.
 	- $Q$ is the **charge** in the **capacitor** at some time $t$. 
 	- $I$ is the **current** and the [[Derivative]] of **charge**.
-	- There is a **current** drop across each component when the circuit is closed.
+	- There is a **voltage** drop across each component when the circuit is closed. The drops are:
+		- Component|Drop
+		  ---|---
+		  Inductor|$L \frac{dI}{dt}$
+		  Resistor|$RI$
+		  Capacitor|$\frac{Q}{C}$
+- ## Kirchhoff’s Second Law
+	- 
 ---
 - ## Reference
