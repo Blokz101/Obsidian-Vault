@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4518f00413c73c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oscillating Springs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b690a7d05530fbef",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -83,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Oscillating Springs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Oscillating Springs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Oscillating Springs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,12 +211,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf8d7c5c42ee363e",
+  "active": "6ac0a8fa3da73c9c",
   "lastOpenFiles": [
+    "Hooke's Law (Physics).md",
+    "Oscillating Springs.md",
+    "Spring and Ball Model.md",
+    "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Second Order Linear Homogeneous Differential Equations.md",
     "Electrical Circuits.md",
     "Applications of Second-Order Differential Equations.md",
-    "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Mixing Problems.md",
     "Differential Equation.md",
     "References/MA241 Homework 3.3.pdf",
@@ -219,7 +233,6 @@
     "Conservation of Energy.md",
     "Electric Potential Energy.md",
     "Gravitational Potential Energy.md",
-    "Spring and Ball Model.md",
     "conflict-files-obsidian-git.md",
     "Momentum.md",
     "References/PY205 Homework 6.7-6.8.pdf",
@@ -230,7 +243,6 @@
     "ASCII Characters.md",
     "Memory.md",
     "Complex Number.md",
-    "Imaginary Number.md",
     "References/MA241 Homework 3.4.pdf",
     "References/MA241 Homework 3.2.pdf",
     "References/MA241 Homework 3.1.pdf",

@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Differential Equation]]
 > Friends:: [[Second Order Linear Homogeneous Differential Equations]]
-> Children:: [[Electrical Circuits]]
+> Children:: [[Electrical Circuits]] [[Oscillating Springs]]
 ---
 - ## Definition
 	- A [[Differential Equation]] in the form of:
@@ -23,7 +23,7 @@ Alias: []
 		  > Where $y_{c}(x)$ is called the **complementary solution** and $y_{p}(x)$ is called the **particular solution**.
 		- The **complementary solution** is the solution to the [[Second Order Linear Homogeneous Differential Equations]] part of the equation.
 			- To find the **complementary solution**:
-				1. Let $F(x)=0
+				1. Let $F(x)=0$
 				2. Solve like a [[Second Order Linear Homogeneous Differential Equations]]
 		- The **particular solution** is a solution of the homogeneous part of the equation.
 			- To find the **particular solution**:
