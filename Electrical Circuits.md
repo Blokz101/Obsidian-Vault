@@ -28,6 +28,8 @@ Alias: [Kirchhoff’s Second Law]
 	- > [!Equation]
 	  > $$\large{L \frac{dI}{dt}+RI+\frac{Q}{C}=E(t)}$$
 	  > 
-	  > Varia
+	  > Rework this equation to narrow it down to two variables, $Q$ and $E$
+	  > 
+	  > $$\large{I \frac{d^2Q}{dt^2}+R \frac{dQ}{dt}+\frac{1}{C}Q=E(t)}$$
 ---
 - ## Reference
