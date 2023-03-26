@@ -24,6 +24,10 @@ Alias: [Kirchhoff’s Second Law]
 		  Resistor|$RI$
 		  Capacitor|$\frac{Q}{C}$
 - ## Kirchhoff’s Second Law
-	- 
+	- States that the sum of the voltage drops across the components is equal to the supplied voltage $E$.
+	- > [!Equation]
+	  > $$\large{L \frac{dI}{dt}+RI+\frac{Q}{C}=E(t)}$$
+	  > 
+	  > Varia
 ---
 - ## Reference
