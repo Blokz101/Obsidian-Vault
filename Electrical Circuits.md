@@ -36,4 +36,6 @@ Alias: [Kirchhoff’s Second Law]
 	  > $$L \frac{d^2I}{dt^2}+R \frac{dI}{dt}+\frac{1}{C}I=E'(t)$$
 	  > $$\large{LI''+RI'+\frac{1}{C}I}=E'(t)$$
 ---
+- ## Practice
+	- [[MA241 Homework 3.6 1.pdf]]
 - ## Reference

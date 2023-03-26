@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Oscillating Springs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscillating Springs.md",
+                "file": "Electrical Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscillating Springs.md",
+                "file": "Electrical Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oscillating Springs.md",
+                "file": "Electrical Circuits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,15 +211,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4518f00413c73c7a",
+  "active": "b690a7d05530fbef",
   "lastOpenFiles": [
-    "Analytic Solution To A Spring Mass System.md",
     "Oscillating Springs.md",
+    "Electrical Circuits.md",
+    "References/MA241 Homework 3.6 1.pdf",
+    "References/MA241 Homework 3.6.pdf",
+    "Analytic Solution To A Spring Mass System.md",
     "Hooke's Law (Physics).md",
     "Spring and Ball Model.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Second Order Linear Homogeneous Differential Equations.md",
-    "Electrical Circuits.md",
     "Applications of Second-Order Differential Equations.md",
     "Mixing Problems.md",
     "Differential Equation.md",
@@ -242,7 +244,6 @@
     "References/MA241 Homework 3.5.pdf",
     "LC3 Opcodes.md",
     "ASCII Characters.md",
-    "Memory.md",
     "References/MA241 Homework 3.4.pdf",
     "References/MA241 Homework 3.2.pdf",
     "References/MA241 Homework 3.1.pdf",
@@ -252,8 +253,6 @@
     "References/Screen Shot 2023-03-20 at 11.57.35 AM.png",
     "References/IMG_E067456076F7-1.jpeg",
     "References/Screen Shot 2023-03-11 at 12.22.00 PM.png",
-    "one.asm",
-    "References/four 1.asm",
     "References/Screen Shot 2023-03-04 at 8.59.54 PM.png",
     "Motion Note Web.canvas",
     "test.canvas",
