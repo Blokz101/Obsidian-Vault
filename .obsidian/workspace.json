@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "cdd5445fed19e2c2",
+            "id": "bf8d7c5c42ee363e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "87bef57c934a7b60",
+            "id": "b690a7d05530fbef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da08d51b5615cb9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mixing Problems.md",
+                "file": "Electrical Circuits.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Differential Equation.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,17 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87bef57c934a7b60",
+  "active": "bf8d7c5c42ee363e",
   "lastOpenFiles": [
-    "References/MA241 Homework 3.3.pdf",
+    "Second Order Linear Homogeneous Differential Equations.md",
     "Electrical Circuits.md",
-    "Differential Equation.md",
+    "Applications of Second-Order Differential Equations.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Mixing Problems.md",
+    "Differential Equation.md",
+    "References/MA241 Homework 3.3.pdf",
     "References/Screen Shot 2023-03-25 at 7.53.46 PM.png",
-    "Applications of Second-Order Differential Equations.md",
     "Integral.md",
-    "Second Order Linear Homogeneous Differential Equations.md",
     "Energy (Physics).md",
     "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",

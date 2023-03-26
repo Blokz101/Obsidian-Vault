@@ -3,7 +3,7 @@ Alias: [Kirchhoff’s Second Law]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
+> Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
 > Friends:: 
 > Children:: 
 ---
