@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscillating Springs.md",
+                "file": "Population Model.md",
                 "mode": "preview",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "Second Order Linear Homogeneous Differential Equations.md",
                 "mode": "preview",
                 "source": true
               }
@@ -78,19 +78,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c9f11d82bd0d3c06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/MA241 Homework 3.5.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -151,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Population Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Population Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Population Model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5,
-    "collapsed": true
+    "width": 579.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,22 +234,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9f11d82bd0d3c06",
+  "active": "4518f00413c73c7a",
   "lastOpenFiles": [
+    "Compound Interest.md",
+    "Newton's Law of Heating and Cooling.md",
+    "Population Model.md",
+    "Excalibrain Graph.md",
+    "Mixing Problems.md",
+    "Oscillating Springs.md",
+    "Second Order Linear Homogeneous Differential Equations.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Electrical Circuits.md",
+    "References/MA241 Homework 3.5.pdf",
     "Logarithm.md",
     "Natural Logarithm.md",
     "Euler’s Method.md",
-    "Electrical Circuits.md",
-    "Oscillating Springs.md",
     "References/MA241 Homework 3.6 1.pdf",
     "References/MA241 Homework 3.6.pdf",
     "Analytic Solution To A Spring Mass System.md",
     "Hooke's Law (Physics).md",
     "Spring and Ball Model.md",
-    "Second Order Linear Homogeneous Differential Equations.md",
     "Applications of Second-Order Differential Equations.md",
-    "Mixing Problems.md",
     "Differential Equation.md",
     "References/MA241 Homework 3.3.pdf",
     "References/Screen Shot 2023-03-25 at 7.53.46 PM.png",
@@ -273,12 +267,7 @@
     "Conservation of Energy.md",
     "Electric Potential Energy.md",
     "Gravitational Potential Energy.md",
-    "conflict-files-obsidian-git.md",
-    "Momentum.md",
     "References/PY205 Homework 6.7-6.8.pdf",
-    "Electromagnetic Force.md",
-    "Charge.md",
-    "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",
     "References/MA241 Homework 3.2.pdf",
     "References/MA241 Homework 3.1.pdf",
