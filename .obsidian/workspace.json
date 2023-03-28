@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "LC3 Opcodes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "LC3 Opcodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "LC3 Opcodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electrical Circuits.md",
+                "file": "LC3 Opcodes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,6 +249,7 @@
   },
   "active": "7675909526056a40",
   "lastOpenFiles": [
+    "Electrical Circuits.md",
     "Mixing Problems.md",
     "Population Model.md",
     "Compound Interest.md",
@@ -257,7 +258,6 @@
     "Oscillating Springs.md",
     "Second Order Linear Homogeneous Differential Equations.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
-    "Electrical Circuits.md",
     "References/MA241 Homework 3.5.pdf",
     "Logarithm.md",
     "Natural Logarithm.md",
