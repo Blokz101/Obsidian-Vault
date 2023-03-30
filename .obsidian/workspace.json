@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b74b235e704b1788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Order Linear Homogeneous Differential Equations.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bf8d7c5c42ee363e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4518f00413c73c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mixing Problems.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7675909526056a40",
             "type": "leaf",
             "state": {
@@ -56,55 +20,18 @@
             }
           },
           {
-            "id": "8a64eb9dcb1f6f60",
+            "id": "38c5a0c296ed05f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASCII Characters.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b690a7d05530fbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Order Linear Homogeneous Differential Equations.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b3e644d1ba23c04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Euler’s Method.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d267f777834cfc46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
+                "file": "Kinetic Energy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -261,17 +188,19 @@
   },
   "active": "7675909526056a40",
   "lastOpenFiles": [
+    "Kinetic Energy.md",
+    "Gravitational Potential Energy.md",
+    "Mixing Problems.md",
+    "Second Order Linear Non-Homogeneous Differential Equations.md",
+    "Second Order Linear Homogeneous Differential Equations.md",
     "LC3 Opcodes.md",
     "ASCII Characters.md",
-    "Second Order Linear Homogeneous Differential Equations.md",
     "Electrical Circuits.md",
-    "Mixing Problems.md",
     "Population Model.md",
     "Compound Interest.md",
     "Newton's Law of Heating and Cooling.md",
     "Excalibrain Graph.md",
     "Oscillating Springs.md",
-    "Second Order Linear Non-Homogeneous Differential Equations.md",
     "References/MA241 Homework 3.5.pdf",
     "Logarithm.md",
     "Natural Logarithm.md",
@@ -290,8 +219,6 @@
     "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",
     "Potential Energy.md",
-    "Orthogonal Trajectory.md",
-    "Conservation of Energy.md",
     "References/PY205 Homework 6.7-6.8.pdf",
     "References/MA241 Homework 3.4.pdf",
     "References/MA241 Homework 3.2.pdf",
