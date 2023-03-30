@@ -56,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy (Physics).md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy (Physics).md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energy (Physics).md",
+                "file": "Analytic Solution To A Spring Mass System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5
+    "width": 579.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,15 +211,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7675909526056a40",
+  "active": "6d03a9c04bcee37b",
   "lastOpenFiles": [
+    "Frequency.md",
+    "Analytic Solution To A Spring Mass System.md",
+    "Energy (Physics).md",
     "Excalibrain Graph.md",
     "Thermal Energy (Chemistry).md",
-    "Energy (Physics).md",
     "Potential Energy.md",
     "Gravitational Potential Energy.md",
     "Kinetic Energy.md",
-    "Analytic Solution To A Spring Mass System.md",
     "Spring Potential Energy.md",
     "References/PY205 Homework 7.1.pdf",
     "Conversions.md",
@@ -240,7 +243,6 @@
     "References/MA241 Homework 3.6 1.pdf",
     "References/MA241 Homework 3.6.pdf",
     "Spring and Ball Model.md",
-    "Applications of Second-Order Differential Equations.md",
     "References/MA241 Homework 3.3.pdf",
     "References/Screen Shot 2023-03-25 at 7.53.46 PM.png",
     "References/PY205 Homework 6.7-6.8.pdf",
