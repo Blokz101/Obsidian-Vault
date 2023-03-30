@@ -16,4 +16,6 @@ Alias: []
 	  > $k$ = [[Hooke's Law (Physics)|Spring Constant (Physics)]]
 	  > $s$ = Displacement in $m$
 ---
+- ## Practice
+	- [[PY205 Homework 7.1.pdf]]
 - ## Reference

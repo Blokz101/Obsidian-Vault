@@ -5,7 +5,7 @@ Alias: [Energy Of A Particle (Physics)]
 > Subject:: [[Physics]]
 > Parents:: 
 > Friends:: [[Energy (Chemistry)]] [[Conservation of Energy]]
-> Children:: [[Kinetic Energy]] [[Potential Energy]]
+> Children:: [[Kinetic Energy]] [[Potential Energy]] [[Thermal Energy (Physics)]]
 ---
 - ## Definition
 	- Similar to the [[Conservation of Momentum]], the amount of [[Energy (Physics)]] in the universe is **constant**.

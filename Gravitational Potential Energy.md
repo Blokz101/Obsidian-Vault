@@ -39,4 +39,5 @@ Alias: []
 ---
 - ## Practice
 	- [[PY205 Homework 6.7-6.8.pdf]]
+	- [[PY205 Homework 7.1.pdf]]
 - ## Reference

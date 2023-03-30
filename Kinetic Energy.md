@@ -27,4 +27,6 @@ Alias: []
 		  > $v$ = [[Speed of Light]]
 	- We can also apply these equations to multi particle systems to calculate the [[Kinetic Energy]] for entire objects.
 ---
+- ## Practice
+	- [[PY205 Homework 7.1.pdf]]
 - ## Reference
