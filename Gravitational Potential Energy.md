@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Potential Energy]]
-> Friends:: [[Electric Potential Energy]]
+> Friends:: [[Electric Potential Energy]] [[Spring Potential Energy]]
 > Children:: 
 ---
 - ## Definition

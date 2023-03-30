@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: 
-> Friends:: [[Gravitational Potential Energy]]
+> Parents:: [[Potential Energy]]
+> Friends:: [[Gravitational Potential Energy]] [[Spring Potential Energy]]
 > Children:: 
 ---
 - ## Definition

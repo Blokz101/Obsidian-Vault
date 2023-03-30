@@ -4,7 +4,7 @@ Alias: [Spring Constant (Physics), Spring Stiffness (Physics)]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[Hooke's Law (Calculus II)]]
+> Friends:: [[Hooke's Law (Calculus II)]] [[Spring Potential Energy]]
 > Children:: [[Stiffness of Multiple Springs]]
 ---
 - ## Definition
