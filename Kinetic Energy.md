@@ -19,9 +19,10 @@ Alias: []
 		  > $E_{\text{total}}$ = [[Energy (Physics)]] in $J$
 	- At speeds very far from the [[Speed of Light]] we need to use [[Binomial Expansion]] to calculate the [[Kinetic Energy]].
 		- > [!Equation]
-		  > $$\large{k\approx\frac{1}{2}mv^2}$$
+		  > $$\large{K\approx\frac{1}{2}mv^2}$$
+		  > $$\large{\Delta K=\frac{1}{2}m(v_{f}^2-v_{i}^2)}$$
 		  > 
-		  > $k$ = [[Kinetic Energy]] in $N$
+		  > $K$ = [[Kinetic Energy]] in $N$
 		  > $m$ = [[Mass]] in $kg$
 		  > $v$ = [[Speed of Light]]
 	- We can also apply these equations to multi particle systems to calculate the [[Kinetic Energy]] for entire objects.
