@@ -5,7 +5,7 @@ Alias: [Input Output Device, Input Output Devices]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Input/Output Device]]
 > Friends:: 
-> Children:: 
+> Children:: [[Polling]] [[Interrupts]]
 ---
 - ## Definition
 	- Each [[Input/Output Device]] has **status registers** that the [[LC3 Computer]] can read and write to communicate with the [[Input Output Controller]]. This is not unlike regular [[Memory]].
@@ -14,6 +14,6 @@ Alias: [Input Output Device, Input Output Devices]
 			- ![[Screen Shot 2023-04-04 at 11.00.27 PM.png]]
 			- ![[Screen Shot 2023-04-04 at 10.59.43 PM.png]]
 		- The [[LC3 Computer]] runs a loop to check when it needs to receive data.
-		- An output is basically the same, but this time the [[LC3 Computer]] ch
+		- An output is basically the same, but this time the [[LC3 Computer]] checks the [[Most Significant Bit|Sign Bit]] of the **ready register**, and when it gets a $1$ it writes to the **device data register**.
 ---
 - ## Reference

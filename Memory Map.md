@@ -5,7 +5,7 @@ Alias: [Memory Mapping, Memory Maped]
 > Subject:: [[Computer Systems]]
 > Parents:: [[Memory]] [[Input Output Controller]]
 > Friends:: 
-> Children:: [[Polling]] [[Interrupts]]
+> Children:: 
 ---
 - ## Definition
 	- The [[LC3 Computer]] and many other computers reserve the **"top of memory"** for [[Input Output Controller|Input Output Devices]].

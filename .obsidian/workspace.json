@@ -14,6 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "Input Output Controller.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fc57e7c3bdc6bde0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interrupts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6b8cde23814c1c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polling.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,6 +68,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input Output Controller.md",
+                "file": "Polling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input Output Controller.md",
+                "file": "Polling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Input Output Controller.md",
+                "file": "Polling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,14 +223,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2799cf1ab8a7e750",
+  "active": "6b8cde23814c1c1a",
   "lastOpenFiles": [
+    "Interrupts.md",
+    "Polling.md",
+    "Input Output Controller.md",
+    "Memory Map.md",
     "References/Screen Shot 2023-04-04 at 11.00.27 PM.png",
     "References/Screen Shot 2023-04-04 at 10.58.37 PM.png",
-    "Input Output Controller.md",
     "References/Screen Shot 2023-04-04 at 10.59.43 PM.png",
     "ASCII Characters.md",
-    "Memory Map.md",
     "Memory.md",
     "References/Screen Shot 2023-04-04 at 10.50.55 PM.png",
     "Excalibrain Graph.md",
@@ -231,7 +258,6 @@
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Second Order Linear Homogeneous Differential Equations.md",
     "Electrical Circuits.md",
-    "Population Model.md",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.6 1.pdf",
     "References/MA241 Homework 3.6.pdf",
@@ -246,7 +272,6 @@
     "References/Screen Shot 2023-03-11 at 12.22.00 PM.png",
     "References/Screen Shot 2023-03-04 at 8.59.54 PM.png",
     "Motion Note Web.canvas",
-    "test.canvas",
-    "References/Screen Shot 2023-02-23 at 10.24.46 PM.png"
+    "test.canvas"
   ]
 }
