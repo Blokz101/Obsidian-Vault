@@ -3,11 +3,11 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[Input/Output Device]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- Each [[Input/]]
+	- Each [[Input/Output Device]] has **status registers** that the [[cpu]]
 ---
 - ## Reference

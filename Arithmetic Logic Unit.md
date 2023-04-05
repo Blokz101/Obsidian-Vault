@@ -3,7 +3,7 @@ Alias: [ALU]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[Processing Unit]]
+> Parents:: [[Processing Unit]] [[LC3 Computer]]
 > Friends:: 
 > Children:: 
 ---

@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: 
+> Parents:: [[LC3 Computer]]
 > Friends:: [[Memory]] [[Control Unit]]
 > Children:: [[Arithmetic Logic Unit]] [[Register]]
 ---
