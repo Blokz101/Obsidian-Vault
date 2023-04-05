@@ -1,5 +1,5 @@
 ---
-Alias: [Machine and Instruction Cycles, Machine Cycle, Instruction Cycle]
+Alias: [Machine Cycles]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]

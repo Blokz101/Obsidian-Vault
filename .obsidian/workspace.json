@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Interrupts.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Instruction Cycle.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Interrupts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Interrupts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Interrupts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,11 +247,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08c27526017b9d16",
+  "active": "4246e3f2eb618798",
   "lastOpenFiles": [
-    "Machine Cycle.md",
     "Instruction Cycle.md",
     "Interrupts.md",
+    "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
+    "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
+    "Machine Cycle.md",
     "Instruction.md",
     "Input Output Controller.md",
     "Excalibrain Graph.md",
@@ -281,7 +283,6 @@
     "Conversions.md",
     "Electric Potential Energy.md",
     "Hooke's Law (Physics).md",
-    "Mixing Problems.md",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.6 1.pdf",
     "References/MA241 Homework 3.6.pdf",
@@ -293,8 +294,6 @@
     "References/Screen Shot 2023-03-20 at 12.12.52 PM.png",
     "References/Screen Shot 2023-03-20 at 11.57.35 AM.png",
     "References/IMG_E067456076F7-1.jpeg",
-    "References/Screen Shot 2023-03-11 at 12.22.00 PM.png",
-    "References/Screen Shot 2023-03-04 at 8.59.54 PM.png",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
