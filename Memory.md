@@ -16,5 +16,7 @@ Alias: []
 		- [[Dynamic RAM]]
 	- Example of $2^2\text{x}3$ [[Memory]]
 		- ![[IMG_8211FF0F3222-1.jpeg|400]]
+- ## LC3
+	- The [[LC3 Computer]] and many other computers reserve the **"top of memory"** for [[Input/Output Device|Input/Output Devices]].
 ---
 - ## Reference
