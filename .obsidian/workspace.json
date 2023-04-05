@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Polling.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -249,15 +249,15 @@
   },
   "active": "4246e3f2eb618798",
   "lastOpenFiles": [
-    "Instruction Cycle.md",
+    "Polling.md",
     "Interrupts.md",
+    "Instruction Cycle.md",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
     "Machine Cycle.md",
     "Instruction.md",
     "Input Output Controller.md",
     "Excalibrain Graph.md",
-    "Polling.md",
     "Memory Map.md",
     "References/Screen Shot 2023-04-04 at 11.00.27 PM.png",
     "References/Screen Shot 2023-04-04 at 10.58.37 PM.png",
