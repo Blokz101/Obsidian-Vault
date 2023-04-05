@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Spring Potential Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Spring Potential Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "Spring Potential Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,8 +223,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e58f4242ccbe9fff",
+  "active": "83bacdfe5f9b5d86",
   "lastOpenFiles": [
+    "Partial Fractions.md",
     "Analytic Solution To A Spring Mass System.md",
     "References/MA241 Partial Fractions Recitation.pdf",
     "Frequency.md",
