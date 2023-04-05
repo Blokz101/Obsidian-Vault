@@ -14,5 +14,7 @@ Alias: []
 		- ![[Screen Shot 2023-04-04 at 11.20.21 PM 1.png]]
 		- The [[LC3 Computer]] checks for this signal between [[Instruction Cycle|Instruction Cycles]].
 		- If it finds an **interrupt signal** then it transfers control to some [[Subroutine]] to deal with it.
-	- There are **eight**
+- ## [[LC3 Computer]]
+	- There are **eight** levels of [[Interrupts]] that are hardwired on the [[LC3 Computer]]. $0$ is the lowest priority and $7$ is the highest.
+	- The [[Interrupts]] are dealt with in the order of their severity.
 - ## Reference
