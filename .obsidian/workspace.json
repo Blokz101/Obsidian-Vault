@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "59c0f8bd0ea2c089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LC3 Opcodes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "133424737d1895e0",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subroutine.md",
+                "file": "LC3 Opcodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subroutine.md",
+                "file": "LC3 Opcodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subroutine.md",
+                "file": "LC3 Opcodes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,11 +283,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8eb0154e84e5c46e",
+  "active": "59c0f8bd0ea2c089",
   "lastOpenFiles": [
+    "Subroutine.md",
     "TRAP Subroutines.md",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
-    "Subroutine.md",
     "Interrupts.md",
     "Polling.md",
     "Instruction Cycle.md",
