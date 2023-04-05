@@ -18,5 +18,8 @@ Alias: []
 		- ![[IMG_8211FF0F3222-1.jpeg|400]]
 - ## LC3
 	- The [[LC3 Computer]] and many other computers reserve the **"top of memory"** for [[Input/Output Device|Input/Output Devices]].
+		- When the **CPU** attempts to access these locations, the hardware reroutes it and it points it to the [[Input and Output Controller]] instead. This is called **memory mapping**.
+	- An example of some of these **memory mapped registers** for the [[LC3 Computer]] is the keyboard and display **memory maps**.
+		- ![[Screen Shot 2023-04-04 at 10.50.55 PM.png]]
 ---
 - ## Reference
