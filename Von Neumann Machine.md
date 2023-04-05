@@ -18,4 +18,4 @@ Alias: [The Stored Program Computer]
 	- ![[Screen Shot 2023-02-18 at 12.58.59 AM.png|400]]
 ---
 - ## Reference
-	- Uses [[Machine and Instruction Cycle|Machine and Instruction Cycles]].
+	- Uses [[Machine Cycle|Machine and Instruction Cycles]].

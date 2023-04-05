@@ -3,7 +3,7 @@ Alias: [Instructions]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[Machine and Instruction Cycle]] [[Control Unit]]
+> Parents:: [[Instruction Cycle]] [[Control Unit]]
 > Friends:: 
 > Children:: [[Instruction Set Architecture]]
 ---
