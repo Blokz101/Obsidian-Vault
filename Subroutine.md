@@ -4,7 +4,7 @@ Alias: [Subroutines]
 > [!Info]
 > Subject:: [[Computer Systems]]
 > Parents:: 
-> Friends:: [[Jump Sub Routine LC3 Opcode]] [[Jump Sub Routine Register LC3 Opcode]] [[Return LC3 Opcode]]
+> Friends:: [[LC3 Jump Sub Routine]] [[LC3 Jump Sub Routine Register]] [[LC3 Return]]
 > Children:: [[TRAP Subroutines]]
 ---
 - ## Definition

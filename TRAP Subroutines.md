@@ -15,5 +15,6 @@ Alias: []
 	- At the very bottom of [[Memory]] there is a table of [[TRAP Subroutines]]. When the TRAP [[LC3 Opcodes|LC3 Opcode]] is entered, the [[LC3 Computer]] goes to that location to find the beginning instruction of the [[Subroutine]].
 	- When execution is finished the [[Subroutine]] returns control to the user code.
 	- There is space for up to $256$ [[TRAP Subroutines]].
+	- ![[Screen Shot 2023-04-05 at 12.02.52 AM.png]]
 ---
 - ## Reference
