@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [ASCII Character]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
