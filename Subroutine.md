@@ -1,11 +1,11 @@
 ---
-Alias: []
+Alias: [Subroutines]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
 > Parents:: 
 > Friends:: [[Jump Sub Routine LC3 Opcode]] [[Jump Sub Routine Register LC3 Opcode]] [[Return LC3 Opcode]]
-> Children:: 
+> Children:: [[TRAP Subroutines]]
 ---
 - ## Definition
 	- A well defined task that jumps away from user code, does task, and jumps back to user code.
