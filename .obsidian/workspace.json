@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2799cf1ab8a7e750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input Output Controller.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4246e3f2eb618798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interrupts.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8eb0154e84e5c46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subroutine.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "59c0f8bd0ea2c089",
             "type": "leaf",
             "state": {
@@ -56,79 +20,18 @@
             }
           },
           {
-            "id": "133424737d1895e0",
+            "id": "ff8ad38791091f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRAP Subroutines.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "80b62530b1bef0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Cycle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "08c27526017b9d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruction Cycle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b8cde23814c1c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polling.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9012b3e021b57ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Map.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ad3a4981df15851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
+                "file": "ASCII Characters.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -285,27 +188,27 @@
   },
   "active": "59c0f8bd0ea2c089",
   "lastOpenFiles": [
-    "Subroutine.md",
-    "TRAP Subroutines.md",
-    "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
+    "Input Output Controller.md",
     "Interrupts.md",
-    "Polling.md",
+    "Subroutine.md",
+    "LC3 Opcodes.md",
+    "ASCII Characters.md",
+    "TRAP Subroutines.md",
+    "Machine Cycle.md",
     "Instruction Cycle.md",
+    "Polling.md",
+    "Memory Map.md",
+    "Memory.md",
+    "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
-    "Machine Cycle.md",
     "Instruction.md",
-    "Input Output Controller.md",
     "Excalibrain Graph.md",
-    "Memory Map.md",
     "References/Screen Shot 2023-04-04 at 11.00.27 PM.png",
     "References/Screen Shot 2023-04-04 at 10.58.37 PM.png",
     "References/Screen Shot 2023-04-04 at 10.59.43 PM.png",
-    "ASCII Characters.md",
-    "Memory.md",
     "References/Screen Shot 2023-04-04 at 10.50.55 PM.png",
     "Input/Output Device.md",
-    "LC3 Opcodes.md",
     "Input",
     "LC3 Computer.md",
     "Kinetic Energy.md",
