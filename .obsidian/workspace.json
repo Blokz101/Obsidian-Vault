@@ -188,11 +188,11 @@
   },
   "active": "59c0f8bd0ea2c089",
   "lastOpenFiles": [
+    "ASCII Characters.md",
+    "LC3 Opcodes.md",
     "Input Output Controller.md",
     "Interrupts.md",
     "Subroutine.md",
-    "LC3 Opcodes.md",
-    "ASCII Characters.md",
     "TRAP Subroutines.md",
     "Machine Cycle.md",
     "Instruction Cycle.md",
