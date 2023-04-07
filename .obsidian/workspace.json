@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "e672b7ae658d29f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summation Notation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "306a38dc38564c4f",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Infinite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Infinite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Infinite Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,10 +247,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e672b7ae658d29f3",
+  "active": "c58e266a17bc1d32",
   "lastOpenFiles": [
-    "Infinite Series.md",
     "Summation Notation.md",
+    "Infinite Series.md",
     "Sequence.md",
     "Monotonic Sequence.md",
     "Real Number.md",

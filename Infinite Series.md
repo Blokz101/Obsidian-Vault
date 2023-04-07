@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: 
+> Parents:: [[Sequence]]
 > Friends:: 
-> Children:: 
+> Children:: [[Geometric Series]] [[P Series]]
 ---
 - ## Definition
 	- The [[Summation Notation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].

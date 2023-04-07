@@ -2,12 +2,12 @@
 Alias: [Sum]
 ---
 > [!Info]
-> Subject:: [[Calculus II]]
+> Subject:: [[Calculus]]
 > Parents:: 
 > Friends:: 
 > Children:: 
 ---
-## Definition
+- ## Definition
 	- A shorthand notation for the summation of an expression that follows a pattern.
 	- > [!Equation]
 	  > $$\large{\sum_{i=n}^{N}[a_i]}$$
