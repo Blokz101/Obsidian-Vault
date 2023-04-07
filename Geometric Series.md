@@ -10,6 +10,6 @@ Alias: []
 - ## Definition
 	- An [[Infinite Series]] that takes the form of:
 	- > [!Equation]
-	  > $\large{}$
+	  > $\large{\sum^{\infty}_{n=1}ar^{n-1}}$
 ---
 - ## Reference
