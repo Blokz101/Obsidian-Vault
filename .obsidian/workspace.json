@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "1cd426b1a4fb4a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometric Series.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "306a38dc38564c4f",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,10 +259,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c58e266a17bc1d32",
+  "active": "1cd426b1a4fb4a5e",
   "lastOpenFiles": [
-    "Summation Notation.md",
     "Infinite Series.md",
+    "Geometric Series.md",
+    "Summation Notation.md",
     "Sequence.md",
     "Monotonic Sequence.md",
     "Real Number.md",
@@ -283,7 +296,6 @@
     "References/Screen Shot 2023-04-04 at 10.50.55 PM.png",
     "Input/Output Device.md",
     "Input",
-    "LC3 Computer.md",
     "References/MA241 Partial Fractions Recitation.pdf",
     "References/PY205 Homework 7.1.pdf",
     "References/MA241 Homework 3.5.pdf",
