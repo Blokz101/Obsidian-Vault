@@ -27,7 +27,7 @@ Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 		  > $v$ = [[Speed of Light]]
 	- We can also apply these equations to multi particle systems to calculate the [[Kinetic Energy]] for entire objects.
 - ## Rotational Kinetic Energy
-	- 
+	- [[Kinetic Energy|Translational Kinetic Energy]] is not able to fully capture the [[Kinetic Energy]] of the object.
 ---
 - ## Practice
 	- [[PY205 Homework 7.1.pdf]]
