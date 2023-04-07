@@ -29,7 +29,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
 - ## Finding the [[Center Of Mass]] of multiple objects
 	- > [!Equation]
-	  > 
+	  > $$r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{\text{total}}}$$
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
