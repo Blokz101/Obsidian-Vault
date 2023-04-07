@@ -1,11 +1,13 @@
 ---
-Alias: []
-Creation Date: Thu November 3rd 2022 09:35:54 pm 
-Modification Date: NaN
+Alias: [Sum]
 ---
-#Permanent [[Calculus]]
-
-- ## Definition
+> [!Info]
+> Subject:: [[Calculus II]]
+> Parents:: 
+> Friends:: 
+> Children:: 
+---
+## Definition
 	- A shorthand notation for the summation of an expression that follows a pattern.
 	- > [!Equation]
 	  > $$\large{\sum_{i=n}^{N}[a_i]}$$
@@ -29,6 +31,7 @@ Modification Date: NaN
 	  > $$\sum_{i=1}^{N}[i]=\frac{N(N+1)}{2}$$
 	  > $$\sum_{i=1}^{N}[i^2]=\frac{N(N+1)(2N+1)}{6}$$
 	  > $$\sum_{i=1}^{N}[i^3]=[\frac{N(N+1)}{2}]^2$$
+---
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
 - ## Reference
