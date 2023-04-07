@@ -2,14 +2,16 @@
 Alias: [Balance Point, Center Of Masses, COM]
 ---
 > [!Info]
-> Subject:: [[Calculus II]]
+> Subject:: [[Calculus II]] [[Physics]]
 > Parents:: [[Moment]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
 	- Symbol: $\left( \bar{x},\bar{y} \right)$
-	- The point where something could balance perfectly.
+	- An average of the position of every particle in an object.
+		- The point on which an object could balance perfectly.
+- ## Finding the [[Center Of Mass]] of a shape defined by a curve
 	- $\left( \bar{x},\bar{y} \right)$ of a **plane** is given by:
 		- > [!Equation]
 		  > $$\large{\bar{x}=\frac{M_{y}}{m}}$$
@@ -25,6 +27,9 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > > [!Proof]-
 		  > > ![[Drawing 2023-01-24 12.27.52.excalidraw|540]]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
+- ## Finding the [[Center Of Mass]] of multiple objects
+	- > [!Equation]
+	  > 
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
