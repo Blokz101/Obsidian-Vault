@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Moment Of Inertia.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "Angular Velocity.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Moment Of Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Moment Of Inertia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Moment Of Inertia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,11 +211,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9aef5fdd8c6fb1bf",
+  "active": "c7cc7d70f7c3a059",
   "lastOpenFiles": [
+    "Angular Velocity.md",
     "Kinetic Energy.md",
     "Moment Of Inertia.md",
-    "Angular Velocity.md",
     "Center Of Mass.md",
     "Velocity.md",
     "Translational Kinetic Energy.md",
