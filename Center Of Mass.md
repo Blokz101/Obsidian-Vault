@@ -5,7 +5,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 > Subject:: [[Calculus II]] [[Physics]]
 > Parents:: [[Moment]]
 > Friends:: 
-> Children:: [[Translational Motion]]
+> Children:: 
 ---
 - ## Definition
 	- Symbol: $\left( \bar{x},\bar{y} \right)$

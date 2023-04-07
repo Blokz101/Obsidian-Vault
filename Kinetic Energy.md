@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 ---
 > [!Info]
 > Subject:: [[Physics]]
@@ -7,7 +7,7 @@ Alias: []
 > Friends:: 
 > Children:: 
 ---
-- ## Definition
+- ## Translational Kinetic Energy
 	- We know the [[Energy (Physics)|Energy Of A Particle (Physics)]] at rest and in motion. Finding the difference between the two gives us the [[Kinetic Energy]] of the particle.
 		- > [!Equation]
 		  > $$\begin{align}
@@ -26,6 +26,8 @@ Alias: []
 		  > $m$ = [[Mass]] in $kg$
 		  > $v$ = [[Speed of Light]]
 	- We can also apply these equations to multi particle systems to calculate the [[Kinetic Energy]] for entire objects.
+- ## Rotational Kinetic Energy
+	- 
 ---
 - ## Practice
 	- [[PY205 Homework 7.1.pdf]]
