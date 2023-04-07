@@ -30,6 +30,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 - ## Finding the [[Center Of Mass]] of multiple objects
 	- > [!Equation]
 	  > $$r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{\text{total}}}$$
+	- ![[Screen Shot 2023-04-06 at 9.27.21 PM.png|300]]
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
