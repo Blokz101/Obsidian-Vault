@@ -28,7 +28,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > > ![[Drawing 2023-01-24 12.27.52.excalidraw|540]]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
 - ## Finding the [[Center Of Mass]] of multiple objects
-	- If you have multiple particles, you can find the verter of mass 
+	- If you have multiple particles, you can find the center of mass by 
 	- > [!Equation]
 	  > $$r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{\text{total}}}$$
 	- ![[Screen Shot 2023-04-06 at 9.27.21 PM.png|300]]
