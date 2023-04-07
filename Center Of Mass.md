@@ -30,7 +30,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 - ## Finding the [[Center Of Mass]] of multiple objects
 	- If you have multiple particles, you can find the center of mass by averaging the mass of each particle against the total mass.
 	- > [!Equation]
-	  > $$r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{\text{total}}}$$
+	  > $$\large{r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{total}}}$$
 	- ![[Screen Shot 2023-04-06 at 9.27.21 PM.png|300]]
 ---
 - ## Practice

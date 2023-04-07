@@ -3,7 +3,7 @@ Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Energy (Physics)]]
+> Parents:: [[Energy (Physics)]] [[Moment Of Inertia]] [[Angular Velocity]]
 > Friends:: 
 > Children:: 
 ---
@@ -19,8 +19,8 @@ Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 		  > $E_{\text{total}}$ = [[Energy (Physics)]] in $J$
 	- At speeds very far from the [[Speed of Light]] we need to use [[Binomial Expansion]] to calculate the [[Kinetic Energy]].
 		- > [!Equation]
-		  > $$\large{K\approx\frac{1}{2}mv^2}$$
-		  > $$\large{\Delta K=\frac{1}{2}m(v_{f}^2-v_{i}^2)}$$
+		  > $$\large{K_{trans}\approx\frac{1}{2}mv^2}$$
+		  > $$\large{\Delta K_{trans}=\frac{1}{2}m(v_{f}^2-v_{i}^2)}$$
 		  > 
 		  > $K$ = [[Kinetic Energy]] in $N$
 		  > $m$ = [[Mass]] in $kg$
@@ -28,7 +28,9 @@ Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 	- We can also apply these equations to multi particle systems to calculate the [[Kinetic Energy]] for entire objects.
 - ## Rotational Kinetic Energy
 	- [[Kinetic Energy|Translational Kinetic Energy]] is not able to fully capture the [[Kinetic Energy]] of the object.
-	- To find the [[Kinetic Energy|Rotational Kinetic Energy]] we can use the [[Angular Velocity]] instead of [[Velocity]].
+	- To find the [[Kinetic Energy|Rotational Kinetic Energy]] we can use the [[Angular Velocity]] instead of [[Velocity]] and [[Moment Of Inertia]] instead of mass.
+		- > [!Equation]
+		  > $$\large{K_{rot}=\frac{1}{2}I\omega^{2}}$$
 ---
 - ## Practice
 	- [[PY205 Homework 7.1.pdf]]
