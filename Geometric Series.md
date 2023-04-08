@@ -26,6 +26,6 @@ Alias: []
 	  > > Which is the same as :
 	  > > $$rS_{n}=ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 	  > > We use the variants $S_{n}$ and $rS_{n}$ because they both contain $S_{n}$ and we know that if we subtract the two, all the middle terms cancel out and we get:
-	  > > $S_{n}-rS_{n}=a+a^{n+1}$
+	  > > $S_{n}-rS_{n}=(a+ar+ar^2+ar^3+\dots+ar^n)-(ar+ar^2+ar^3+\dots+ar^n)$
 ---
 - ## Reference
