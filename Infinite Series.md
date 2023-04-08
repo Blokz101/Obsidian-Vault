@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Sequence]]
-> Friends:: 
+> Friends:: [[Integral Convergence Test]]
 > Children:: [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series]] [[P Series]]
 ---
 - ## Definition

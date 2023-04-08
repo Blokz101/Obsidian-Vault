@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "528ecb3270615dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integral Convergence Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a7aa9095ecb17159",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Integral Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Integral Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Integral Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,13 +295,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c58e266a17bc1d32",
+  "active": "528ecb3270615dcf",
   "lastOpenFiles": [
+    "Infinite Series.md",
+    "Integral Convergence Test.md",
     "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
-    "Infinite Series.md",
     "Telescoping Series.md",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
     "Geometric Series.md",
