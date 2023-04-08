@@ -14,9 +14,10 @@ Alias: []
 	  > $$a+ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 	- We can determine **convergence** with these rules:
 	- > [!Equation]
-	  > A [[Geometric Series]] **converges** if:
-	  > $$|r|<1$$
-	  > $$
+	  > Case|Status|Sum
+	  > ---|---|---
+	  > $1$|Diverges|NA
+	  > $\mid r\mid<1$|Converges|$S=\frac{a}{1-r}$
 	  
 ---
 - ## Reference
