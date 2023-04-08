@@ -20,12 +20,17 @@ Alias: []
 	  > 
 	  > > [!Proof]
 	  > > We know that the sum of a [[Geometric Series]] is equal to the partial sum:
-	  > > $$S_{n}=a+ar+ar^2+ar^3+ar^4+\dots+ar^n$$
+	  > > $$S_{n}=a+ar+ar^2+ar^3+\dots+ar^{n-1}$$
 	  > > And if we add one to $n$:
 	  > > $$S_{n+1}=ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 	  > > Which is the same as :
 	  > > $$rS_{n}=ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 	  > > We use the variants $S_{n}$ and $rS_{n}$ because they both contain $S_{n}$ and we know that if we subtract the two, all the middle terms cancel out and we get:
-	  > > $S_{n}-rS_{n}=(a+ar+ar^2+ar^3+\dots+ar^n)-(ar+ar^2+ar^3+\dots+ar^n)$
+	  > > $$S_{n}-rS_{n}=(a+ar+ar^2+\dots+ar^{n-1})-(ar+ar^2+ar^3+\dots+ar^n)$$
+	  > > $$S_{n}-rS_{n}=a-ar^n$$
+	  > > $$S_{n}(1-r)=a(1-r^n)$$
+	  > > $$S_{n}=\frac{a(1-r^n)}{1-r}$$
+	  > > To find $S$ we take the limit as described in [[Infinite Series]]:
+	  > > $\lim_{ n \to \infty }S_{n}=S$
 ---
 - ## Reference
