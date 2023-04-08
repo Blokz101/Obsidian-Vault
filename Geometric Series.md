@@ -14,10 +14,11 @@ Alias: []
 	  > $$a+ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 	- We can determine **convergence** with these rules:
 	- > [!Equation]
-	  > Case|Status|Sum
-	  > ---|---|---
-	  > $1$|Diverges|NA
-	  > $\mid r\mid<1$|Converges|$S=\frac{a}{1-r}$
-	  
+	  > When **$\lvert r \rvert\geq 1$** the [[Geometric Series]] **diverges**.
+	  > When **$\lvert r \rvert< 1$** the [[Geometric Series]] **converges** and its sum is:
+	  > $$\large{S=\frac{a}{1-r}}$$
+	  > 
+	  > > [!Proof]
+	  > > 
 ---
 - ## Reference
