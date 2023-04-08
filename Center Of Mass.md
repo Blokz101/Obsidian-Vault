@@ -32,7 +32,9 @@ Alias: [Balance Point, Center Of Masses, COM]
 	- > [!Equation]
 	  > $$\large{r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{total}}}$$
 	- ![[Screen Shot 2023-04-06 at 9.27.21 PM.png|300]]
-	- You can find the [[Velocity]] of the [[Center Of Mass]] by 
+	- You can find the [[Velocity]] of the [[Center Of Mass]] by averaging the [[Momentum]] of the [[Center Of Mass]] of each object with the total mass.
+	- > [!Equation]
+	  > $$\large{\vec{v}_{cm}=\frac{\sum^{n}_{i=1}m_{i}v_{i}}{M_{total}}}$$
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
