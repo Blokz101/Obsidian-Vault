@@ -31,6 +31,11 @@ Alias: []
 	  > > $$S_{n}(1-r)=a(1-r^n)$$
 	  > > $$S_{n}=\frac{a(1-r^n)}{1-r}$$
 	  > > To find $S$ we take the limit as described in [[Infinite Series]]:
-	  > > $\lim_{ n \to \infty }S_{n}=S$
+	  > > $$\lim_{ n \to \infty }\frac{a(1-r^n)}{1-r}$$
+	  > > We can now see that if $\lvert r \rvert$ is less then zero the [[Geometric Series]] will **converge**, and otherwise it will **diverge**.
+	  > > 
+	  > > If it does **converge** we can assume that $\lvert r \rvert<1$ and therefore $r^n$ will approach $0$:
+	  > > $$\lim_{ n \to \infty }\frac{a(1-r^n)}{1-r}=\frac{a}{1-r}$$
+	  > > $$S=\frac{a}{1-r}$$
 ---
 - ## Reference
