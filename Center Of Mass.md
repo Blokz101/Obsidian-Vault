@@ -35,6 +35,12 @@ Alias: [Balance Point, Center Of Masses, COM]
 	- You can find the [[Velocity]] of the [[Center Of Mass]] by averaging the [[Momentum]] of the [[Center Of Mass]] of each object with the total mass.
 	- > [!Equation]
 	  > $$\large{\vec{v}_{cm}=\frac{\sum^{n}_{i=1}m_{i}v_{i}}{M_{total}}}$$
+	  > 
+	  > $\vec{v}_{cm}$ = [[Velocity]] of the [[Center Of Mass]] in $\frac{m}{s}$
+	  > $n$ = The number of objects in the system
+	  > $m_{i}$ = The mass of one object in $kg$
+	  > $v_{i}$ = The velocity of one object in $\frac{m}{s}$
+	  > $M_{total}$ = The total mass of the system in $kg$
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
