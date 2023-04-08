@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Infinite Series.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harmonic Series.md",
+                "file": "Infinite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harmonic Series.md",
+                "file": "Infinite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Harmonic Series.md",
+                "file": "Infinite Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,11 +283,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7aa9095ecb17159",
+  "active": "c58e266a17bc1d32",
   "lastOpenFiles": [
+    "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
-    "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "Infinite Series.md",
     "Telescoping Series.md",
@@ -320,7 +320,6 @@
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
     "References/Screen Shot 2023-04-04 at 11.00.27 PM.png",
     "References/Screen Shot 2023-04-04 at 10.58.37 PM.png",
-    "References/Screen Shot 2023-04-04 at 10.59.43 PM.png",
     "Input",
     "References/MA241 Partial Fractions Recitation.pdf",
     "References/PY205 Homework 7.1.pdf",
