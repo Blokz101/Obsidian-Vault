@@ -19,6 +19,7 @@ Alias: []
 	  > $$\large{S=\frac{a}{1-r}}$$
 	  > 
 	  > > [!Proof]
-	  > > 
+	  > > We know that the sum of a [[Geometric Series]] is equal to the partial sum:
+	  > > $$S_{n}=a+ar+ar^2+ar^3+ar^4+\dots+ar^n$$
 ---
 - ## Reference
