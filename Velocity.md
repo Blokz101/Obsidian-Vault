@@ -15,3 +15,4 @@ Alias: [Instantaneous Velocity]
 	  > $$\large{\vec{v}_{\text{instant}}=\frac{d\vec{r}}{dt}=\left\langle \frac{dx}{dt},\frac{dy}{dt},\frac{dz}{dt} \right\rangle}$$
 ---
 - ## Reference
+	- Look at [[Center Of Mass]] for finding the [[Velocity]] of the [[Center Of Mass]] of multiple objects.

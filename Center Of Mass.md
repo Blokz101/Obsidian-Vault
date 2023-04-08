@@ -11,7 +11,7 @@ Alias: [Balance Point, Center Of Masses, COM]
 	- Symbol: $\left( \bar{x},\bar{y} \right)$
 	- An average of the position of every particle in an object.
 		- The point on which an object could balance perfectly.
-- ## Finding the [[Center Of Mass]] of a shape defined by a curve
+- ## [[Center Of Mass]] of a shape defined by a curve
 	- $\left( \bar{x},\bar{y} \right)$ of a **plane** is given by:
 		- > [!Equation]
 		  > $$\large{\bar{x}=\frac{M_{y}}{m}}$$
@@ -27,11 +27,12 @@ Alias: [Balance Point, Center Of Masses, COM]
 		  > > [!Proof]-
 		  > > ![[Drawing 2023-01-24 12.27.52.excalidraw|540]]
 		  > > $\rho$ = [[Mass Density Constant]] (For proof)
-- ## Finding the [[Center Of Mass]] of multiple objects
+- ## [[Center Of Mass]] of multiple objects
 	- If you have multiple particles, you can find the center of mass by averaging the mass of each particle against the total mass.
 	- > [!Equation]
 	  > $$\large{r_{cm}=\sum^{\infty}_{n=1}\frac{m_{n}r_{n}}{m_{total}}}$$
 	- ![[Screen Shot 2023-04-06 at 9.27.21 PM.png|300]]
+	- You can find the [[Velocity]] of the [[Center Of Mass]] by 
 ---
 - ## Practice
 	- [[Calculus II Recitation Jan 26.pdf]]
