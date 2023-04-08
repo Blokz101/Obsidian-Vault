@@ -4,155 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "258fab66c4d7ad49",
+        "id": "4f27a6e511443c98",
         "type": "tabs",
         "children": [
           {
-            "id": "b4415cebeadbdd76",
+            "id": "7d0955eeda31f76f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Center Of Mass.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "15e326a137c04ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinetic Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c7cc7d70f7c3a059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moment Of Inertia.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea4d8a3b4d9e709f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequence.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c58e266a17bc1d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infinite Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0f771d7f5b7b7c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cd426b1a4fb4a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometric Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "528ecb3270615dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral Convergence Test.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7aa9095ecb17159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harmonic Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73017dfea1da40b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telescoping Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "306a38dc38564c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monotonic Sequence.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9aef5fdd8c6fb1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -213,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +103,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "P Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,27 +167,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f771d7f5b7b7c59",
+  "active": "7d0955eeda31f76f",
   "lastOpenFiles": [
-    "Geometric Series.md",
-    "P Series.md",
+    "Angular Velocity.md",
+    "Monotonic Sequence.md",
+    "Telescoping Series.md",
     "Harmonic Series.md",
-    "Infinite Series.md",
     "Integral Convergence Test.md",
+    "Geometric Series.md",
+    "Center Of Mass.md",
+    "Kinetic Energy.md",
+    "Moment Of Inertia.md",
+    "Sequence.md",
+    "Infinite Series.md",
+    "P Series.md",
     "Improper Integral.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
-    "Telescoping Series.md",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
-    "Moment Of Inertia.md",
     "Summation Notation.md",
-    "Sequence.md",
-    "Monotonic Sequence.md",
     "Real Number.md",
-    "Angular Velocity.md",
-    "Kinetic Energy.md",
-    "Center Of Mass.md",
     "Velocity.md",
     "Translational Kinetic Energy.md",
     "References/Screen Shot 2023-04-06 at 9.27.21 PM.png",
