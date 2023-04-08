@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "0f771d7f5b7b7c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Series.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "528ecb3270615dcf",
             "type": "leaf",
             "state": {
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integral Convergence Test.md",
+                "file": "P Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integral Convergence Test.md",
+                "file": "P Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Integral Convergence Test.md",
+                "file": "P Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,11 +307,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "528ecb3270615dcf",
+  "active": "0f771d7f5b7b7c59",
   "lastOpenFiles": [
-    "Improper Integral.md",
-    "Integral Convergence Test.md",
     "Infinite Series.md",
+    "P Series.md",
+    "Integral Convergence Test.md",
+    "Improper Integral.md",
     "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
@@ -327,7 +340,6 @@
     "Machine Cycle.md",
     "Instruction Cycle.md",
     "Polling.md",
-    "Memory Map.md",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
