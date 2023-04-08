@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Sequence]]
 > Friends:: 
-> Children:: [[Geometric Series]] [[Telescoping Series]] [[P Series]]
+> Children:: [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series]] [[P Series]]
 ---
 - ## Definition
 	- The [[Summation Notation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].
