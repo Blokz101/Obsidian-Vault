@@ -74,7 +74,19 @@
               "type": "markdown",
               "state": {
                 "file": "P Series.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1cd426b1a4fb4a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometric Series.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -110,18 +122,6 @@
               "type": "markdown",
               "state": {
                 "file": "Telescoping Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cd426b1a4fb4a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometric Series.md",
                 "mode": "preview",
                 "source": true
               }
@@ -309,17 +309,17 @@
   },
   "active": "0f771d7f5b7b7c59",
   "lastOpenFiles": [
-    "Infinite Series.md",
+    "Geometric Series.md",
     "P Series.md",
+    "Harmonic Series.md",
+    "Infinite Series.md",
     "Integral Convergence Test.md",
     "Improper Integral.md",
-    "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "Telescoping Series.md",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
-    "Geometric Series.md",
     "Moment Of Inertia.md",
     "Summation Notation.md",
     "Sequence.md",

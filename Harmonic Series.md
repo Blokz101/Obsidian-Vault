@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Infinite Series]]
+> Parents:: [[Infinite Series]] [[P Series]]
 > Friends:: 
 > Children:: 
 ---
