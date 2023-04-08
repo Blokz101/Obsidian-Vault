@@ -3,12 +3,12 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Improper Integrals]]
+> Parents:: [[Improper Integral]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- To take the [[Integral]] of a function with a [[Vertical Asymptote]] we can the same method as with [[Improper Integrals]].
+	- To take the [[Integral]] of a function with a [[Vertical Asymptote]] we can the same method as with [[Improper Integral]].
 	- > [!Equation]
 	  > ![[Screen Shot 2023-02-16 at 4.24.04 PM.png|200]]
 	  > To take the [[Integral]] of a function leading up to a [[Vertical Asymptote]] at $x=b$:

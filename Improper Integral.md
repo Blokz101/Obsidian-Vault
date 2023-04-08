@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Improper Integrals]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]

@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Integral Convergence Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -297,8 +297,9 @@
   },
   "active": "528ecb3270615dcf",
   "lastOpenFiles": [
-    "Infinite Series.md",
+    "Improper Integral.md",
     "Integral Convergence Test.md",
+    "Infinite Series.md",
     "Harmonic Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
@@ -327,7 +328,6 @@
     "Instruction Cycle.md",
     "Polling.md",
     "Memory Map.md",
-    "Memory.md",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
