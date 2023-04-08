@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Infinite Series.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Infinite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Infinite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Infinite Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,10 +259,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cd426b1a4fb4a5e",
+  "active": "c58e266a17bc1d32",
   "lastOpenFiles": [
-    "Infinite Series.md",
     "Geometric Series.md",
+    "Infinite Series.md",
     "Summation Notation.md",
     "Sequence.md",
     "Monotonic Sequence.md",

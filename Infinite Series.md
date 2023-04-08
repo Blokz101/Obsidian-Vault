@@ -17,5 +17,9 @@ Alias: []
 	  > $$\large{a_{n}=b_{n+k}}$$
 	  > Then:
 	  > $$\large{\lim_{ n \to \infty }a_{n}=\lim_{ n \to \infty }b_{n}}$$
+- ## Determining The Sum
+	- If the [[Infinite Series]] **converges**, then it approaches some sum. We can find that sum for some [[Infinite Series]] like this:
+	- > [!Equation]
+	  > $\large{\sum^{\infty}_{n=1}a_{n}=\lim_{ n \to \infty }\sum^{n}_{i=1}a_{i}}$
 ---
 - ## Reference
