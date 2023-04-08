@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Geometric Series.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moment Of Inertia.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moment Of Inertia.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moment Of Inertia.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,15 +259,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7cc7d70f7c3a059",
+  "active": "1cd426b1a4fb4a5e",
   "lastOpenFiles": [
+    "Moment Of Inertia.md",
     "Geometric Series.md",
     "Infinite Series.md",
     "Summation Notation.md",
     "Sequence.md",
     "Monotonic Sequence.md",
     "Real Number.md",
-    "Moment Of Inertia.md",
     "Angular Velocity.md",
     "Kinetic Energy.md",
     "Center Of Mass.md",
