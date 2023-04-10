@@ -12,7 +12,7 @@ Alias: []
 	- The exact opposite of the [[Vector Cross Product]].
 	- > [!Equation]
 	  > $$\large{\vec{A}*\vec{B}=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)}$$
-	  > $$\large{\vec{A}*\vec{B}=\left\langle A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z} \right\rangle}$$
+	  > $$\large{\vec{A}*\vec{B}= A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}}$$
 - ## In Relation To Net Force
 	- The **parallel** component of the $\vec{F}_{net}$.
 	- ![[Drawing 2023-02-23 00.54.30.excalidraw]]

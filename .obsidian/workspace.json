@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vector Cross Product.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,8 +283,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77b619f3f5c07745",
+  "active": "eab784af98104472",
   "lastOpenFiles": [
+    "Vector Dot Product.md",
     "Vector Cross Product.md",
     "Translational Angular Momentum.md",
     "Momentum.md",
@@ -314,7 +315,6 @@
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
     "Summation Notation.md",
-    "Real Number.md",
     "References/Screen Shot 2023-04-06 at 9.27.21 PM.png",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
