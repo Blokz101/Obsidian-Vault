@@ -3,8 +3,8 @@ Alias: [Momentums]
 ---
 > [!Info]
 > Subject:: [[Physics]]
-> Parents:: [[Mass]] [[Velocity]]
-> Friends:: [[The Momentum Principle]]
+> Parents:: 
+> Friends:: [[The Momentum Principle]] [[Velocity]]
 > Children:: [[Position Update]]
 ---
 - ## Definition

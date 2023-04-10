@@ -4,8 +4,8 @@ Alias: [Rotational Velocity]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[Velocity]]
-> Children:: [[Kinetic Energy]] [[Angular Momentum]]
+> Friends:: [[Velocity]] [[Angular Momentum]]
+> Children:: [[Kinetic Energy]]
 ---
 - ## Definition
 	- Symbol: $\omega$

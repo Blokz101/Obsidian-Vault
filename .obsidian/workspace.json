@@ -44,6 +44,54 @@
             }
           },
           {
+            "id": "a6a7e13d74d977e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7740e3430139903d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Momentum.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "828238b41a94a001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rotational Angular Momentum.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cfd13b7d0595724e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Translational Angular Momentum.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8abe173fe920c6c6",
             "type": "leaf",
             "state": {
@@ -56,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -117,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Translational Angular Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Translational Angular Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Translational Angular Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,18 +259,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2032ebbedd07c68",
+  "active": "cfd13b7d0595724e",
   "lastOpenFiles": [
+    "Rotational Angular Momentum.md",
+    "Angular Momentum.md",
+    "Translational Angular Momentum.md",
+    "Velocity.md",
+    "Angular Velocity.md",
+    "Momentum.md",
     "Moment Of Inertia.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Excalibrain Graph.md",
     "Derivative.md",
     "Energy Level.md",
-    "Velocity.md",
     "Integral.md",
     "Improper Integral.md",
     "Center Of Mass.md",
-    "Angular Velocity.md",
     "Monotonic Sequence.md",
     "Telescoping Series.md",
     "Harmonic Series.md",
@@ -240,10 +292,6 @@
     "Real Number.md",
     "Translational Kinetic Energy.md",
     "References/Screen Shot 2023-04-06 at 9.27.21 PM.png",
-    "LC3 Opcodes.md",
-    "ASCII Characters.md",
-    "Input Output Controller.md",
-    "Interrupts.md",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",

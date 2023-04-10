@@ -4,7 +4,7 @@ Alias: [Instantaneous Velocity]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Average Velocity]] [[Velocity Update]]
-> Friends:: [[Velocity]]
+> Friends:: [[Angular Velocity]] [[Momentum]]
 > Children:: 
 ---
 - ## Definition
