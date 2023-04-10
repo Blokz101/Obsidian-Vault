@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "7b33a14d377885bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moment Of Inertia.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f2032ebbedd07c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8abe173fe920c6c6",
             "type": "leaf",
             "state": {
@@ -32,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -92,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "Angular Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "Angular Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative.md",
+                "file": "Angular Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,15 +211,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d0955eeda31f76f",
+  "active": "f2032ebbedd07c68",
   "lastOpenFiles": [
-    "Energy Level.md",
+    "Moment Of Inertia.md",
+    "Orbital Angular Momentum Quantum Number.md",
+    "Excalibrain Graph.md",
     "Derivative.md",
+    "Energy Level.md",
     "Velocity.md",
     "Integral.md",
     "Improper Integral.md",
     "Center Of Mass.md",
-    "Excalibrain Graph.md",
     "Angular Velocity.md",
     "Monotonic Sequence.md",
     "Telescoping Series.md",
@@ -202,7 +229,6 @@
     "Integral Convergence Test.md",
     "Geometric Series.md",
     "Kinetic Energy.md",
-    "Moment Of Inertia.md",
     "Sequence.md",
     "Infinite Series.md",
     "P Series.md",
@@ -218,7 +244,6 @@
     "ASCII Characters.md",
     "Input Output Controller.md",
     "Interrupts.md",
-    "Subroutine.md",
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
