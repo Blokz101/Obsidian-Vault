@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Rotational Angular Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Rotational Angular Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Rotational Angular Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +295,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eab784af98104472",
+  "active": "828238b41a94a001",
   "lastOpenFiles": [
     "Translational Angular Momentum.md",
     "Vector Cross Product.md",
