@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Velocity.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Velocity.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Velocity.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,8 +295,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6a7e13d74d977e5",
+  "active": "eab784af98104472",
   "lastOpenFiles": [
+    "Velocity.md",
     "Momentum.md",
     "Angular Momentum.md",
     "Rotational Angular Momentum.md",
@@ -308,7 +309,6 @@
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Vector Dot Product.md",
-    "Velocity.md",
     "Angular Velocity.md",
     "Moment Of Inertia.md",
     "Orbital Angular Momentum Quantum Number.md",
