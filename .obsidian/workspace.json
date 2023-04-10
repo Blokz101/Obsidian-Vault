@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Angular Momentum.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rotational Angular Momentum.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Angular Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Angular Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Angular Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,8 +295,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "828238b41a94a001",
+  "active": "7740e3430139903d",
   "lastOpenFiles": [
+    "Rotational Angular Momentum.md",
     "Translational Angular Momentum.md",
     "Vector Cross Product.md",
     "ASCII Characters.md",
@@ -306,7 +307,6 @@
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Vector Dot Product.md",
     "Momentum.md",
-    "Rotational Angular Momentum.md",
     "Angular Momentum.md",
     "Velocity.md",
     "Angular Velocity.md",
