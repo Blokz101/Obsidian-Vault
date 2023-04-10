@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- The [[Angular Momentum]] of an object with respect to its [[Center Of Mass]].
 	- > [!Equation]
-	  > $$\large{\vec{L}_{rot}=I\vec{\omega}^2}$$
+	  > $$\large{\vec{L}_{rot}=I\vec{\omega}}$$
 	  > 
 	  > $\vec{L}_{rot}$ = [[Rotational Angular Momentum]] in SOMETHING
 	  > $I$ = [[Moment Of Inertia]] in SOMETHING

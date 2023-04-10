@@ -4,7 +4,7 @@ Alias: [Momentums]
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[The Momentum Principle]] [[Velocity]]
+> Friends:: [[The Momentum Principle]] [[Velocity]] [[Angular Momentum]]
 > Children:: [[Position Update]]
 ---
 - ## Definition
