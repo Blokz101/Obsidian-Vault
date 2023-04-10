@@ -116,18 +116,6 @@
             }
           },
           {
-            "id": "86de9efc34a2ecbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASCII Characters.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "77b619f3f5c07745",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -213,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,8 +295,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86de9efc34a2ecbe",
+  "active": "eab784af98104472",
   "lastOpenFiles": [
+    "ASCII Characters.md",
     "Vector Cross Product.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "Right Hand Rule.md",
