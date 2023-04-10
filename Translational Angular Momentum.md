@@ -14,6 +14,6 @@ Alias: []
 	  > $\vec{L}_{trans}$ = [[Translational Angular Momentum]] in $kg \frac{m^{2}}{s}$
 	  > $\vec{r}$ = Position vector from $\vec{A}$ to the object in $m$
 	  > $\vec{p}$ = [[Momentum]] of the object in $kg\frac{m}{s}$
-	- However [[Translational Angular Momentum]] can also have a **direction**. To find the **direction** we use a [[Vector Cross Product]].
+	- However [[Translational Angular Momentum]] can also have a **direction**. To find the **direction** we use the [[Right Hand Rule]] or a [[Vector Cross Product]].
 ---
 - ## Reference
