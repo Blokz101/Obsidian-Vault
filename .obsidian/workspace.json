@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Right Hand Rule.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vector Cross Product.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -297,9 +297,12 @@
   },
   "active": "eab784af98104472",
   "lastOpenFiles": [
+    "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "Right Hand Rule.md",
-    "Translational Angular Momentum.md",
+    "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
+    "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Vector Cross Product.md",
+    "Translational Angular Momentum.md",
     "Vector Dot Product.md",
     "Momentum.md",
     "Rotational Angular Momentum.md",
@@ -322,7 +325,6 @@
     "Kinetic Energy.md",
     "Sequence.md",
     "Infinite Series.md",
-    "P Series.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
@@ -331,8 +333,6 @@
     "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM 1.png",
     "References/Screen Shot 2023-04-04 at 11.20.21 PM.png",
-    "References/Screen Shot 2023-04-04 at 11.00.27 PM.png",
-    "References/Screen Shot 2023-04-04 at 10.58.37 PM.png",
     "Input",
     "References/MA241 Partial Fractions Recitation.pdf",
     "References/PY205 Homework 7.1.pdf",
