@@ -21,4 +21,6 @@ Alias: []
 	  > $n$ = The number of particles in the object
 	  > $i$ = The index of the particle being summed
 ---
+- ## Practice
+	- [[PY205 Homework 11.2-11.3.pdf]]
 - ## Reference

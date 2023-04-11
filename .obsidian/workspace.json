@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,18 +271,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2032ebbedd07c68",
+  "active": "eab784af98104472",
   "lastOpenFiles": [
-    "Vector Cross Product.md",
     "Translational Angular Momentum.md",
     "Rotational Angular Momentum.md",
-    "Telescoping Series.md",
     "Angular Momentum.md",
-    "References/PY205 Homework 11.1.pdf",
+    "Angular Velocity.md",
     "Moment Of Inertia.md",
+    "References/PY205 Homework 11.2-11.3.pdf",
+    "Vector Cross Product.md",
+    "Telescoping Series.md",
+    "References/PY205 Homework 11.1.pdf",
     "ASCII Characters.md",
     "Momentum.md",
-    "Angular Velocity.md",
     "Velocity.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "Right Hand Rule.md",
@@ -317,7 +318,6 @@
     "References/MA241 Homework 3.6.pdf",
     "References/MA241 Homework 3.3.pdf",
     "References/PY205 Homework 6.7-6.8.pdf",
-    "References/MA241 Homework 3.4.pdf",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
