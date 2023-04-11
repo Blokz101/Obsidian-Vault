@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,15 +271,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7740e3430139903d",
+  "active": "7b33a14d377885bb",
   "lastOpenFiles": [
+    "Rotational Angular Momentum.md",
+    "Angular Momentum.md",
     "Momentum.md",
     "Angular Velocity.md",
     "Translational Angular Momentum.md",
-    "Angular Momentum.md",
     "Vector Cross Product.md",
     "Velocity.md",
-    "Rotational Angular Momentum.md",
     "ASCII Characters.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "Right Hand Rule.md",
