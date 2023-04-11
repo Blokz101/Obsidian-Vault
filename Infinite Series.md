@@ -12,10 +12,9 @@ Alias: []
 - ## Determining Convergence Or Divergence
 	- Determining if a [[Sequence]] **converges** or **diverges** tells us a lot about the sequence, including if we can find the overall sum of the [[Sequence]].
 	- There are several minor and major theorems that can help us determine this.
-	- > [!Theorem]
+	- > [!Divergence Test]
 	  > If an [[Infinite Series]]: $\sum^{\infty}_{n=1}a_{n}$ is **convergent** then $\lim_{ n \to \infty }a_{n}=0$.
-	  > 
-	  > If $\lim_{ n \to \infty }a_{n}\neq 0$ then the [[Infinite Series]] is **divergent**.
+	  > $$\text{If }\lim_{ n \to \infty }a_{n}\neq 0\text{ then the infinite series is DIVERGENT}$$
 	- > [!Theorem]
 	  > Let $\{a_{n}\}$ and $\{b_{n}\}$ be two [[Sequence|Sequences]]. If:
 	  > $$\large{a_{n}=b_{n+k}}$$
