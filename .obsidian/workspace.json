@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Angular Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Angular Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Angular Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,14 +295,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfd13b7d0595724e",
+  "active": "f2032ebbedd07c68",
   "lastOpenFiles": [
+    "Translational Angular Momentum.md",
     "Angular Momentum.md",
     "Vector Cross Product.md",
     "Velocity.md",
     "Momentum.md",
     "Rotational Angular Momentum.md",
-    "Translational Angular Momentum.md",
     "ASCII Characters.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "Right Hand Rule.md",
