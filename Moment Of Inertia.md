@@ -19,6 +19,6 @@ Alias: []
 	  > $m_{i}$ = The mass of the $i$th particle in $kg$
 	  > $r_{n}$ = The distance of the $i$th particle from the [[Center Of Mass]] in $m$
 	  > $n$ = The number of particles in the object
-	  > $i$ = The index 
+	  > $i$ = The index of the particle being summed
 ---
 - ## Reference
