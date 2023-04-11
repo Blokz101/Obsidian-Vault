@@ -16,4 +16,6 @@ Alias: []
 	  > $I$ = [[Moment Of Inertia]] in SOMETHING
 	  > $\vec{\omega}$ = [[Angular Velocity]] in $\frac{rad}{s}$
 ---
+- ## Practice
+	- [[PY205 Homework 11.1.pdf]]
 - ## Reference

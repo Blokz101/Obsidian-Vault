@@ -25,4 +25,6 @@ Alias: [Rotational Velocity]
 		  > $\omega$ = [[Angular Velocity]] in $\frac{rad}{s}$
 		  > $T$ = [[Period]] of the rotating object in $s$
 ---
+- ## Practice
+	- [[PY205 Homework 11.1.pdf]]
 - ## Reference

@@ -20,4 +20,6 @@ Alias: []
 	  > $\vec{L}_{trans,A}$ = [[Translational Angular Momentum]] with respect to point $\vec{A}$ in $kg \frac{m^2}{s}$
 	  > $\vec{L}_{rot}$ = [[Rotational Angular Momentum]] in SOMETHING
 ---
+- ## Practice
+	- [[PY205 Homework 11.1.pdf]]
 - ## Reference
