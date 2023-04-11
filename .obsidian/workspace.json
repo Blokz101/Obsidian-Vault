@@ -44,36 +44,12 @@
             }
           },
           {
-            "id": "a6a7e13d74d977e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7740e3430139903d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Angular Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b650ac8bd4fc1b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum.md",
                 "mode": "preview",
                 "source": true
               }
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -201,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Angular Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Angular Momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Velocity.md",
+                "file": "Angular Momentum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,13 +271,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2032ebbedd07c68",
+  "active": "7740e3430139903d",
   "lastOpenFiles": [
+    "Momentum.md",
+    "Angular Velocity.md",
     "Translational Angular Momentum.md",
     "Angular Momentum.md",
     "Vector Cross Product.md",
     "Velocity.md",
-    "Momentum.md",
     "Rotational Angular Momentum.md",
     "ASCII Characters.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
@@ -309,7 +286,6 @@
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Vector Dot Product.md",
-    "Angular Velocity.md",
     "Moment Of Inertia.md",
     "Orbital Angular Momentum Quantum Number.md",
     "Excalibrain Graph.md",
