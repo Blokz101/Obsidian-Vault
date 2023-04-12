@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "36da248d90ca8a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limit Comparison Convergence Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ff5bc628863b77e1",
             "type": "leaf",
             "state": {
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison Convergence Test.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison Convergence Test.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comparison Convergence Test.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,14 +271,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff5bc628863b77e1",
+  "active": "36da248d90ca8a8d",
   "lastOpenFiles": [
-    "Convergence Tests.md",
     "Comparison Convergence Test.md",
+    "Limit Comparison Convergence Test.md",
+    "Convergence Tests.md",
+    "Integral Convergence Test.md",
     "P Series.md",
     "References/Screen Shot 2023-04-12 at 10.35.50 AM.png",
     "Harmonic Series.md",
-    "Integral Convergence Test.md",
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
     "Infinite Series.md",
     "Telescoping Series.md",
@@ -294,7 +307,6 @@
     "Energy Level.md",
     "Integral.md",
     "Improper Integral.md",
-    "Center Of Mass.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",

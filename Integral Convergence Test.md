@@ -13,10 +13,12 @@ Alias: []
 	- So we can use the [[Integral]] of $a_{n}$ to determine **convergence**.
 	- > [!Equation]
 	  > Let $f$ be a function that is:
-	  > 1. Positive
+	  > 1. Always Positive
 	  > 2. [[Continuity|Continuous]]
 	  > 3. Decreasing
+	  >    
+	  > Then:
 	  > 
-	  > $$\text{Then the Series } \sum^{\infty}_{n=1}a_{n}\text{ converges if and only if }\int_{1}^{\infty} f(x) \, dx\text{ converges}$$
+	  > $$\text{The Series } \sum^{\infty}_{n=1}a_{n}\text{ converges if and only if }\int_{1}^{\infty} f(x) \, dx\text{ converges}$$
 ---
 - ## Reference
