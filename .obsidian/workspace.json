@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Integral Convergence Test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convergence Tests.md",
+                "file": "Integral Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convergence Tests.md",
+                "file": "Integral Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Convergence Tests.md",
+                "file": "Integral Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,10 +235,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a37813cda66eed6",
+  "active": "c6ace01c1ca6457c",
   "lastOpenFiles": [
-    "Integral Convergence Test.md",
     "Convergence Tests.md",
+    "Integral Convergence Test.md",
     "Infinite Series.md",
     "Telescoping Series.md",
     "P Series.md",
