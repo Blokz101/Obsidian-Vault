@@ -9,7 +9,8 @@ Alias: []
 ---
 - ## Definition
 	- We know that an [[Infinite Series]] will follow the same path as the [[Integral]] of that [[Infinite Series|Series]] from some number to infinity.
-		- 
+		- ![[Screen Shot 2023-04-12 at 1.10.03 AM.png|300]]
+	- So we can use the [[Integral]] of $a_{n}$ to determine **convergence**.
 	- > [!Equation]
 	  > Let $f$ be a function that is:
 	  > 1. Positive
