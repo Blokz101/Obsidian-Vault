@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "ff5bc628863b77e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparison Convergence Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c6ace01c1ca6457c",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Series.md",
+                "file": "Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Series.md",
+                "file": "Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "P Series.md",
+                "file": "Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,12 +259,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5886cdc2065a24b5",
+  "active": "ff5bc628863b77e1",
   "lastOpenFiles": [
+    "Convergence Tests.md",
+    "Comparison Convergence Test.md",
+    "P Series.md",
     "References/Screen Shot 2023-04-12 at 10.35.50 AM.png",
     "Harmonic Series.md",
-    "P Series.md",
-    "Convergence Tests.md",
     "Integral Convergence Test.md",
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
     "Infinite Series.md",
@@ -287,7 +300,6 @@
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
     "References/Screen Shot 2023-04-06 at 9.27.21 PM.png",
-    "References/Screen Shot 2023-04-05 at 12.02.52 AM.png",
     "Input",
     "References/MA241 Partial Fractions Recitation.pdf",
     "References/PY205 Homework 7.1.pdf",
