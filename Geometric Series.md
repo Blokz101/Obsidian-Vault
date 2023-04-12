@@ -38,4 +38,6 @@ Alias: []
 	  > > $$\lim_{ n \to \infty }\frac{a(1-r^n)}{1-r}=\frac{a}{1-r}$$
 	  > > $$S=\frac{a}{1-r}$$
 ---
+- ## Practice
+	- [[MA241 Homework 4.2.pdf]]
 - ## Reference

@@ -12,4 +12,6 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\sum^{\infty}_{n=1} \frac{1}{n^p}}$$
 ---
+- ## Practice
+	- [[MA241 Homework 4.2.pdf]]
 - ## Reference

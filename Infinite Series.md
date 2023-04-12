@@ -25,4 +25,6 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\sum^{\infty}_{n=1}a_{n}=\lim_{ n \to \infty }\sum^{n}_{i=1}a_{i}=\lim_{ n \to \infty }S_{n}=S}$$
 ---
+- ## Practice
+	- [[MA241 Homework 4.2.pdf]]
 - ## Reference

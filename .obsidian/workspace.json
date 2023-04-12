@@ -213,9 +213,11 @@
   },
   "active": "bdf9a0cdfd3d95ea",
   "lastOpenFiles": [
-    "P Series.md",
-    "Geometric Series.md",
     "Telescoping Series.md",
+    "P Series.md",
+    "Infinite Series.md",
+    "Geometric Series.md",
+    "References/MA241 Homework 4.2.pdf",
     "Velocity.md",
     "Vector Dot Product.md",
     "Vector Cross Product.md",
@@ -242,8 +244,6 @@
     "Monotonic Sequence.md",
     "Harmonic Series.md",
     "Integral Convergence Test.md",
-    "Kinetic Energy.md",
-    "Sequence.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
@@ -258,7 +258,6 @@
     "References/MA241 Homework 3.6 1.pdf",
     "References/MA241 Homework 3.6.pdf",
     "References/MA241 Homework 3.3.pdf",
-    "References/PY205 Homework 6.7-6.8.pdf",
     "Motion Note Web.canvas",
     "test.canvas"
   ]

@@ -20,4 +20,6 @@ Alias: []
 	  > Then the sum can be found with:
 	  > $$\large{S=b_{1}-L}$$
 ---
+- ## Practice
+	- [[MA241 Homework 4.2.pdf]]
 - ## Reference
