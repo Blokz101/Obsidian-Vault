@@ -128,6 +128,7 @@
             }
           }
         ],
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telescoping Series.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telescoping Series.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Telescoping Series.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,8 +283,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a012fa6bce5df89f",
+  "active": "e0022e95f0400f04",
   "lastOpenFiles": [
+    "Telescoping Series.md",
     "Geometric Series.md",
     "Dispersion Forces.md",
     "Intramolecular Forces.md",
@@ -300,7 +302,6 @@
     "Harmonic Series.md",
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
     "Infinite Series.md",
-    "Telescoping Series.md",
     "References/MA241 Homework 4.2.pdf",
     "Velocity.md",
     "Vector Dot Product.md",
