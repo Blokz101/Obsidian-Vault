@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,8 +283,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36da248d90ca8a8d",
+  "active": "e0022e95f0400f04",
   "lastOpenFiles": [
+    "Limit Comparison Convergence Test.md",
     "P Series.md",
     "Geometric Series.md",
     "Telescoping Series.md",
@@ -293,7 +294,6 @@
     "Dipole Forces.md",
     "Comparison Convergence Test.md",
     "Lewis Dot Structure.md",
-    "Limit Comparison Convergence Test.md",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
     "Hydrogen Bonding.md",
     "Convergence Tests.md",
