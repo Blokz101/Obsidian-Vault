@@ -128,7 +128,6 @@
             }
           }
         ],
-        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Telescoping Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Telescoping Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Telescoping Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,12 +282,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0022e95f0400f04",
+  "active": "a012fa6bce5df89f",
   "lastOpenFiles": [
+    "Geometric Series.md",
     "Dispersion Forces.md",
     "Intramolecular Forces.md",
     "Dipole Forces.md",
-    "Geometric Series.md",
     "Comparison Convergence Test.md",
     "Lewis Dot Structure.md",
     "Limit Comparison Convergence Test.md",
