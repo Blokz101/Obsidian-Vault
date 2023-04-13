@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,11 +271,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6a035cd87d10934",
+  "active": "36da248d90ca8a8d",
   "lastOpenFiles": [
+    "Geometric Series.md",
     "Hydrogen Bonding.md",
     "Dipole Forces.md",
-    "Geometric Series.md",
     "Limit Comparison Convergence Test.md",
     "Dispersion Forces.md",
     "Comparison Convergence Test.md",
