@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "e4059cba735acd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dispersion Forces.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c1af7c24c5e51923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intramolecular Forces.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c6ace01c1ca6457c",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -189,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Intramolecular Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Intramolecular Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Intramolecular Forces.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,16 +307,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0022e95f0400f04",
+  "active": "c1af7c24c5e51923",
   "lastOpenFiles": [
+    "Dipole Forces.md",
+    "Intramolecular Forces.md",
+    "Dispersion Forces.md",
+    "Geometric Series.md",
     "Comparison Convergence Test.md",
     "Lewis Dot Structure.md",
     "Limit Comparison Convergence Test.md",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
-    "Geometric Series.md",
     "Hydrogen Bonding.md",
-    "Dipole Forces.md",
-    "Dispersion Forces.md",
     "Convergence Tests.md",
     "Integral Convergence Test.md",
     "P Series.md",
@@ -319,7 +344,6 @@
     "Right Hand Rule.md",
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
-    "Orbital Angular Momentum Quantum Number.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
