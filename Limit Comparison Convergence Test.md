@@ -15,5 +15,7 @@ Alias: []
 	  >    
 	  > Then:
 	  > $$\text{If }\lim_{ n \to \infty } \frac{a_{n}}{b_{n}}=K\text{ where }K\text{ is some positive and finite value, both series either Converge or Diverge}$$
+	- Tips from the textbook on picking an $b_{n}$:
+		- ![[Screen Shot 2023-04-12 at 9.31.33 PM.png|400]]
 ---
 - ## Reference

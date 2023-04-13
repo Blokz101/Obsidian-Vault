@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Limit Comparison Convergence Test.md",
+                "file": "Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,12 +271,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36da248d90ca8a8d",
+  "active": "ff5bc628863b77e1",
   "lastOpenFiles": [
+    "Limit Comparison Convergence Test.md",
+    "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
     "Geometric Series.md",
     "Hydrogen Bonding.md",
     "Dipole Forces.md",
-    "Limit Comparison Convergence Test.md",
     "Dispersion Forces.md",
     "Comparison Convergence Test.md",
     "Convergence Tests.md",
@@ -306,12 +307,10 @@
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Orbital Angular Momentum Quantum Number.md",
-    "Excalibrain Graph.md",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "References/Screen Shot 2023-04-08 at 1.30.42 AM.png",
-    "References/Screen Shot 2023-04-06 at 9.27.21 PM.png",
     "Input",
     "References/MA241 Partial Fractions Recitation.pdf",
     "References/PY205 Homework 7.1.pdf",
