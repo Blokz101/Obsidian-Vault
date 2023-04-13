@@ -61,8 +61,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convergence Tests.md",
+                "file": "Series Convergence Tests.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0c69cef6819404ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternating Series Test.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Alternating Series Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Alternating Series Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geometric Series.md",
+                "file": "Alternating Series Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,11 +295,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0022e95f0400f04",
+  "active": "0c69cef6819404ac",
   "lastOpenFiles": [
+    "Series Convergence Tests.md",
+    "Alternating Series Test.md",
+    "Geometric Series.md",
     "Limit Comparison Convergence Test.md",
     "P Series.md",
-    "Geometric Series.md",
     "Telescoping Series.md",
     "Dispersion Forces.md",
     "Intramolecular Forces.md",
@@ -296,7 +310,6 @@
     "Lewis Dot Structure.md",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
     "Hydrogen Bonding.md",
-    "Convergence Tests.md",
     "Integral Convergence Test.md",
     "References/Screen Shot 2023-04-12 at 10.35.50 AM.png",
     "Harmonic Series.md",
@@ -317,7 +330,6 @@
     "ASCII Characters.md",
     "Momentum.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
-    "Right Hand Rule.md",
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",

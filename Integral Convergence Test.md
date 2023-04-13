@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Convergence Tests]]
+> Parents:: [[Series Convergence Tests]]
 > Friends:: 
 > Children:: 
 ---
