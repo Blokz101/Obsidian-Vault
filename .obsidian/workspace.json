@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "30750b08b9a47074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torque.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "36da248d90ca8a8d",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Torque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Torque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Torque.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,10 +307,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c69cef6819404ac",
+  "active": "30750b08b9a47074",
   "lastOpenFiles": [
-    "Limit Comparison Convergence Test.md",
     "Alternating Series Test.md",
+    "Torque.md",
+    "Limit Comparison Convergence Test.md",
     "Geometric Series.md",
     "Series Convergence Tests.md",
     "P Series.md",
@@ -328,7 +341,6 @@
     "References/PY205 Homework 11.2-11.3.pdf",
     "References/PY205 Homework 11.1.pdf",
     "ASCII Characters.md",
-    "Momentum.md",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
