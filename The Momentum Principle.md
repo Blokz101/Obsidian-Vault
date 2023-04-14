@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: [[Fundamental Principles]]
-> Friends:: [[Impulse]]
+> Friends:: [[Impulse]] [[The Angular Momentum Principle]]
 > Children:: [[Momentum Update]]
 ---
 - ## Definition
