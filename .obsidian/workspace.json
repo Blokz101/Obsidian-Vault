@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,10 +295,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c69cef6819404ac",
+  "active": "e0022e95f0400f04",
   "lastOpenFiles": [
-    "Series Convergence Tests.md",
     "Alternating Series Test.md",
+    "Series Convergence Tests.md",
     "Geometric Series.md",
     "Limit Comparison Convergence Test.md",
     "P Series.md",
