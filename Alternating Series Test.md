@@ -8,6 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A [[Series Convergence Tests|Series Convergence Test]] that 
+	- A [[Series Convergence Tests|Series Convergence Test]] that works for [[Infinite Series|Series]] that flip between **positive** and **negative** for each $n$.
+	- > [!Equation]
+	  > 
 ---
 - ## Reference
