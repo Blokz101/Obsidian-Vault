@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Alternating Series Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -297,10 +297,10 @@
   },
   "active": "0c69cef6819404ac",
   "lastOpenFiles": [
-    "Geometric Series.md",
-    "Alternating Series Test.md",
-    "Series Convergence Tests.md",
     "Limit Comparison Convergence Test.md",
+    "Alternating Series Test.md",
+    "Geometric Series.md",
+    "Series Convergence Tests.md",
     "P Series.md",
     "Telescoping Series.md",
     "Dispersion Forces.md",
