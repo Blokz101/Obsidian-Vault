@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Angular Momentum Principle.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -333,9 +333,9 @@
   },
   "active": "ab839a90e0111660",
   "lastOpenFiles": [
-    "Fundamental Principles.md",
-    "The Angular Momentum Principle.md",
     "The Momentum Principle.md",
+    "The Angular Momentum Principle.md",
+    "Fundamental Principles.md",
     "Torque.md",
     "Alternating Series Test.md",
     "Limit Comparison Convergence Test.md",
