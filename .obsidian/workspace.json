@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Angular Momentum Principle.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Angular Momentum Principle.md",
+                "file": "Torque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Angular Momentum Principle.md",
+                "file": "Torque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Angular Momentum Principle.md",
+                "file": "Torque.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -331,12 +331,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab839a90e0111660",
+  "active": "30750b08b9a47074",
   "lastOpenFiles": [
-    "The Momentum Principle.md",
-    "The Angular Momentum Principle.md",
-    "Fundamental Principles.md",
+    "Net Force.md",
     "Torque.md",
+    "The Angular Momentum Principle.md",
+    "The Momentum Principle.md",
+    "Fundamental Principles.md",
     "Alternating Series Test.md",
     "Limit Comparison Convergence Test.md",
     "Geometric Series.md",
@@ -362,7 +363,6 @@
     "Translational Angular Momentum.md",
     "Rotational Angular Momentum.md",
     "Angular Momentum.md",
-    "Angular Velocity.md",
     "References/PY205 Homework 11.2-11.3.pdf",
     "References/PY205 Homework 11.1.pdf",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
