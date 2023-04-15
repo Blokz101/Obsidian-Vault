@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Infinite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Infinite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Infinite Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,12 +319,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c69cef6819404ac",
+  "active": "bdf9a0cdfd3d95ea",
   "lastOpenFiles": [
+    "Alternating Series Test.md",
     "Ratio Test.md",
     "Infinite Series.md",
     "Absolute Convergence.md",
-    "Alternating Series Test.md",
     "Torque.md",
     "Vector Cross Product.md",
     "Comparison Convergence Test.md",
