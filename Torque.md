@@ -12,7 +12,7 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\vec{\tau}_{a}=\vec{r}_{a}\times \vec{F}}$$
 	  > 
-	  > $\vec{\tau}_{a}$ = The [[Torque]] with respect to point $\vec{A}$ in $SOMETHING$
+	  > $\vec{\tau}_{a}$ = The [[Torque]] with respect to point $\vec{A}$ in $Nm$
 	  > $\vec{r}$ = [[Position]] from point $\vec{A}$ to where the [[Force]] is being applied in $m$
 	  > $\vec{F}$ = [[Force]] being applied in $N$
 ---
