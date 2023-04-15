@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[Acceleration]] [[Mass]]
+> Friends:: [[Acceleration]] [[Mass]] [[The Momentum Principle]]
 > Children:: 
 ---
 - ## Definition
