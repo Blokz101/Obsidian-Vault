@@ -15,7 +15,7 @@ Alias: []
 	  > 2. Changing sign every $n$
 	  >   
 	  > Then if:
-	  >  $$\lim_{ n \to \infty }a_{n}=0$$
+	  >  $$\large{\lim_{ n \to \infty }a_{n}=0}$$
 	  >  The series **converges**.
 ---
 - ## Reference

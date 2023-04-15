@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ratio Test.md",
+                "file": "Alternating Series Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ratio Test.md",
+                "file": "Alternating Series Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ratio Test.md",
+                "file": "Alternating Series Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,10 +319,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fbc20d5cd241ab3",
+  "active": "0c69cef6819404ac",
   "lastOpenFiles": [
-    "Infinite Series.md",
     "Ratio Test.md",
+    "Infinite Series.md",
     "Absolute Convergence.md",
     "Alternating Series Test.md",
     "Torque.md",
