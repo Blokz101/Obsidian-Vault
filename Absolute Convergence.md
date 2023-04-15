@@ -3,8 +3,8 @@ Alias: [Absolutely Convergent]
 ---
 > [!Info]
 > Subject:: [[Calculus II]]
-> Parents:: [[Infinite Series]]
-> Friends:: 
+> Parents:: 
+> Friends:: [[Infinite Series]]
 > Children:: 
 ---
 - ## Definition
