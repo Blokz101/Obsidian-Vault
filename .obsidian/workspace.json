@@ -230,13 +230,13 @@
               "type": "markdown",
               "state": {
                 "file": "Geometric Series.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 15,
         "stacked": true
       }
     ],
@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Translational Angular Momentum.md",
+                "file": "Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -391,10 +391,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3a13d4c4b974a2b",
+  "active": "ff5bc628863b77e1",
   "lastOpenFiles": [
-    "Rotational Angular Momentum.md",
+    "Geometric Series.md",
     "Translational Angular Momentum.md",
+    "Rotational Angular Momentum.md",
     "Angular Momentum.md",
     "The Angular Momentum Principle.md",
     "Vector Cross Product.md",
@@ -404,7 +405,6 @@
     "Fundamental Principles.md",
     "Alternating Series Test.md",
     "Limit Comparison Convergence Test.md",
-    "Geometric Series.md",
     "Series Convergence Tests.md",
     "P Series.md",
     "Telescoping Series.md",
