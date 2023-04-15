@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "68ab008b67152c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Cross Product.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ab839a90e0111660",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,11 +355,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30750b08b9a47074",
+  "active": "68ab008b67152c0c",
   "lastOpenFiles": [
+    "Torque.md",
     "Net Force.md",
     "The Momentum Principle.md",
-    "Torque.md",
     "The Angular Momentum Principle.md",
     "Fundamental Principles.md",
     "Alternating Series Test.md",
