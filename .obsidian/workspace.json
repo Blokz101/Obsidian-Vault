@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 12,
         "stacked": true
       }
     ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ratio Convergence Test.md",
+                "file": "Geometric Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ratio Convergence Test.md",
+                "file": "Geometric Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ratio Convergence Test.md",
+                "file": "Geometric Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,10 +343,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fbc20d5cd241ab3",
+  "active": "e0022e95f0400f04",
   "lastOpenFiles": [
-    "Comparison Convergence Test.md",
     "Ratio Convergence Test.md",
+    "Comparison Convergence Test.md",
     "Alternating Series Test.md",
     "P Series.md",
     "Power Series.md",
