@@ -15,6 +15,6 @@ Alias: []
 		- > [!Equation]
 		  > $$f(x)=\large{\sum^{\infty}_{n=0}c_{n}x^n}$$
 	- The goal of most of them is to find the intervals on which the [[Power Series]] **converges**.
-	- 
+	- We can use the tests from [[Series Convergence Tests]] to help.
 ---
 - ## Reference

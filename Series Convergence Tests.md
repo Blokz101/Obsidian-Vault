@@ -5,7 +5,7 @@ Alias: [Series Convergence Test]
 > Subject:: [[Calculus II]]
 > Parents:: [[Infinite Series|Series]]
 > Friends:: 
-> Children:: [[Integral Convergence Test]] [[Comparison Convergence Test]] [[Limit Comparison Convergence Test]] [[Alternating Series Test]]
+> Children:: [[Integral Convergence Test]] [[Comparison Convergence Test]] [[Limit Comparison Convergence Test]] [[Alternating Series Test]] [[Ratio Test]]
 ---
 - ## Definition
 	- Tests that can be on uncommon [[Infinite Series]] to determine their **convergence**.

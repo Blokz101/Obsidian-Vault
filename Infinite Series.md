@@ -5,7 +5,7 @@ Alias: [Series]
 > Subject:: [[Calculus II]]
 > Parents:: [[Sequence]]
 > Friends:: [[Series Convergence Tests]] [[Absolute Convergence]]
-> Children:: [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series]] [[P Series]] [[Ratio Test]]
+> Children:: [[Power Series]] [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series]] [[P Series]]
 ---
 - ## Definition
 	- The [[Summation Notation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].
