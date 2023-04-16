@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ratio Test.md",
+                "file": "Ratio Convergence Test.md",
                 "mode": "preview",
                 "source": true
               }
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 10,
         "stacked": true
       }
     ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,11 +343,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c69cef6819404ac",
+  "active": "ff5bc628863b77e1",
   "lastOpenFiles": [
-    "P Series.md",
+    "Ratio Convergence Test.md",
     "Alternating Series Test.md",
-    "Ratio Test.md",
+    "P Series.md",
     "Power Series.md",
     "Series Convergence Tests.md",
     "Infinite Series.md",
