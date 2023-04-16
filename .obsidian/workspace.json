@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "P Series.md",
+                "file": "Limit Comparison Convergence Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -331,11 +331,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5886cdc2065a24b5",
+  "active": "36da248d90ca8a8d",
   "lastOpenFiles": [
+    "Comparison Convergence Test.md",
+    "P Series.md",
     "Limit Comparison Convergence Test.md",
     "Series Convergence Tests.md",
-    "Comparison Convergence Test.md",
     "Infinite Series.md",
     "Alternating Series Test.md",
     "Ratio Test.md",
@@ -351,7 +352,6 @@
     "Net Force.md",
     "The Momentum Principle.md",
     "Fundamental Principles.md",
-    "P Series.md",
     "Telescoping Series.md",
     "Dispersion Forces.md",
     "Intramolecular Forces.md",
