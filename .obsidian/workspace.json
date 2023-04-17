@@ -11,8 +11,12 @@
             "id": "f3ffceae8c925614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Infinite Series.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -68,7 +72,7 @@
       {
         "id": "61b56479f72a3d3d",
         "type": "tabs",
-        "dimension": 41.33333333333334,
+        "dimension": 30,
         "children": [
           {
             "id": "d648d65e31baa8ba",
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Infinite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Infinite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Infinite Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -136,7 +143,7 @@
       {
         "id": "cb1e1dd16a6a6642",
         "type": "tabs",
-        "dimension": 58.66666666666666,
+        "dimension": 70,
         "children": [
           {
             "id": "19e786b673c052d0",
@@ -152,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5,
-    "collapsed": true
+    "width": 664.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +175,18 @@
   },
   "active": "f3ffceae8c925614",
   "lastOpenFiles": [
-    "Geometric Series.md",
-    "Integral Convergence Test.md",
+    "Excalibrain Graph.md",
     "Series Convergence Tests.md",
     "Comparison Convergence Test.md",
-    "Power Series.md",
-    "Limit Comparison Convergence Test.md",
+    "Infinite Series.md",
     "Telescoping Series.md",
     "P Series.md",
     "Harmonic Series.md",
-    "Infinite Series.md",
+    "Geometric Series.md",
     "Ratio Convergence Test.md",
+    "Integral Convergence Test.md",
+    "Power Series.md",
+    "Limit Comparison Convergence Test.md",
     "Alternating Series Test.md",
     "Absolute Convergence.md",
     "References/MA241 Homework 4.4.pdf",
@@ -187,7 +194,6 @@
     "References/MA241 Homework 4.6.pdf",
     "Torque.md",
     "Vector Cross Product.md",
-    "Excalibrain Graph.md",
     "Translational Angular Momentum.md",
     "Rotational Angular Momentum.md",
     "Angular Momentum.md",
