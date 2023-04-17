@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Series Convergence Tests.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Series Convergence Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Series Convergence Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Series Convergence Tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +176,10 @@
   "active": "f3ffceae8c925614",
   "lastOpenFiles": [
     "Excalibrain Graph.md",
+    "Ratio Convergence Test.md",
+    "Integral Convergence Test.md",
     "Series Convergence Tests.md",
+    "Alternating Series Test.md",
     "Limit Comparison Convergence Test.md",
     "Comparison Convergence Test.md",
     "Infinite Series.md",
@@ -184,10 +187,7 @@
     "P Series.md",
     "Harmonic Series.md",
     "Geometric Series.md",
-    "Ratio Convergence Test.md",
-    "Integral Convergence Test.md",
     "Power Series.md",
-    "Alternating Series Test.md",
     "Absolute Convergence.md",
     "References/MA241 Homework 4.4.pdf",
     "References/MA241 Homework 4.5.pdf",
