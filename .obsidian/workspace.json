@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9e178773ecfb5af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moment Of Inertia.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "60dfa093f0923e42",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rotational Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,8 +211,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52c3fc62f7102c88",
+  "active": "9e178773ecfb5af2",
   "lastOpenFiles": [
+    "Rotational Angular Momentum.md",
     "Angular Momentum.md",
     "Translational Angular Momentum.md",
     "Telescoping Series.md",
@@ -224,7 +237,6 @@
     "References/MA241 Homework 4.6.pdf",
     "Torque.md",
     "Vector Cross Product.md",
-    "Rotational Angular Momentum.md",
     "The Angular Momentum Principle.md",
     "Net Force.md",
     "The Momentum Principle.md",
