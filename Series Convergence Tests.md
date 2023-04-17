@@ -10,4 +10,7 @@ Alias: [Series Convergence Test]
 - ## Definition
 	- Tests that can be on uncommon [[Infinite Series]] to determine their **convergence**.
 ---
+- ## Practice
+	- [[MA241 Homework 4.5.pdf]]
+	- [[MA241 Homework 4.6.pdf]]
 - ## Reference

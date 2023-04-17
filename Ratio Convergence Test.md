@@ -16,4 +16,7 @@ Alias: []
 	  > $$\text{If }\lim_{ n \to \infty }\left\lvert  \frac{a_{n+1}}{a_{n}}  \right\rvert=L=1\text{, then no conclusion can be drawn}$$
 	  > $$\text{If }\lim_{ n \to \infty }\left\lvert  \frac{a_{n+1}}{a_{n}}  \right\rvert=L=DNE\text{, then no conclusion can be drawn}$$
 ---
+- ## Practice
+	- [[MA241 Homework 4.5.pdf]]
+	- [[MA241 Homework 4.6.pdf]]
 - ## Reference

@@ -17,4 +17,6 @@ Alias: []
 	- The goal of most of them is to find the intervals on which the [[Power Series]] **converges**.
 	- We can use the [[Ratio Convergence Test]] to determine the **interval of convergence** for most values. However we must check the edge cases, where the [[Ratio Convergence Test]] equals $1$ and fails.
 ---
+- ## Practice
+	- [[MA241 Homework 4.6.pdf]]
 - ## Reference

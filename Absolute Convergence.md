@@ -14,4 +14,6 @@ Alias: [Absolutely Convergent]
 	  > $$\large{\sum^{\infty}_{n=1}\lvert a_{n} \rvert}\text{ is Convergent}$$
 	- If a [[Infinite Series|Series]] is [[Absolute Convergence|Absolutely Convergent]] it must also be **conditionally convergent** as well.
 ---
+- ## Practice
+	- [[MA241 Homework 4.6.pdf]]
 - ## Reference

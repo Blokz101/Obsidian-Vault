@@ -19,4 +19,6 @@ Alias: []
 	- Tips from the textbook on picking an $b_{n}$:
 		- ![[Screen Shot 2023-04-12 at 9.31.33 PM.png|400]]
 ---
+- ## Practice
+	- [[MA241 Homework 4.5.pdf]]
 - ## Reference

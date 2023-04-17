@@ -18,4 +18,8 @@ Alias: []
 	  >  $$\large{\lim_{ n \to \infty }a_{n}=0}$$
 	  >  The series **converges**.
 ---
+- ## Practice
+	- [[MA241 Homework 4.4.pdf]]
+	- [[MA241 Homework 4.5.pdf]]
+	- [[MA241 Homework 4.6.pdf]]
 - ## Reference
