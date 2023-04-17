@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Telescoping Series.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Telescoping Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Telescoping Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series Test.md",
+                "file": "Telescoping Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,17 +176,17 @@
   "active": "f3ffceae8c925614",
   "lastOpenFiles": [
     "Excalibrain Graph.md",
-    "Series Convergence Tests.md",
+    "Geometric Series.md",
     "Infinite Series.md",
+    "Series Convergence Tests.md",
+    "Alternating Series Test.md",
     "Comparison Convergence Test.md",
     "Ratio Convergence Test.md",
     "Integral Convergence Test.md",
-    "Alternating Series Test.md",
     "Limit Comparison Convergence Test.md",
     "Telescoping Series.md",
     "P Series.md",
     "Harmonic Series.md",
-    "Geometric Series.md",
     "Power Series.md",
     "Absolute Convergence.md",
     "References/MA241 Homework 4.4.pdf",
