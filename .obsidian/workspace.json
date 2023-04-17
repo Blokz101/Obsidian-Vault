@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Alternating Series Test.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Alternating Series Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Alternating Series Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Alternating Series Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,6 +177,7 @@
   "lastOpenFiles": [
     "Excalibrain Graph.md",
     "Series Convergence Tests.md",
+    "Limit Comparison Convergence Test.md",
     "Comparison Convergence Test.md",
     "Infinite Series.md",
     "Telescoping Series.md",
@@ -186,7 +187,6 @@
     "Ratio Convergence Test.md",
     "Integral Convergence Test.md",
     "Power Series.md",
-    "Limit Comparison Convergence Test.md",
     "Alternating Series Test.md",
     "Absolute Convergence.md",
     "References/MA241 Homework 4.4.pdf",
