@@ -80,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Moment Of Inertia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,14 +235,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97adae4341224e5a",
+  "active": "9e178773ecfb5af2",
   "lastOpenFiles": [
     "Rotational Angular Momentum.md",
+    "Angular Momentum.md",
     "Translational Angular Momentum.md",
     "Kinetic Energy.md",
     "Angular Velocity.md",
     "Moment Of Inertia.md",
-    "Angular Momentum.md",
     "Telescoping Series.md",
     "LC3 Opcodes.md",
     "ASCII Characters.md",
