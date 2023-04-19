@@ -90,9 +90,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "427cd7550a147253",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/MA241 Homework 4.6.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -153,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "References/MA241 Homework 4.6.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "References/MA241 Homework 4.6.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "References/MA241 Homework 4.6.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,8 +257,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "158d1263eb689b76",
+  "active": "427cd7550a147253",
   "lastOpenFiles": [
+    "Analytic Prediction Of Motion.md",
     "The Momentum Principle.md",
     "Translational Angular Momentum.md",
     "Moment Of Inertia.md",
@@ -278,7 +289,6 @@
     "References/MA241 Homework 4.6.pdf",
     "Torque.md",
     "Vector Cross Product.md",
-    "The Angular Momentum Principle.md",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
     "References/Screen Shot 2023-04-12 at 10.35.50 AM.png",
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
