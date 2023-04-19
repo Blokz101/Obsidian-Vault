@@ -23,4 +23,5 @@ Alias: []
 - ## Practice
 	- [[PY205 Homework 11.1.pdf]]
 	- [[PY205 Homework 11.2-11.3.pdf]]
+	- [[PY205 Homework Problem Solving.pdf]]
 - ## Reference

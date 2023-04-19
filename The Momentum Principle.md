@@ -23,4 +23,5 @@ Alias: []
 ---
 - ## Practice
 	- [[Drawing 2023-01-26 16.10.52.excalidraw]]
+	- [[PY205 Homework Problem Solving.pdf]]
 - ## Reference

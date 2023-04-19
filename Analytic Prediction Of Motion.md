@@ -37,4 +37,5 @@ Alias: []
 	- [[Drawing 2023-01-31 10.43.54.excalidraw]]
 	- [[Drawing 2023-01-31 18.53.07.excalidraw]]
 	- [[MA241 Homework 4.7-4.8.pdf]]
+	- [[PY205 Homework Problem Solving.pdf]]
 - ## Reference
