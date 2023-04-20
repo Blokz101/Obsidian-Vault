@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Binomial Expansion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Binomial Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Binomial Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytic Prediction Of Motion.md",
+                "file": "Binomial Expansion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,8 +249,8 @@
   },
   "active": "158d1263eb689b76",
   "lastOpenFiles": [
-    "References/MA241 Homework 4.6.pdf",
     "Analytic Prediction Of Motion.md",
+    "References/MA241 Homework 4.6.pdf",
     "The Momentum Principle.md",
     "Translational Angular Momentum.md",
     "Moment Of Inertia.md",
