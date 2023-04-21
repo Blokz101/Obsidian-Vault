@@ -28,8 +28,12 @@ Alias: []
 	- Simply write the [[Function]] in the form of the [[Summation Notation|Sum]], and it can be written as a [[Geometric Series]].
 	- To manipulate the [[Function]] as a [[Power Series]] we can use these rules:
 		- >[!Equation]
-		  > Let a function defined by a [[Power Series]] with a non-zero radius of convergence, $R$, be:
+		  > Let a function defined by a [[Power Series]]:
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n}$$
+		  > If it has a non-zero **radius of convergence**, $R$, then it is [[Continuity|Continuous]] and [[Derivative|Differentiable]] on its **interval of convergence**, and:
+		  > $$\begin{align}
+	f'(x)=\frac{d}{dx}
+	\end{align}$$
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]

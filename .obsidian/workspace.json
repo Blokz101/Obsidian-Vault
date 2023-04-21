@@ -8,91 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97adae4341224e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "52c3fc62f7102c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rotational Angular Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "344897678be8a54c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e0e3047b263a390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinetic Energy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e178773ecfb5af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moment Of Inertia.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "60dfa093f0923e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Translational Angular Momentum.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "158d1263eb689b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binomial Expansion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4c0e955f48a6935a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Series.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "cd836523fa4d2d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e375941a10718090",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,22 +37,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f4b69126ffbd817a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometric Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 7,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,20 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c0e955f48a6935a",
+  "active": "e375941a10718090",
   "lastOpenFiles": [
-    "Geometric Series.md",
-    "Power Series.md",
     "Binomial Expansion.md",
-    "Analytic Prediction Of Motion.md",
-    "References/MA241 Homework 4.6.pdf",
-    "The Momentum Principle.md",
     "Translational Angular Momentum.md",
     "Moment Of Inertia.md",
     "Kinetic Energy.md",
     "Angular Velocity.md",
     "Rotational Angular Momentum.md",
     "Angular Momentum.md",
+    "Power Series.md",
+    "Geometric Series.md",
+    "Analytic Prediction Of Motion.md",
+    "References/MA241 Homework 4.6.pdf",
+    "The Momentum Principle.md",
     "References/PY205 Homework Problem Solving.pdf",
     "Telescoping Series.md",
     "LC3 Opcodes.md",
