@@ -31,9 +31,14 @@ Alias: []
 		  > Let a function defined by a [[Power Series]]:
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n}$$
 		  > If it has a non-zero **radius of convergence**, $R$, then it is [[Continuity|Continuous]] and [[Derivative|Differentiable]] on its **interval of convergence**, and:
+		  > 
 		  > $$\begin{align}
-	f'(x)=\frac{d}{dx}
-	\end{align}$$
+	 f'(x) & =\frac{d}{dx}\sum^{\infty}_{n=0}c_{n}(x-a)^n \\
+	 & =\sum^{\infty}_{n=0} nc_{n}(x-a)^{n-1}
+	 \end{align}$$
+	 > $$\begin{align}
+
+	 \end{align}$$
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]
