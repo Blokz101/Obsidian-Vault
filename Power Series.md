@@ -25,7 +25,11 @@ Alias: []
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}a_{n}x^n}$$
 	- To bridge the gap between [[Power Series]] and [[Function|Functions]] we can use [[Geometric Series]] because it is both a [[Infinite Series|Series]] and a [[Function]], and has an easily defined [[Summation Notation|Sum]].
 		- ![[Geometric Series#^321927]]
-		- Simply write the [[Function]] in the form of the [[Summation Notation|Sum]]
+	- Simply write the [[Function]] in the form of the [[Summation Notation|Sum]], and it can be written as a [[Geometric Series]].
+	- To manipulate the [[Function]] as a [[Power Series]] we can use these rules:
+		- >[!Equation]
+		  > If a [[Power Series]] $\sum^{\infty}_{n=0}c_{n}(x-a)^n$ has a non-zero **radius of convergence** $R$, then the function defined by:
+		  > $\large{f(x)=\sum^{\infty}_{n=0}c_{n}}$
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]
