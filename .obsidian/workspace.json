@@ -14,31 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Power Series.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "cd836523fa4d2d76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e375941a10718090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power Series.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e375941a10718090",
+  "active": "4c0e955f48a6935a",
   "lastOpenFiles": [
     "Binomial Expansion.md",
     "Translational Angular Momentum.md",
