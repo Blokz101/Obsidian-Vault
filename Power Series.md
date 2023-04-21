@@ -24,6 +24,7 @@ Alias: []
 		- >[!Equation]
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}a_{n}x^n}$$
 	- To bridge the gap between [[Power Series]] and [[Function|Functions]] we can use [[Geometric Series]].
+		- ![[Geometric Series#^321927]]
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]

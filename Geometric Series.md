@@ -7,7 +7,7 @@ Alias: []
 > Friends:: 
 > Children:: 
 ---
-- ## Definition
+- ## Definition ^321927
 	- An [[Infinite Series]] that takes the form of:
 	- > [!Equation]
 	  > $$\large{\sum^{\infty}_{n=0}ar^{n}}$$
@@ -18,7 +18,7 @@ Alias: []
 	  > When **$\lvert r \rvert< 1$** the [[Geometric Series]] **converges** and its sum is:
 	  > $$\large{S=\frac{a}{1-r}}$$
 	  > 
-	  > > [!Proof]
+	  > > [!Proof]-
 	  > > We know that the sum of a [[Geometric Series]] is equal to the partial sum:
 	  > > $$S_{n}=a+ar+ar^2+ar^3+\dots+ar^{n-1}$$
 	  > > And if we add one to $n$:
