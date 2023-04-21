@@ -18,6 +18,11 @@ Alias: []
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n}$$
 	- The goal of most of them is to find the intervals on which the [[Power Series]] **converges**.
 	- We can use the [[Ratio Convergence Test]] to determine the **interval of convergence** for most values. However we must check the edge cases, where the [[Ratio Convergence Test]] equals $1$ and fails.
+- ## Functions As [[Power Series]]
+	- > We extend our study of power series by examining functions that can be represented by power series. What value could there be in writing a rather simple function as a power series? In many cases, finding basic derivatives or antiderivatives is actually easier in series form because power series have properties similar to polynomials. Sometimes, a power series is truncated to approximate the function in its interval of convergence. In higher-level mathematics courses, power series are used to solve differential equations.
+	- A power series can be used to define a function whose domain is the interval of convergence. In general, such a function takes the form
+		- >[!Equation]
+		  > $\large{f(x)=\sum^{\infty}_{n=0}a_{n}x^n}$
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]
