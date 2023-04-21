@@ -23,7 +23,7 @@ Alias: []
 	- A power series can be used to define a function whose domain is the interval of convergence. In general, such a function takes the form
 		- >[!Equation]
 		  > $$\large{f(x)=\sum^{\infty}_{n=0}a_{n}x^n}$$
-	- To bridge the gap between [[Power Series]] and [[Function|Functions]] we can use [[Geometric Series]].
+	- To bridge the gap between [[Power Series]] and [[Function|Functions]] we can use [[Geometric Series]] because it is both a [[Infinite Series|Series]] and a [[Function]].
 		- ![[Geometric Series#^321927]]
 ---
 - ## Practice
