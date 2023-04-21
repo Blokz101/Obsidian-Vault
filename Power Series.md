@@ -37,7 +37,8 @@ Alias: []
 	 & =\sum^{\infty}_{n=0} nc_{n}(x-a)^{n-1}
 	 \end{align}$$
 	 > $$\begin{align}
-
+	 \int f(x) \, dx  & =\int \sum^{\infty}_{n=0}c_{n}(x-a)^n \, dx  \\
+	 & =\sum^{\infty}_{n=0}c_{n} \frac{1}{n+1} (x-a)^{n+1}+C
 	 \end{align}$$
 ---
 - ## Practice
