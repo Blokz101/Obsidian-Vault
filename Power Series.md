@@ -28,8 +28,8 @@ Alias: []
 	- Simply write the [[Function]] in the form of the [[Summation Notation|Sum]], and it can be written as a [[Geometric Series]].
 	- To manipulate the [[Function]] as a [[Power Series]] we can use these rules:
 		- >[!Equation]
-		  > If a [[Power Series]] $\sum^{\infty}_{n=0}c_{n}(x-a)^n$ has a non-zero **radius of convergence** $R$, then the function defined by:
-		  > $\large{f(x)=\sum^{\infty}_{n=0}c_{n}}$
+		  > Let a function defined by a [[Power Series]] with a non-zero radius of convergence, $R$, be:
+		  > $$\large{f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n}$$
 ---
 - ## Practice
 	- [[MA241 Homework 4.6.pdf]]
