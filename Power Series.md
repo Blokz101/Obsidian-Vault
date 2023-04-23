@@ -34,7 +34,7 @@ Alias: []
 		  > 
 		  > $$\begin{align}
 	 f'(x) & =\frac{d}{dx}\sum^{\infty}_{n=0}c_{n}(x-a)^n \\
-	 & =\sum^{\infty}_{n=0} nc_{n}(x-a)^{n-1}
+	 & =\sum^{\infty}_{n=1} nc_{n}(x-a)^{n-1}
 	 \end{align}$$
 	 > $$\begin{align}
 	 \int f(x) \, dx  & =\int \sum^{\infty}_{n=0}c_{n}(x-a)^n \, dx  \\
