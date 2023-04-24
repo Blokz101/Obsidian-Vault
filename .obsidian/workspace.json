@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Trigonometric Substitutions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Trigonometric Substitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Trigonometric Substitutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Summation Notation.md",
+                "file": "Trigonometric Substitutions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,6 +176,7 @@
   },
   "active": "4c0e955f48a6935a",
   "lastOpenFiles": [
+    "Summation Notation.md",
     "Power Series.md",
     "Binomial Expansion.md",
     "Translational Angular Momentum.md",
@@ -205,7 +206,6 @@
     "Absolute Convergence.md",
     "References/MA241 Homework 4.4.pdf",
     "References/MA241 Homework 4.5.pdf",
-    "Torque.md",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
     "References/Screen Shot 2023-04-12 at 10.35.50 AM.png",
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
