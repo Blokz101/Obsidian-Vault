@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power Series.md",
+                "file": "Summation Notation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power Series.md",
+                "file": "Summation Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Power Series.md",
+                "file": "Summation Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Power Series.md",
+                "file": "Summation Notation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
