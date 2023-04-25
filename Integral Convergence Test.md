@@ -41,7 +41,7 @@ Alias: []
 			  >  
 			  >  > [!Proof]-
 			  >  > ![[Screen Shot 2023-04-25 at 3.55.07 PM.png]]
-		4. Substitute $R_{n}$ into the inequality and subtract $S_{n}$.
+		4. Substitute $R_{n}$ into the inequality and add $S_{n}$.
 		5. Lastly, multiple digits of the **upper and lower bound** will be the same. We know that $S$ must be between the two **bounds**, so we know $S$ up until the decimal points of the two **bounds** become different.
 ---
 - ## Reference
