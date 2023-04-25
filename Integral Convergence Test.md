@@ -34,7 +34,7 @@ Alias: []
 			  >  
 			  >  $S$ = The true sum of the series.
 			  >  $S_{n}$ = The sum of the series to some number $n$ instead of $\infty$.
-			  >  $R_{n}$ = The difference between the true sum and the sum of the series to some number $n$.
+			  >  $R_{n}$ = The error of the estimation.
 			  >  > [!Tip]
 			  >  > $$\int_{n+1}^{\infty} f(x) \, dx\text{ is the Lower Bound}$$
 			  >  > $$\int_{n}^{\infty} f(x) \, dx\text{ is the Upper Bound}$$
