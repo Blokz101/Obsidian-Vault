@@ -22,7 +22,7 @@ Alias: []
 	  > $$\text{The Series } \sum^{\infty}_{n=1}a_{n}\text{ converges if and only if }\int_{1}^{\infty} f(x) \, dx\text{ converges}$$
 - ## Remainder Estimate
 	- > We are not always able to find the sum of a convergent series, but when we use the integral test to determine convergence, we are able to estimate the sum $S=\sum^{\infty}_{n=0}a_{n}$.
-	- The idea is to pick a some number $n$ use the equation below to find the **remainder**
+	- The idea is to pick a sufficiently large number $n$ (more on picking this number later) and use the equation below to find the **remainder**.
 	- > [!Equation]
 	  >  Let $f(x)$ be a **positive-valued continuous decreasing** function on the interval $[1, \infty)$ such that $f(n)=a_{n}$. If the series $\sum^{\infty}_{n=0}a_{n}$ **converges**, then:
 	  >  $$\large{\int_{n+1}^{\infty} f(x) \, dx}\leq R_{n}\leq \int_{n}^{\infty} f(x) \, dx$$
