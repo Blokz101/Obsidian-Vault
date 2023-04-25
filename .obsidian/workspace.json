@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Momentum.md",
+                "file": "Iterative Prediction of Motion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,6 +189,7 @@
   },
   "active": "911486c7d042e55a",
   "lastOpenFiles": [
+    "Momentum.md",
     "The Momentum Principle.md",
     "Net Force.md",
     "Acceleration.md",
@@ -216,7 +217,6 @@
     "Comparison Convergence Test.md",
     "Ratio Convergence Test.md",
     "Integral Convergence Test.md",
-    "Limit Comparison Convergence Test.md",
     "References/MA241 Homework 4.4.pdf",
     "References/MA241 Homework 4.5.pdf",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
