@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Infinite Series]]
 > Friends:: 
-> Children:: 
+> Children:: [[Taylor and Maclaurin Series]]
 ---
 - ## Definition
 	- A lot like [[Infinite Series]] but with another variable $x$, or if it is centered on a value other then $0$:
