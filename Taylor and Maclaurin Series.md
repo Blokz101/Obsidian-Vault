@@ -10,8 +10,10 @@ Alias: [Taylor Series, Maclaurin Series]
 - ## Taylor Series
 	- A [[Power Series]] in the form of:
 		- > [!Equation]
-		  > $f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n$
+		  > $$\large{f(x)=\sum^{\infty}_{n=0}c_{n}(x-a)^n}$$
+	- We can 
 - ## Maclaurin Series
 	- A [[Taylor and Maclaurin Series|Taylor Series]] where $a=0$.
 ---
 - ## Reference
+	- [[MA241 Textbook - Taylor and Maclaurin Series.pdf]]
