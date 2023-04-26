@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "1af9398cd4356c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivative.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "7a3a941768cf6458",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infinite Series.md",
+                "file": "Derivative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,11 +259,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87deaf458e452677",
+  "active": "1af9398cd4356c8d",
   "lastOpenFiles": [
+    "Taylor and Maclaurin Series.md",
+    "Infinite Series.md",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "Binomial Series.md",
-    "Taylor and Maclaurin Series.md",
     "Function.md",
     "Power Series.md",
     "Kissing Circles.md",
@@ -293,7 +306,6 @@
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
     "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
-    "References/Screen Shot 2023-04-08 at 1.39.55 AM.png",
     "Input",
     "Motion Note Web.canvas",
     "test.canvas"
