@@ -5,7 +5,7 @@ Alias: [Taylor Series, Maclaurin Series]
 > Subject:: [[Calculus II]]
 > Parents:: [[Power Series]]
 > Friends:: 
-> Children:: 
+> Children:: [[Binomial Series]]
 ---
 - ## Taylor Series
 	- A [[Power Series]] in the form of:
