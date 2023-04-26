@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Power Series.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -225,11 +225,12 @@
   },
   "active": "bca0690b97eb35b4",
   "lastOpenFiles": [
+    "Function.md",
     "Power Series.md",
     "Taylor and Maclaurin Series.md",
+    "Kissing Circles.md",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
     "References/MA241 Textbook - Taylor and Maclaurin Series.pdf",
-    "Kissing Circles.md",
     "Curving Motion.md",
     "Integral Convergence Test.md",
     "References/Screen Shot 2023-04-25 at 3.55.07 PM.png",
