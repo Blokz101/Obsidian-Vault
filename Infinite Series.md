@@ -26,6 +26,8 @@ Alias: [Series]
 	- If the [[Infinite Series]] **converges**, then it approaches some sum. We can find that sum for some [[Infinite Series]] like this:
 	- > [!Equation]
 	  > $$\large{\sum^{\infty}_{n=1}a_{n}=\lim_{ n \to \infty }\sum^{n}_{i=1}a_{i}=\lim_{ n \to \infty }S_{n}=S}$$
+- ## [[Infinite Series]] Algebra
+	- ![[Screen Shot 2023-04-26 at 1.32.52 PM.png]]
 ---
 - ## Practice
 	- [[MA241 Homework 4.2.pdf]]
