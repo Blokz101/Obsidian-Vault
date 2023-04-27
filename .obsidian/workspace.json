@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electric Potential Energy.md",
+                "file": "Kinetic Energy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Potential Energy.md",
+                "file": "Kinetic Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Potential Energy.md",
+                "file": "Kinetic Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Potential Energy.md",
+                "file": "Kinetic Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,6 +262,8 @@
   "active": "bca0690b97eb35b4",
   "lastOpenFiles": [
     "Gravitational Potential Energy.md",
+    "Terminal Resistance.md",
+    "Electric Potential Energy.md",
     "Taylor and Maclaurin Series.md",
     "Binomial Series.md",
     "Derivative.md",
@@ -289,8 +291,6 @@
     "Angular Velocity.md",
     "Rotational Angular Momentum.md",
     "Angular Momentum.md",
-    "Geometric Series.md",
-    "Analytic Prediction Of Motion.md",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "References/MA241 Homework 4.4.pdf",
