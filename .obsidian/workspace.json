@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "Taylor and Maclaurin Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "Taylor and Maclaurin Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative.md",
+                "file": "Taylor and Maclaurin Series.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,12 +259,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1af9398cd4356c8d",
+  "active": "bca0690b97eb35b4",
   "lastOpenFiles": [
+    "Binomial Series.md",
+    "Derivative.md",
     "Taylor and Maclaurin Series.md",
     "Infinite Series.md",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
-    "Binomial Series.md",
     "Function.md",
     "Power Series.md",
     "Kissing Circles.md",
@@ -292,7 +293,6 @@
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "Telescoping Series.md",
-    "LC3 Opcodes.md",
     "References/MA241 Homework 4.4.pdf",
     "References/MA241 Homework 4.5.pdf",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
