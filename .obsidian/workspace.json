@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taylor and Maclaurin Series.md",
+                "file": "Gravitational Potential Energy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taylor and Maclaurin Series.md",
+                "file": "Gravitational Potential Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taylor and Maclaurin Series.md",
+                "file": "Gravitational Potential Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Taylor and Maclaurin Series.md",
+                "file": "Gravitational Potential Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,9 +261,9 @@
   },
   "active": "bca0690b97eb35b4",
   "lastOpenFiles": [
+    "Taylor and Maclaurin Series.md",
     "Binomial Series.md",
     "Derivative.md",
-    "Taylor and Maclaurin Series.md",
     "Infinite Series.md",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "Function.md",
