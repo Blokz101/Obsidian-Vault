@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gravitational Potential Energy.md",
+                "file": "Electric Potential Energy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gravitational Potential Energy.md",
+                "file": "Electric Potential Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gravitational Potential Energy.md",
+                "file": "Electric Potential Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gravitational Potential Energy.md",
+                "file": "Electric Potential Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,6 +261,7 @@
   },
   "active": "bca0690b97eb35b4",
   "lastOpenFiles": [
+    "Gravitational Potential Energy.md",
     "Taylor and Maclaurin Series.md",
     "Binomial Series.md",
     "Derivative.md",
@@ -292,7 +293,6 @@
     "Analytic Prediction Of Motion.md",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
-    "Telescoping Series.md",
     "References/MA241 Homework 4.4.pdf",
     "References/MA241 Homework 4.5.pdf",
     "References/Screen Shot 2023-04-12 at 9.31.33 PM.png",
