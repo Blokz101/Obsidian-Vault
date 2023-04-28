@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Work (Calculus).md",
+                "file": "Pressure (Calculus).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,8 +271,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c3e6cc162850758",
+  "active": "4e3867509f8f208e",
   "lastOpenFiles": [
+    "Work (Calculus).md",
     "Pressure (Calculus).md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "Kinetic Energy.md",
@@ -303,7 +304,6 @@
     "Translational Angular Momentum.md",
     "Moment Of Inertia.md",
     "Angular Velocity.md",
-    "Rotational Angular Momentum.md",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "References/MA241 Homework 4.4.pdf",
