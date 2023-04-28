@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -317,8 +317,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53815bfb121ca082",
+  "active": "9ffb50952e3fe83f",
   "lastOpenFiles": [
+    "References/MA241 Homework 3.5.pdf",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Second Order Linear Homogeneous Differential Equations.md",
     "Newton's Law of Heating and Cooling.md",
@@ -349,7 +350,6 @@
     "Iterative Prediction of Motion.md",
     "Momentum.md",
     "Net Force.md",
-    "Acceleration.md",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "References/MA241 Homework 4.4.pdf",
