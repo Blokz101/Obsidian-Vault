@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "53815bfb121ca082",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/MA241 Homework 3.5.pdf"
+              }
+            }
+          },
+          {
             "id": "3c3e6cc162850758",
             "type": "leaf",
             "state": {
@@ -152,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -213,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Order Linear Homogeneous Differential Equations.md",
+                "file": "References/MA241 Homework 3.5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Order Linear Homogeneous Differential Equations.md",
+                "file": "References/MA241 Homework 3.5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Second Order Linear Homogeneous Differential Equations.md",
+                "file": "References/MA241 Homework 3.5.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,7 +317,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "147f06fcc82f8e40",
+  "active": "53815bfb121ca082",
   "lastOpenFiles": [
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "Second Order Linear Homogeneous Differential Equations.md",
