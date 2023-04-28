@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "2e06dcc5432361af",
+            "id": "2f83a763c8f929a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Newton's Law of Heating and Cooling.md",
                 "mode": "preview",
                 "source": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Newton's Law of Heating and Cooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Newton's Law of Heating and Cooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ASCII Characters.md",
+                "file": "Newton's Law of Heating and Cooling.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,11 +283,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e06dcc5432361af",
+  "active": "2f83a763c8f929a4",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
     "Pressure (Calculus).md",
-    "Work (Calculus).md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
+    "ASCII Characters.md",
+    "Heating and Cooling.md",
+    "Work (Calculus).md",
     "Kinetic Energy.md",
     "Gravitational Potential Energy.md",
     "Terminal Resistance.md",
@@ -313,9 +316,6 @@
     "Trigonometric Substitutions.md",
     "Summation Notation.md",
     "Binomial Expansion.md",
-    "Translational Angular Momentum.md",
-    "Moment Of Inertia.md",
-    "Angular Velocity.md",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "References/MA241 Homework 4.4.pdf",
