@@ -3,7 +3,7 @@ Alias: [Gated D-Latches]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[Gated D-Latch]]
+> Parents:: [[AND Gate]] [[NOT Gate]]
 > Friends:: 
 > Children:: [[Register]]
 ---
