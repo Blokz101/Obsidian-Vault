@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "DeMorgan's Law.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "DeMorgan's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "DeMorgan's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Floating-Point Code.md",
+                "file": "DeMorgan's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,6 +176,7 @@
   },
   "active": "d710019d13f39937",
   "lastOpenFiles": [
+    "Floating-Point Code.md",
     "Transistor.md",
     "CMOS Circuit.md",
     "AND Gate.md",
@@ -203,7 +204,6 @@
     "Heating and Cooling.md",
     "Work (Calculus).md",
     "Gravitational Potential Energy.md",
-    "Terminal Resistance.md",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
     "References/MA241 Textbook - Taylor and Maclaurin Series.pdf",
