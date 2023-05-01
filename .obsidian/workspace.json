@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LC3 Opcodes.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC3 Opcodes.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC3 Opcodes.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LC3 Opcodes.md",
+                "file": "Second Order Linear Non-Homogeneous Differential Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,6 +189,7 @@
   },
   "active": "b8a15328501a8492",
   "lastOpenFiles": [
+    "LC3 Opcodes.md",
     "ECE109 Review Temp.md",
     "ASCII Characters.md",
     "ECE109 Review.canvas",
@@ -217,7 +218,6 @@
     "References/MA241 Homework 3.5.pdf",
     "Excalibrain Graph.md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
-    "Heating and Cooling.md",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
     "References/MA241 Textbook - Taylor and Maclaurin Series.pdf",
