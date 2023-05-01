@@ -24,5 +24,12 @@ A computers **instructions** and their **formats** is known as the **Instruction
 Devices that connect the computer to the outside world and allow easy interaction.
 
 They have these main components:
-- Control/Status Registers
-- 
+- **Control/Status Registers**
+	- Output - CPU writes to the devices **control register**
+	- Input - CPU reads from the devices **status register**
+- **Data Registers**
+	- Other registers that the device has that can be used to transfer more data between the CPU and device.
+
+#### Memory Mapped vs I/O Instructions
+
+Instructions: 
