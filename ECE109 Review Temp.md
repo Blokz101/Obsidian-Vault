@@ -17,3 +17,12 @@ A computers **instructions** and their **formats** is known as the **Instruction
 - Registers available
 - Instructions and formats of opcodes
 
+# Unit Eight
+---
+## I/O Controller
+
+Devices that connect the computer to the outside world and allow easy interaction.
+
+They have these main components:
+- Control/Status Registers
+- 
