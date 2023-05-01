@@ -37,4 +37,7 @@ Instructions
 - Each instruction includes target device registers and opcodes
 
 Memory Mapped
-- 
+- Addresses in memory are assigned to the device.
+- Writing to those addresses is like a shortcut to write to the device registers
+
+#### Transfer Control and Ti
