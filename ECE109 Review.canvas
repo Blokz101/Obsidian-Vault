@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"c8d2da77da12737f","x":-280,"y":-120,"width":340,"height":720,"type":"text","text":"#### Von Neumann Model\n\nThe first computer to store its programs in its own memory\n\nContains Three main components:\n- Memory\n- CPU\n- Control Unit\n\nInstruction Register stores the current instruction being executed while the program counter stores the location of the next instruction to be executed."}
-	],
-	"edges":[]
-}
