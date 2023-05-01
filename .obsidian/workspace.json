@@ -52,7 +52,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "ECE109 Review Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "ECE109 Review Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/MA241 Homework 3.5.pdf",
+                "file": "ECE109 Review Temp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,12 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a9352c4ad132462",
+  "active": "c811b13215a5c48a",
   "lastOpenFiles": [
+    "References/MA241 Homework 3.5.pdf",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
     "References/MA241 Homework 3.4.pdf",
     "Second Order Linear Homogeneous Differential Equations.md",
-    "References/MA241 Homework 3.5.pdf",
     "LC3 Opcodes.md",
     "ECE109 Review Temp.md",
     "ASCII Characters.md",
