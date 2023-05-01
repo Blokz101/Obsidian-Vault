@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8a15328501a8492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LC3 Opcodes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE109 Review Temp.md",
+                "file": "LC3 Opcodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE109 Review Temp.md",
+                "file": "LC3 Opcodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE109 Review Temp.md",
+                "file": "LC3 Opcodes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,10 +187,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c811b13215a5c48a",
+  "active": "b8a15328501a8492",
   "lastOpenFiles": [
-    "ASCII Characters.md",
     "ECE109 Review Temp.md",
+    "ASCII Characters.md",
     "ECE109 Review.canvas",
     "Floating-Point Code.md",
     "DeMorgan's Law.md",
