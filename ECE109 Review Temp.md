@@ -32,4 +32,9 @@ They have these main components:
 
 #### Memory Mapped vs I/O Instructions
 
-Instructions: 
+Instructions
+- Designated opcodes that the CPU can use to interact with the device
+- Each instruction includes target device registers and opcodes
+
+Memory Mapped
+- 
