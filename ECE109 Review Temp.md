@@ -40,4 +40,9 @@ Memory Mapped
 - Addresses in memory are assigned to the device.
 - Writing to those addresses is like a shortcut to write to the device registers
 
-#### Transfer Control and Ti
+#### Polling
+
+
+
+#### Interrupts
+
