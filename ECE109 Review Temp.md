@@ -17,5 +17,3 @@ A computers **instructions** and their **formats** is known as the **Instruction
 - Registers available
 - Instructions and formats of opcodes
 
-####  Instruction Processing
-C
