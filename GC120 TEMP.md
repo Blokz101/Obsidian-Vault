@@ -26,4 +26,9 @@ First Angle Projection
 - The cone is the first symbol and the circle is the second
 - Used by other places
 
-Counter
+Counterbore is the double cylinder extrude
+Countersunk is the screwed sunk in extrude
+Spotface is counterbore but with a very shallow counterbore
+
+Runouts are used to represent corners that intersect with cylinders and have a fillet. They curve in the direction of the fillet.
+
