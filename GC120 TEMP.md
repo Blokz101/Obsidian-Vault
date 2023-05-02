@@ -72,4 +72,14 @@ Section views:
 - Remove hidden lines
 
 Cutting plane is the place that cuts the part
-Cutting plane line is the line on another view that shows where the
+Cutting plane line is the line on another view that shows where the cutting plane is
+
+Types of Section Views
+- Full: Shows everything inside
+- Half: Cutting plane passes though only half the object, think of it like a quarter of the object is removed
+- Broken out: A specified part is removed kinda like the half section view, but its more versatile and flexible about where thing are removed
+- Revolved: Like a full section view, but that view is rotated 90 degrees so it faces the user while overlaying the part.
+- Removed: Similar to revolved, but it is moved to an adjacent view 
+- Offset: Same as full, but the cutting plane line can be manipulated though out the with of the section view
+- Aligned: Similar to the offset, but it has one main angle that it is cut along, mainly used for revolves or circular patterns
+- 
