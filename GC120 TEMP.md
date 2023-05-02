@@ -1,4 +1,16 @@
-#### Projection Theory
+Standards are rules that govern how technical documents are represented
+- ANSI
+- ISO
+- JIS
+- DOD
+- MLI
+
+We use the latest standard for "Dimensioning and Tolerancing": ASME Y14.6-2018
+
+Graphics Design Process
+1. Visualization - Mental picture
+2. Communication - Sketches that communicate the idea
+3. Documentation - A format that can be used to permanently store the design
 
 Order:
 1. Observer
