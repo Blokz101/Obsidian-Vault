@@ -52,3 +52,16 @@ Spotface is counterbore but with a very shallow counterbore
 Runouts are used to represent corners that intersect with cylinders and have a fillet. They curve in the direction of the fillet.
 
 All dimensions should be 10mm away from the part at least
+
+Standard parts use tabular dimensioning
+
+Assembly drawings should contain
+- Pictorial drawings, exploded and not exploded
+- Bill of materials and balloons that show what is what part
+- Machining and assembly instructions that should be carried out at the time of assembly
+
+Outlined assembly shows the exterior shape
+Sectioned assembly shows the interior shape
+Pictorial assembly shows how parts are assembled
+
+Engneering change orders are used to 
