@@ -5,12 +5,19 @@ Standards are rules that govern how technical documents are represented
 - DOD
 - MLI
 
-We use the latest standard for "Dimensioning and Tolerancing": ASME Y14.6-2018
+We use the latest standard for "Dimensioning and Tolerancing": __ASME Y14.6-2018__
+
+Conventions are commonly accepted practices, but not set in stone like standards
 
 Graphics Design Process
 1. Visualization - Mental picture
 2. Communication - Sketches that communicate the idea
 3. Documentation - A format that can be used to permanently store the design
+
+Constructive Solid Geometry uses boolean operations to edit intersecting shapes:
+- Union: Combine the two parts into one
+- Difference: Use one shape to cut away material from the other
+- Intersection: Cut away all material between the two parts that is not overlapping
 
 Order:
 1. Observer
@@ -44,3 +51,4 @@ Spotface is counterbore but with a very shallow counterbore
 
 Runouts are used to represent corners that intersect with cylinders and have a fillet. They curve in the direction of the fillet.
 
+All dimensions should be 10mm away from the part at least
