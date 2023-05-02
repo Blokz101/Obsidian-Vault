@@ -25,3 +25,5 @@ Third Angle Projection
 First Angle Projection
 - The cone is the first symbol and the circle is the second
 - Used by other places
+
+Counter
