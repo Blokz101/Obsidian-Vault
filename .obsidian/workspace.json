@@ -11,11 +11,28 @@
             "id": "f317c02be9463bea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Derivative.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac8f93c16fa2f3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivative Rules.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Derivative Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Derivative Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Derivative Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,8 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f317c02be9463bea",
+  "active": "ac8f93c16fa2f3a4",
   "lastOpenFiles": [
+    "Derivative.md",
     "GC120 TEMP.md",
     "ECE109 Review Temp.md",
     "References/MA241 Homework 3.5.pdf",
@@ -197,7 +218,6 @@
     "Geometric Series.md",
     "Taylor and Maclaurin Series.md",
     "Binomial Series.md",
-    "Trigonometric Derivatives and Integrals.md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
