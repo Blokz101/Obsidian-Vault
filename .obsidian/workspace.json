@@ -11,12 +11,8 @@
             "id": "f317c02be9463bea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GC120 TEMP.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GC120 TEMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GC120 TEMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +103,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GC120 TEMP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
