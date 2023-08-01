@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "62c7d448bafe247e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -69,6 +79,14 @@
               "state": {
                 "sortOrder": "byModifiedTime"
               }
+            }
+          },
+          {
+            "id": "5c637d3c646076a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -183,11 +201,11 @@
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ac8f93c16fa2f3a4",
+  "active": "62c7d448bafe247e",
   "lastOpenFiles": [
     "Derivative.md",
     "GC120 TEMP.md",
