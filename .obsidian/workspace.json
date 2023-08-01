@@ -4,45 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a7280c1976208025",
+        "id": "a661dd635f17efac",
         "type": "tabs",
         "children": [
           {
-            "id": "f317c02be9463bea",
+            "id": "ec15d6a5afd2d88c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative.md",
+                "file": "Integration By Parts.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "ac8f93c16fa2f3a4",
+            "id": "809b28e345123de4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Derivative Rules.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62c7d448bafe247e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
+                "file": "References/Integration Practice.pdf"
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "References/Integration Practice.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "References/Integration Practice.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "References/Integration Practice.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,9 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62c7d448bafe247e",
+  "active": "809b28e345123de4",
   "lastOpenFiles": [
+    "Integration By Parts.md",
     "Derivative.md",
+    "Derivative Sum Rule.md",
+    "Derivative Rules.md",
     "GC120 TEMP.md",
     "ECE109 Review Temp.md",
     "References/MA241 Homework 3.5.pdf",
@@ -233,9 +224,6 @@
     "Power Series.md",
     "Pressure (Calculus).md",
     "Newton's Law of Heating and Cooling.md",
-    "Geometric Series.md",
-    "Taylor and Maclaurin Series.md",
-    "Binomial Series.md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
