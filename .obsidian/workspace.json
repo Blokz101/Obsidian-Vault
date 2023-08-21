@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6e66d2b4ae6e77ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -182,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec15d6a5afd2d88c",
+  "active": "6e66d2b4ae6e77ad",
   "lastOpenFiles": [
     "References/Integration Practice.pdf",
     "Integration By Parts.md",
