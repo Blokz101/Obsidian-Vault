@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "82bfc1dd70b80712",
+        "id": "20a19f981d13d3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7b187d8db10ac495",
+            "id": "f83a7147a1739118",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derivative.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +111,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Derivative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,14 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b187d8db10ac495",
+  "active": "f83a7147a1739118",
   "lastOpenFiles": [
+    "Derivative.md",
     "Orthogonal Trajectory.md",
     "Calculus III.md",
     "References/Calculus II Recitation Jan 26.pdf",
     "Integration By Parts.md",
     "References/Integration Practice.pdf",
-    "Derivative.md",
     "Derivative Sum Rule.md",
     "Derivative Rules.md",
     "GC120 TEMP.md",
