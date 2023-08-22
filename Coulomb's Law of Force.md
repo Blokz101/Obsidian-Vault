@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Chemistry]]
+> Subject:: [[Chemistry]] [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Coulomb's Law of Energy]] [[Interacting Charges]]
+> Friends:: [[Coulomb's Law of Energy]]
 > Children:: 
 ---
 - ## Definition ^5645df
