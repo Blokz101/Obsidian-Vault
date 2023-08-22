@@ -2,13 +2,14 @@
 Alias: [Vectors]
 ---
 > [!Info]
-> Subject:: [[Physics]]
+> Subject:: [[Physics]] [[Calculus III]]
 > Parents:: [[Magnitude]] [[Direction]] [[Displacement]]
 > Friends:: [[Scaler]] [[Unit Vector]]
-> Children:: [[Vector Addition]]
+> Children:: [[Vector Addition]] [[Zero Vector]]
 ---
 - ## Definition
 	- [[Vector|Vectors]] are a description of [[Position]] or [[Velocity]]
+	- [[Vector|Vectors]] are the same if their [[Magnitude]] and [[Direction]] are the same.
 	- Symbol: $\large{\vec{v}}$
 	- ![[Drawing 2023-01-13 17.27.05.excalidraw]]
 	- They are described by: $\large{\vec{v}}=\left\langle r_x,r_y,r_z \right\rangle$
