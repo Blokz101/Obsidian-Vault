@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- A unit used to measure [[Force]]
 	  > [!Equation]
-	  > $\large{N=\frac{kgm}{s^2}}$
+	  > $$\large{N=\frac{kgm}{s^2}}$$
 	  > 
 	  > $N$ = [[Newton]]
 	  > $kg$ = Kilogram
