@@ -8,6 +8,7 @@ Alias: [Resistivity]
 > Children:: 
 ---
 - ## Definition
-	- Symbol is $p$
+	- How much a material allows [[Electron|Electrons]] to flow though it.
+	- Symbol is $\rho$
 ---
 - ## Reference
