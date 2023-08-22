@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "a1cf3d5aa7047014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electric Field.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b17ada59ce6cbd77",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton.md",
+                "file": "Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton.md",
+                "file": "Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Newton.md",
+                "file": "Electric Field.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,11 +243,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1874b862e2123f7a",
+  "active": "a1cf3d5aa7047014",
   "lastOpenFiles": [
-    "Farad.md",
-    "Coulomb's Law of Force.md",
     "Charge.md",
+    "Coulomb's Law of Force.md",
+    "Newton.md",
+    "Electric Field.md",
+    "Farad.md",
     "Faraday's Constant.md",
     "Interacting Charges.md",
     "Integration By Parts.md",
@@ -261,8 +275,6 @@
     "Gated D-Latch.md",
     "Integral Convergence Test.md",
     "Curving Motion.md",
-    "Kissing Circles.md",
-    "Torque.md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",
