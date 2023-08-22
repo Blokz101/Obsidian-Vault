@@ -5,7 +5,7 @@ Alias: [Vectors]
 > Subject:: [[Physics]] [[Calculus III]]
 > Parents:: [[Magnitude]] [[Direction]] [[Displacement]]
 > Friends:: [[Scaler]] [[Unit Vector]]
-> Children:: [[Vector Addition]] [[Zero Vector]]
+> Children:: [[Vector Addition]]
 ---
 - ## Definition
 	- [[Vector|Vectors]] are a description of [[Position]] or [[Velocity]]
