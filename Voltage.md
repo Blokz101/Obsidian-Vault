@@ -1,5 +1,5 @@
 ---
-Alias: [V]
+Alias: [Volt, Volts, V]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,7 +8,15 @@ Alias: [V]
 > Children:: 
 ---
 - ## Definition
-	- [[Voltage]] is the standardized difference in **Electrical [[Potential Energy]]** of [[Electron|Electrons]] between two interacting [[charges]]
+	- [[Voltage]] is the difference in **Electrical [[Potential Energy]]** of [[Electron|Electrons]] between two interacting [[Charge|Charges]]. |
+	  > [!Equation]
+	- We got volts because we needed a standardized way to define the energy between two interacting [[Charge|Charges]].
+		- > [!Proof]
+		  > Consider this situation:
+		  > ![[Screenshot 2023-08-21 at 10.01.27 PM.png|400]]
+		  > We need to move $Q_{2}$ far away from $Q_{2}$ until there is basically no interaction between them. This is the work required:
+		  > $$\large{W=\int_{0}^{\infty} F \, dx}=kQ_{1}Q_{2}\frac{1}{r}$$
+		  > The units for this are $\frac{J}{C}$ or [[Voltage|Volts]].
 - ## Reference
 	- Voltage is related to [[Current]] with [[Ohm's Law]].
 		- ![[Ohm's Law#^1c650e]]
