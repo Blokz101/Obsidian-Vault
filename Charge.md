@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Chemistry]] [[Physics]]
+> Subject:: [[Chemistry]] [[Physics]] [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: 
 > Children:: 

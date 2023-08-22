@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Chemistry]] [[Signals, Circuits, and Systems]]
+> Subject:: [[Chemistry]]
 > Parents:: 
-> Friends:: [[Coulomb's Law of Energy]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
