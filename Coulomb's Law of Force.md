@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Chemistry]]]
+> Subject:: [[Chemistry]]
 > Parents:: 
-> Friends:: [[Coulomb's Law of Energy]]
+> Friends:: [[Coulomb's Law of Energy]] [[Interacting Charges]]
 > Children:: 
 ---
 - ## Definition ^5645df
@@ -19,7 +19,7 @@ Alias: []
 	- When the [[Charge|Charges]] of two [[Subatomic Particles|Particles]] are both positive or both negative the force is **positive and repulsive**
 	- When one [[Subatomic Particles|Particle]] is positively [[Charge|Charged]] and one is negatively [[Charge|Charged]], the force is **negative and attractive**.
 	- The [[Force]] is the strongest when dealing with two large [[Charge|Charges]] and the atoms are close together.
-
+---
 - ## Practice
 	- [[Drawing 2022-09-04 14.47.34.excalidraw]]
 - ## Reference

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Interacting Charges]]
 > Children:: 
 ---
 - ## Definition
