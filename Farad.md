@@ -4,7 +4,7 @@ Alias: [F, Farads]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Coulomb]] [[Newton]]
 > Children:: 
 ---
 - ## Definition
@@ -14,6 +14,8 @@ Alias: [F, Farads]
 	  > 
 	  > $F$ = [[Farad]]
 	  > $s$ = Seconds
-	  > $c$ = [[colu]]
+	  > $c$ = [[Coulomb]]
+	  > $kg$ = Kilogram
+	  > $m$ = Meter
 ---
 - ## Reference
