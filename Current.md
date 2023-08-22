@@ -1,16 +1,18 @@
 ---
-Alias: []
-Creation Date: Sun May 29th 2022 5:55:35 pm 
-Modification Date: NaN
+Alias: [Volt, Volts, V]
 ---
-# NaN
-#Permanent [[Electricity]]
-
-- Definition
-	- Current is the number of electrons that can pass through a particular part of a wire at a given time.
-
-- Symbol
-	- $I$
+> [!Info]
+> Subject:: [[Signals, Circuits, and Systems]]
+> Parents:: 
+> Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]]
+> Children:: 
+---
+- ## Definition
+	- [[Current]] is how much [[Charge]] moves per unit of time.
+	  > [!Equation]
+	  > $\large{I=\frac{dQ}{dt}}$
+	- Measured in [[Amps]]
+	- Symbol is $I$
 
 Current is related to [[Voltage]] with [[Ohm's Law]].
 ![[Ohm's Law#^1c650e]]

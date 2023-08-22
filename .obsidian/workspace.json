@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electric Field.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -63,6 +63,18 @@
               "state": {
                 "file": "Voltage.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8f197fb598daea72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voltage.md",
+                "file": "Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voltage.md",
+                "file": "Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Voltage.md",
+                "file": "Current.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,11 +267,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "754434a3497ea423",
+  "active": "8f197fb598daea72",
   "lastOpenFiles": [
-    "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
-    "Electric Field.md",
     "Voltage.md",
+    "Current.md",
+    "Electric Field.md",
+    "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
     "References/IMG_1624.jpg",
     "References/IMG_1623.jpg",
     "Coulomb's Law of Force.md",
@@ -303,7 +316,6 @@
     "References/Screen Shot 2023-04-12 at 1.10.03 AM.png",
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
-    "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
