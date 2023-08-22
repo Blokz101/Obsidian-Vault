@@ -4,14 +4,17 @@ Alias: [Volt, Volts, V]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]]
+> Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]] [[Voltage]]
 > Children:: 
 ---
 - ## Definition
 	- [[Current]] is how much [[Charge]] moves per unit of time.
 	  > [!Equation]
 	  > $\large{I=\frac{dQ}{dt}}$
-	- Measured in [[Amps]]
+	  > 
+	  > $I$ = [[Current]] in $A$
+	  > $Q$ = [[Charge]] in $C$
+	  > $t$ = Time in $s$
 	- Symbol is $I$
 
 Current is related to [[Voltage]] with [[Ohm's Law]].
