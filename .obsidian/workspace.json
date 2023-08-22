@@ -50,7 +50,19 @@
               "type": "markdown",
               "state": {
                 "file": "Electric Field.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "754434a3497ea423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Voltage.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Voltage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,12 +255,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1cf3d5aa7047014",
+  "active": "754434a3497ea423",
   "lastOpenFiles": [
+    "Electric Field.md",
+    "Voltage.md",
+    "References/IMG_1624.jpg",
     "References/IMG_1623.jpg",
     "Coulomb's Law of Force.md",
     "Newton.md",
-    "Electric Field.md",
     "Charge.md",
     "Farad.md",
     "Faraday's Constant.md",
@@ -290,8 +304,6 @@
     "References/Screen Shot 2023-04-10 at 6.20.01 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.41 PM.png",
     "References/Screen Shot 2023-04-10 at 6.17.28 PM.png",
-    "References/Screen Shot 2023-04-08 at 1.40.50 AM.png",
-    "References/Screen Shot 2023-04-08 at 1.40.05 AM.png",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
