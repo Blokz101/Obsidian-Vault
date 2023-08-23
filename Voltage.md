@@ -37,7 +37,7 @@ Alias: [Volt, Volts, V, Potential Difference]
 	  > [!Equation]
 	  > $$\large{V_{a}-V_{b}=\Delta V_{ab}}$$
 	  > $$\large{\Delta V_{ab}=kQ \frac{1}{V_{a}}-\frac{1}{V_{b}}}$$
-	  > $$\large{\Delta V_{ba}=kQ \frac{1}{V_{a}}-\frac{1}{V_{b}}}$$
+	  > $$\large{\Delta V_{ba}=kQ \frac{1}{V_{b}}-\frac{1}{V_{a}}}$$
 - ## Reference
 	- Voltage is related to [[Current]] with [[Ohm's Law]].
 		- ![[Ohm's Law#^1c650e]]

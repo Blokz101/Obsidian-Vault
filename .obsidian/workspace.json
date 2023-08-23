@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voltage.md",
-                "mode": "source",
+                "file": "Current.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -42,9 +42,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0cbb28984a483b8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -113,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Voltage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,12 +212,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1d3ab4ada5225a9",
+  "active": "0cbb28984a483b8f",
   "lastOpenFiles": [
     "Coulomb's Law of Force.md",
+    "Current.md",
+    "Voltage.md",
     "Vector Dot Product.md",
     "Coulomb's Law of Energy.md",
-    "Voltage.md",
     "Electric Field.md",
     "Vector.md",
     "Resistance.md",
@@ -221,7 +227,6 @@
     "Charge.md",
     "Farad.md",
     "Newton.md",
-    "Current.md",
     "Amp.md",
     "Coulomb.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
