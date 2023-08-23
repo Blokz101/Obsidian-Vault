@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electric Field.md",
-                "mode": "preview",
+                "file": "Vector Dot Product.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Vector Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Vector Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Vector Dot Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,16 +196,16 @@
   },
   "active": "452830dfb5a85b2e",
   "lastOpenFiles": [
+    "Voltage.md",
+    "Electric Field.md",
     "Resistance.md",
     "Vector.md",
-    "Voltage.md",
     "Zero Vector.md",
     "References/Excalidraw/Drawing 2023-08-21 23.21.34.excalidraw.md",
     "Coulomb's Law of Force.md",
     "Charge.md",
     "Farad.md",
     "Newton.md",
-    "Electric Field.md",
     "Current.md",
     "Amp.md",
     "Coulomb.md",

@@ -13,6 +13,10 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\vec{A}*\vec{B}=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)}$$
 	  > $$\large{\vec{A}*\vec{B}= A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}}$$
+	  > 
+	  > $\vec{A}$ = [[Vector]] $A$
+	  > $\vec{B}$ = [[Vector]] $B$
+	  > $\theta$ = The angle between $\vec{A}$ and $\vec{B}$
 - ## In Relation To Net Force
 	- The **parallel** component of the $\vec{F}_{net}$.
 	- ![[Drawing 2023-02-23 00.54.30.excalidraw]]

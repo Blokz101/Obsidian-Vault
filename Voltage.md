@@ -8,9 +8,10 @@ Alias: [Volt, Volts, V]
 > Children:: 
 ---
 - ## Definition
-	- [[Voltage]] is the difference in **Electrical [[Potential Energy]]** of [[Electron|Electrons]] between two interacting [[Charge|Charges]]. |
+	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]].
+	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
-	  > $\large{V=\frac{J}{C}}$
+	  > $$\large{V=\frac{J}{C}}$$
 	  > 
 	  > $V$ = [[Voltage|Volt]]
 	  > $J$ = [[Joule]]
