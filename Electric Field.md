@@ -16,7 +16,7 @@ Alias: []
 	  > $F$ = [[Force]] in $N$
 	  > $q$ = [[Charge]] in ?
 	- The [[Electric Field]] has a direction and magnitude.
-		- ![[IMG_1623.jpg]]
+		- ![[IMG_1623.jpg|200]]
 	- We can move [[Charge|Charges]] by using the attractive and repulsive properties of [[Charge|Charges]] as defined by [[Coulomb's Law of Force]].
 		- ![[IMG_1624.jpg]]
 ---

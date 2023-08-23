@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistance.md",
+                "file": "Electric Field.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voltage.md",
+                "file": "Vector.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voltage.md",
+                "file": "Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voltage.md",
+                "file": "Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Voltage.md",
+                "file": "Electric Field.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,10 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c370216c659d3f7",
+  "active": "452830dfb5a85b2e",
   "lastOpenFiles": [
     "Resistance.md",
     "Vector.md",
+    "Voltage.md",
     "Zero Vector.md",
     "References/Excalidraw/Drawing 2023-08-21 23.21.34.excalidraw.md",
     "Coulomb's Law of Force.md",
@@ -206,7 +206,6 @@
     "Farad.md",
     "Newton.md",
     "Electric Field.md",
-    "Voltage.md",
     "Current.md",
     "Amp.md",
     "Coulomb.md",
