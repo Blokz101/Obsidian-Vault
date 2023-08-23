@@ -25,7 +25,7 @@
       "query": "line:([[Calculus]])",
       "color": {
         "a": 1,
-        "rgb": 7667712
+        "rgb": 7864320
       }
     },
     {
@@ -53,7 +53,14 @@
       "query": "line:([[Calculus II]])",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 7864320
+      }
+    },
+    {
+      "query": "line:([[Signals, Circuits, and Systems]])",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.36794919056146824,
+  "scale": 0.2963483157931553,
   "close": true
 }
