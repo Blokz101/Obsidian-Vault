@@ -1,5 +1,5 @@
 ---
-Alias: [Volt, Volts, V]
+Alias: [Volt, Volts, V, Potential Difference]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,7 +8,7 @@ Alias: [Volt, Volts, V]
 > Children:: 
 ---
 - ## Definition
-	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]].
+	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]]. In other words, the external [[Work (Physics)]] needed to move a [[Charge]] from one location to another location in an [[Electric Field]].
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
 	  > $$\large{V=\frac{J}{C}}$$
@@ -24,7 +24,7 @@ Alias: [Volt, Volts, V]
 		  > $$\large{W=U=\int_{0}^{\infty} F(r) \, dr}=kQ_{1}Q_{2}\frac{1}{r}$$
 		  > 
 		  > $W$ = [[Work (Physics)]] required in $J$
-		  > $k$ = Some constant, likely [[Coulomb's Constant]] /[[Dielectric Constant]]
+		  > $k$ = Some constant, likely negative [[Coulomb's Constant]] /[[Dielectric Constant]]
 		  > $J$ = [[Potential Energy]] in $J$
 		  > $Q_{1}$ = [[Charge]] $1$
 		  > $Q_{2}$ = [[Charge]] $2$
