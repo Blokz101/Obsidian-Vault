@@ -17,6 +17,9 @@ Alias: []
 	  > $\vec{A}$ = [[Vector]] $A$
 	  > $\vec{B}$ = [[Vector]] $B$
 	  > $\theta$ = The angle between $\vec{A}$ and $\vec{B}$
+	  > 
+	  > The answer will be a [[Scaler]].
+	- Note that the two different ways of computing the [[Vector Dot Product]] above mean that 
 - ## In Relation To Net Force
 	- The **parallel** component of the $\vec{F}_{net}$.
 	- ![[Drawing 2023-02-23 00.54.30.excalidraw]]

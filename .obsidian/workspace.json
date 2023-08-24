@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "283b06caeb4b7154",
+            "id": "67f193b1e8f43d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coulomb's Law of Force.md",
+                "file": "Vector Dot Product.md",
                 "mode": "preview",
                 "source": true
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vector Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vector Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Vector Dot Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,13 +215,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cbb28984a483b8f",
+  "active": "67f193b1e8f43d43",
   "lastOpenFiles": [
-    "Coulomb's Law of Force.md",
-    "Signals, Circuits, and Systems.md",
     "Current.md",
     "Voltage.md",
     "Vector Dot Product.md",
+    "Vector Cross Product.md",
+    "Coulomb's Law of Force.md",
+    "Signals, Circuits, and Systems.md",
     "Coulomb's Law of Energy.md",
     "Electric Field.md",
     "Vector.md",
@@ -245,7 +249,6 @@
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",
     "Arc Length.md",
-    "Second Order Linear Non-Homogeneous Differential Equations.md",
     "ECE109 Review.canvas",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
