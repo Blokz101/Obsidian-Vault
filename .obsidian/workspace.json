@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43418976b426422c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electric Field.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e1d3ab4ada5225a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "67f193b1e8f43d43",
             "type": "leaf",
             "state": {
@@ -42,17 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "0cbb28984a483b8f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -217,14 +184,14 @@
   },
   "active": "67f193b1e8f43d43",
   "lastOpenFiles": [
+    "Electric Field.md",
     "Current.md",
-    "Voltage.md",
     "Vector Dot Product.md",
+    "Voltage.md",
     "Vector Cross Product.md",
     "Coulomb's Law of Force.md",
     "Signals, Circuits, and Systems.md",
     "Coulomb's Law of Energy.md",
-    "Electric Field.md",
     "Vector.md",
     "Resistance.md",
     "Zero Vector.md",
