@@ -11,8 +11,12 @@
             "id": "452830dfb5a85b2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Cycle.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Machine Cycle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664.5,
-    "collapsed": true
+    "width": 781.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +183,11 @@
   },
   "active": "452830dfb5a85b2e",
   "lastOpenFiles": [
+    "Excalibrain Graph.md",
+    "Instruction Cycle.md",
+    "Processing Unit.md",
+    "Memory.md",
+    "Dynamic RAM.md",
     "Trigonometric Identities.md",
     "Coulomb's Law of Force.md",
     "Charge.md",
@@ -204,12 +215,7 @@
     "References/MA241 Homework 3.4.pdf",
     "Arc Length.md",
     "Second Order Linear Non-Homogeneous Differential Equations.md",
-    "Second Order Linear Homogeneous Differential Equations.md",
-    "LC3 Opcodes.md",
-    "ASCII Characters.md",
     "ECE109 Review.canvas",
-    "Floating-Point Code.md",
-    "DeMorgan's Law.md",
     "References/Force Due to Fluid Pressure - Textbook.pdf",
     "References/Screen Shot 2023-04-26 at 1.32.52 PM.png",
     "References/Moments And Center Of Mass - Textbook 1.pdf",

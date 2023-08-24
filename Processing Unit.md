@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
-> Parents:: [[LC3 Computer]]
+> Parents:: 
 > Friends:: [[Memory]] [[Control Unit]]
-> Children:: [[Arithmetic Logic Unit]] [[Register]]
+> Children:: [[Arithmetic Logic Unit]] [[Register]] [[LC3 Computer]]
 ---
 - ## Definition
 	- Uses the [[Arithmetic Logic Unit|ALU]] and [[Register|Registers]] to perform calculations. ^6f7667
