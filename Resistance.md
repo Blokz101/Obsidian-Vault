@@ -9,5 +9,11 @@ Alias: []
 ---
 - ## Definition
 	- How much a physical object in physical conditions opposes the flow of [[Electron|Electrons]] though it.
+	- [[Resistance]] depends on an objects:
+		- Material/[[Resistivity]]
+		- Temperature
+		- Geometry
+		- Light exposure
+		- Etc...
 ---
 - ## Reference

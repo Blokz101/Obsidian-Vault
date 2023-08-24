@@ -8,7 +8,7 @@ Alias: []
 > Children:: [[Resistance]]
 ---
 - ## Definition
-	- How much a material opposes the flow of [[Electron|Electrons]] though it.
+	- Property of a material independent from physical factors. How much a material opposes the flow of [[Electron|Electrons]] though it.
 	- Symbol is $\rho$
 ---
 - ## Reference
