@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coulomb's Law of Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Coulomb's Law of Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Coulomb's Law of Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +215,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cbb28984a483b8f",
+  "active": "283b06caeb4b7154",
   "lastOpenFiles": [
     "Coulomb's Law of Force.md",
     "Signals, Circuits, and Systems.md",
