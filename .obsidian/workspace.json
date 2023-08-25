@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Excalibrain Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Excalibrain Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Instruction Cycle.md",
+                "file": "Excalibrain Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,11 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "452830dfb5a85b2e",
+  "active": "19e786b673c052d0",
   "lastOpenFiles": [
+    "Instruction Cycle.md",
     "Machine Cycle.md",
     "Excalibrain Graph.md",
-    "Instruction Cycle.md",
     "Processing Unit.md",
     "Memory.md",
     "Dynamic RAM.md",
