@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Electrical Circuit.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Electrical Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Electrical Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Field.md",
+                "file": "Electrical Circuit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,8 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbe615b2ab650414",
+  "active": "e76b12d727e12cc9",
   "lastOpenFiles": [
+    "References/IMG_422E3AD4A9A5-1.jpeg",
+    "Electromagnetic Force.md",
+    "Electric Field.md",
     "Resistance.md",
     "Vector Cross Product.md",
     "Right Hand Rule.md",
@@ -247,14 +250,11 @@
     "Conductivity.md",
     "Component.md",
     "Branch.md",
-    "Electromagnetic Force.md",
     "Excalibrain Graph.md",
-    "Electric Field.md",
     "Current.md",
     "Voltage.md",
     "Coulomb's Law of Force.md",
     "Coulomb's Law of Energy.md",
-    "Coulomb.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
     "References/IMG_1624.jpg",
     "References/Integration Practice.pdf",

@@ -11,6 +11,8 @@ Alias: [Electrical Circuits]
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
 	  ![[Screenshot 2023-08-25 at 11.52.04 AM.png]]
 	  The [[Voltage|Potential Difference]] between points $A$ and $B$ is the [[Work (Physics)]] done by the **load**.
+- ## Parts of the Circuit
+	- ![[IMG_422E3AD4A9A5-1.jpeg]]
 - ## Types of Circuit
 	- #### Closed Circuit
 		- What we see normally, there is a balance between [[Resistance]], [[Voltage]], and [[Current]]. There is a [[Voltage|Potential Difference]] and [[Work (Physics)]] being done.
