@@ -2,7 +2,7 @@
 Alias: [Electromagnetic Forces, Electric Force, Electric Forces]
 ---
 > [!Info]
-> Subject:: [[Physics]]
+> Subject:: [[Physics]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Charge]]
 > Friends:: [[Strong Force]] [[Coulomb's Law of Force]]
 > Children:: 

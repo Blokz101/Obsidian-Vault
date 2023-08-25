@@ -37,14 +37,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coulomb's Law of Force.md",
+                "file": "Electromagnetic Force.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f84e655870e12202",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbe615b2ab650414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electric Field.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -113,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coulomb's Law of Force.md",
+                "file": "Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coulomb's Law of Force.md",
+                "file": "Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Coulomb's Law of Force.md",
+                "file": "Electric Field.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,18 +227,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e76b12d727e12cc9",
+  "active": "bbe615b2ab650414",
   "lastOpenFiles": [
-    "Coulomb's Law of Energy.md",
-    "Coulomb's Law of Force.md",
+    "Current.md",
+    "Voltage.md",
     "Electromagnetic Force.md",
+    "Coulomb's Law of Force.md",
+    "Coulomb's Law of Energy.md",
     "Resistance.md",
     "Coulomb.md",
     "Resistivity.md",
     "Vector Dot Product.md",
     "Electric Field.md",
-    "Current.md",
-    "Voltage.md",
     "Vector Cross Product.md",
     "Signals, Circuits, and Systems.md",
     "Vector.md",

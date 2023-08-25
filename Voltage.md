@@ -3,7 +3,7 @@ Alias: [Volt, Volts, V, Potential Difference]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Coulomb's Law of Energy]]
+> Parents:: [[Electromagnetic Force]]
 > Friends:: [[Current]] [[Ohm's Law]]
 > Children:: 
 ---
