@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e76b12d727e12cc9",
+  "active": "65a88a6e6fd6088e",
   "lastOpenFiles": [
-    "Charge.md",
     "Electromagnetic Force.md",
+    "Charge.md",
     "Excalibrain Graph.md",
     "Electric Field.md",
     "Current.md",
