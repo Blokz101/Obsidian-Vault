@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ede68b203ad78b9b",
+        "id": "3cdbd7e2107ca1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "90f787645c30e2f8",
+            "id": "67f193b1e8f43d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resistance.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "21e9da2465f11c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resistivity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e76b12d727e12cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,26 +41,6 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "9690511a342c10dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charge.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2b370dcf65097c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge.md",
+                "file": "Coulomb's Law of Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge.md",
+                "file": "Coulomb's Law of Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge.md",
+                "file": "Coulomb's Law of Force.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5,
+    "width": 664.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,27 +207,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9690511a342c10dd",
+  "active": "e76b12d727e12cc9",
   "lastOpenFiles": [
+    "Resistance.md",
     "Coulomb's Law of Force.md",
-    "Charge.md",
+    "Coulomb.md",
     "Resistivity.md",
-    "conflict-files-obsidian-git.md",
-    "Instruction Cycle.md",
-    "Excalibrain Graph.md",
-    "Machine Cycle.md",
-    "Processing Unit.md",
-    "Memory.md",
-    "Dynamic RAM.md",
-    "Trigonometric Identities.md",
+    "Vector Dot Product.md",
+    "Electric Field.md",
+    "Current.md",
+    "Voltage.md",
+    "Vector Cross Product.md",
+    "Signals, Circuits, and Systems.md",
+    "Coulomb's Law of Energy.md",
+    "Vector.md",
+    "Zero Vector.md",
+    "References/Excalidraw/Drawing 2023-08-21 23.21.34.excalidraw.md",
+    "Charge.md",
     "Farad.md",
     "Newton.md",
-    "Electric Field.md",
-    "Voltage.md",
-    "Current.md",
-    "Resistance.md",
     "Amp.md",
-    "Coulomb.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
     "References/IMG_1624.jpg",
     "References/IMG_1623.jpg",
@@ -235,6 +238,7 @@
     "Derivative Sum Rule.md",
     "Derivative Rules.md",
     "GC120 TEMP.md",
+    "ECE109 Review Temp.md",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",
     "ECE109 Review.canvas",
