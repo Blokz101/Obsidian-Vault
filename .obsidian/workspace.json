@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge.md",
+                "file": "Resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge.md",
+                "file": "Resistivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge.md",
+                "file": "Resistivity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65a88a6e6fd6088e",
+  "active": "21e9da2465f11c2c",
   "lastOpenFiles": [
+    "Charge.md",
     "Voltage Source.md",
     "Resistor.md",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
@@ -251,7 +252,6 @@
     "Component.md",
     "Branch.md",
     "Electromagnetic Force.md",
-    "Charge.md",
     "Excalibrain Graph.md",
     "Electric Field.md",
     "Current.md",
