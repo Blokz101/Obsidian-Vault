@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Resistivity.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resistance.md",
+                "file": "Resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resistance.md",
+                "file": "Resistivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resistance.md",
+                "file": "Resistivity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,10 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67f193b1e8f43d43",
+  "active": "21e9da2465f11c2c",
   "lastOpenFiles": [
-    "Resistivity.md",
     "Resistance.md",
+    "Resistivity.md",
     "Vector Dot Product.md",
     "Electric Field.md",
     "Current.md",
