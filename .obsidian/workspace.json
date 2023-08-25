@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Torque.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,10 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e54ef9ca61976f15",
+  "active": "21e9da2465f11c2c",
   "lastOpenFiles": [
-    "Angular Momentum.md",
+    "References/Screenshot 2023-08-25 at 2.28.29 PM.png",
     "Torque.md",
+    "Angular Momentum.md",
     "Vector Cross Product.md",
     "Resistivity.md",
     "Charge.md",
@@ -277,7 +278,6 @@
     "Resistance.md",
     "Coulomb.md",
     "Vector Dot Product.md",
-    "Signals, Circuits, and Systems.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
     "References/IMG_1624.jpg",
     "References/IMG_1623.jpg",
