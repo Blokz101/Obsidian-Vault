@@ -8,7 +8,8 @@ Alias: [Electrical Circuits]
 > Children:: [[Voltage Source]]
 ---
 - ## Definition
-	- 
+	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
+	  
 - ## [[Calculus II]]
 	- ![[Screen Shot 2023-03-25 at 7.53.46 PM.png|400]]
 		- In the figure there is:
