@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistivity.md",
+                "file": "Vector Cross Product.md",
                 "mode": "preview",
                 "source": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resistivity.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resistivity.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resistivity.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,6 +233,7 @@
   },
   "active": "21e9da2465f11c2c",
   "lastOpenFiles": [
+    "Resistivity.md",
     "Charge.md",
     "Voltage Source.md",
     "Resistor.md",
@@ -260,7 +261,6 @@
     "Coulomb's Law of Energy.md",
     "Resistance.md",
     "Coulomb.md",
-    "Resistivity.md",
     "Vector Dot Product.md",
     "Vector Cross Product.md",
     "Signals, Circuits, and Systems.md",

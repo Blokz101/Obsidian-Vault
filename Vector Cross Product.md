@@ -9,7 +9,7 @@ Alias: []
 ---
 - ## Definition
 	- Symbol: $\times$
-	- A way to multiply the **perpendicular** components of two [[Vector|Vectors]].
+	- A way to multiply the **perpendicular** components of two [[Vector|Vectors]]. Requires three dimensions.
 	- The exact opposite of the [[Vector Dot Product]].
 	- ![[Screen Shot 2023-04-10 at 6.20.01 PM.png|400]]
 	- > [!Equation]
