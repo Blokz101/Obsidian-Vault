@@ -30,9 +30,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c2b370dcf65097c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -101,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,9 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9690511a342c10dd",
+  "active": "c2b370dcf65097c3",
   "lastOpenFiles": [
     "Coulomb's Law of Force.md",
+    "Charge.md",
     "Resistivity.md",
     "conflict-files-obsidian-git.md",
     "Instruction Cycle.md",
@@ -207,7 +213,6 @@
     "Memory.md",
     "Dynamic RAM.md",
     "Trigonometric Identities.md",
-    "Charge.md",
     "Farad.md",
     "Newton.md",
     "Electric Field.md",
