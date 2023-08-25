@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ede68b203ad78b9b",
+        "id": "3cdbd7e2107ca1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "9690511a342c10dd",
+            "id": "67f193b1e8f43d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,115 +20,7 @@
             }
           },
           {
-            "id": "81998dcdfe7fff69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Circuit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c5c122765c597608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kirchhoff’s Laws.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29eeded34d23142f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loop.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b1b73e748889d6dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Branch.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8055a2453b2f4de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "95a0f62237474078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Component.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9736b08c31be467e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ohm's Law.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06b88457c27d3ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Voltage Source.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "70aaf3b96b9efeaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Source.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "990c0fa6b3ba6fa1",
+            "id": "21e9da2465f11c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,19 +32,43 @@
             }
           },
           {
-            "id": "0c97cbe7d76e2786",
+            "id": "e76b12d727e12cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conductivity.md",
+                "file": "Electromagnetic Force.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65a88a6e6fd6088e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charge.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bbe615b2ab650414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electric Field.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -221,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -300,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5,
+    "width": 664.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -315,44 +231,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5c122765c597608",
+  "active": "65a88a6e6fd6088e",
   "lastOpenFiles": [
-    "Electrical Circuit.md",
-    "Calculus II.md",
-    "Kirchhoff’s Laws.md",
-    "Component.md",
-    "Node.md",
-    "Branch.md",
-    "Loop.md",
-    "Node (Chemistry).md",
-    "Ohm's Law.md",
-    "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
     "Voltage Source.md",
-    "Current Source.md",
+    "Resistor.md",
+    "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
     "References/Screenshot 2023-08-25 at 11.48.50 AM.png",
     "References/Screenshot 2023-08-25 at 11.46.37 AM.png",
-    "Voltage.md",
-    "Resistor.md",
-    "References/Screenshot 2023-08-25 at 11.39.59 AM.png",
     "References/Screenshot 2023-08-25 at 11.40.22 AM.png",
-    "References/Screenshot 2023-08-25 at 11.33.20 AM.png",
+    "References/Screenshot 2023-08-25 at 11.39.59 AM.png",
     "References/Screenshot 2023-08-25 at 11.30.33 AM.png",
-    "Resistance.md",
-    "Conductivity.md",
-    "Resistivity.md",
     "References/Scrap Paper_concept.png",
-    "References/New Drawing_concept.png",
-    "resisti.md",
-    "Charge.md",
+    "Node (Chemistry).md",
+    "Loop.md",
+    "Kirchhoff’s Laws.md",
+    "Electrical Circuit.md",
+    "Current Source.md",
+    "Conductivity.md",
+    "Component.md",
+    "Branch.md",
     "Electromagnetic Force.md",
-    "Coulomb's Law of Force.md",
-    "conflict-files-obsidian-git.md",
-    "Instruction Cycle.md",
+    "Charge.md",
     "Excalibrain Graph.md",
-    "Machine Cycle.md",
-    "Processing Unit.md",
-    "Memory.md",
+    "Electric Field.md",
+    "Current.md",
+    "Voltage.md",
+    "Coulomb's Law of Force.md",
+    "Coulomb's Law of Energy.md",
+    "Resistance.md",
+    "Coulomb.md",
+    "Resistivity.md",
+    "Vector Dot Product.md",
+    "Vector Cross Product.md",
+    "Signals, Circuits, and Systems.md",
+    "Vector.md",
+    "Zero Vector.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
+    "References/IMG_1624.jpg",
+    "References/IMG_1623.jpg",
     "References/Integration Practice.pdf",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",

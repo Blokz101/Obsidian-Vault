@@ -1,9 +1,9 @@
 ---
 Alias: []
 Creation Date: Sun October 2nd 2022 12:52:36 pm 
-Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
+Modification Date: NaN
 ---
-# <%+ tp.file.title %>
+# NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
