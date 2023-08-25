@@ -11,6 +11,9 @@ Alias: [Electrical Circuits]
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
 	  ![[Screenshot 2023-08-25 at 11.52.04 AM.png]]
 	  The [[Voltage|Potential Difference]] between points $A$ and $B$ is the [[Work (Physics)]] done by the **load**.
+	- Types of circuits:
+		- [[Closed Circuit]]
+		- [[Open Circuit]]
 - ## Parts of a Circuit
 	- [[Component]]
 	- [[Node]]
@@ -18,7 +21,11 @@ Alias: [Electrical Circuits]
 	- [[Loop]]
 	- > [!Example]
 	  > ![[IMG_422E3AD4A9A5-1.jpeg|400]]
-	  > This [[Electrical Circuit]]
+	  > This [[Electrical Circuit]] has:
+	  > - 5 [[Component|Components]]
+	  > - 4 [[Node|Nodes]]
+	  >  - 3 [[Branch|Branches]]
+	  > - 3 [[Loop|Loops]]
 - ## [[Calculus II]]
 	- ![[Screen Shot 2023-03-25 at 7.53.46 PM.png|400]]
 		- In the figure there is:
