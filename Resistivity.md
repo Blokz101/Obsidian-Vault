@@ -16,7 +16,7 @@ Alias: []
 	  > $R$ = [[Resistivity]] in $\Omega$
 	  > $L$ = Length in $m$
 	  > $A$ = [[Area]] in $m^2$
-	- Symbol is $\rho$
+	- Symbol is $\rho$. ($R=\frac{1}{\sigma}$)
 	- The inverse of [[Conductivity]].
 ---
 - ## Reference
