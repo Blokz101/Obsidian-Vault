@@ -26,7 +26,19 @@
               "type": "markdown",
               "state": {
                 "file": "Electrical Circuit.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9736b08c31be467e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ohm's Law.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Circuit.md",
+                "file": "Ohm's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Circuit.md",
+                "file": "Ohm's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electrical Circuit.md",
+                "file": "Ohm's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,13 +255,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81998dcdfe7fff69",
+  "active": "9736b08c31be467e",
   "lastOpenFiles": [
+    "Electrical Circuit.md",
+    "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
+    "Voltage Source.md",
     "Current Source.md",
     "References/Screenshot 2023-08-25 at 11.48.50 AM.png",
-    "Voltage Source.md",
     "References/Screenshot 2023-08-25 at 11.46.37 AM.png",
-    "Electrical Circuit.md",
     "Voltage.md",
     "Resistor.md",
     "References/Screenshot 2023-08-25 at 11.39.59 AM.png",
@@ -279,7 +292,6 @@
     "Current.md",
     "Amp.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
-    "References/IMG_1624.jpg",
     "References/Integration Practice.pdf",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",

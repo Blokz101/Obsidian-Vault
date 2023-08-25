@@ -4,12 +4,13 @@ Alias: [Electrical Circuits]
 > [!Info]
 > Subject:: [[Calculus II]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
-> Friends:: 
+> Friends:: [[Ohm's Law]]
 > Children:: [[Voltage Source]]
 ---
 - ## Definition
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
-	  
+	  ![[Screenshot 2023-08-25 at 11.52.04 AM.png]]
+	  The [[Voltage|Potential Difference]] between points $A$ and $B$ is the [[Work (Physics)]] done by the **load**.
 - ## [[Calculus II]]
 	- ![[Screen Shot 2023-03-25 at 7.53.46 PM.png|400]]
 		- In the figure there is:
