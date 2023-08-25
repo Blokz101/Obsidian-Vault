@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Resist]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
