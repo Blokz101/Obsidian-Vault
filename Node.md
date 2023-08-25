@@ -11,3 +11,4 @@ Alias: [Nodes]
 	- A location where two or more [[Component|Components]] connect to each other.
 ---
 - ## Reference
+	- Example in [[Electrical Circuit]].

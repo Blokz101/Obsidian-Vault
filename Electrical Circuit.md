@@ -5,7 +5,7 @@ Alias: [Electrical Circuits]
 > Subject:: [[Calculus II]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
 > Friends:: [[Ohm's Law]] [[Kirchhoff’s Laws]]
-> Children:: [[Voltage Source]] [[Node]] [[Branch]] [[Loop]] [[Component]]
+> Children:: [[Voltage Source]] [[Node]] [[Branch]] [[Loop]] [[Component]] [[Short Circuit]] [[Open Circuit]] [[Closed Circuit]]
 ---
 - ## Definition
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
@@ -13,16 +13,7 @@ Alias: [Electrical Circuits]
 	  The [[Voltage|Potential Difference]] between points $A$ and $B$ is the [[Work (Physics)]] done by the **load**.
 - ## Parts of the Circuit
 	- ![[IMG_422E3AD4A9A5-1.jpeg]]
-- ## Types of Circuit
-	- #### Closed Circuit
-		- What we see normally, there is a balance between [[Resistance]], [[Voltage]], and [[Current]]. There is a [[Voltage|Potential Difference]] and [[Work (Physics)]] being done.
-	- #### Open Circuit
-		- When the [[Resistance]] in a circuit is so great that no [[Electron]] flow can occur.
-		  [[Resistance]] is very high, [[Current]] is $0$, but [[Voltage]] is not $0$.
-	- #### Short Circuit
-		- When the two ends of a [[Voltage Source]] or [[Current Source]] are connected with little to no [[Resistance]].
-		- [[Resistance]] is very low, [[Current]] is very high, [[Voltage]] is 0 because there is no [[Voltage|Potential Difference]].
-		- This will almost always burn something out before long.
+	- [[Node]]
 - ## [[Calculus II]]
 	- ![[Screen Shot 2023-03-25 at 7.53.46 PM.png|400]]
 		- In the figure there is:
