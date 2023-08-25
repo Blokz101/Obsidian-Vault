@@ -11,9 +11,14 @@ Alias: [Electrical Circuits]
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
 	  ![[Screenshot 2023-08-25 at 11.52.04 AM.png]]
 	  The [[Voltage|Potential Difference]] between points $A$ and $B$ is the [[Work (Physics)]] done by the **load**.
-- ## Parts of the Circuit
-	- ![[IMG_422E3AD4A9A5-1.jpeg]]
+- ## Parts of a Circuit
+	- [[Component]]
 	- [[Node]]
+	- [[Branch]]
+	- [[Loop]]
+	- > [!Example]
+	  > ![[IMG_422E3AD4A9A5-1.jpeg|400]]
+	  > This [[Electrical Circuit]]
 - ## [[Calculus II]]
 	- ![[Screen Shot 2023-03-25 at 7.53.46 PM.png|400]]
 		- In the figure there is:
