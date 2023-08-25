@@ -14,6 +14,7 @@ Alias: [Electrical Circuits]
 	- Types of circuits:
 		- [[Closed Circuit]]
 		- [[Open Circuit]]
+		- [[Short Circuit]]
 - ## Parts of a Circuit
 	- [[Component]]
 	- [[Node]]
