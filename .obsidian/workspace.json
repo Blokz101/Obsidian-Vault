@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -209,8 +209,10 @@
   },
   "active": "e76b12d727e12cc9",
   "lastOpenFiles": [
-    "Resistance.md",
+    "Coulomb's Law of Energy.md",
     "Coulomb's Law of Force.md",
+    "Electromagnetic Force.md",
+    "Resistance.md",
     "Coulomb.md",
     "Resistivity.md",
     "Vector Dot Product.md",
@@ -219,7 +221,6 @@
     "Voltage.md",
     "Vector Cross Product.md",
     "Signals, Circuits, and Systems.md",
-    "Coulomb's Law of Energy.md",
     "Vector.md",
     "Zero Vector.md",
     "References/Excalidraw/Drawing 2023-08-21 23.21.34.excalidraw.md",
@@ -238,7 +239,6 @@
     "Derivative Sum Rule.md",
     "Derivative Rules.md",
     "GC120 TEMP.md",
-    "ECE109 Review Temp.md",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",
     "ECE109 Review.canvas",
