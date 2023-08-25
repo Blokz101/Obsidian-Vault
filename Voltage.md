@@ -5,7 +5,7 @@ Alias: [Volt, Volts, V, Potential Difference]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Electromagnetic Force]]
 > Friends:: [[Current]] [[Ohm's Law]]
-> Children:: 
+> Children:: [[Voltage Source]]
 ---
 - ## Definition
 	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]]. In other words, the external [[Work (Physics)]] needed to move a [[Charge]] from one location to another location in an [[Electric Field]].

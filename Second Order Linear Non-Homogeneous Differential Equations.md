@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Differential Equation]]
 > Friends:: [[Second Order Linear Homogeneous Differential Equations]]
-> Children:: [[Electrical Circuits]] [[Oscillating Springs]]
+> Children:: [[Electrical Circuit]] [[Oscillating Springs]]
 ---
 - ## Definition
 	- A [[Differential Equation]] in the form of:
