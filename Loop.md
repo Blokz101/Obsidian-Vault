@@ -1,5 +1,5 @@
 ---
-Alias: [Nodes]
+Alias: [Loops]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,6 +8,6 @@ Alias: [Nodes]
 > Children:: 
 ---
 - ## Definition
-	- A location where two or more 
+	- 
 ---
 - ## Reference

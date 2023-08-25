@@ -17,7 +17,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- ![[IMG_F20CE3FD8C75-1.jpeg|400]]
 	- #### Anti Bonding
 		- The [[Orbital|Orbitals]] must be on the same plane.
-		- When the [[Orbital|Orbitals]] are the opposites they form a **anti bond** and a [[Node]] between the two.
+		- When the [[Orbital|Orbitals]] are the opposites they form a **anti bond** and a [[Node (Chemistry)]] between the two.
 		- ![[IMG_C2B686A58CA0-1.jpeg|400]]
 	- #### Non Bonding
 		- When the [[Orbital|Orbitals]] are on totaly different axis they will not interact and therefore cannot form an **anti bond** or **bond**.
