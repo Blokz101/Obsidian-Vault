@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Electromagnetic Force]] [[Charge]]
+> Parents:: [[Electromagnetic Force]]
 > Friends:: 
 > Children:: 
 ---

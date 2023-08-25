@@ -3,7 +3,7 @@ Alias: [Charges]
 ---
 > [!Info]
 > Subject:: [[Chemistry]] [[Physics]] [[Signals, Circuits, and Systems]]
-> Parents:: 
+> Parents:: [[Proton]] [[Electron]]
 > Friends:: 
 > Children:: 
 ---
