@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electrical Circuit.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Loop.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loop.md",
+                "file": "Electrical Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loop.md",
+                "file": "Electrical Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loop.md",
+                "file": "Electrical Circuit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,11 +255,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56098e90bc7b0699",
+  "active": "e76b12d727e12cc9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Loop.md",
     "Electrical Circuit.md",
+    "conflict-files-obsidian-git.md",
     "Component.md",
     "Branch.md",
     "Node.md",
