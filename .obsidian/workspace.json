@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Electrical Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Electrical Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Electrical Circuit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,8 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8212fd3c9216e039",
+  "active": "bbe615b2ab650414",
   "lastOpenFiles": [
+    "Kirchhoff’s Laws.md",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
     "Electrical Circuit.md",
@@ -228,9 +228,7 @@
     "References/Screenshot 2023-08-25 at 11.40.22 AM.png",
     "References/Screenshot 2023-08-25 at 11.39.59 AM.png",
     "References/Screenshot 2023-08-25 at 11.30.33 AM.png",
-    "References/Scrap Paper_concept.png",
     "Node (Chemistry).md",
-    "Kirchhoff’s Laws.md",
     "Current Source.md",
     "Conductivity.md",
     "References/Integration Practice.pdf",
