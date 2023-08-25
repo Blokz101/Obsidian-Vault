@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Resistance.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resistor.md",
+                "file": "Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resistor.md",
+                "file": "Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resistor.md",
+                "file": "Resistance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,10 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81998dcdfe7fff69",
+  "active": "9690511a342c10dd",
   "lastOpenFiles": [
-    "Resistance.md",
     "Resistor.md",
+    "Resistance.md",
     "Conductivity.md",
     "Resistivity.md",
     "References/Scrap Paper_concept.png",

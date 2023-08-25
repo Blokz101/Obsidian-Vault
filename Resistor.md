@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Resistors]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- A component that resists [[Current]] in a specific way.
+	- Set value [[Resistor]]
 ---
 - ## Reference
