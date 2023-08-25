@@ -10,11 +10,13 @@ Alias: []
 - ## Definition
 	- Property of a material independent from physical factors. How much a material opposes the flow of [[Electron|Electrons]] though it.
 	  > [!Equation]
-	  > $\large{R=\rho\frac{l}{a}}$
+	  > $\large{R=\rho\frac{L}{A}}$
 	  > 
 	  > $R$ = [[Resistivity]] in $\Omega$
-	  > $l$ = Length in $m$
-	  > $A$
+	  > $L$ = Length in $m$
+	  > $A$ = [[Area]] in $m^2$
+	  > 
+	  > 
 	- Symbol is $\rho$
 ---
 - ## Reference
