@@ -5,7 +5,7 @@ Alias: [Electrical Circuits]
 > Subject:: [[Calculus II]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
 > Friends:: [[Ohm's Law]] [[Kirchhoff’s Laws]]
-> Children:: [[Voltage Source]]
+> Children:: [[Voltage Source]] [[Node]] [[Branch]] [[Loop]] [[Component]]
 ---
 - ## Definition
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
@@ -37,18 +37,18 @@ Alias: [Electrical Circuits]
 		  Inductor|$L \frac{dI}{dt}$
 		  Resistor|$RI$
 		  Capacitor|$\frac{Q}{C}$
-- ## Kirchhoff’s Second Law
-	- States that the sum of the voltage drops across the components is equal to the supplied voltage $E$.
-	- > [!Equation]
-	  > $$\large{L \frac{dI}{dt}+RI+\frac{Q}{C}=E(t)}$$
-	  > 
-	  > Rework this equation to narrow it down to two variables we get an equation for $E(t)$:
-	  > 
-	  > $$L \frac{d^2Q}{dt^2}+R \frac{dQ}{dt}+\frac{1}{C}Q=E(t)$$
-	  > $$\large{LQ''+RQ'+\frac{1}{C}Q=E(t)}$$
-	  > and one for $E'(t)$:
-	  > $$L \frac{d^2I}{dt^2}+R \frac{dI}{dt}+\frac{1}{C}I=E'(t)$$
-	  > $$\large{LI''+RI'+\frac{1}{C}I}=E'(t)$$
+	- #### Kirchhoff’s Second Law Rewritten
+		- States that the sum of the voltage drops across the components is equal to the supplied voltage $E$.
+		- > [!Equation]
+		  > $$\large{L \frac{dI}{dt}+RI+\frac{Q}{C}=E(t)}$$
+		  > 
+		  > Rework this equation to narrow it down to two variables we get an equation for $E(t)$:
+		  > 
+		  > $$L \frac{d^2Q}{dt^2}+R \frac{dQ}{dt}+\frac{1}{C}Q=E(t)$$
+		  > $$\large{LQ''+RQ'+\frac{1}{C}Q=E(t)}$$
+		  > and one for $E'(t)$:
+		  > $$L \frac{d^2I}{dt^2}+R \frac{dI}{dt}+\frac{1}{C}I=E'(t)$$
+		  > $$\large{LI''+RI'+\frac{1}{C}I}=E'(t)$$
 ---
 - ## Practice
 	- [[MA241 Homework 3.6 1.pdf]]

@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "8b42e16446bd2c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Component.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "29eeded34d23142f",
             "type": "leaf",
             "state": {
@@ -86,6 +74,18 @@
               "type": "markdown",
               "state": {
                 "file": "Node.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95a0f62237474078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Component.md",
                 "mode": "source",
                 "source": true
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component.md",
+                "file": "Kirchhoff’s Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Component.md",
+                "file": "Kirchhoff’s Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Component.md",
+                "file": "Kirchhoff’s Laws.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -315,15 +315,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b42e16446bd2c7c",
+  "active": "c5c122765c597608",
   "lastOpenFiles": [
+    "Electrical Circuit.md",
+    "Calculus II.md",
     "Kirchhoff’s Laws.md",
     "Component.md",
     "Node.md",
-    "Loop.md",
     "Branch.md",
+    "Loop.md",
     "Node (Chemistry).md",
-    "Electrical Circuit.md",
     "Ohm's Law.md",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
     "Voltage Source.md",
@@ -351,7 +352,6 @@
     "Machine Cycle.md",
     "Processing Unit.md",
     "Memory.md",
-    "Dynamic RAM.md",
     "References/Screenshot 2023-08-21 at 10.01.27 PM.png",
     "References/Integration Practice.pdf",
     "References/MA241 Homework 3.5.pdf",

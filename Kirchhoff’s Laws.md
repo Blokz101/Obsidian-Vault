@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Electrical Circuit]]
-> Children:: [[Node]] [[Branch]] [[Loop]] [[Component]]
+> Children:: 
 ---
 - ## Definition
 	- Laws that define the concept of 

@@ -3,7 +3,7 @@ Alias: [Branches]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Kirchhoff’s Laws]]
+> Parents:: [[Electrical Circuit]]
 > Friends:: 
 > Children:: 
 ---
