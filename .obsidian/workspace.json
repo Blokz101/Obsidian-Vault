@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Parametric Function.md",
                 "mode": "preview",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Parametric Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Parametric Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Parametric Function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,8 +221,8 @@
   },
   "active": "dc57c0ebb1c0594c",
   "lastOpenFiles": [
-    "Orthogonal Decomposition.md",
     "Vector Dot Product.md",
+    "Orthogonal Decomposition.md",
     "Vector Cross Product.md",
     "Electrical Circuit.md",
     "Kirchhoff’s Laws.md",
