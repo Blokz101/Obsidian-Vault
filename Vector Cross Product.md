@@ -10,6 +10,9 @@ Alias: []
 - ## Definition
 	- Symbol: $\times$
 	- A way to multiply the **perpendicular** components of two [[Vector|Vectors]]. Requires three dimensions.
+	- Can also be used to:
+		- Calculate area
+		- Identify a vector that is orthogonal to two other [[Vector|Vectors]]
 	- The [[Vector Cross Product]] of two [[Vector|Vectors]] will be perpendicular to both.
 	  ![[Screenshot 2023-08-25 at 2.28.29 PM.png|200]]
 	- The exact opposite of the [[Vector Dot Product]].

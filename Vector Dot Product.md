@@ -9,6 +9,10 @@ Alias: []
 ---
 - ## Definition
 	- A way to multiply the **parallel** components of two [[Vector|Vectors]].
+	- Can also be used to:
+		- Solve for angles in 3D
+		- [[Orthogonal Decomposition]]
+		- [[Work (Physics)]]
 	- The exact opposite of the [[Vector Cross Product]].
 	- > [!Equation]
 	  > $$\large{\vec{A}*\vec{B}=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)}$$
