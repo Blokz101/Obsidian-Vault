@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics]]
 > Parents:: 
-> Friends:: [[Vector Cross Product]]
+> Friends:: [[Vector Cross Product]] [[Orthogonal Decomposition]]
 > Children:: 
 ---
 - ## Definition

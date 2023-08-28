@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Orthogonal Decomposition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonal Decomposition.md",
+                "file": "Vector Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonal Decomposition.md",
+                "file": "Vector Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orthogonal Decomposition.md",
+                "file": "Vector Dot Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,10 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb834139494c6d9",
+  "active": "dc57c0ebb1c0594c",
   "lastOpenFiles": [
-    "Vector Dot Product.md",
     "Orthogonal Decomposition.md",
+    "Vector Dot Product.md",
     "Vector Cross Product.md",
     "Electrical Circuit.md",
     "Kirchhoff’s Laws.md",

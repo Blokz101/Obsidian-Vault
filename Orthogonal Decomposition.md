@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: [[Vector dotprod]]
+> Friends:: [[Vector Dot Product]]
 > Children:: 
 ---
 - ## Definition
