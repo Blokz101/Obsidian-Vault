@@ -13,7 +13,7 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces, Coulomb's Law o
 	  > $$\large{\vec{F}_{\text{electric}}=|\vec{F}_{\text{electric}}|*\hat{r}}$$
 	  > $$\large{|\vec{F}_{\text{electric}}|=\frac{1}{4\pi\epsilon_{0}}*\frac{Q_{1}Q_{2}}{|\vec{r}|^2}}$$
 	  > 
-	  > $\vec{F}_{\text{electric}}$ = [[Electromagnetic Force]] in $N$
+	  > $\vec{F}_{\text{electric}}$ = [[Electromagnetic Force]] felt by $Q_{1}$ in $N$
 	  > $Q$ = [[Charge]] in $C$
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $\vec{r}$ = Position of [[Charge]] source 1 to position of [[Charge]] source 2 in $m$
