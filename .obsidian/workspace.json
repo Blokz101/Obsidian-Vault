@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "476e810a28142792",
+            "id": "9baebff1ce72df97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'Hopital's Rule.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6125f634e3583be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indeterminate Type.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e25baaddcafa74b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
+                "file": "Indeterminate Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
+                "file": "Indeterminate Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
+                "file": "Indeterminate Type.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,8 +217,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "476e810a28142792",
+  "active": "b6125f634e3583be",
   "lastOpenFiles": [
+    "L'Hopital's Rule.md",
+    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
     "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
     "Electromagnetic Force.md",
@@ -223,8 +249,6 @@
     "Electrical Circuit.md",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
-    "electric ciruc.md",
-    "Branch.md",
     "References/IMG_422E3AD4A9A5-1.jpeg",
     "References/Screenshot 2023-08-25 at 2.28.29 PM.png",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
