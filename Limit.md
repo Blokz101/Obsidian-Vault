@@ -4,8 +4,8 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 > [!Info]
 > Subject:: [[Calculus]]
 > Parents:: [[Proving a Limit]]
-> Friends:: [[Hopit]]
-> Children:: 
+> Friends:: [[L'Hopital's Rule]]
+> Children:: [[Derivative]]
 ---
 - ## Definition
 	- A value that a function approaches but never reaches. [[Proving a Limit|See here for Proving a Limit]].
@@ -27,6 +27,7 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 		- Let $g(x)≤f(x)≤h(x)$.
 		- If $g(x)$ and $h(x)$ have the same [[Limit]] $L$, then $f(x)$ will have the same limit because it must stay be between them.
 	- [[L'Hopital's Rule]]
+---
 - ## Practice
 	- [[Drawing 2022-09-06 15.30.33.excalidraw]]
 	- [[Drawing 2022-09-07 21.08.59.excalidraw]] (Squeeze Theorem)
