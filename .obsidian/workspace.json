@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonal Projection.md",
+                "file": "Vector Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonal Projection.md",
+                "file": "Vector Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orthogonal Projection.md",
+                "file": "Vector Dot Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,10 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e21bfa8157bdf441",
+  "active": "822044a7cdb6be07",
   "lastOpenFiles": [
-    "Vector Dot Product.md",
     "Orthogonal Projection.md",
+    "Vector Dot Product.md",
     "References/Screenshot 2023-08-29 at 6.51.32 PM.png",
     "Orthogonal Decomposition.md",
     "Orthogonal Trajectory.md",

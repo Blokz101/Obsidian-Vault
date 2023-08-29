@@ -26,6 +26,7 @@ Alias: []
 	- Note that the two different ways of computing the [[Vector Dot Product]] above mean that we **can find the angle between two [[Vector|Vectors]], $\theta$**, because $\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)=A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}$
 	  > [!Equation]
 		> $$\large{\theta=\arccos\left( \frac{\vec{A}\cdot\vec{B}}{\lvert \vec{A} \rvert\lvert \vec{B} \rvert} \right)}$$
+		> $$\large{\cos(\theta)=\frac{\vec{A}\cdot\vec{B}}{\lvert \vec{A} \rvert\lvert \vec{B} \rvert}}$$
 		> 
 		>  $\vec{A}$ = [[Vector]] $A$
 	  > $\vec{B}$ = [[Vector]] $B$
