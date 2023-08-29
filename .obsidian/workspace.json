@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14b0103b9a219a87",
+            "id": "a8b3b0ad267e1710",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Triple Product.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Triple Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Triple Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Triple Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,8 +182,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14b0103b9a219a87",
+  "active": "a8b3b0ad267e1710",
   "lastOpenFiles": [
+    "Triple Product.md",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
     "L'Hopital's Rule.md",
@@ -204,7 +212,6 @@
     "Current.md",
     "Kirchhoff’s Laws.md",
     "References/IMG_5410258E400E-1.jpeg",
-    "Vector Dot Product.md",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
     "References/IMG_422E3AD4A9A5-1.jpeg",
