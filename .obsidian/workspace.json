@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "133ac26f7e0a9c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonal Trajectory.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e21bfa8157bdf441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Orthogonal Projection.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35f86929a7ca5136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonal Decomposition.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,8 +196,9 @@
   },
   "active": "e21bfa8157bdf441",
   "lastOpenFiles": [
-    "Orthogonal Trajectory.md",
+    "Orthogonal Decomposition.md",
     "Orthogonal Projection.md",
+    "Orthogonal Trajectory.md",
     "3D Line and Plane.md",
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
     "References/Screenshot 2023-08-29 at 5.55.16 PM.png",
@@ -223,7 +223,6 @@
     "Derivative.md",
     "Charge.md",
     "Coulomb's Law of Force (Chemistry).md",
-    "Orthogonal Decomposition.md",
     "Voltage.md",
     "Kirchhoff’s Voltage Law.md",
     "Kirchhoff’s Current Law.md",
