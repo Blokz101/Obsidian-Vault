@@ -26,4 +26,6 @@ Alias: []
 	- We can move [[Charge|Charges]] by using the attractive and repulsive properties of [[Charge|Charges]] as defined by [[Coulomb's Law of Force (Chemistry)]].
 		- ![[IMG_1624.jpg]]
 ---
+- ## Practice
+	- [[PY206 Homework 13.1-13.3.pdf]]
 - ## Reference

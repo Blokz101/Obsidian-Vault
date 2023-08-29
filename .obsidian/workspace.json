@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Force.md",
+                "file": "Electric Field.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,8 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8213b5afa92fe6f6",
+  "active": "aa37def9a3e0681c",
   "lastOpenFiles": [
+    "References/PY206 Homework 13.1-13.3.pdf",
     "Electric Field.md",
     "Electromagnetic Force.md",
     "Derivative.md",
@@ -225,7 +225,6 @@
     "Short Circuit.md",
     "Open Circuit.md",
     "Closed Circuit.md",
-    "conflict-files-obsidian-git.md",
     "References/IMG_422E3AD4A9A5-1.jpeg",
     "References/Screenshot 2023-08-25 at 2.28.29 PM.png",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
@@ -243,7 +242,6 @@
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
     "References/MA241 Homework 4.4.pdf",
-    "References/MA241 Homework 4.5.pdf",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
