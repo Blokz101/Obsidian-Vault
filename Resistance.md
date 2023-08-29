@@ -15,5 +15,13 @@ Alias: [Resist]
 		- Geometry
 		- Light exposure
 		- Etc...
+	- > [!Equation]
+	  > ![[Scrap Paper_concept.png|300]]
+	  > $$\large{R=\rho\frac{L}{A}}$$
+	  > 
+	  > $R$ = [[Resistance]] in $\Omega$
+	  > $\rho$ = [[Resistivity]] in $\Omega m$
+	  > $L$ = Length in $m$
+	  > $A$ = [[Area]] in $m^2$
 ---
 - ## Reference
