@@ -23,8 +23,8 @@ Alias: [Kirchhoff’s Voltage Law, KVL, Kirchhoff’s Current Law, KCL]
 	  > [!Equation]
 		  > $$\large{\sum^{N}_{n=1}I_{n}=0}$$
 		  > $N$ = Number of wires at [[Node]]
-		  > $n$ = Index of [[Component]] in the chosen [[Loop]]
-		  > $v_{n}$ = [[Voltage]] of [[Component]] at index $n$
+		  > $n$ = Index of wire at the chosen [[Node]]
+		  > $I_{n}$ = [[Current]] of wire at index $n$
 		- In other words, current in will always equal current out.
 	- > [!Example] 
 	  > ![[IMG_E3F4D79E7C09-1.jpeg|400]]
