@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: 
 > Friends:: [[Vector Cross Product]] [[Orthogonal Decomposition]]
-> Children:: 
+> Children:: [[Triple Product]]
 ---
 - ## Definition
 	- A way to multiply the **parallel** components of two [[Vector|Vectors]].
@@ -15,8 +15,8 @@ Alias: []
 		- [[Work (Physics)]]
 	- The exact opposite of the [[Vector Cross Product]].
 	- > [!Equation]
-	  > $$\large{\vec{A}*\vec{B}=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)}$$
-	  > $$\large{\vec{A}*\vec{B}= A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}}$$
+	  > $$\large{\vec{A}\cdot\vec{B}=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\cos(\theta)}$$
+	  > $$\large{\vec{A}\cdot\vec{B}= A_{x}B_{x}+A_{y}B_{y}+A_{z}B_{z}}$$
 	  > 
 	  > $\vec{A}$ = [[Vector]] $A$
 	  > $\vec{B}$ = [[Vector]] $B$

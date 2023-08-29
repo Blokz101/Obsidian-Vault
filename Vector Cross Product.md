@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]]
 > Parents:: 
 > Friends:: [[Vector Dot Product]] [[Right Hand Rule]]
-> Children:: 
+> Children:: [[Triple Product]]
 ---
 - ## Definition
 	- Symbol: $\times$
