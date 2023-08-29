@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electromagnetic Force.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -209,9 +209,9 @@
   },
   "active": "8213b5afa92fe6f6",
   "lastOpenFiles": [
-    "Coulomb's Law of Force (Chemistry).md",
-    "Electromagnetic Force.md",
     "Electric Field.md",
+    "Electromagnetic Force.md",
+    "Coulomb's Law of Force (Chemistry).md",
     "Orthogonal Decomposition.md",
     "Voltage.md",
     "Kirchhoff’s Voltage Law.md",
