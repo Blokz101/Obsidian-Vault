@@ -1,11 +1,11 @@
 ---
-Alias: []
+Alias: [KVL, KVL First Sign Convention]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: 
+> Parents:: [[Kirchhoff’s Laws]] [[Voltage]]
 > Friends:: 
-> Children:: 
+> Children:: [[Circuit Analysis]]
 ---
 - ## Definition
 	- States the the sum of the voltages on a closed loop will always equal 0.
@@ -18,5 +18,8 @@ Alias: []
 	- > [!Example] 
 	  > ![[IMG_9EAB10E26A53-1.jpeg|400]]
 	  > $$\large{v_{1}=v_{2}+v_{3}+v_{4}}$$
+- #### First Sign Convention
+	- Used in [[Circuit Analysis]]
+	- Pick a starting point in a [[Loop]], **the first [[Component]] has negative [[Voltage]]** and all other [[Component|Components]] have positive [[Voltage]].
 ---
 - ## Reference

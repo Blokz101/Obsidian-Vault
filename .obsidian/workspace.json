@@ -56,13 +56,13 @@
             }
           },
           {
-            "id": "327861a0a28dcedf",
+            "id": "9458ec1a282a1823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
-                "mode": "source",
+                "file": "Kirchhoff’s Current Law.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kirchhoff’s Voltage Law.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -90,21 +90,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "8212fd3c9216e039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kirchhoff’s Laws.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Kirchhoff’s Voltage Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Kirchhoff’s Voltage Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kirchhoff’s Laws.md",
+                "file": "Kirchhoff’s Voltage Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,16 +255,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "327861a0a28dcedf",
+  "active": "ea15bb15f3a48c5a",
   "lastOpenFiles": [
+    "Kirchhoff’s Current Law.md",
+    "Current.md",
     "Kirchhoff’s Voltage Law.md",
-    "Kirchhoff’s Laws.md",
     "Circuit Analysis.md",
+    "Orthogonal Decomposition.md",
+    "Kirchhoff’s Laws.md",
     "Passive Sign Convention.md",
     "References/IMG_5410258E400E-1.jpeg",
     "Parametric Function.md",
     "Vector Dot Product.md",
-    "Orthogonal Decomposition.md",
     "Vector Cross Product.md",
     "Electrical Circuit.md",
     "References/IMG_E3F4D79E7C09-1.jpeg",
@@ -298,8 +288,6 @@
     "Right Hand Rule.md",
     "Torque.md",
     "References/Screenshot 2023-08-25 at 2.28.29 PM.png",
-    "Angular Momentum.md",
-    "Resistivity.md",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
     "References/Screenshot 2023-08-25 at 11.48.50 AM.png",
     "References/Screenshot 2023-08-25 at 11.46.37 AM.png",

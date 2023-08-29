@@ -1,15 +1,13 @@
 ---
-Alias: [Kirchhoff’s Voltage Law, KVL, Kirchhoff’s Current Law, KCL]
+Alias: [KCL]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: 
-> Friends:: [[Electrical Circuit]]
-> Children:: 
+> Parents:: [[Kirchhoff’s Laws]] [[Current]]
+> Friends:: 
+> Children:: [[Circuit Analysis]]
 ---
-- ## Kirchhoff’s Voltage Law (KVL)
-	- 
-- ## Kirchhoff’s Current Law (KCL)
+- ## Definition
 	- States that the sum of the currents on a closed loop will always equal 0.
 	  > [!Equation]
 		  > $$\large{\sum^{N}_{n=1}I_{n}=0}$$

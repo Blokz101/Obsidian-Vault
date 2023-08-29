@@ -5,7 +5,7 @@ Alias: [Volt, Volts, V]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]] [[Voltage]]
-> Children:: 
+> Children:: [[Kirchhoff’s Current Law]]
 ---
 - ## Definition
 	- [[Current]] is how much [[Charge]] moves per unit of time.
