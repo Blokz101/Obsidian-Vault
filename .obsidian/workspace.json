@@ -56,13 +56,25 @@
             }
           },
           {
-            "id": "f7bdeb880324364e",
+            "id": "327861a0a28dcedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Kirchhoff’s Laws.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ea15bb15f3a48c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kirchhoff’s Voltage Law.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -255,8 +267,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7bdeb880324364e",
+  "active": "327861a0a28dcedf",
   "lastOpenFiles": [
+    "Kirchhoff’s Voltage Law.md",
+    "Kirchhoff’s Laws.md",
     "Circuit Analysis.md",
     "Passive Sign Convention.md",
     "References/IMG_5410258E400E-1.jpeg",
@@ -265,7 +279,6 @@
     "Orthogonal Decomposition.md",
     "Vector Cross Product.md",
     "Electrical Circuit.md",
-    "Kirchhoff’s Laws.md",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
     "Electric Field.md",
@@ -287,7 +300,6 @@
     "References/Screenshot 2023-08-25 at 2.28.29 PM.png",
     "Angular Momentum.md",
     "Resistivity.md",
-    "Voltage Source.md",
     "References/Screenshot 2023-08-25 at 11.52.04 AM.png",
     "References/Screenshot 2023-08-25 at 11.48.50 AM.png",
     "References/Screenshot 2023-08-25 at 11.46.37 AM.png",
