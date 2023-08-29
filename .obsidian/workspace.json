@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charge.md",
+                "file": "Derivative.md",
                 "mode": "preview",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge.md",
+                "file": "Derivative.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,6 +221,7 @@
   },
   "active": "04b54f3eed388de7",
   "lastOpenFiles": [
+    "Charge.md",
     "Electric Field.md",
     "Electromagnetic Force.md",
     "Coulomb's Law of Force (Chemistry).md",
@@ -242,7 +243,6 @@
     "electric ciruc.md",
     "Branch.md",
     "Node.md",
-    "Charge.md",
     "Resistance.md",
     "Loop.md",
     "Short Circuit.md",
