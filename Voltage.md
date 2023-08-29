@@ -9,7 +9,7 @@ Alias: [Volt, Volts, V, Potential Difference]
 ---
 - ## Definition
 	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]]. In other words, the external [[Work (Physics)]] needed to move a [[Charge]] from one location to another location in an [[Electric Field]].
-	- Critically linked to [[Coulomb's Law of Force]].
+	- Critically linked to [[Coulomb's Law of Force (Chemistry)]].
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
 	  > $$\large{V=\frac{J}{C}}$$
@@ -29,7 +29,7 @@ Alias: [Volt, Volts, V, Potential Difference]
 		  > $J$ = [[Potential Energy]] in $J$
 		  > $Q_{1}$ = [[Charge]] $1$
 		  > $Q_{2}$ = [[Charge]] $2$
-		  > $F(r)$ = Force as defined by [[Coulomb's Law of Force]] in $N$
+		  > $F(r)$ = Force as defined by [[Coulomb's Law of Force (Chemistry)]] in $N$
 		  > $r$ = Distance in $m$
 		  > 
 		  > The units for this are $\frac{J}{C}$ or [[Voltage|Volts]].

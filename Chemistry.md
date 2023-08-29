@@ -52,7 +52,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- [[Valence Electron]]
 		- Interactions
 			- [[Coulomb's Law of Energy]]
-			- [[Coulomb's Law of Force]]
+			- [[Coulomb's Law of Force (Chemistry)]]
 				- [[Dielectric Constant]]
 	- Types of very small things
 		- [[Atom]]

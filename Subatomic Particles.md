@@ -17,6 +17,6 @@ Modification Date: NaN
 		| [[Electron]] | $e^-$  | $0.0005amu$ | $-1$    | Outside the [[Nucleus]] |
 		
 - ## Interaction
-	- [[Coulomb's Law of Force]] dictates how [[Subatomic Particles]] interact with each other.
-	- ![[Coulomb's Law of Force#^5645df]]
+	- [[Coulomb's Law of Force (Chemistry)]] dictates how [[Subatomic Particles]] interact with each other.
+	- ![[Coulomb's Law of Force (Chemistry)#^5645df]]
 - ## Reference

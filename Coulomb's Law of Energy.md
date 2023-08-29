@@ -6,9 +6,9 @@ Modification Date: NaN
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- Derived from [[Coulomb's Law of Force]]. States that the electric force of one charge on another depends on the magnitude of the [[Charge|Charges]] and the distance between them.
+	- Derived from [[Coulomb's Law of Force (Chemistry)]]. States that the electric force of one charge on another depends on the magnitude of the [[Charge|Charges]] and the distance between them.
   - > [!How to derive]
-	  > [[Coulomb's Law of Force]]:
+	  > [[Coulomb's Law of Force (Chemistry)]]:
 	  > $\large{F=\frac{kq_1q_2}{Ɛr^2}}$
 	  > 
 	  > [[Energy (Chemistry)]]:
@@ -29,8 +29,8 @@ Modification Date: NaN
 	  > $Ɛ$ = [[Dielectric Constant]]
 	  > $r$ = Distance
 	  > 
-	- Same as [[Coulomb's Law of Force]], the more **negative the [[Energy (Chemistry)]], the more attractive**, and **the more positive, the more repulsive**.
+	- Same as [[Coulomb's Law of Force (Chemistry)]], the more **negative the [[Energy (Chemistry)]], the more attractive**, and **the more positive, the more repulsive**.
 - ## Practice
 	- [[Drawing 2022-09-04 14.37.27.excalidraw]]
 - ## Reference
-	- Derived from [[Coulomb's Law of Force]].
+	- Derived from [[Coulomb's Law of Force (Chemistry)]].

@@ -22,9 +22,9 @@ Modification Date: NaN
 		   > $h$ = [[Planck's Constant]] = $6.626e-34$ ($Js$)
 		   > $n$ = Energy Level (integer)
 		    ^9d1d37
-		- The [[Energy (Chemistry)]] is negative because [[Energy (Chemistry)]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force]].
+		- The [[Energy (Chemistry)]] is negative because [[Energy (Chemistry)]] decreases as a [[Proton]] and [[Electron]] approach one another. This is proven by [[Coulomb's Law of Force (Chemistry)]].
 - ## Bohr Radius
-	- If we relate the concept of quantized energy levels above to [[Coulomb's Law of Force]] we can determine the radius of each of the energy levels.
+	- If we relate the concept of quantized energy levels above to [[Coulomb's Law of Force (Chemistry)]] we can determine the radius of each of the energy levels.
 	- > [!Equation]
 	  > $$\large{r_n=52.92(\frac{n^2}{Z})}$$
 	  > 

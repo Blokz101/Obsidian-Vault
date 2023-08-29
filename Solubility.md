@@ -8,7 +8,7 @@ Modification Date: NaN
 - ## Definition
 	- How much of a [[Solute]] can **dissolve** into a [[Solvent]].
 	- [[Solubility]] can be determined by the [[Solubility Rules]]. The [[Solubility Rules]] are based on the following principles:
-		- [[Coulomb's Law of Force]]
+		- [[Coulomb's Law of Force (Chemistry)]]
 			- The **higher the charges** are the **stronger** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Insoluble]].
 			- The **lower the charges** are the **weaker** the [[Intermolecular Forces|Intermolecular Force]] and therefore the less [[Solubility|Soluble]].
 		- The [[Equilibrium|Equilibrium Constant]] of an equation.
