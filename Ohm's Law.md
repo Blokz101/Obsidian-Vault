@@ -1,10 +1,12 @@
 ---
 Alias: []
-Creation Date: Sun May 29th 2022 6:00:28 pm 
-Modification Date: NaN
 ---
-#Permanent [[Electricity]] ^ba298a
-
+> [!Info]
+> Subject:: [[Signals, Circuits, and Systems]]
+> Parents:: 
+> Friends:: [[Current]] [[Voltage]] [[Resistance]] [[Electrical Circuit]]
+> Children:: [[Circuit Analysis]]
+---
 - ## Definition
 	- Relates [[Voltage]] to [[Current]] and [[Resistance]]
 	- > [!Equation]
@@ -12,5 +14,5 @@ Modification Date: NaN
         >$V$ = [[Voltage]]
         >$I$ = [[Current]]
         >$R$ = [[Resistance]]^1c650e
+---
 - ## Reference
-	- 
