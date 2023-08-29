@@ -8,8 +8,16 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The [[Electric Field]] is the field of force that [[Charge|Charges]] on all other charged particles in the field.
+	- The [[Electric Field]] is the field of force that [[Charge|Charges]] exert on all other [[Charge|Charges]] in the field.
 	  > [!Equation]
+	  > $$\large{\vec{F}_{\text{electric}}=Q_{2}*\frac{1}{4\pi\epsilon_{0}}*\frac{Q_{1}}{r^2}}$$
+	  > 
+	  > $\vec{F}_{\text{electric}}$ = The [[Electromagnetic Force]] in $N$
+	  > $Q$ = [[Charge]] in $C$
+	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
+	  > $\vec{r}$ = Position of [[Charge]] source 1 to position of [[Charge]] source 2 in $m$
+	- The [[Electric Field]] has a direction and magnitude.
+  - > [!Equation]
 	  > $$\large{\vec{E}=\frac{\vec{F}}{q}}$$
 	  > 
 	  > $\vec{E}$ = [[Electric Field]] in $\frac{N}{C}$
