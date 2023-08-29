@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Orthogonal Projection.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Orthogonal Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Orthogonal Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Dot Product.md",
+                "file": "Orthogonal Projection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,8 +206,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "822044a7cdb6be07",
+  "active": "e21bfa8157bdf441",
   "lastOpenFiles": [
+    "Vector Dot Product.md",
     "Orthogonal Projection.md",
     "References/Screenshot 2023-08-29 at 6.51.32 PM.png",
     "Orthogonal Decomposition.md",
@@ -217,7 +217,6 @@
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
     "References/Screenshot 2023-08-29 at 5.55.16 PM.png",
     "Parametric Function.md",
-    "Vector Dot Product.md",
     "Triple Product.md",
     "Vector Cross Product.md",
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
