@@ -16,5 +16,3 @@ Alias: []
 	- [[Moment]]
 	- [[Center Of Mass]]
 	- [[Pressure (Calculus)]]
-- ## Test 2
-	- 
