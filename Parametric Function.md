@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Parametric Functions,Parametric Equation,Parametric Equations]
 ---
 > [!Info]
 > Subject:: [[Calculus]]

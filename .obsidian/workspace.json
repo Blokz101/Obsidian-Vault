@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1dafb0a4025813f2",
+        "id": "0d913b79b996eef8",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b3b0ad267e1710",
+            "id": "133ac26f7e0a9c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triple Product.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "39cd362a3de0f98d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Dot Product.md",
+                "file": "3D Line and Plane.md",
                 "mode": "preview",
                 "source": true
               }
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triple Product.md",
+                "file": "3D Line and Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triple Product.md",
+                "file": "3D Line and Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Triple Product.md",
+                "file": "3D Line and Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,11 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8b3b0ad267e1710",
+  "active": "133ac26f7e0a9c3c",
   "lastOpenFiles": [
-    "Vector Cross Product.md",
+    "Parametric Function.md",
+    "3D Line and Plane.md",
     "Vector Dot Product.md",
     "Triple Product.md",
+    "Vector Cross Product.md",
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
@@ -221,9 +211,7 @@
     "Kirchhoff’s Voltage Law.md",
     "Kirchhoff’s Current Law.md",
     "Circuit Analysis.md",
-    "Parametric Function.md",
     "Passive Sign Convention.md",
-    "Current.md",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
