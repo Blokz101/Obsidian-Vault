@@ -18,8 +18,8 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 	- A function has a [[Limit|Right Hand Limit]] of $L$ at $x_0$ if $x$ approaches from the **right** hand side. 
 	  > [!Example and Notation]
 	  > Assuming the limit of $L$ is at $x_0$:
-	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}=L}}$
-	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}=L}}$
+	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}}=L}$
+	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}}=L}$
 - ## Solving Limits
 	- #### Plug it in
 		- If $x_0$ is within the [[Domain]] of $f(x)$ and $f(x)$ is a function then you can simply plug $x_0$ into $f(x)$ to find the [[Limit]] of $f(x)$.
