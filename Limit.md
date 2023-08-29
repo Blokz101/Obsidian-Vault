@@ -1,11 +1,12 @@
 ---
 Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
-Creation Date: Mon August 29th 2022 12:32:59 pm 
-Modification Date: NaN
 ---
-# NaN
-#Permanent [[Calculus]]
-
+> [!Info]
+> Subject:: [[Calculus]]
+> Parents:: [[Proving a Limit]]
+> Friends:: [[Hopit]]
+> Children:: 
+---
 - ## Definition
 	- A value that a function approaches but never reaches. [[Proving a Limit|See here for Proving a Limit]].
 	  > [!Example and Notation]
