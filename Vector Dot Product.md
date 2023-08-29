@@ -30,7 +30,7 @@ Alias: []
 		> 
 		>  $\vec{A}$ = [[Vector]] $A$
 	  > $\vec{B}$ = [[Vector]] $B$
-	  > $\theta$ = The angle between $\vec{A}$ and $\vec{B}$
+	  > $\theta$ = The angle between $\vec{A}$ and $\vec{B}$ ^cecc24
 - ## In Relation To Net Force
 	- The **parallel** component of the $\vec{F}_{net}$.
 	- ![[Drawing 2023-02-23 00.54.30.excalidraw]]
