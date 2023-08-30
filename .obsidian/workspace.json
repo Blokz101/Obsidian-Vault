@@ -42,9 +42,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e64ce3d407054ce7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -113,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Node.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,10 +214,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40e966d3c4fd4573",
+  "active": "e64ce3d407054ce7",
   "lastOpenFiles": [
-    "Ohm's Law.md",
     "Node.md",
+    "Ohm's Law.md",
     "Excalibrain Graph.md",
     "Resistance.md",
     "Orthogonal Decomposition.md",
