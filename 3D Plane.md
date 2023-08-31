@@ -22,5 +22,7 @@ Alias: []
 		  
 - ## Conversions
 	- From 3 [[Point|Points]] to [[Point]] and [[Normal Vector]]:
+		- Pick one of the [[Point|Points]] and draw [[Vector|Vectors]] from it to each of the two remaining [[Point|Points]].
+		- The [[Vector Cross Product]] of the two [[Vector|Vectors]] is a [[Normal Vector]].
 ---
 - ## Reference
