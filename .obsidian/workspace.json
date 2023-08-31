@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "129c4d254a416dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Average Velocity.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "923616e3ed4be1d6",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Average Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Average Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Average Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,10 +281,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6397e1b41d342613",
+  "active": "129c4d254a416dc8",
   "lastOpenFiles": [
-    "3D Line.md",
     "3D Plane.md",
+    "3D Line.md",
     "Electric Field.md",
     "Normal Vector.md",
     "Vector.md",
