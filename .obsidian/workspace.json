@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "129c4d254a416dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Average Velocity.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "923616e3ed4be1d6",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "3D Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "3D Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Average Velocity.md",
+                "file": "3D Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,8 +269,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "129c4d254a416dc8",
+  "active": "6397e1b41d342613",
   "lastOpenFiles": [
+    "Average Velocity.md",
     "3D Plane.md",
     "3D Line.md",
     "Electric Field.md",
@@ -314,7 +303,6 @@
     "Limit.md",
     "L'Hopital's Rule.md",
     "Indeterminate Type.md",
-    "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
