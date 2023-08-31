@@ -78,9 +78,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "923616e3ed4be1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normal Vector.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17f4064c542a9b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -149,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Normal Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Normal Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Normal Vector.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,12 +269,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6397e1b41d342613",
+  "active": "923616e3ed4be1d6",
   "lastOpenFiles": [
-    "Spin Quantum Number.md",
-    "3D Plane.md",
-    "References/Screenshot 2023-08-31 at 12.45.36 AM.png",
     "Vector.md",
+    "Normal Vector.md",
+    "3D Plane.md",
+    "Point.md",
+    "Spin Quantum Number.md",
+    "References/Screenshot 2023-08-31 at 12.45.36 AM.png",
     "3D Line.md",
     "Resistor.md",
     "Component.md",
@@ -277,8 +303,6 @@
     "Indeterminate Type.md",
     "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
     "Electromagnetic Force.md",
-    "Resistivity.md",
-    "Calculus.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",

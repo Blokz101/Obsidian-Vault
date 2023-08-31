@@ -19,6 +19,6 @@ Alias: []
 		  > $\left\langle A,B,C \right\rangle$ = [[Normal Vector]] to the [[3D Plane]]
 		  
 - ## Conversions
-	- From 3 [[Point]]
+	- From 3 [[Point|Points]] to [[Point]] and [[Normal Vector]]:
 ---
 - ## Reference
