@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charge.md",
+                "file": "Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charge.md",
+                "file": "Electric Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Charge.md",
+                "file": "Electric Field.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,8 +257,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "041e53f9975ba548",
+  "active": "ce691f31af02bc69",
   "lastOpenFiles": [
+    "Charge.md",
     "Electric Field.md",
     "3D Line.md",
     "Vector.md",
@@ -290,7 +291,6 @@
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
     "L'Hopital's Rule.md",
-    "Indeterminate Type.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
