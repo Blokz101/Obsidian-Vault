@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normal Vector.md",
+                "file": "3D Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normal Vector.md",
+                "file": "3D Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Normal Vector.md",
+                "file": "3D Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,10 +269,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "923616e3ed4be1d6",
+  "active": "6397e1b41d342613",
   "lastOpenFiles": [
-    "Vector.md",
     "Normal Vector.md",
+    "Vector.md",
     "3D Plane.md",
     "Point.md",
     "Spin Quantum Number.md",
