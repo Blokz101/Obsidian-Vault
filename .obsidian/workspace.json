@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electric Field.md",
+                "file": "3D Plane.md",
                 "mode": "preview",
                 "source": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Field.md",
+                "file": "3D Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Field.md",
+                "file": "3D Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Field.md",
+                "file": "3D Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,6 +271,7 @@
   },
   "active": "6397e1b41d342613",
   "lastOpenFiles": [
+    "Electric Field.md",
     "3D Plane.md",
     "Normal Vector.md",
     "Vector.md",
@@ -302,7 +303,6 @@
     "L'Hopital's Rule.md",
     "Indeterminate Type.md",
     "References/Excalidraw/Drawing 2022-09-06 15.30.33.excalidraw.md",
-    "Electromagnetic Force.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
