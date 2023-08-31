@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Electric Fields]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
@@ -16,8 +16,8 @@ Alias: []
 	  > $Q$ = [[Charge]] in $C$
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $\vec{r}$ = Position of [[Charge]] to observation point $x$ in $m$
-  - 
-    The [[Electric Field]] can be calculated from a known [[Electromagnetic Force]] and [[Charge]].
+  - When multiple [[Charge|Charges]] are present, the [[Electric Field]] is the sum of the [[Electric Field|Electric Fields]] created by each of the [[Charge|Charges]].
+  - The [[Electric Field]] can be calculated from a known [[Electromagnetic Force]] and [[Charge]].
     > [!Equation]
 	  > $$\large{\vec{E}=\frac{\vec{F}}{q}}$$
 	  > 
