@@ -9,8 +9,7 @@ Alias: []
 ---
 - ## Definition
 	- A flat surface that extends into infinity.
-	- There are many options to define a [[3D Plane]] and these are the most useful:
-		- [[Normal Vector]] and [[Point]]
+	- There are many options to define a [[3D Plane]] and the [[Normal Vector]] and [[Point]] method is generally the most useful.
 		  > [!Equation]
 		  >![[Screenshot 2023-08-31 at 12.45.36 AM.png|400]]
 		>  $$\large{A(x-x_{0})+B(y-y_{0})+C(z-z_{0})=0}$$
@@ -19,10 +18,6 @@ Alias: []
 		  > 
 		  > $(x_{0},y_{0},z_{0})$ = [[Point]] the [[3D Plane]] pases though.
 		  > $\left\langle A,B,C \right\rangle$ = [[Normal Vector]] to the [[3D Plane]]
-		  
-- ## Conversions
-	- From 3 [[Point|Points]] to [[Point]] and [[Normal Vector]]:
-		- Pick one of the [[Point|Points]] and draw [[Vector|Vectors]] from it to each of the two remaining [[Point|Points]].
-		- The [[Vector Cross Product]] of the two [[Vector|Vectors]] is a [[Normal Vector]].
+	- Conversions to and from this format vary, but most of them include trying to find two [[Vector|Vectors]] in the [[3D Plane]] and then using the [[Vector Cross Product]] to find a [[Normal Vector]].
 ---
 - ## Reference
