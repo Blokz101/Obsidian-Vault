@@ -29,4 +29,5 @@ Alias: [Electric Fields]
 ---
 - ## Practice
 	- [[PY206 Homework 13.1-13.3.pdf]]
+	- [[PY206 Homework 13.4.pdf]]
 - ## Reference

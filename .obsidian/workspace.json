@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "209d3bc2dbcd552f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/PY206 Homework 13.1-13.3.pdf"
+              }
+            }
+          },
+          {
             "id": "041e53f9975ba548",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -161,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electric Field.md",
+                "file": "References/PY206 Homework 13.1-13.3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electric Field.md",
+                "file": "References/PY206 Homework 13.1-13.3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electric Field.md",
+                "file": "References/PY206 Homework 13.1-13.3.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,10 +267,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce691f31af02bc69",
+  "active": "209d3bc2dbcd552f",
   "lastOpenFiles": [
-    "Charge.md",
     "Electric Field.md",
+    "References/PY206 Homework 13.4.pdf",
+    "Charge.md",
     "3D Line.md",
     "Vector.md",
     "3D Plane.md",
@@ -290,7 +301,6 @@
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
-    "L'Hopital's Rule.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
@@ -305,7 +315,6 @@
     "References/MA241 Textbook - Taylor and Maclaurin Series.pdf",
     "References/MA241 Homework 4.6.pdf",
     "References/PY205 Homework Problem Solving.pdf",
-    "References/MA241 Homework 4.4.pdf",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
