@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Plane.md",
+                "file": "3D Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Plane.md",
+                "file": "3D Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3D Plane.md",
+                "file": "3D Line.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,10 +269,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6397e1b41d342613",
+  "active": "1444bef2b35d8f65",
   "lastOpenFiles": [
-    "Electric Field.md",
     "3D Plane.md",
+    "Electric Field.md",
     "Normal Vector.md",
     "Vector.md",
     "Point.md",
