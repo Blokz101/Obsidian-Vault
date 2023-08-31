@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirchhoff’s Voltage Law.md",
+                "file": "Resistor.md",
                 "mode": "preview",
                 "source": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirchhoff’s Voltage Law.md",
+                "file": "Resistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirchhoff’s Voltage Law.md",
+                "file": "Resistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kirchhoff’s Voltage Law.md",
+                "file": "Resistor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,6 +235,9 @@
   },
   "active": "1444bef2b35d8f65",
   "lastOpenFiles": [
+    "Component.md",
+    "Resistor.md",
+    "Kirchhoff’s Voltage Law.md",
     "Vector Cross Product.md",
     "Node.md",
     "Ohm's Law.md",
@@ -264,9 +267,6 @@
     "Electric Field.md",
     "References/PY206 Homework 13.1-13.3.pdf",
     "Derivative.md",
-    "Charge.md",
-    "Coulomb's Law of Force (Chemistry).md",
-    "Voltage.md",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",

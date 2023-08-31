@@ -5,7 +5,7 @@ Alias: [Components]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Electrical Circuit]]
 > Friends:: 
-> Children:: 
+> Children:: [[Resistor]]
 ---
 - ## Definition
 	- An electrical component.

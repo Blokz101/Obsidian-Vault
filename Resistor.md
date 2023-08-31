@@ -3,12 +3,12 @@ Alias: [Resistors]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Resistance]]
+> Parents:: [[Resistance]] [[Component]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- A component that resists [[Current]] in a specific way.
+	- A [[Component]] that resists [[Current]].
 		- Notated in an [[Electrical Circuit]] like this: 
 		  ![[Screenshot 2023-08-25 at 11.40.22 AM.png|200]]
 	- Set value [[Resistor|Resistors]] use a small wire to provide a known [[Resistance]].
