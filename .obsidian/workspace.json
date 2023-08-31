@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistor.md",
+                "file": "3D Line.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6397e1b41d342613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D Plane.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resistor.md",
+                "file": "3D Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resistor.md",
+                "file": "3D Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resistor.md",
+                "file": "3D Plane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,10 +245,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1444bef2b35d8f65",
+  "active": "6397e1b41d342613",
   "lastOpenFiles": [
-    "Component.md",
+    "3D Line.md",
+    "3D Plane.md",
     "Resistor.md",
+    "Component.md",
     "Kirchhoff’s Voltage Law.md",
     "Vector Cross Product.md",
     "Node.md",
@@ -249,7 +263,6 @@
     "References/IMG_831B53DE59ED-1.jpeg",
     "References/Screenshot 2023-08-29 at 6.51.32 PM.png",
     "Orthogonal Trajectory.md",
-    "3D Line and Plane.md",
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
     "References/Screenshot 2023-08-29 at 5.55.16 PM.png",
     "Parametric Function.md",
@@ -266,7 +279,6 @@
     "Calculus II.md",
     "Electric Field.md",
     "References/PY206 Homework 13.1-13.3.pdf",
-    "Derivative.md",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
