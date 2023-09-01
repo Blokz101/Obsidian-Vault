@@ -74,7 +74,19 @@
               "type": "markdown",
               "state": {
                 "file": "Equation of a Sphere.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6dfd69b32269a043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skew Lines.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equation of a Sphere.md",
+                "file": "Skew Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equation of a Sphere.md",
+                "file": "Skew Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Equation of a Sphere.md",
+                "file": "Skew Lines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -293,10 +305,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de04f588a3d25c3e",
+  "active": "6dfd69b32269a043",
   "lastOpenFiles": [
-    "Equation of a Circle.md",
     "Equation of a Sphere.md",
+    "Skew Lines.md",
+    "Equation of a Circle.md",
     "3D Plane.md",
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
@@ -330,7 +343,6 @@
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
     "References/Screenshot 2023-08-29 at 5.55.16 PM.png",
     "Parametric Function.md",
-    "Triple Product.md",
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
     "References/IMG_5410258E400E-1.jpeg",
     "References/Integration Practice.pdf",
