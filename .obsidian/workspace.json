@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "de04f588a3d25c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equation of a Circle.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e64ce3d407054ce7",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Equation of a Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Equation of a Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3D Plane.md",
+                "file": "Equation of a Circle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,8 +281,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26ac6f98371ba161",
+  "active": "de04f588a3d25c3e",
   "lastOpenFiles": [
+    "3D Plane.md",
+    "Equation of a Circle.md",
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
     "Vector Dot Product.md",
@@ -284,7 +298,6 @@
     "3D Line.md",
     "References/PY208 Homework 13.1-13.3.pdf",
     "References/PY208 Homework 13.4.pdf",
-    "3D Plane.md",
     "Normal Vector.md",
     "Average Velocity.md",
     "Point.md",
@@ -308,7 +321,6 @@
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "References/IMG_5410258E400E-1.jpeg",
-    "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/Integration Practice.pdf",
     "References/MA241 Homework 3.5.pdf",
     "References/MA241 Homework 3.4.pdf",
