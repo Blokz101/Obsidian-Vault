@@ -18,6 +18,9 @@ Alias: []
 		  > 
 		  > $(x_{0},y_{0},z_{0})$ = [[Point]] the [[3D Plane]] pases though.
 		  > $\left\langle A,B,C \right\rangle$ = [[Normal Vector]] to the [[3D Plane]]
+		  > > [!Proof]-
+		  > > ![[Screenshot 2023-09-01 at 11.51.14 AM.png]]
+		  > > ![[Screenshot 2023-09-01 at 11.51.23 AM.png]]
 	- Conversions to and from this format vary, but most of them include trying to find two [[Vector|Vectors]] in the [[3D Plane]] and then using the [[Vector Cross Product]] to find a [[Normal Vector]].
 ---
 - ## Reference
