@@ -61,31 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Line.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce691f31af02bc69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Electric Field.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "209d3bc2dbcd552f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/PY206 Homework 13.1-13.3.pdf"
               }
             }
           },
@@ -102,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -171,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/PY206 Homework 13.1-13.3.pdf",
+                "file": "Ohm's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/PY206 Homework 13.1-13.3.pdf",
+                "file": "Ohm's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/PY206 Homework 13.1-13.3.pdf",
+                "file": "Ohm's Law.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,12 +245,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "209d3bc2dbcd552f",
+  "active": "d420477a56eaa788",
   "lastOpenFiles": [
     "Electric Field.md",
-    "References/PY206 Homework 13.4.pdf",
-    "Charge.md",
     "3D Line.md",
+    "References/PY208 Homework 13.1-13.3.pdf",
+    "References/PY208 Homework 13.4.pdf",
+    "Charge.md",
     "Vector.md",
     "3D Plane.md",
     "Normal Vector.md",
@@ -301,7 +280,6 @@
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
     "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "Limit.md",
-    "References/PY206 Homework 13.1-13.3.pdf",
     "References/IMG_5410258E400E-1.jpeg",
     "References/IMG_E3F4D79E7C09-1.jpeg",
     "References/IMG_9EAB10E26A53-1.jpeg",
