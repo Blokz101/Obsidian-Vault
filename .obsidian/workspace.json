@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ohm's Law.md",
+                "file": "Charge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,8 +245,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d420477a56eaa788",
+  "active": "041e53f9975ba548",
   "lastOpenFiles": [
+    "Ohm's Law.md",
     "Electric Field.md",
     "3D Line.md",
     "References/PY208 Homework 13.1-13.3.pdf",
@@ -264,7 +265,6 @@
     "Kirchhoff’s Voltage Law.md",
     "Vector Cross Product.md",
     "Node.md",
-    "Ohm's Law.md",
     "Excalibrain Graph.md",
     "Resistance.md",
     "Orthogonal Decomposition.md",
