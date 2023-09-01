@@ -73,6 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Equation of a Sphere.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ea271c6d2a48b272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Equation of a Circle.md",
                 "mode": "preview",
                 "source": true
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equation of a Circle.md",
+                "file": "Equation of a Sphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equation of a Circle.md",
+                "file": "Equation of a Sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Equation of a Circle.md",
+                "file": "Equation of a Sphere.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,8 +295,9 @@
   },
   "active": "de04f588a3d25c3e",
   "lastOpenFiles": [
-    "3D Plane.md",
     "Equation of a Circle.md",
+    "Equation of a Sphere.md",
+    "3D Plane.md",
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
     "Vector Dot Product.md",
@@ -319,7 +332,6 @@
     "Parametric Function.md",
     "Triple Product.md",
     "References/Screenshot 2023-08-29 at 5.45.46 PM.png",
-    "References/Excalidraw/Drawing 2022-11-05 14.48.33.excalidraw.md",
     "References/IMG_5410258E400E-1.jpeg",
     "References/Integration Practice.pdf",
     "References/MA241 Homework 3.5.pdf",
