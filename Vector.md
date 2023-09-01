@@ -8,12 +8,15 @@ Alias: [Vectors]
 > Children:: [[Vector Addition]]
 ---
 - ## Definition
-	- [[Vector|Vectors]] are a description of [[Position]] or [[Velocity]]
+	- A [[Vector]] is a line segment  between two [[Point|Points]]. 
+	- A [[Vector]] has two main critical aspects: 
+		- [[Magnitude]] (Distance from $P$ to $Q$) and
+		-  [[Direction]]: (from initial [[Point]] $P$ to final [[Point]] $Q$)
 	- [[Vector|Vectors]] are the same if their [[Magnitude]] and [[Direction]] are the same.
 	- Symbol: $\large{\vec{v}}$
 	- ![[Drawing 2023-01-13 17.27.05.excalidraw]]
 	- They are described by: $\large{\vec{v}}=\left\langle r_x,r_y,r_z \right\rangle$
-	- [[Vector|Vectors]] have:
+	- These values can be calculated from a [[Vector]]:
 		- [[Position]]
 		- [[Angular Direction]]
 		- [[Displacement]]
