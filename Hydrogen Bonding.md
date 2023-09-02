@@ -13,7 +13,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 			- H-N Bond
 			- H-O Bond
 			- H-F Bond
-		- This can occur because **N**, **O** and **F** are **small** and have **high [[Electronegativity]]**, therefore they pull [[Electron|Electrons]] away from **hydrogen** and to themselves. This creates an especially strong negative [[Dipole (Chemistry)]].
+		- This can occur because **N**, **O** and **F** are **small** and have **high [[Electronegativity]]**, therefore they pull [[Electron|Electrons]] away from **hydrogen** and to themselves. This creates an especially strong negative [[Dipole]].
 		- ![[IMG_9084D6E0E636-1.jpeg|100]]
 - ## Reference
 	- A type of [[Intramolecular Forces|Intramolecular Force]].

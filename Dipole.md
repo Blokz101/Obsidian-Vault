@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Dipoles]
 ---
 > [!Info]
 > Subject:: [[Chemistry]] [[Physics II]]
@@ -12,5 +12,5 @@ Alias: []
 		- ![[IMG_77AB97065C36-1.jpeg]]
 ---
 - ## Reference
-	- [[Polar Covalent Bond|Polar Covalent Bonds]] result in [[Dipole (Chemistry)|Dipoles]].
+	- [[Polar Covalent Bond|Polar Covalent Bonds]] result in [[Dipole|Dipoles]].
 	- [[Dipoles]] are seen in [[Polar Molecule|Polar Molecules]]

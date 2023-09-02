@@ -7,12 +7,12 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- A [[Molecule]] that has a natural [[Dipole (Chemistry)]].
-		- For example in $SO_2$, Oxygen is more [[Electronegativity|Electronegative]] then Sulfur and so all the [[Electron|Electrons]] in the [[Molecule]] are pulled a little more towards the Oxygen's side. This creates an uneven distribution of [[Electron|Electrons]] or a [[Dipole (Chemistry)]].
+	- A [[Molecule]] that has a natural [[Dipole]].
+		- For example in $SO_2$, Oxygen is more [[Electronegativity|Electronegative]] then Sulfur and so all the [[Electron|Electrons]] in the [[Molecule]] are pulled a little more towards the Oxygen's side. This creates an uneven distribution of [[Electron|Electrons]] or a [[Dipole]].
 		- ![[IMG_290259DBED92-1.jpeg|400]]
-			- The red arrow shows the overall [[Dipole (Chemistry)]].
+			- The red arrow shows the overall [[Dipole]].
 		- ![[IMG_9059DC321AB3-1.jpeg|400]]
 - ## Practice
 	- [[Drawing 2022-10-15 17.13.49.excalidraw]]
 - ## Reference
-	- Has a [[Dipole (Chemistry)]].
+	- Has a [[Dipole]].

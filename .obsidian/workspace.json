@@ -44,30 +44,6 @@
             }
           },
           {
-            "id": "b433598a3ee4175a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "26ac6f98371ba161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dipole (Chemistry).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "6dfd69b32269a043",
             "type": "leaf",
             "state": {
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -209,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dipole (Chemistry).md",
+                "file": "Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dipole (Chemistry).md",
+                "file": "Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dipole (Chemistry).md",
+                "file": "Node.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,11 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26ac6f98371ba161",
+  "active": "40e966d3c4fd4573",
   "lastOpenFiles": [
-    "3D Plane.md",
+    "Vector.md",
     "Dipole.md",
-    "Dipole (Chemistry).md",
+    "3D Plane.md",
     "Equation of a Sphere.md",
     "Superposition.md",
     "Vector Cross Product.md",
@@ -318,7 +294,6 @@
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
     "Vector Dot Product.md",
-    "Vector.md",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "References/Screenshot 2023-09-01 at 11.40.08 AM.png",
     "Node.md",
