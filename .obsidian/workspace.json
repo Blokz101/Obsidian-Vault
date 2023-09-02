@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Equation of a Sphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Equation of a Sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Cross Product.md",
+                "file": "Equation of a Sphere.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -317,8 +317,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5cc32818db3617a",
+  "active": "de04f588a3d25c3e",
   "lastOpenFiles": [
+    "Vector Cross Product.md",
     "Skew Lines.md",
     "Equation of a Sphere.md",
     "Equation of a Circle.md",
@@ -344,7 +345,6 @@
     "Resistor.md",
     "Component.md",
     "Kirchhoff’s Voltage Law.md",
-    "Vector Cross Product.md",
     "Excalibrain Graph.md",
     "Resistance.md",
     "Orthogonal Decomposition.md",
