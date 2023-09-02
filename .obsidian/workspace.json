@@ -47,12 +47,8 @@
             "id": "e64ce3d407054ce7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Cross Product.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -137,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +160,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,13 +228,14 @@
   },
   "active": "e64ce3d407054ce7",
   "lastOpenFiles": [
+    "Calculus II.md",
+    "Vector Cross Product.md",
     "Orthogonal Trajectory.md",
     "Vector Dot Product.md",
     "Electric Field.md",
     "Node.md",
     "Skew Lines.md",
     "Equation of a Circle.md",
-    "Vector Cross Product.md",
     "Vector.md",
     "Dipole.md",
     "3D Plane.md",
@@ -266,7 +260,6 @@
     "Kirchhoff’s Voltage Law.md",
     "Excalibrain Graph.md",
     "Resistance.md",
-    "Orthogonal Decomposition.md",
     "References/IMG_831B53DE59ED-1.jpeg",
     "References/Screenshot 2023-08-29 at 6.51.32 PM.png",
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
