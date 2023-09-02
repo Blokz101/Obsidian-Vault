@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Physics]]
+> Subject:: [[Physics]] [[Calculus III]]
 > Parents:: 
 > Friends:: [[Vector Cross Product]] [[Orthogonal Decomposition]]
 > Children:: [[Triple Product]]
@@ -37,4 +37,6 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\vec{F}_{\parallel}=|\vec{F}_{net}|*\cos(\theta)*|\vec{p}|}$$
 ---
+- ## Practice
+	- [[MA242 Homework 1.1 .pdf]]
 - ## Reference

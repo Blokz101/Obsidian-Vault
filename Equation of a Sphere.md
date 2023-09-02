@@ -14,4 +14,6 @@ Alias: []
 	  > $(h, k, i)$ = Center of the circle as a [[Point]]
 	  > $r$ = Radius of the circle
 ---
+- ## Practice
+	- [[MA242 Homework 1.1 .pdf]]
 - ## Reference

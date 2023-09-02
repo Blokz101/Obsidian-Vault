@@ -23,4 +23,6 @@ Alias: []
 		  > > ![[Screenshot 2023-09-01 at 11.51.23 AM.png]]
 	- Conversions to and from this format vary, but most of them include trying to find two [[Vector|Vectors]] in the [[3D Plane]] and then using the [[Vector Cross Product]] to find a [[Normal Vector]].
 ---
+- ## Practice
+	- [[MA242 Homework 1.1 .pdf]]
 - ## Reference

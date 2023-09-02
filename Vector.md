@@ -24,4 +24,6 @@ Alias: [Vectors]
 	- #### Conversion From Angles
 		- ![[Angular Direction#^6d47d4]]
 ---
+- ## Practice
+	- [[MA242 Homework 1.1 .pdf]]
 - ## Reference

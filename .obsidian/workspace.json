@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "959140713c51f24d",
+        "id": "55b15f52f798ae87",
         "type": "tabs",
         "children": [
           {
-            "id": "952106e4a954ac6a",
+            "id": "6036f1d48ce73e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistance.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d420477a56eaa788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ohm's Law.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40e966d3c4fd4573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e64ce3d407054ce7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "041e53f9975ba548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charge.md",
-                "mode": "preview",
+                "file": "Dipole.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -125,7 +80,6 @@
       {
         "id": "61b56479f72a3d3d",
         "type": "tabs",
-        "dimension": 30,
         "children": [
           {
             "id": "d648d65e31baa8ba",
@@ -133,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dipole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dipole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dipole.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,22 +145,20 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "cb1e1dd16a6a6642",
+        "id": "32c972c3f20960ce",
         "type": "tabs",
-        "dimension": 70,
         "children": [
           {
-            "id": "19e786b673c052d0",
+            "id": "2abb7e2c7409426a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Node.md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalibrain Graph.md"
               }
             }
           }
@@ -211,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664.5,
+    "width": 540.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -226,40 +181,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e64ce3d407054ce7",
+  "active": "6036f1d48ce73e1f",
   "lastOpenFiles": [
-    "Calculus II.md",
-    "Vector Cross Product.md",
-    "Orthogonal Trajectory.md",
-    "Vector Dot Product.md",
-    "Electric Field.md",
+    "Resistance.md",
+    "Ohm's Law.md",
     "Node.md",
+    "Equation of a Sphere.md",
+    "Calculus III.md",
+    "3D Plane.md",
+    "Vector Dot Product.md",
+    "Vector Cross Product.md",
+    "Normal Vector.md",
+    "Vector.md",
+    "References/MA242 Homework 1.1 .pdf",
+    "Excalibrain Graph.md",
+    "Charge.md",
+    "Calculus II.md",
+    "Orthogonal Trajectory.md",
+    "Electric Field.md",
     "Skew Lines.md",
     "Equation of a Circle.md",
-    "Vector.md",
     "Dipole.md",
-    "3D Plane.md",
-    "Equation of a Sphere.md",
     "Superposition.md",
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "References/Screenshot 2023-09-01 at 11.40.08 AM.png",
-    "Charge.md",
-    "Ohm's Law.md",
     "3D Line.md",
     "References/PY208 Homework 13.1-13.3.pdf",
     "References/PY208 Homework 13.4.pdf",
-    "Normal Vector.md",
     "Average Velocity.md",
     "Point.md",
     "Spin Quantum Number.md",
     "References/Screenshot 2023-08-31 at 12.45.36 AM.png",
     "Resistor.md",
     "Component.md",
-    "Kirchhoff’s Voltage Law.md",
-    "Excalibrain Graph.md",
-    "Resistance.md",
     "References/IMG_831B53DE59ED-1.jpeg",
     "References/Screenshot 2023-08-29 at 6.51.32 PM.png",
     "References/Screenshot 2023-08-29 at 5.57.38 PM.png",
@@ -274,7 +230,6 @@
     "References/Moments And Center Of Mass - Textbook 1.pdf",
     "References/MA241 Textbook - Taylor and Maclaurin Series.pdf",
     "References/MA241 Homework 4.6.pdf",
-    "References/PY205 Homework Problem Solving.pdf",
     "Motion Note Web.canvas",
     "test.canvas"
   ]
