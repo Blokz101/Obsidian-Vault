@@ -44,60 +44,12 @@
             }
           },
           {
-            "id": "6dfd69b32269a043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skew Lines.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5cc32818db3617a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Cross Product.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea271c6d2a48b272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equation of a Circle.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e64ce3d407054ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Vector Cross Product.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1444bef2b35d8f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electric Field.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -185,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.md",
+                "file": "Vector Cross Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.md",
+                "file": "Vector Cross Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Node.md",
+                "file": "Vector Cross Product.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,25 +233,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40e966d3c4fd4573",
+  "active": "e64ce3d407054ce7",
   "lastOpenFiles": [
+    "Orthogonal Trajectory.md",
+    "Vector Dot Product.md",
+    "Electric Field.md",
+    "Node.md",
+    "Skew Lines.md",
+    "Equation of a Circle.md",
+    "Vector Cross Product.md",
     "Vector.md",
     "Dipole.md",
     "3D Plane.md",
     "Equation of a Sphere.md",
     "Superposition.md",
-    "Vector Cross Product.md",
-    "Skew Lines.md",
-    "Equation of a Circle.md",
     "References/Screenshot 2023-09-01 at 11.51.23 AM.png",
     "References/Screenshot 2023-09-01 at 11.51.14 AM.png",
-    "Vector Dot Product.md",
     "References/Excalidraw/Drawing 2023-01-13 17.27.05.excalidraw.md",
     "References/Screenshot 2023-09-01 at 11.40.08 AM.png",
-    "Node.md",
     "Charge.md",
     "Ohm's Law.md",
-    "Electric Field.md",
     "3D Line.md",
     "References/PY208 Homework 13.1-13.3.pdf",
     "References/PY208 Homework 13.4.pdf",
