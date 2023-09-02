@@ -8,7 +8,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 
 - ## Definition
 	- The forces between [[Molecule|Molecules]].
-	- Based on the [[Dipole]] and [[Coulomb's Law of Force (Chemistry)]].
+	- Based on the [[Dipole (Chemistry)]] and [[Coulomb's Law of Force (Chemistry)]].
 - ## Types of [[Intramolecular Forces]]
 	- [[Dispersion Forces]]
 		- ![[Dispersion Forces#^4d6b40]]
