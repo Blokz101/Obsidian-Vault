@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "13d3dee97161bc72",
+        "id": "c7f368811eda8e91",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0cefdaf2467780",
+            "id": "2e9d3e864dcc4b39",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Dipole.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4103edc8dfd488fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -174,15 +187,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c0cefdaf2467780",
+  "active": "4103edc8dfd488fe",
   "lastOpenFiles": [
+    "Dipole.md",
+    "Chemistry.md",
+    "Voltage.md",
+    "Electrical Circuit.md",
     "Induced Dipole.md",
     "Electric Field.md",
     "Diode.md",
     "Voltage Source.md",
-    "Electrical Circuit.md",
     "Circuit Analysis.md",
-    "Dipole.md",
     "Dipole Moment.md",
     "References/IMG_77AB97065C36-1.jpeg",
     "References/IMG_47C2FE0322F0-1.jpeg",
@@ -201,7 +216,6 @@
     "References/ECE200 Homework 2.pdf",
     "References/Screenshot 2023-09-07 at 2.45.38 PM.png",
     "Nodal Circuit Analysis.md",
-    "Voltage.md",
     "Current.md",
     "Resistance.md",
     "References/Screenshot 2023-09-07 at 2.29.18 PM.png",
@@ -213,7 +227,6 @@
     "Momentum.md",
     "Electric Field of a Dipole.md",
     "Loop.md",
-    "Charge.md",
     "References/MA242 Homework 1.1 .pdf",
     "References/PY208 Homework 13.1-13.3.pdf",
     "References/PY208 Homework 13.4.pdf",

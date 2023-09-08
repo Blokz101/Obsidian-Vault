@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "line:(\"particle\")",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.88791281723414,
-  "close": true
+  "scale": 0.1827075912038245,
+  "close": false
 }
