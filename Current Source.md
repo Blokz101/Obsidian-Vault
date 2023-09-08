@@ -1,9 +1,9 @@
 ---
-Alias: []
+Alias: [Current Sources]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Current]] [[Electrical Circuit]]
+> Parents:: [[Current]] [[Component]]
 > Friends:: [[Voltage Source]]
 > Children:: 
 ---

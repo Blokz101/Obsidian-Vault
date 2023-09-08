@@ -1,5 +1,5 @@
 ---
-Alias: [Volt, Volts, V, Potential Difference]
+Alias: [Voltages, Volt, Volts, V, Potential Difference]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]

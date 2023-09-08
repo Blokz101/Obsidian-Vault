@@ -5,7 +5,7 @@ Alias: [Electric Fields]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electromagnetic Force]]
 > Friends:: 
-> Children:: 
+> Children:: [[Electric Field of a Dipole]]
 ---
 - ## Definition
 	- The [[Electric Field]] is the field of force that [[Charge|Charges]] exert on all other [[Charge|Charges]] in the field.

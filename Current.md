@@ -1,5 +1,5 @@
 ---
-Alias: [Volt, Volts, V]
+Alias: [Currents, Volt, Volts, V]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]

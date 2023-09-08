@@ -10,9 +10,12 @@ Alias: []
 - ## Definition
 	- Relates [[Voltage]] to [[Current]] and [[Resistance]]
 	- > [!Equation]
-        >$$V=I*R$$
-        >$V$ = [[Voltage]]
-        >$I$ = [[Current]]
-        >$R$ = [[Resistance]]^1c650e
+        >$$\large{V=I*R}$$
+        >$$\large{I=\frac{V}{R}}$$
+        >$$\large{R=\frac{V}{I}}$$
+        >
+        >$V$ = [[Voltage]] in $v$
+        >$I$ = [[Current]] in $A$
+        >$R$ = [[Resistance]] in $\Omega$^1c650e
 ---
 - ## Reference

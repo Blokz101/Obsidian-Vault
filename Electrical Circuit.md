@@ -4,8 +4,8 @@ Alias: [Electrical Circuits]
 > [!Info]
 > Subject:: [[Calculus II]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
-> Friends:: [[Ohm's Law]] [[Kirchhoff’s Laws]]
-> Children:: [[Voltage Source]] [[Node]] [[Branch]] [[Loop]] [[Component]] [[Short Circuit]] [[Open Circuit]] [[Closed Circuit]]
+> Friends:: [[Ohm's Law]] [[Kirchhoff’s Laws]] [[Circuit Analysis]]
+> Children:: [[Node]] [[Branch]] [[Loop]] [[Component]] [[Short Circuit]] [[Open Circuit]] [[Closed Circuit]] 
 ---
 - ## Definition
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.

@@ -1,9 +1,9 @@
 ---
-Alias: []
+Alias: [Voltage Sources]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Voltage]] [[Electrical Circuit]]
+> Parents:: [[Voltage]] [[Component]]
 > Friends:: [[Current Source]]
 > Children:: 
 ---

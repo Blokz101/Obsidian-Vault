@@ -5,7 +5,7 @@ Alias: [Charges]
 > Subject:: [[Chemistry]] [[Physics]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Proton]] [[Electron]]
 > Friends:: 
-> Children:: [[Electromagnetic Force]]
+> Children:: [[Electromagnetic Force]] [[Dipole]]
 ---
 - ## Definition
 	- How overall positive or negative an [[Ion]] is.

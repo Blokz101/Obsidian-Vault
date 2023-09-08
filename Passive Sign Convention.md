@@ -8,10 +8,12 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A convention for notating [[Component|Components]] in an [[Electrical Circuit]].
-	  ![[IMG_5410258E400E-1.jpeg]]
-		- $V$ should be replaced with the [[Voltage]] or [[Voltage|Potential Difference]] across the [[Component]].
-		- $R$ should be replaced with the [[Resistance]] value of the [[Component]].
-		- $I$ is the direction in which [[Current]] is flowing, it can be excluded when using this notation and was only included here for reference.
+	- A convention for notating [[Component|Passive Components]] in an [[Electrical Circuit]].
+		- Resistors
+		- Capacitors
+		- Inductors
+		- Etc...
+	- States that [[Current]] flows from the point of greater [[Voltage]] to the point of lesser [[Voltage]]. Therefore [[Voltage Polarity]] and [[Current]] Direction **must be opposite each other**.
+	  ![[Screenshot 2023-09-07 at 2.29.18 PM.png]]
 ---
 - ## Reference
