@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "line:(\"particle\")",
+      "query": "file:Dipole",
       "color": {
         "a": 1,
         "rgb": 14701233
@@ -82,5 +82,5 @@
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
   "scale": 0.1827075912038245,
-  "close": false
+  "close": true
 }
