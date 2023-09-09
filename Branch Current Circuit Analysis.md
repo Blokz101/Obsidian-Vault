@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Circuit Analysis]]
-> Friends:: [[Nodal Circuit Analysis]] [[Unknowns Backyard Analogy]]
+> Friends:: [[Node Voltage Circuit Analysis]] [[Unknowns Backyard Analogy]]
 > Children:: 
 ---
 - ## Definition
