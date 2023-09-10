@@ -17,9 +17,10 @@ Alias: [Electric Fields]
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $\vec{r}$ = Position of [[Charge]] to observation point $x$ in $m$
   - When multiple [[Charge|Charges]] are present, the [[Electric Field]] is the sum of the [[Electric Field|Electric Fields]] created by each of the [[Charge|Charges]].
-  - The [[Electric Field]] can be calculated from a known [[Electromagnetic Force]] and [[Charge]].
+  - The [[Electric Field]] can be calculated from an [[Electromagnetic Force]] and [[Charge]], and vice versa.
     > [!Equation]
 	  > $$\large{\vec{E}=\frac{\vec{F}}{q}}$$
+	  > $$\large{\vec{F}=\vec{E}q}$$
 	  > 
 	  > $\vec{E}$ = [[Electric Field]] in $\frac{N}{C}$
 	  > $\vec{F}$ = [[Force]] in $N$
