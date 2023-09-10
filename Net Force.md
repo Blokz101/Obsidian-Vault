@@ -10,11 +10,11 @@ Alias: []
 - ## Definition
 	- The sum of all the [[Force|Forces]] acting on an object.
 	- > [!Equation]
-	  > $$\large{F_{net}=m*a}$$
+	  > $$\large{\vec{F}_{net}=m*\vec{a}}$$
 	  > 
-	  > $F_{net}$ = [[Net Force]] in $N$
+	  > $\vec{F}_{net}$ = [[Net Force]] in $N$
 	  > $m$ = Mass in $g$
-	  > $a$ = [[Acceleration]] in $\frac{m}{s^2}$
+	  > $\vec{a}$ = [[Acceleration]] in $\frac{m}{s^2}$
 	- To find the [[Acceleration]] from [[Net Force]] just rearrange the equation above.
 		- > [!Equation]
 		  > $$\large{a=\frac{\vec{F}_{net}}{m}}$$

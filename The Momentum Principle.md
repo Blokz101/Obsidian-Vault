@@ -18,7 +18,7 @@ Alias: []
 	- **Change in [[Momentum]] is the same as [[Impulse]].**
 - ## [[Derivative]] Form
 	- > [!Equation]
-	  >  $$\large{\frac{d\vec{p}}{pt}=F_{net}}$$
+	  >  $$\large{\frac{d\vec{p}}{dt}=\vec{F}_{net}}$$
 	  > $$\large{\frac{d\vec{p}}{dt}=m \frac{d\vec{v}}{dt}}$$
 ---
 - ## Practice
