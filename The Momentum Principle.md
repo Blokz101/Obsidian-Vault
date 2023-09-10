@@ -12,9 +12,9 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\Delta \vec{p}=\vec{F}_{net}*\Delta t}$$
 	  > 
-	  > $\Delta \vec{p}$ = Change in [[Momentum]]
+	  > $\Delta \vec{p}$ = Change in [[Momentum]] in $\frac{kg\:m}{s}$
 	  > $\vec{F}_{net}$ = [[Net Force]] in $N$
-	  > $\Delta t$ = Change in [[Time]]
+	  > $\Delta t$ = Change in [[Time]] in $s$
 	- **Change in [[Momentum]] is the same as [[Impulse]].**
 - ## [[Derivative]] Form
 	- > [!Equation]
