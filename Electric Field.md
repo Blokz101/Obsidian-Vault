@@ -4,7 +4,7 @@ Alias: [Electric Fields]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electromagnetic Force]]
-> Friends:: 
+> Friends:: [[Charge Mobility]]
 > Children:: [[Electric Field of a Dipole]]
 ---
 - ## Definition

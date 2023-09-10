@@ -4,7 +4,7 @@ Alias: [Charges]
 > [!Info]
 > Subject:: [[Chemistry]] [[Physics]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Proton]] [[Electron]]
-> Friends:: 
+> Friends:: [[Charge Mobility]]
 > Children:: [[Electromagnetic Force]] [[Dipole]]
 ---
 - ## Definition

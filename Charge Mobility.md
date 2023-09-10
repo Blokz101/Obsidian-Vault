@@ -4,15 +4,16 @@ Alias: [Charge Mobility Constant]
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Charge]] [[Electric Field]]
 > Children:: 
 ---
 - ## Definition
+	- How easily a [[Charge]] can move in a mate
 	- > [!Equation]
-	  > $$\large{v_{avg}=u\vec{E}}$$
+	  > $$\large{\vec{v}_{avg}=u\vec{E}}$$
 	  > 
-	  > $v_{avg}$ = [[Average Velocity]] of a charge in an [[Electric Field]] $\vec{E}$ in $\frac{m}{s}$
-	  > $u$ = [[Charge Mobility|Charge Mobility Constant]] in $\frac{\left \frac{m}{s} \right}{\frac{N}{C}}$
+	  > $\vec{v}_{avg}$ = [[Average Velocity]] of a charge in an [[Electric Field]] $\vec{E}$ in $\frac{m}{s}$
+	  > $u$ = [[Charge Mobility|Charge Mobility Constant]] in $\frac{m}{s}/\frac{N}{C}$
 	  > $\vec{E}$ = External [[Electric Field]] acting on the [[Charge]] in $\frac{N}{C}$
 ---
 - ## Reference
