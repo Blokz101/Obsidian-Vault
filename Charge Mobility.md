@@ -8,7 +8,7 @@ Alias: [Charge Mobility Constant]
 > Children:: 
 ---
 - ## Definition
-	- How easily a [[Charge]] can move in a mate
+	- How easily a [[Charge]] can move in a material and [[Electric Field]].
 	- > [!Equation]
 	  > $$\large{\vec{v}_{avg}=u\vec{E}}$$
 	  > 
