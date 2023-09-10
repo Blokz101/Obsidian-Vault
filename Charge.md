@@ -16,9 +16,9 @@ Alias: [Charges]
 	- > [!Equation]
 		  > $$\large{c=p-e}$$
 		  > 
-		  > $c$ = [[Charge]] (integer)
-		  > $p$ = [[Proton|Protons]] (integer)
-		  > $e$ = [[Electron|Electrons]] (integer)
+		  > $c$ = [[Charge]] in $C$
+		  > $p$ = [[Proton|Protons]] in $C$
+		  > $e$ = [[Electron|Electrons]] in $C$
 - ## Predicting Charges
 	- #### Cation
 		- The [[Charge]] is the number of [[Electron|Electrons]] lost.
