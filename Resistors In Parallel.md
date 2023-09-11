@@ -14,7 +14,7 @@ Alias: []
 	  > 
 	  > $R_{\text{parallel}}$ = Total [[Resistance]] of the [[Resistor|Resistors]] in **parallel** in $\Omega$
 	  > $R_{n}$ = [[Resistance]] of the $n$th **parallel** [[Resistor]] in $\Omega$
-	- When there are only **two [[Resistor|Resistors]] in parallel** we can use this shortcut instead
+	- When there are only **two [[Resistor|Resistors]] in parallel** we can use this shortcut instead:
 	  > [!Equation]
 	  > $$\large{R_{\text{1 and 2}}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}}$$
 	  > 
