@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]] [[Calculus III]]
 > Parents:: 
 > Friends:: [[Vector Cross Product]] [[Orthogonal Decomposition]]
-> Children:: [[Triple Product]]
+> Children:: [[Triple Product]] [[Orthogonal Projection]]
 ---
 - ## Definition
 	- A way to multiply the **parallel** components of two [[Vector|Vectors]].

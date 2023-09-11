@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics]] [[Calculus III]]
 > Parents:: 
 > Friends:: [[Vector Dot Product]] [[Right Hand Rule]]
-> Children:: [[Triple Product]]
+> Children:: [[Triple Product]] [[Orthogonal Decomposition]]
 ---
 - ## Definition
 	- Symbol: $\times$
@@ -27,4 +27,5 @@ Alias: []
 	- [[PY205 Homework 11.1.pdf]]
 	- [[PY205 Homework 11.2-11.3.pdf]]
 	- [[MA242 Homework 1.1 .pdf]]
+	- [[MA242 Homework 1.3.pdf]]
 - ## Reference
