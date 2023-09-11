@@ -22,6 +22,8 @@ Alias: []
 	  > $$\large{\lvert \vec{A}\times \vec{B} \rvert=\lvert \vec{A} \rvert\lvert \vec{B} \rvert\sin(\theta)}$$
 	  > $$\large{\vec{A}\times \vec{B}=\left\langle A_{y}B_{z}-A_{z}B_{y},A_{z}B_{x}-A_{x}B_{z},A_{x}B_{y}-A_{y}B_{x} \right\rangle}$$
 	- You can use the [[Right Hand Rule]] to quickly find the direction of the [[Vector Cross Product]].
+	- You can also use this shortcut:
+	  ![[IMG_1995D3FD9F35-1.jpeg]]
 ---
 - ## Practice
 	- [[PY205 Homework 11.1.pdf]]
