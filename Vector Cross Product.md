@@ -30,4 +30,5 @@ Alias: []
 	- [[PY205 Homework 11.2-11.3.pdf]]
 	- [[MA242 Homework 1.1 .pdf]]
 	- [[MA242 Homework 1.3.pdf]]
+	- [[MA242 Homework 1.4.pdf]]
 - ## Reference
