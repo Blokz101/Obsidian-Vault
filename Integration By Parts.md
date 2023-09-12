@@ -9,7 +9,7 @@ Alias: []
 ---
 - ## Definition
 	- A method of [[Integral|Integration]]
-		- The goal is to pick a $u$ value that can be simplified by taking the [[Derivative]]. Therefore at after some number of repetitions it will simplify to the point where we can solve $\int v \, du$ in our head.
+		- The goal is to pick a $u$ value that can be simplified by taking the [[Derivative]]. Therefore at after some number of repetitions it will simplify to the point where we can solve the [[Integral]] of the rest of the equation, $\int v \, du$, in our head.
 	- > [!Equation]
 	  > $$\large{\int u \, dv=uv-\int v \, du}$$
 	  > 
