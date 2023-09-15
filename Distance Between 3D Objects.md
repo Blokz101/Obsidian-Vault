@@ -10,7 +10,13 @@ Alias: []
 - ## Distance Between a [[Point]] and [[3D Plane]]
 	- 
 - ## Distance Between a [[Vector]] and [[3D Plane]]
-	- 
+	- First ensure that the [[Vector]] and [[3D Plane]] are parallel by taking the [[Vector Dot Product]] of the [[Normal Vector]] of the [[3D Plane]] and the other [[Vector]].
+	  > [!Equation]
+	  > The [[Vector]] and [[3D Plane]] are parallel if:
+	  > $$\large{\vec{v}\cdot \vec{v}_{n}=0}$$
+	  > 
+	  > $\vec{v}$ = The [[Vector]] given
+	  > $\vec{v}_{n}$ = The [[Normal Vector]] of the [[e]]
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
 	  > ![[IMG_3B7794F9179D-1.jpeg|400]]
@@ -26,6 +32,7 @@ Alias: []
 	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
+	- First ensure that the two [[Vector|Vectors]] are NOT parallel and do NOT intersect.
 	- > [!Equation]
 	  > ![[IMG_6BE351F26EDD-1.jpeg|400]]
 	  > 

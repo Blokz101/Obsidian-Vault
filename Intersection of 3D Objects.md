@@ -8,6 +8,7 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 > Children:: 
 ---
 - ## Intersection of Two Vectors
+	- Answer will be a [[Point]].
 	- To check if two [[Vector|Vectors]] intersect you need to first check if the two [[Vector|Vectors]] are parallel. 
 		- Two vectors are parallel if one is a multiple of the other.
 		  > [!Equation]
@@ -26,6 +27,7 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 	  > 
 	  > If even one equation is unsolvable then the lines do not intersect.
 - ## Intersection of Two Planes
+	- Answer will be a [[Vector]].
 	- Two planes intersect if they are not parallel.
 		- Two planes are parallel if their [[Normal Vector|Normal Vectors]] are parallel. See equation above for parallel vectors.
 	- The direction [[Vector]] of two intersecting [[3D Plane|3D Planes]] is the [[Vector Cross Product]] of the [[Normal Vector|Normal Vectors]] of the planes.
