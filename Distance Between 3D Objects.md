@@ -11,7 +11,8 @@ Alias: []
 	- 
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
-	  > $\large{d=}$
+	  > ![[IMG_0E11E7FB4C3B-1.jpeg|400]]
+	  > $$\large{d=\frac{|\vec{r}\times \vec{v}|}{e}}$$
 - ## Distance Between Two [[Skew Lines]]
 	- 
 ---
