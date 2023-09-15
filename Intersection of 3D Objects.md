@@ -41,6 +41,15 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 		- Pick a variable, $x$, $y$, or $z$, and set it to $0$ in both [[3D Plane|3D Planes]].
 		- Solve the remaining equations of the two [[3D Plane|3D Planes]] like a system of equations.
 - ## Intersection of a Plane and Vector
-	- 
+	- Simply plug the [[Parametric Function|Parametric Equations]] of the [[Vector]] into the $x$, $y$, and $z$ variables in the equation for a [[3D Plane]].
+	  > [!Equation]
+	  > [[Parametric Function|Parametric Equations]] for a [[Vector]]
+	  > $$\large{x=At-x_{0}}$$
+	  > $$\large{y=Bt-y_{0}}$$
+	  > $$\large{z=Ct-z_{0}}$$
+	  > Equation of a [[3D Plane]]
+	  > $$\large{Dx+Ey+Fz=D}$$
+	  > Sub and solve for $t$
+	  > $\large{D(At-x_{0})+}$
 ---
 - ## Reference
