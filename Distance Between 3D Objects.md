@@ -29,8 +29,8 @@ Alias: []
 	  > $\vec{v}$ = Vector on drawing
 	  > > [!Proof]-
 	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
-	  > > $$\large{A=|\vec{v}\times \vec{r}|}\text{ and }A=|\vec{v}|*|\vec{r}|$$
-	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
+	  > > $$\large{A=|\vec{r}\times \vec{v}|}\text{ and }A=|\vec{v}|*|\vec{d}|$$
+	  > > $$\large{|\vec{v}|*|\vec{d}|=|\vec{r}\times \vec{v}|}$$
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
 	- First ensure that the two [[Vector|Vectors]] are NOT parallel and do NOT intersect.
