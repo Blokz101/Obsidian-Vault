@@ -30,7 +30,11 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 		- Two planes are parallel if their [[Normal Vector|Normal Vectors]] are parallel. See equation above for parallel vectors.
 	- The direction [[Vector]] of two intersecting [[3D Plane|3D Planes]] is the [[Vector Cross Product]] of the [[Normal Vector|Normal Vectors]] of the planes.
 	  > [!Equation]
-	  > $\large{\vec{V}_{I}=\vec{V}_{1\:n}\times\vec{V}_{1\:n}}$
+	  > $$\large{\vec{V}_{I}=\vec{V}_{1\:n}\times\vec{V}_{2\:n}}$$
+	  > 
+	  > $\vec{V}_{i}$ = Direction of intersection [[Vector]]
+	  > $\vec{V}_{1\:n}$ = [[Normal Vector]] of  [[3D Plane]] $1$
+	  > $\vec{V}_{2\:n}$ = [[Normal Vector]] of  [[3D Plane]] $2$
 - ## Intersection of a Plane and Vector
 	- 
 ---
