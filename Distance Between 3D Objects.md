@@ -25,13 +25,14 @@ Alias: []
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
 	- > [!Equation]
+	  > ![[IMG_6BE351F26EDD-1.jpeg|400]]
 	  > 
-	  > 
-	  > $$\large{|\vec{d}|=\frac{\vec{d}\cdot(\vec{v}_{1}\times \vec{v}_{2})}{|\vec{v}_{1}\times \vec{v}_{2}|}}$$
-	  > $\large{\vec{d}}$ = Shortest distance [[Vector]]
+	  > $$\large{|\vec{d}|=\frac{\vec{r}\cdot(\vec{v}_{1}\times \vec{v}_{2})}{|\vec{v}_{1}\times \vec{v}_{2}|}}$$
+	  > $\vec{d}$ = Shortest distance [[Vector]]
+	  > $\vec{r}$ = Distance [[Vector]] between $a_{1}$ and $a_{2}$
+	  > $a_{\#}$ = A point on [[Vector]] $v_{\#}$, normally the point in the [[Vector|Vectors]] [[Parametric Function|Parametric Equations]].
 	  > $\vec{v}_{\#}$ = [[Vector|Vectors]] labeled on the drawing
-	  > > [!Proof]
-	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
-	  > > $\large{V=\vec{d}\cdot(\vec{v}_{1}\times \vec{v}_{2})}\text{ and }V=|\vec{v}_{1}\times \vec{v}_{2}|$
+	  > > [!Proof]-
+	  > > ![[IMG_91403223BB5F-1.jpeg]]
 ---
 - ## Reference
