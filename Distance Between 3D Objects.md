@@ -11,16 +11,18 @@ Alias: []
 	- 
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
-	  > ![[IMG_0E11E7FB4C3B-1.jpeg|400]]
-	  > $$\large{d=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
+	  > ![[IMG_3B7794F9179D-1.jpeg|400]]
+	  > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 	  > 
-	  > $d$ = Shortest distance
+	  > $\vec{d}$ = Shortest distance [[Vector]]
 	  > $\vec{r}$ = Position [[Vector]] from a point on $\vec{v}$ to $P$
 	  > $P$ = Point on drawing
 	  > $\vec{v}$ = Vector on drawing
-	  > > [!Proof]
+	  > > [!Proof]-
 	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
-	  > > 
+	  > > $$\large{A=|\vec{v}\times \vec{d}|}\text{ and }A$$
+	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
+	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
 	- 
 ---
