@@ -25,7 +25,7 @@ Alias: []
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
 	  > ![[IMG_3B7794F9179D-1.jpeg|400]]
-	  > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
+	  > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}=|\vec{r}\times \hat{v}|}$$
 	  > 
 	  > $\vec{d}$ = Shortest distance [[Vector]]
 	  > $\vec{r}$ = Position [[Vector]] from a point on $\vec{v}$ to $P$
