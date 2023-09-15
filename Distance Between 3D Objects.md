@@ -7,7 +7,9 @@ Alias: []
 > Friends:: [[Intersection of 3D Objects]]
 > Children:: 
 ---
-- ## Distance Between Two Parallel [[3D Plane|3D Planes]]
+- ## Distance Between a [[Point]] and [[3D Plane]]
+	- 
+- ## Distance Between a [[Vector]] and [[3D Plane]]
 	- 
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
