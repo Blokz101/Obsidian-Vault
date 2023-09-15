@@ -35,6 +35,9 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 	  > $\vec{V}_{i}$ = Direction of intersection [[Vector]]
 	  > $\vec{V}_{1\:n}$ = [[Normal Vector]] of  [[3D Plane]] $1$
 	  > $\vec{V}_{2\:n}$ = [[Normal Vector]] of  [[3D Plane]] $2$
+	- Finally find a [[Point]] that lies on both [[3D Plane|3D Planes]].
+		- Pick a variable, $x$, $y$, or $z$, and set it to $0$ in both [[3D Plane|3D Planes]].
+		- Solve the remaining equations of the two [[3D Plane|3D Planes]] like a system of equations.
 - ## Intersection of a Plane and Vector
 	- 
 ---
