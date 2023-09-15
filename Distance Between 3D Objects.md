@@ -16,7 +16,8 @@ Alias: []
 	  > $$\large{\vec{v}\cdot \vec{v}_{n}=0}$$
 	  > 
 	  > $\vec{v}$ = The [[Vector]] given
-	  > $\vec{v}_{n}$ = The [[Normal Vector]] of the [[e]]
+	  > $\vec{v}_{n}$ = The [[Normal Vector]] of the [[3D Plane]]
+	- **CONTINUE HERE THIS IS NOT DONE**
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
 	  > ![[IMG_3B7794F9179D-1.jpeg|400]]
@@ -28,7 +29,7 @@ Alias: []
 	  > $\vec{v}$ = Vector on drawing
 	  > > [!Proof]-
 	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
-	  > > $$\large{A=|\vec{v}\times \vec{d}|}\text{ and }A=|\vec{v}|*|\vec{r}|$$
+	  > > $$\large{A=|\vec{v}\times \vec{r}|}\text{ and }A=|\vec{v}|*|\vec{r}|$$
 	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
