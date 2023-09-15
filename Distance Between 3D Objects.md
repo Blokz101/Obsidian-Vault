@@ -20,7 +20,7 @@ Alias: []
 	  > $\vec{v}$ = Vector on drawing
 	  > > [!Proof]-
 	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
-	  > > $$\large{A=|\vec{v}\times \vec{d}|}\text{ and }A$$
+	  > > $$\large{A=|\vec{v}\times \vec{d}|}\text{ and }A=|\vec{v}|*|\vec{r}|$$
 	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
