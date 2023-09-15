@@ -18,12 +18,12 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 	  > [!Equation]
 	  > Let $\vec{A}$ and $\vec{B}$ be [[Vector|Vectors]] that are not parallel. Let $t$ be the parametric variable for each [[Vector]].
 	  > $$\large{\vec{A}=\left\langle A_{x}(t), A_{y}(t),A_{z}(t) \right\rangle}$$
-	  > $$\large{\vec{B}=\left\langle B_{x}(t), B_{y}(t),B_{z}(t) \right\rangle}$$
-	  > Set each parametric equation equal to its counterpart and solve for $t$.
-	  > $$\large{A_{x}(t)=B_{x}(t)}$$
-	  > $$\large{A_{y}(t)=B_{y}(t)}$$
-	  > $$\large{A_{z}(t)=B_{z}(t)}$$
-	  > If you get the same $t$ for every equation above then the [[Vector|Vectors]] intersect at that point.
+	  > $$\large{\vec{B}=\left\langle B_{x}(s), B_{y}(s),B_{z}(s) \right\rangle}$$
+	  > Set each parametric equation equal to its counterpart and solve for $t$ and $s$.
+	  > $$\large{A_{x}(t)=B_{x}(s)}$$
+	  > $$\large{A_{y}(t)=B_{y}(s)}$$
+	  > $$\large{A_{z}(t)=B_{z}(s)}$$
+	  > If a solution for $s$ and $t$ exit for all three equations then that is the point of intersection.
 	  > 
 	  > If even one equation is unsolvable then the lines do not intersect.
 - ## Intersection of Two Planes
