@@ -43,13 +43,13 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 - ## Intersection of a Plane and Vector
 	- Simply plug the [[Parametric Function|Parametric Equations]] of the [[Vector]] into the $x$, $y$, and $z$ variables in the equation for a [[3D Plane]].
 	  > [!Equation]
-	  > [[Parametric Function|Parametric Equations]] for a [[Vector]]
+	  > [[Parametric Function|Parametric Equations]] for a [[Vector]]:
 	  > $$\large{x=At-x_{0}}$$
 	  > $$\large{y=Bt-y_{0}}$$
 	  > $$\large{z=Ct-z_{0}}$$
-	  > Equation of a [[3D Plane]]
+	  > Equation of a [[3D Plane]]:
 	  > $$\large{Dx+Ey+Fz=D}$$
-	  > Sub and solve for $t$
-	  > $\large{D(At-x_{0})+}$
+	  > Sub and solve for $t$:
+	  > $$\large{D(At-x_{0})+E(Bt-y_{0})+F(Ct-z_{0})=D}$$
 ---
 - ## Reference
