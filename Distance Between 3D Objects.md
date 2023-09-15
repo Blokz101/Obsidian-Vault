@@ -24,6 +24,12 @@ Alias: []
 	  > > $$\large{|\vec{v}|*|\vec{r}|=|\vec{v}\times \vec{d}|}$$
 	  > > $$\large{|\vec{d}|=\frac{|\vec{r}\times \vec{v}|}{|\vec{v}|}}$$
 - ## Distance Between Two [[Skew Lines]]
-	- 
+	- > [!Equation]
+	  > ![[IMG_543C563E723D-1.jpeg|400]]
+	  > 
+	  > $$\large{|\vec{d}|=\frac{\vec{d}\cdot(\vec{v}_{1}\times \vec{v}_{2})}{|\vec{v}_{1}\times \vec{v}_{2}|}}$$
+	  > $\large{\vec{d}}$ = Shortest distance [[Vector]]
+	  > $\vec{v}_{\#}$ = [[Vector|Vectors]] labeled on the drawing
+	  > 
 ---
 - ## Reference
