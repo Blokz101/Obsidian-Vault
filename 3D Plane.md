@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [3D Planes]
 ---
 > [!Info]
 > Subject:: [[Calculus III]]

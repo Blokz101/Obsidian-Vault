@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Normal Vectors]
 ---
 > [!Info]
 > Subject:: [[Calculus III]]
