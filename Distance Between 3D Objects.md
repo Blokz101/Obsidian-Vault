@@ -31,6 +31,7 @@ Alias: []
 	  > $\large{\vec{d}}$ = Shortest distance [[Vector]]
 	  > $\vec{v}_{\#}$ = [[Vector|Vectors]] labeled on the drawing
 	  > > [!Proof]
-	  > > $\large{}$
+	  > > Start with the [[Area of a Parallelogram or Parallelepiped]]
+	  > > $\large{V=\vec{d}\cdot(\vec{v}_{1}\times \vec{v}_{2})}\text{ and }V=|\vec{v}_{1}\times \vec{v}_{2}|$
 ---
 - ## Reference
