@@ -4,7 +4,7 @@ Alias: [Intersection of Two Vectors, Intersection of Two Planes, Intersection of
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Distance Between 3D Objects]]
 > Children:: 
 ---
 - ## Intersection of Two Vectors
