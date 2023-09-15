@@ -8,7 +8,10 @@ Alias: []
 > Children:: 
 ---
 - ## Distance Between a [[Point]] and [[3D Plane]]
-	- 
+	- > [!Equation]
+	  > ![[IMG_AD728DFB50C6-1.jpeg]]
+	  > > [!Proof]
+	  > > ![[IMG_316587936F21-1.jpeg]]
 - ## Distance Between a [[Vector]] and [[3D Plane]]
 	- First ensure that the [[Vector]] and [[3D Plane]] are parallel by taking the [[Vector Dot Product]] of the [[Normal Vector]] of the [[3D Plane]] and the other [[Vector]].
 	  > [!Equation]
