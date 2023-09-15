@@ -10,6 +10,7 @@ Alias: []
 - ## Distance Between a [[Point]] and [[3D Plane]]
 	- > [!Equation]
 	  > ![[IMG_AD728DFB50C6-1.jpeg]]
+	  > $$\large{|\vec{d}|=\frac{|A(x_{0}-x_{1})+B(y_{0}-y_{1})+C(z_{0}-z_{1})|}{\sqrt{ A^2 +B^2+C^{2}}}}$$
 	  > > [!Proof]
 	  > > ![[IMG_316587936F21-1.jpeg]]
 - ## Distance Between a [[Vector]] and [[3D Plane]]
