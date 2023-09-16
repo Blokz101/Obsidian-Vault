@@ -24,9 +24,12 @@ Alias: [Integrals, Integration, Integrate]
 	- Methods of [[Integral|Integration]]
 		- [[Integration By Parts]]
 		- [[U Substitution]]
+- ## [[Integral]] of a [[Vector]]
+	- Simply the [[Integral]] of each component of the [[Vector]].
 ---
 - ## Practice
 	- [[Drawing 2022-11-11 21.07.30.excalidraw]]
+	- [[MA242 Homework 2.1.pdf]]
 - ## Reference
 	- Used in:
 		- [[Arc Length]]
