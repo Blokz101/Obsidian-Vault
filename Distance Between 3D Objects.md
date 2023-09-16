@@ -49,4 +49,6 @@ Alias: []
 	  > > [!Proof]-
 	  > > ![[IMG_91403223BB5F-1.jpeg]]
 ---
+- ## Practice
+	- [[MA242 Homework 1.5.pdf]]
 - ## Reference
