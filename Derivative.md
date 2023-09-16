@@ -18,6 +18,8 @@ Alias: [Differentiation, Differentiable, Derivatives, Differentiate]
 	- This is called [[Derivative|Differentiation]]. 
 	- > [!Warning]
 	  > The function must be [[Continuity|Continuous]] at the point that you want to take the [[Derivative]] of. The limit may exist, but [[Continuity]] is required for [[Derivative|Differentiation]].
+- ## [[Derivative]] of a [[Vector]]
+	- Simply the deritive of each 
 ---
 - ## Practice
 	- [[Drawing 2022-09-14 12.58.23.excalidraw]]
