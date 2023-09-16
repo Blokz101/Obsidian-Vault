@@ -21,7 +21,7 @@ Alias: []
 	  > 
 	  > $\vec{v}$ = The [[Vector]] given
 	  > $\vec{v}_{n}$ = The [[Normal Vector]] of the [[3D Plane]]
-	- **CONTINUE HERE THIS IS NOT DONE**
+	- If the [[Vector]] is parallel to the [[3D Plane]] then you can simply use the **Distance Between a [[Point]] and [[3D Plane]]** formula with the [[Point]] being the [[Point]] the [[Vector|Vectors]] starts at.
 - ## Distance Between a [[Point]] and [[Vector]]
 	- > [!Equation]
 	  > ![[IMG_3B7794F9179D-1.jpeg|400]]
