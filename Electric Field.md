@@ -10,7 +10,7 @@ Alias: [Electric Fields]
 - ## Definition
 	- The [[Electric Field]] is the field of force that [[Charge|Charges]] exert on all other [[Charge|Charges]] in the field.
 	  > [!Equation]
-	  > $$\large{\vec{E}_{\text{at x}}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^2}\hat{r}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^{2/3}}\vec{r}}$$
+	  > $$\large{\vec{E}_{\text{at x}}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^2}\hat{r}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^{3/2}}\vec{r}}$$
 	  > 
 	  > $\vec{E}_{\text{at x}}$ = [[Electric Field]] at observation point $x$ in $\frac{N}{C}$
 	  > $Q$ = [[Charge]] in $C$
