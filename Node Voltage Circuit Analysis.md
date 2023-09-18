@@ -14,14 +14,14 @@ Alias: []
 		- Set a **ground** reference if there is not already one.
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
-		- Label the [[Voltage|Voltages]] for each [[Node]]. If the [[Voltage]] is unknown then assign it to a variable.
+		- Assign the [[Voltage]] on each [[Node]] to a variable.
 		- Label the positive and negative terminals each component according to the [[Passive Sign Convention]] if applicable.
 	- #### Step 3
 		- > [!Terminology]-
 		  > For the variables there will be **given, knowns, and unknowns.** 
 		  > 
-		  > - The **given variables** are variables given by the problem itself or are measured:
-		  > - The **unknown variables** are variables that we need to solve for with [[Kirchhoff’s Voltage Law|KVL]].
+		  > - The **given variables** are variables given by the problem itself or are measured.
+		  > - The **unknown variables** are variables that we need to solve for.
 		  > - The **known variables** are the variables that we can solve for in terms of the **known** and **unknown** variables.
 		- Pick a variable defined in the previous step to be each **unknown variables**.
 		- Write all the **known** variables in terms of the **given** and **unknown** [[Current|Currents]].
