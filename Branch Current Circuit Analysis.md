@@ -28,7 +28,7 @@ Alias: []
 		- Write all the **known [[Current|Currents]]** in terms of the **given [[Current|Currents]]** and **unknown [[Current|Currents]]** .
 	- #### Step 4
 		- Write a new [[Kirchhoff’s Voltage Law|KVL]] equation on a [[Loop]] that avoids [[Current Source|Current Sources]].
-		- Substitute [[Voltage|Voltages]] that are not given with $IR$ as stated by [[Ohm's Law]].
+		- Substitute [[Voltage|Voltages]] that are not given with $V=IR$ as stated by [[Ohm's Law]].
 	- #### Step 5
 		- Combine all the [[Kirchhoff’s Voltage Law|KVL]] equations to solve for the **unknown [[Current|Currents]]**.
 		- If there is missing information then return to Step 4.
