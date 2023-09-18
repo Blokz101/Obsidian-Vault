@@ -5,7 +5,7 @@ Alias: [Electrical Circuits]
 > Subject:: [[Calculus II]] [[Signals, Circuits, and Systems]]
 > Parents:: [[Second Order Linear Non-Homogeneous Differential Equations]]
 > Friends:: [[Ohm's Law]] [[Kirchhoff’s Laws]] [[Circuit Analysis]]
-> Children:: [[Node]] [[Branch]] [[Loop]] [[Component]] [[Short Circuit]] [[Open Circuit]] [[Closed Circuit]] 
+> Children:: [[Node]] [[Branch]] [[Loop]] [[Electrical Component]] [[Short Circuit]] [[Open Circuit]] [[Closed Circuit]] 
 ---
 - ## Definition
 	- A closed loop that allows [[Electron|Electrons]] to flow and do work.
@@ -16,14 +16,14 @@ Alias: [Electrical Circuits]
 		- [[Open Circuit]]
 		- [[Short Circuit]]
 - ## Parts of a Circuit
-	- [[Component]]
+	- [[Electrical Component]]
 	- [[Node]]
 	- [[Branch]]
 	- [[Loop]]
 	- > [!Example]
 	  > ![[IMG_422E3AD4A9A5-1.jpeg|400]]
 	  > This [[Electrical Circuit]] has:
-	  > - 5 [[Component|Components]]
+	  > - 5 [[Electrical Component|Components]]
 	  > - 4 [[Node|Nodes]]
 	  >  - 3 [[Branch|Branches]]
 	  > - 3 [[Loop|Loops]]

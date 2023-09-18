@@ -9,6 +9,6 @@ Alias: [Components, Passive Component, Passive Components]
 ---
 - ## Definition
 	- An electrical component.
-	- A [[Component|Passive Component]] is a [[Component]] that does not generate power, but instead dissipates, stores, and/or releases it.
+	- A [[Electrical Component|Passive Component]] is a [[Electrical Component]] that does not generate power, but instead dissipates, stores, and/or releases it.
 ---
 - ## Reference

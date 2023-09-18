@@ -8,7 +8,7 @@ Alias: [Branches]
 > Children:: 
 ---
 - ## Definition
-	- Any connected [[Component]] that have the same [[Current]].
+	- Any connected [[Electrical Component]] that have the same [[Current]].
 ---
 - ## Reference
 	- Example in [[Electrical Circuit]].

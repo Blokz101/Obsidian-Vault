@@ -3,7 +3,7 @@ Alias: [Current Sources]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Current]] [[Component]]
+> Parents:: [[Current]] [[Electrical Component]]
 > Friends:: [[Voltage Source]]
 > Children:: 
 ---

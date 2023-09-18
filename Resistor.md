@@ -3,12 +3,12 @@ Alias: [Resistors]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Resistance]] [[Component]]
+> Parents:: [[Resistance]] [[Electrical Component]]
 > Friends:: 
 > Children:: [[Resistors In Parallel]] [[Resistors In Series]]
 ---
 - ## Definition
-	- A [[Component]] that resists [[Current]].
+	- A [[Electrical Component]] that resists [[Current]].
 		- Notated in an [[Electrical Circuit]] like this: 
 		  ![[IMG_53C066EBB01B-1.jpeg|400]]
 	- Set value [[Resistor|Resistors]] use a small wire to provide a known [[Resistance]].

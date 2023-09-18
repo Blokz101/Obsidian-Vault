@@ -3,7 +3,7 @@ Alias: [Voltage Sources]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Voltage]] [[Component]]
+> Parents:: [[Voltage]] [[Electrical Component]]
 > Friends:: [[Current Source]]
 > Children:: 
 ---

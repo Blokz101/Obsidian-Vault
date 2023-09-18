@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A convention for notating [[Component|Passive Components]] in an [[Electrical Circuit]].
+	- A convention for notating [[Electrical Component|Passive Components]] in an [[Electrical Circuit]].
 		- Resistors
 		- Capacitors
 		- Inductors

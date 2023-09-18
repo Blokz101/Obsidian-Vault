@@ -3,12 +3,12 @@ Alias: [Diodes]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Component]]
+> Parents:: [[Electrical Component]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- A [[Component]] that essentially only allows [[Current]] to flow in one direction.
+	- A [[Electrical Component]] that essentially only allows [[Current]] to flow in one direction.
 	- A [[Diode]] effectively has two states:
 		- ON $V=V_{\gamma}$: [[Diode]] behaves like a [[Voltage Source]] of $V_{\gamma}$ volts.
 		- OFF $V<V_{\gamma}$: [[Diode]] behaves like an [[Open Circuit]], $I\approx0$.

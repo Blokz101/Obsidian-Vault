@@ -8,7 +8,7 @@ Alias: [Nodes]
 > Children:: 
 ---
 - ## Definition
-	- A location where two or more [[Component|Components]] connect to each other.
+	- A location where two or more [[Electrical Component|Components]] connect to each other.
 ---
 - ## Reference
 	- Example in [[Electrical Circuit]].
