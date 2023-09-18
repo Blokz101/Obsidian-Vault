@@ -8,6 +8,9 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+- ## Steps
+	- #### Step 1
+		- Identify the [[Node|Nodes]], [[Branch|Branches]], and [[Loop|Loops]] in the [[Electrical Circuit]].
+		- Simplify the [[Electrical Circuit]] if possible.
 ---
 - ## Reference

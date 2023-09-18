@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Circuit Analysis]]
-> Friends:: [[Node Voltage Circuit Analysis]] [[Unknowns Backyard Analogy]]
+> Friends:: [[Node Voltage Circuit Analysis]]
 > Children:: 
 ---
 - ## Definition
@@ -23,7 +23,10 @@ Alias: []
 		  > - The **given [[Current|Currents]]** are [[Current|Currents]] given by the problem itself or are measured:
 		  > - The **unknown [[Current|Currents]]** are [[Current|Currents]] that we need to solve for with [[Kirchhoff’s Voltage Law|KVL]].
 		  > - The **known [[Current|Currents]]** are the [[Current|Currents]] that we can solve for in terms of the **known** and **unknown** [[Current|Currents]].
-		- Calculate the number of **unknowns** using the [[Unknowns Backyard Analogy]].
+		- Calculate the number of **unknowns** using this formula:
+		  > [!Equation]
+		  > $$\large{\text{unknown currents}=\text{backyards}-\text{current sources}}$$
+		  > Where a $\text{backyard}$ is white space boxed in on all sides by wires or components.
 		- Pick a variable defined in the previous step to be each **unknown [[Current]]**.
 		- Write all the **known** variables in terms of the **given** and **unknown** [[Current|Currents]].
 	- #### Step 4
