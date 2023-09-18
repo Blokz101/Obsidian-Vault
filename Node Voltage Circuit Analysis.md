@@ -10,6 +10,9 @@ Alias: []
 - ## Definition
 - ## Steps
 	- #### Step 1
+		- Calculate the number of unknowns for this method:
+		  > [!Equation]
+		  > $$\large{\text{unknown voltages}=\text{nodes}-\text{ground references}-\text{voltage sources}}$$
 		- Identify the [[Node|Nodes]], [[Branch|Branches]], and [[Loop|Loops]] in the [[Electrical Circuit]].
 		- Set a **ground reference** if there is not already one.
 		- Simplify the [[Electrical Circuit]] if possible.

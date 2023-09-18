@@ -11,9 +11,9 @@ Alias: []
 	- Method of [[Circuit Analysis]] that uses [[Kirchhoff’s Voltage Law]] to solve for all [[Current|Currents]] in an [[Electrical Circuit]].
 - ## Steps
 	- #### Step 1
-		- Calculate the number of unknowns for this method like this
+		- Calculate the number of unknowns for this method:
 		  > [!Equation]
-		  > $\large{\text{unknown currents}=\text{current sources}-\text{}}$
+		  > $$\large{\text{unknown currents}=\text{backyards}-\text{current sources}}$$
 		- Identify the [[Node|Nodes]], [[Branch|Branches]], and [[Loop|Loops]] in the [[Electrical Circuit]].
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
