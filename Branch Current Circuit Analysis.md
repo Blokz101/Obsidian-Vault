@@ -16,10 +16,10 @@ Alias: []
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
 		- Label the [[Current|Currents]] for each [[Branch]]. If the [[Current]] is unknown then assign it to a variable.
-		- Label each component according to the [[Passive Sign Convention]] if applicable.
+		- Label the positive and negative terminals each component according to the [[Passive Sign Convention]] if applicable.
 	- #### Step 3
 		- > [!Terminology]-
-		  > For the labeled [[Current|Currents]] there will be **given, knowns, and unknowns.** 
+		  > For the [[Current]] variables there will be **given, knowns, and unknowns.** 
 		  > 
 		  > - The **given [[Current|Currents]]** are [[Current|Currents]] given by the problem itself or are measured:
 		  > - The **unknown [[Current|Currents]]** are [[Current|Currents]] that we need to solve for with [[Kirchhoff’s Voltage Law|KVL]].
