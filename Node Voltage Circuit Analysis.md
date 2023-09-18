@@ -14,6 +14,6 @@ Alias: []
 		- Set a **ground** reference if there is not already one.
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
-		- Label the [[Voltage|Voltages]] for each [[Node]]. If there is no [[voltage]]
+		- Label the [[Voltage|Voltages]] for each [[Node]]. If the [[Voltage]] is unknown then assign it to a variable.
 ---
 - ## Reference
