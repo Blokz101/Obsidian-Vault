@@ -9,7 +9,8 @@ Alias: [Partial Derivatives]
 ---
 - ## Definition
 	- The [[Derivative]] of a multi-variable [[Function]] where all but one variable are held constant.
-	- Often [[Partial Derivative|Partial Derivatives]] will be chained together to reduce a multi-variable [[Function]] to a double variable [[Function]].
-	- The [[Partial Derivative]] of $f(x,y)$ with respect to $y$ is $\frac{\partial}{\partial y}f(x,y)$.
----
+	- [[Partial Derivatives]] can be notated in many ways:
+	  > [!Equation]
+	  > The [[Partial Derivative]] of $f(x,y,z)$ with respect to $y$, then $x$, then $z$ is:
+	  > $\frac{ \partial  }{ \partial z }\left( \frac{ \partial  }{ \partial x }\left( \frac{ \partial  }{ \partial y }f(x,y,z) \right) \right)$
 - ## Reference
