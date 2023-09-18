@@ -26,6 +26,7 @@ Alias: []
 		- Pick a variable defined in the previous step to be each **unknown variables**.
 		- Write all the **known [[Voltage|Voltages]]** in terms of the **given [[Voltage|Voltages]]** and **unknown [[Voltage|Voltages]]**.
 	- #### Step 4
-		- Write a new [[Kirchhoff’s Current Law|KCL]] 
+		- Write a new [[Kirchhoff’s Current Law|KCL]] equation for a [[Node]] that avoids [[Voltage Source]].
+		- Write 
 ---
 - ## Reference
