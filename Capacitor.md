@@ -3,18 +3,18 @@ Alias: [Capacitors]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
-> Parents:: [[Electrical Component]]
+> Parents:: [[Electrical Component]] [[Capacitance]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
 	- A [[Electrical Component|Passive Component]] that can store up and release [[Charge]].
 		- > [!Equation]
-		  > $\large{Q=CV}$
+		  > $$\large{Q=CV}$$
 		  > 
 		  > $Q$ = [[Charge]] in ???
 		  > $C$ = [[Capacitance]] in ???
-		  > $V$
+		  > $V$ = [[Voltage]] in ???
 	- Made up of two metal plates and an [[Insulator]] in between.
 	  ![[IMG_294D7E6DD76F-1.jpeg]]
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
