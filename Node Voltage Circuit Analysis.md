@@ -30,7 +30,7 @@ Alias: []
 		- Write all the **known [[Voltage|Voltages]]** in terms of the **given [[Voltage|Voltages]]** and **unknown [[Voltage|Voltages]]**.
 	- #### Step 4
 		- Write a new [[Kirchhoff’s Current Law|KCL]] equation for a [[Node]] that avoids [[Voltage Source]].
-			- If required you can use the [[Superposition Theorem]] to solve for [[Current|Currents]] 
+			- If required you can use the [[Superposition Theorem]] to solve for [[Current|Currents]] if you cannot avoid a [[Voltage Source]].
 		- Substitute each [[Current]] that is not given with $I=\frac{V}{R}$ as stated by [[Ohm's Law]].
 			- $V$ should be the difference between [[Node|Nodes]] and so can be rewritten as $V_{2}-V_{1}$.
 	- #### Step 5
