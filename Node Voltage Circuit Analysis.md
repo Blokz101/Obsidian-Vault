@@ -24,6 +24,8 @@ Alias: []
 		  > - The **unknown variables** are variables that we need to solve for.
 		  > - The **known variables** are the variables that we can solve for in terms of the **known** and **unknown** variables.
 		- Pick a variable defined in the previous step to be each **unknown variables**.
-		- Write all the **known** variables in terms of the **given** and **unknown** [[Current|Currents]].
+		- Write all the **known [[Voltage|Voltages]]** in terms of the **given [[Voltage|Voltages]]** and **unknown [[Voltage|Voltages]]**.
+	- #### Step 4
+		- Write a new [[Kirchhoff’s Current Law|KCL]] 
 ---
 - ## Reference
