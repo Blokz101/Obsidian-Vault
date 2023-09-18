@@ -3,14 +3,15 @@ Alias: [Partial Derivatives]
 ---
 > [!Info]
 > Subject:: [[Calculus III]]
-> Parents:: 
+> Parents:: [[Derivative]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
 	- The [[Derivative]] of a multi-variable [[Function]] where all but one variable are held constant.
-	- [[Partial Derivatives]] can be notated in many ways:
+	- [[Partial Derivative|Partial Derivatives]] can be notated in many ways:
 	  > [!Equation]
-	  > The [[Partial Derivative]] of $f(x,y,z)$ with respect to $y$, then $x$, then $z$ is:
-	  > $\frac{ \partial  }{ \partial z }\left( \frac{ \partial  }{ \partial x }\left( \frac{ \partial  }{ \partial y }f(x,y,z) \right) \right)$
+	  > The [[Partial Derivative]] of $f(x,y,z)$ with respect to $y$, then $x$, then $z$ are:
+	  > $$\frac{ \partial  }{ \partial z }\left( \frac{ \partial  }{ \partial x }\left( \frac{ \partial  }{ \partial y }f(x,y,z) \right) \right)$$
+	  > $$\large{f_{yxz}(x,y,z)}$$
 - ## Reference

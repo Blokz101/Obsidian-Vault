@@ -5,7 +5,7 @@ Alias: [Differentiation, Differentiable, Derivatives, Differentiate]
 > Subject:: [[Calculus]]
 > Parents:: [[Limit]]
 > Friends:: [[Integral]]
-> Children:: [[Derivative Rules]]
+> Children:: [[Derivative Rules]] [[Partial Derivative]]
 ---
 - ## Definition
 	- The slope of a curve.
