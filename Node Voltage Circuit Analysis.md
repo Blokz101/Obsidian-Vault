@@ -11,7 +11,7 @@ Alias: []
 - ## Steps
 	- #### Step 1
 		- Identify the [[Node|Nodes]], [[Branch|Branches]], and [[Loop|Loops]] in the [[Electrical Circuit]].
-		- Set a **ground** reference if there is not already one.
+		- Set a **ground reference** if there is not already one.
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
 		- Assign the [[Voltage]] on each [[Node]] to a variable.
@@ -29,6 +29,9 @@ Alias: []
 		- Write a new [[Kirchhoff’s Current Law|KCL]] equation for a [[Node]] that avoids [[Voltage Source]].
 		- Substitute each [[Current]] that is not given with $I=\frac{V}{R}$ as stated by [[Ohm's Law]].
 	- #### Step 5
-		- 
+		- Combine all the [[Kirchhoff’s Current Law|KCL]] equations to solve for the **unknown [[Voltage|Voltages]]**.
+		- If there is missing information then return to Step 4 to write another equation.
+		- > [!Info]
+		  > The number of required [[Kirchhoff’s Current Law|KCL]] equations should equal the number of **unknown [[Voltage|Voltages]]**.
 ---
 - ## Reference

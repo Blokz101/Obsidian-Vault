@@ -11,7 +11,9 @@ Alias: []
 	- Method of [[Circuit Analysis]] that uses [[Kirchhoff’s Voltage Law]] to solve for all [[Current|Currents]] in an [[Electrical Circuit]].
 - ## Steps
 	- #### Step 1
-		- Calculate the number of unknowns for this method 
+		- Calculate the number of unknowns for this method like this
+		  > [!Equation]
+		  > $\large{\text{unknown currents}=\text{current sources}-\text{}}$
 		- Identify the [[Node|Nodes]], [[Branch|Branches]], and [[Loop|Loops]] in the [[Electrical Circuit]].
 		- Simplify the [[Electrical Circuit]] if possible.
 	- #### Step 2
@@ -31,7 +33,7 @@ Alias: []
 		- Substitute [[Voltage|Voltages]] that are not given with $V=IR$ as stated by [[Ohm's Law]].
 	- #### Step 5
 		- Combine all the [[Kirchhoff’s Voltage Law|KVL]] equations to solve for the **unknown [[Current|Currents]]**.
-		- If there is missing information then return to Step 4.
+		- If there is missing information then return to Step 4 to write another equation.
 		- > [!Info]
 		  > The number of required [[Kirchhoff’s Voltage Law|KVL]] equations should equal the number of **unknown [[Current|Currents]]**.
 ---
