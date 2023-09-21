@@ -30,6 +30,9 @@ Alias: [Length Of An Arc]
 		- [[Arc Length Proof 2]]
 		- > [!Equation]
 		  > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$$
+	- #### [[Vector-valued Function|Vector-valued Functions]]
+		- > [!Equation]
+		  > $\large{\int_{a}^{b} |\vec{r}(t)| \, dt}$
 ---
 - ## Practice
 	- [[Drawing 2023-01-18 19.57.46.excalidraw]]
