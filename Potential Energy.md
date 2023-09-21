@@ -10,7 +10,11 @@ Alias: []
 - ## Definition
 	- Because the change in [[Energy (Physics)]] in the universe is always 0, when [[Work (Physics)]] is done on a system, the [[Energy (Physics)]] has to come from somewhere. It comes from [[Potential Energy]].
 	- > [!Equation]
+	  > If work on the system is $0$ then:
+	  > 
 	  > $$\large{\Delta K=W}$$
 	  > $$\large{\Delta U=-W}$$
+	  > 
+	  > 
 ---
 - ## Reference
