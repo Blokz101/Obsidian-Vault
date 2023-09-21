@@ -7,6 +7,9 @@ Alias: [Translational Kinetic Energy, Rotational Kinetic Energy]
 > Friends:: 
 > Children:: 
 ---
+- ## Definition
+	- Energy in the form of movement.
+	- [[Kinetic Energy]] is defined for an object or particle. It does not matter what your system is, the [[Kinetic Energy]] that an object or particle has is the same. What differs is the total [[Kinetic Energy]] in the system.
 - ## Translational Kinetic Energy
 	- We know the [[Energy (Physics)|Energy Of A Particle (Physics)]] at rest and in motion. Finding the difference between the two gives us the [[Kinetic Energy]] of the particle.
 		- > [!Equation]
