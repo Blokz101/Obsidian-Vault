@@ -32,7 +32,7 @@ Alias: [Length Of An Arc]
 		  > $$\text{Arc Length}=\int_{a}^{b} \sqrt{ \left( \frac{dx}{dt} \right)^{2}+\left( \frac{dy}{dt} \right)^{2} } \, dt$$
 	- #### [[Vector-valued Function|Vector-valued Functions]]
 		- > [!Equation]
-		  > $\large{\int_{a}^{b} |\vec{r}(t)| \, dt}$
+		  > $$\large{\text{Arc Length}=\int_{a}^{b} |\frac{d}{dx}\vec{r}(t)| \, dt}$$
 ---
 - ## Practice
 	- [[Drawing 2023-01-18 19.57.46.excalidraw]]
