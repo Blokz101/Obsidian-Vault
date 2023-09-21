@@ -5,9 +5,4 @@ Alias: []
 > Subject:: [[Calculus II]] [[Calculus]]
 > Parents:: 
 > Friends:: 
-> Children:: 
----
-- ## Definition
-	- 
----
-- ## Reference
+> Children:: [[Even and Odd Powers of Sin and Cos]] [[Partial Fractions]] [[Improper Integral]] [[Integral Tables]] [[Trigonometric Substitutions]] [[U Substitution]] [[Integration By Parts]] [[Table Of Integrals]]
