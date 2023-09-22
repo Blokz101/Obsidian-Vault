@@ -53,7 +53,21 @@
       "query": "line:(\"[[Signals, Circuits, and Systems]]\")",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 2631895
+      }
+    },
+    {
+      "query": "line:(\"[[Calculus III]]\")",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:References  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -67,6 +81,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.1770572781691785,
-  "close": false
+  "scale": 0.2384870741665147,
+  "close": true
 }
