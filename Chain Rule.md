@@ -13,6 +13,7 @@ Alias: []
 	  > Let $f(y)=z$ and $g(x)=y$:
 	  > $$\large{\frac{d}{dx}z}=\frac{d}{dy}f(y)* \frac{d}{dx}g(x)$$
 	  > Note that $z=f(g(x))$ because of substitution.
-- ## [[Chain Rule]] of
+- ## [[Chain Rule]] of a [[Multi-Variable Function]]
+	- Same idea as above but with 
 ---
 - ## Reference
