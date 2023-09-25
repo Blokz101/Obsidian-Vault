@@ -20,6 +20,8 @@ Alias: [Implicit Differentiation]
 	  > Let $y=f(x)$.
 	  > 
 	  > $$\large{\frac{dy}{dx}=-\frac{F_{x}}{F_{y}}}$$
+	  > > [!Proof]-
+	  > > ![[Pasted image 20230925182343.png]]
 ---
 - ## Practice
 	- [[Drawing 2022-10-01 16.50.33.excalidraw]]
