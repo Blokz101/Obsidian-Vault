@@ -5,7 +5,7 @@ Alias: [Partial Derivatives]
 > Subject:: [[Calculus III]]
 > Parents:: [[Derivative]]
 > Friends:: 
-> Children:: 
+> Children:: [[Derivative Chain Rule]]
 ---
 - ## Definition
 	- The [[Derivative]] of a [[Multi-Variable Function]] where all but one variable are held constant.
