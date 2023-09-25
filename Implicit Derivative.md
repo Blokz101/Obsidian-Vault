@@ -16,8 +16,9 @@ Alias: [Implicit Differentiation]
 		- Optional: Solve the original equation for $f(x)$ and plug it into the [[Implicit Derivative]] that was just calculated.
 - ## [[Implicit Derivative]] of a [[Multi-Variable Function]]
 	- > [!Equation]
-	  > Let $F(x,y)$ be the function we want to [[Derivative|Differentiate]].
+	  > Let $F(x,y)$ be the function we want to [[Derivative|Differentiate]], it must be solved for $0$.
 	  > Let $y=f(x)$.
+	  > 
 	  > $$\large{\frac{dy}{dx}=-\frac{F_{x}}{F_{y}}}$$
 ---
 - ## Practice
