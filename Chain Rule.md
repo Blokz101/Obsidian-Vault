@@ -17,6 +17,7 @@ Alias: []
 	- Same idea as above but with many variables:
 	  > [!Equation]
 	  > Let $f(a,b,c)=w$ and $a=x(u,v)$, $b=y(u,v)$, and $c=z(u,v)$:
-	  > $\large{\frac{ \partial z }{ \partial y }=}$
+	  > $$\large{\frac{ \partial w }{ \partial u }=\frac{ \partial w }{ \partial x }\frac{ \partial x }{ \partial u }+\frac{ \partial w }{ \partial y }\frac{ \partial y }{ \partial u }+\frac{ \partial w }{ \partial z }\frac{ \partial z }{ \partial u }}$$
+	  > $$\large{\frac{ \partial w }{ \partial v }=\frac{ \partial w }{ \partial x }\frac{ \partial x }{ \partial v }+\frac{ \partial w }{ \partial y }\frac{ \partial y }{ \partial v }+\frac{ \partial w }{ \partial z }\frac{ \partial z }{ \partial v }}$$
 ---
 - ## Reference
