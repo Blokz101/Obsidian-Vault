@@ -39,4 +39,7 @@ Alias: []
 		- > [!Info]
 		  > The number of required [[Kirchhoff’s Current Law|KCL]] equations should equal the number of **unknown [[Voltage|Voltages]]**.
 ---
+- ## Practice
+	- [[ECE200 Exam 1 Review.pdf]]
+	- [[ECE200 Homework 3.pdf]]
 - ## Reference

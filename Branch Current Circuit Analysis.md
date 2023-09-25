@@ -40,4 +40,6 @@ Alias: []
 - ## Practice
 	- [[ECE200 Homework 2.pdf]]
 	- [[ECE200 Homework 1.pdf]]
+	- [[ECE200 Exam 1 Review.pdf]]
+	- [[ECE200 Homework 3.pdf]]
 - ## Reference

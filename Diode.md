@@ -26,4 +26,7 @@ Alias: [Diodes]
 	- #### Step 2
 		- If the [[Voltage]] across the [[Dipole]] in the OFF state is greater than $V_{\gamma}$, then the [[Diode]] must be in the ON state and can be solved for as such.
 ---
+- ## Practice
+	- [[ECE200 Exam 1 Review.pdf]]
+	- [[ECE200 Homework 3.pdf]]
 - ## Reference
