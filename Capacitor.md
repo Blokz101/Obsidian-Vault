@@ -22,6 +22,9 @@ Alias: [Capacitors]
 	  ![[IMG_294D7E6DD76F-1.jpeg|400]]
 - ## Charging and Discharging
 	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending time since the [[Capacitor]] was connected or disconnected from a power source.
+		- ![[IMG_5404AEDC0EF1-1.jpeg]]
+		- Charging
+			- The capacitor has no charge in 
 		- > [!Equation]
 		  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
 		  > 
