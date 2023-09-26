@@ -20,7 +20,13 @@ Alias: [Capacitors]
 		  > $d$ = Distance as shown in the drawing below in $m$
 	- Made up of two metal plates and an [[Insulator]] in between.
 	  ![[IMG_294D7E6DD76F-1.jpeg|400]]
-	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending on how much [[Charge]] it has stored. Generally these quntaties change with
+	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending on how much [[Charge]] it has stored. Generally these quantities change with time as the [[Capacitor]] is charging or discharging.
+		- > [!Equation]
+		  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
+		  > 
+		  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
+		  > $v_{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
+		  > $t$ = Time in $s$
 - ## How they work
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
 		- The two metal plates of the [[Capacitor]] have [[Electron|Electrons]] in them. 
