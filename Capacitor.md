@@ -5,13 +5,13 @@ Alias: [Capacitors]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electrical Component]] [[Capacitance]]
 > Friends:: 
-> Children:: 
+> Children:: [[Capacitance]]
 ---
 - ## Definition
 	- A [[Electrical Component|Passive Component]] that can store and release [[Charge]].
 		- > [!Equation]
 		  > $$\large{Q=CV}$$
-		  > $\large{C=\epsilon \frac{A}{d}}$
+		  > $$\large{C=\epsilon \frac{A}{d}}$$
 		  > 
 		  > $Q$ = [[Charge]] in $C$
 		  > $C$ = [[Capacitance]] in $F$
@@ -23,15 +23,13 @@ Alias: [Capacitors]
 - ## Charging and Discharging
 	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending time since the [[Capacitor]] was connected or disconnected from a power source.
 		- ![[IMG_5404AEDC0EF1-1.jpeg]]
-		- Charging
-			- The capacitor has no charge in 
 		- > [!Equation]
 		  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
 		  > 
 		  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
 		  > $v_{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
 		  > $t$ = Time in $s$
-	- The [[Current]] and [[Voltage]] graphs of a [[Capacitor]] connected to power at $t=0$ look like this:
+	- 
 - ## How they work
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
 		- The two metal plates of the [[Capacitor]] have [[Electron|Electrons]] in them. 
