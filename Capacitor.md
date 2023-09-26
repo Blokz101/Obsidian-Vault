@@ -26,7 +26,8 @@ Alias: [Capacitors]
 	- > [!Notation]
 	  > If an event happens at $t=0$ then let:
 	  > $$t=0^-$$ Be the time just before the event and
-	  > $$t=0^+$$ Be the time just after the event.
+	  > $$t=0^+$$ Be the time just after the event and
+	  > $$t=\infty$$ Be the time long time after the event when everything .
 	- > [!Equation]
 	  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
 	  > 
