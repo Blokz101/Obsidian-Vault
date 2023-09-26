@@ -8,7 +8,7 @@ Alias: [Capacitors]
 > Children:: 
 ---
 - ## Definition
-	- A [[Electrical Component|Passive Component]] that can store up and release [[Charge]].
+	- A [[Electrical Component|Passive Component]] that can store and release [[Charge]].
 		- > [!Equation]
 		  > $$\large{Q=CV}$$
 		  > 
@@ -17,6 +17,7 @@ Alias: [Capacitors]
 		  > $V$ = [[Voltage]] in ???
 	- Made up of two metal plates and an [[Insulator]] in between.
 	  ![[IMG_294D7E6DD76F-1.jpeg]]
+- ## How they work
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
 		- The two metal plates of the [[Capacitor]] have [[Electron|Electrons]] in them. 
 		- When connected to a power source [[Electron|Electrons]] are pushed into one plate.
