@@ -11,12 +11,16 @@ Alias: [Capacitors]
 	- A [[Electrical Component|Passive Component]] that can store and release [[Charge]].
 		- > [!Equation]
 		  > $$\large{Q=CV}$$
+		  > $\large{C=\epsilon \frac{A}{d}}$
 		  > 
-		  > $Q$ = [[Charge]] in ???
-		  > $C$ = [[Capacitance]] in ???
-		  > $V$ = [[Voltage]] in ???
+		  > $Q$ = [[Charge]] in $C$
+		  > $C$ = [[Capacitance]] in $F$
+		  > $V$ = [[Voltage]] in $V$
+		  > $A$ = Area of plates in the drawing below in $m^2$
+		  > $d$ = Distance as shown in the drawing below in $m$
 	- Made up of two metal plates and an [[Insulator]] in between.
-	  ![[IMG_294D7E6DD76F-1.jpeg]]
+	  ![[IMG_294D7E6DD76F-1.jpeg|400]]
+	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending on how much [[Charge]] it has stored. Generally these quntaties change with
 - ## How they work
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
 		- The two metal plates of the [[Capacitor]] have [[Electron|Electrons]] in them. 
