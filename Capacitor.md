@@ -23,12 +23,17 @@ Alias: [Capacitors]
 - ## Charging and Discharging
 	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending time since the [[Capacitor]] was connected or disconnected from a power source.
 		- ![[IMG_5404AEDC0EF1-1.jpeg]]
-		- > [!Equation]
-		  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
-		  > 
-		  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
-		  > $v_{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
-		  > $t$ = Time in $s$
+	- > [!Notation]
+	  > If an event happens at $t=0$ then let:
+	  > $$t=0^-$$ Be the time just before the event and
+	  > $$t=0^+$$ Be the time just after the event.
+	- > [!Equation]
+	  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
+	  > 
+	  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
+	  > $v_{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
+	  > $t$ = Time in $s$
+	- 
 	- 
 - ## How they work
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
