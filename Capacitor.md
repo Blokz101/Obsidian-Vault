@@ -37,6 +37,13 @@ Alias: [Capacitors]
 				- $v_{c}=0$
 			- When $t=0$ the switch closes and completes the loop.
 			- When $t=0^+$
+				- The maximum current possible flows though the [[Capacitor]] instantly, and because the [[Capacitor]] offers almost no [[Resistance]] there is still no [[Voltage|Potential Difference]] across the [[Capacitor]]. In the instant after the switch is closed, it acts like a straight wire.
+				- $i_{c}=\frac{V_{s}}{R}$
+				- $v_{c}=0$
+			- When $0^+<t<\infty$
+				- The [[Capacitor]] is charging, as the two plates become more and more polar the [[Resistance]] that the [[Capacitor]] offers increases. During this time the [[Current]] drops and the [[Voltage|Potential Difference]] climbs. See the **How they work** section below.
+			- When $t=infty$
+				- The [[Capacitor]] is charged. No more [[Current]] can flow because of the 
 		- Discharging
 	- > [!Equation]
 	  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
@@ -44,7 +51,7 @@ Alias: [Capacitors]
 	  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
 	  > $v_{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
 	  > $t$ = Time in $s$
-- ## How they work
+- ## How It ork
 	- A [[Capacitor]] is actually an [[Open Circuit]], but still allows [[Current]] to flow in a round about way.
 		- The two metal plates of the [[Capacitor]] have [[Electron|Electrons]] in them. 
 		- When connected to a power source [[Electron|Electrons]] are pushed into one plate.
