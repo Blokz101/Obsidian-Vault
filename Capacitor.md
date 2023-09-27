@@ -28,12 +28,16 @@ Alias: [Capacitors]
 	  > $$t=0^-$$ be the time just before the event and
 	  > $$t=0^+$$ be the time just after the event and
 	  > $$t=\infty$$ be the time long time after the event when everything has settled into a constant state.
-	- Charging
-		- When $t=0^-$
-			- The circuit is open and the [[Capacitor]] is receiving no [[Current]].
-			- $i_{c}=0$
-			- $v_{c}=0$ 
-	- Discharging
+	- Reference this simple circuit:
+	  ![[Pasted image 20230926214249.png|300]]
+		- Charging
+			- When $t=0^-$
+				- The circuit is open and the [[Capacitor]] is receiving no [[Current]] and the [[Voltage|Potential Difference]] is over the open switch.
+				- $i_{c}=0$
+				- $v_{c}=0$
+			- When $t=0$ the switch closes and completes the loop.
+			- When $t=0^+$
+		- Discharging
 	- > [!Equation]
 	  > $$\large{i_{c}=C\frac{dv_{c}}{dt}}$$
 	  > 
