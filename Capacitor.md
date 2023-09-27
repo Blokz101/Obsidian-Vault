@@ -23,6 +23,8 @@ Alias: [Capacitors]
 - ## Charging and Discharging
 	- A [[Capacitor]] is not a linear component, its [[Current]], [[Voltage]], and [[Resistance]] change depending time since the [[Capacitor]] was connected or disconnected from a power source.
 		- ![[IMG_5404AEDC0EF1-1.jpeg]]
+	- Important Points:
+		- TH
 	- > [!Notation]
 	  > If an event happens at $t=0$ then let:
 	  > $$t=0^-$$ be the time just before the event and
@@ -32,7 +34,7 @@ Alias: [Capacitors]
 	  ![[Pasted image 20230926214249.png|300]]
 		- Charging
 			- When $t=0^-$
-				- The circuit is open and the [[Capacitor]] is receiving no [[Current]] and the [[Voltage|Potential Difference]] is over the open switch.
+				- The circuit is open and has been for a long time. The [[Capacitor]] is receiving no [[Current]] and the [[Voltage|Potential Difference]] is over the open switch.
 				- $i_{c}=0$
 				- $v_{c}=0$
 			- When $t=0$ the switch closes and completes the loop.
