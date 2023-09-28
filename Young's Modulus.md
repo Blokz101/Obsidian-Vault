@@ -21,7 +21,7 @@ Alias: []
 		  > $\Delta L$ = The amount the material stretched past $L$ in $m$
 	- To find the atomic bond [[Hooke's Law (Physics)|Spring Stiffness (Physics)]] we can use this equation:
 		- > [!Equation]
-		  > $$\large{Y=\frac{k_{b}}{d}}$$
+		  > $$\large{Y=\frac{k_{s}}{d}}$$
 		  > 
 		  > $k_{s}$ = [[Hooke's Law (Physics)|Spring Constant (Physics)]] of an atomic bond
 		  > $d$ = Diameter of an [[Atom]] in $m$
