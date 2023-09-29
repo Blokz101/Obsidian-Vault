@@ -9,6 +9,11 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 ---
 - ## Definition
 	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]]. In other words, the external [[Work (Physics)]] needed to move a [[Charge]] from one location to another location in an [[Electric Field]].
+		- > [!Equation]
+		  > $$\large{\Delta V=\frac{\Delta U}{q}}$$
+		  > 
+		  > $\Delta V$ = [[Voltage]] in $V$
+		  > $\Delta U$ = [[Potential Energy]] of a [[Charge]] in an [[Electric Field]] in $\frac{J}{}$
 	- Critically linked to [[Coulomb's Law of Force (Chemistry)]].
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
