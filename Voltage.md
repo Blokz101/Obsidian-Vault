@@ -13,7 +13,8 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 		  > $$\large{\Delta V=\frac{\Delta U}{q}}$$
 		  > 
 		  > $\Delta V$ = [[Voltage]] in $V$
-		  > $\Delta U$ = [[Potential Energy]] of a [[Charge]] in an [[Electric Field]] in $\frac{J}{}$
+		  > $\Delta U$ = [[Potential Energy]] of a [[Charge]] in an [[Electric Field]] in $J$
+		  > $q$ = [[Charge]] of object with the [[Potential Energy]] in $C$
 	- Critically linked to [[Coulomb's Law of Force (Chemistry)]].
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
