@@ -17,7 +17,7 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 	  > $V$ = [[Voltage|Volt]]
 	  > $J$ = [[Joule]]
 	  > $C$ = [[Coulomb]]
-	- We got volts because we needed a standardized way to define the energy between two interacting [[Charge|Charges]].
+	- Volts are the standard measurement of energy between two interacting [[Charge|Charges]].
 		- > [!Proof]
 		  > Consider this situation:
 		  > ![[Screenshot 2023-08-21 at 10.01.27 PM.png|400]]
