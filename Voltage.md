@@ -40,4 +40,3 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 	  > $$\large{\Delta V_{ba}=kQ \frac{1}{V_{b}}-\frac{1}{V_{a}}}$$
 - ## Reference
 	- Voltage is related to [[Current]] with [[Ohm's Law]].
-		- ![[Ohm's Law#^1c650e]]
