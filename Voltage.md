@@ -53,5 +53,7 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 	  > $$\large{V_{a}-V_{b}=\Delta V_{ab}}$$
 	  > $$\large{\Delta V_{ab}=kQ \frac{1}{V_{a}}-\frac{1}{V_{b}}}$$
 	  > $$\large{\Delta V_{ba}=kQ \frac{1}{V_{b}}-\frac{1}{V_{a}}}$$
+- ## Practice
+	- [[PY208 Homework 16.1-16.4.pdf]]
 - ## Reference
 	- Voltage is related to [[Current]] with [[Ohm's Law]].
