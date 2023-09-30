@@ -11,7 +11,7 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 	- [[Voltage]] is the **difference in electrical [[Potential Energy]]** of [[Electron|Electrons]] due to [[Charge|Charges]]. In other words, the external [[Work (Physics)]] needed to move a [[Charge]] from one location to another location in an [[Electric Field]].
 		- > [!Equation]
 		  > $$\large{V=\frac{\Delta U}{q}}$$
-		  > Assuming a constant [[Electric Field]] for all of $\Delta x$, [[Potential Energy]] can be substituted in:
+		  > Assuming a **constant** [[Electric Field]] for all of $\vec{r}_{ab}$, [[Potential Energy]] can be substituted in:
 		  > $$\large{V=-\vec{E}\cdot\vec{r}_{ab}}$$
 		  > 
 		  > $V$ = [[Voltage]] in $V$
