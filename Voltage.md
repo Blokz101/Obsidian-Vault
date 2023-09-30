@@ -28,7 +28,13 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 		  > > $$\large{\Delta U=-q\vec{E}\cdot\Delta \vec{x}}$$
 		  > > ![[IMG_786C3A7DE74A-1.jpeg]]
 		- > [!Equation]
-		  > If the [[Electric Field]] is not constant 
+		  > If the [[Electric Field]] is not constant for all of $\vec{r}_{ab}$, then [[Integral|Integration]] is required to find the [[Voltage]] between the two points.
+		  > $$\large{V=\frac{q}{4\pi\epsilon_{0}}\left( \frac{1}{r_{b}}-\frac{1}{r_{a}} \right)}$$
+		  > $V$ = [[Voltage]] in $V$
+		  > $\Delta U$ = [[Potential Energy]] of a [[Charge]] in an [[Electric Field]] in $J$
+		  > $q$ = [[Charge]] of object with the [[Potential Energy]] in $C$
+		  > $\vec{r}_{a}$ = Position to point $a$ in $m$
+		  > $\vec{r}_{b}$ = Position to point $b$ in $m$
 		- **The [[Electric Field]] points in the direction of DECREASING [[Voltage|Electric Potential]]**.
 	- [[Voltage]] always refers to **difference in electrical [[Potential Energy]]**. In these notes it is notated as both $\Delta V$ and $V$ interchangeably. They are the same.
 	- [[Voltage|Volt]] is a unit notated by $v$.
