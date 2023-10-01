@@ -48,15 +48,15 @@ Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 	  > $J$ = [[Joule]]
 	  > $C$ = [[Coulomb]]
 - ## Point Voltage
-	- [[Voltage]] is the [[Voltage|Electric Potential Difference]] between two points, however, sometimes it is said that a specific point has some [[Voltage]]. This is referred to as:
-		- Point Voltage
-		- Voltage with respect to infinity (which is $0$ because when a charge is very far away from everything else it has no potential energy)
-	- > [!Equation]
-	  > $$\large{V_{r}=\frac{1}{4\pi\epsilon_{0}} \frac{q}{\vec{r}}}$$
-	  > $V_{\vec{r}}$ = The [[Voltage]] $r$ distance from a charged particle in $V$
-	  > $V_{\infty}$ = The [[Voltage]] an infinite distance away from all charged particles in $V$
-	  > $q$ = The [[Charge]] of the charged particle in $C$
-	  > $\vec{r}$ = Position from the charged particle to the observation point in $m$.
+	- [[Voltage]] is the [[Voltage|Electric Potential Difference]] between two points, however, sometimes it is said that a specific point has some [[Voltage]]. This is referred to as **Point Voltage** or [[Voltage]] with respect to infinity.
+		- > [!Equation]
+		  > $$\large{V_{r}=\frac{1}{4\pi\epsilon_{0}} \frac{q}{\vec{r}}}$$
+		  > $V_{\vec{r}}$ = The [[Voltage]] $r$ distance from a charged particle in $V$
+		  > $V_{\infty}$ = The [[Voltage]] an infinite distance away from all charged particles in $V$
+		  > $q$ = The [[Charge]] of the charged particle in $C$
+		  > $\vec{r}$ = Position from the charged particle to the observation point in $m$.
+		  > > [!Proof]-
+		  > > ![[Pasted image 20231001143319.png]]
 - ## Practice
 	- [[PY208 Homework 16.1-16.4.pdf]]
 - ## Reference
