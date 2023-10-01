@@ -31,4 +31,5 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 - ## Practice
 	- [[PY208 Homework 13.1-13.3.pdf]]
 	- [[PY208 Homework 13.4.pdf]]
+	- [[PY208 Homework 16.4-16.7.pdf]]
 - ## Reference
