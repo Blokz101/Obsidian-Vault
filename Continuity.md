@@ -24,7 +24,7 @@ Alias: [Continuous]
 	  then it is **[[Continuity|Continuous]] on its [[Domain]]**. 
 - ## [[Continuity]] of a [[Multi-Variable Function]]
 	- A [[Multi-Variable Function]] is [[Continuity|Continuous]] at a point if its [[Limit]] at that point exists.
-	  ![[Limit#^06ab4a]]
+	  ![[Limit#^03f58f]]
 	- An easier way to determine [[Continuity]] of a [[Multi-Variable Function]] to check if the [[Multi-Variable Function]] is the sum of  [[Continuity|Continuous]] single-variable functions. If it is then the [[Multi-Variable Function]] is [[Continuity|Continuous]] as well.
 ---
 - ## Practice

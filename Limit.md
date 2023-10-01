@@ -21,8 +21,8 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 	  > Assuming the limit of $L$ is at $x_0$:
 	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}}=L}$
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}}=L}$
-- ## Solving Limits ^06ab4a
-	- #### Rules for Limits
+- ## Solving Limits
+	- #### Rules for Limits ^03f58f
 		- ![[Pasted image 20231001155044.png]]
 		- If the function is a [[Multi-Variable Function]] then break it down until each limit deals with only one variable and then plug it in.
 		  > [!Example]-
