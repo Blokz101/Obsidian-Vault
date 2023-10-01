@@ -19,4 +19,6 @@ Alias: [Partial Derivatives]
 	  > $$\frac{ \partial  }{ \partial z }\left( \frac{ \partial  }{ \partial x }\left( \frac{ \partial  }{ \partial y }f(x,y,z) \right) \right)=\large{f_{yxz}(x,y,z)}$$
 	- The order of [[Partial Derivative|Partial Derivatives]] is important and can change the answer for each [[Partial Derivative]]. However, if the the [[Multi-Variable Function]] is [[Continuity|Continuous]] then the order of the [[Partial Derivative|Partial Derivatives]] does not matter.
 		- This is very useful for [[Partial Derivative|Partial Derivatives]] that are hard to solve in a specific order. Another different order of the same [[Partial Derivative|Partial Derivatives]] might be able to work in its place.
+- ## Practice
+	- [[MA242 Homework 3.3.pdf]]
 - ## Reference

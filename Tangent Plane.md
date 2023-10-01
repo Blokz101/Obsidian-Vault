@@ -18,4 +18,6 @@ Alias: []
 	  > > 
 	  > > A [[Tangent Plane]] exists at the point $(a,b)$ if the [[Partial Derivative|Partial Derivatives]] $f_{x}$ and $f_{y}$ exist at $(a,b)$.
 ---
+- ## Practice
+	- [[MA242 Homework 3.3.pdf]]
 - ## Reference

@@ -31,4 +31,5 @@ Alias: []
 	- [[MA242 Homework 1.1 .pdf]]
 	- [[MA242 Homework 1.3.pdf]]
 	- [[MA242 Homework 1.4.pdf]]
+	- [[MA242 Homework 1.2.pdf]]
 - ## Reference
