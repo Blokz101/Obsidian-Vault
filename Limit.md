@@ -8,7 +8,7 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 > Children:: [[Derivative]]
 ---
 - ## Definition
-	- A value that a function approaches but never reaches. [[Proving a Limit|See here for Proving a Limit]].
+	- A value that a function approaches. [[Proving a Limit|See here for Proving a Limit]].
 	  > [!Example and Notation]
 	  > As $x$ in the function $f(x)$ approaches $x_0$, $f(x)$ approaches some value L
 	  > 
