@@ -9,7 +9,8 @@ Modification Date: NaN
 - ## Definition
 	- An equation that relates the sides of a triangle together and an angle.
 	  > [!Equation]
-	  > $$c=\sqrt{a^2+b^2-2ab*cos(C)}$$
+	  > $$\large{c=\sqrt{a^2+b^2-2ab*\cos(C)}}$$
+	  > $$\large{C=\arccos(\frac{a^2+b^{2}-c^{^2}}{2ab})}$$
 	  > $c$ = Length of side $c$
 	  > $a$ = Length of side $a$
 	  > $b$ = Length of side $b$
