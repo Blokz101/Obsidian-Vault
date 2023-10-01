@@ -1,5 +1,5 @@
 ---
-Alias: [Voltages, Volt, Volts, V, Potential Difference]
+Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -47,29 +47,13 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 	  > $V$ = [[Voltage|Volt]]
 	  > $J$ = [[Joule]]
 	  > $C$ = [[Coulomb]]
-	- > [!Warning]
-	  > Consider everything below this warning as possibly incorrect, we didnt spend much time on it and looking at it now it dosent make a ton of sense.
-	- Volts are the standard measurement of energy between two interacting [[Charge|Charges]]. Same as  [[Coulomb's Law of Force (Chemistry)]].
-		- > [!Proof]-
-		  > Consider this situation:
-		  > ![[Screenshot 2023-08-21 at 10.01.27 PM.png|400]]
-		  > We need to move $Q_{2}$ far away from $Q_{2}$ until there is basically no interaction between them. This is the [[Work (Physics)]] required and therefore the [[Potential Energy]]:
-		  > $$\large{W=U=\int_{0}^{\infty} F(r) \, dr}=kQ_{1}Q_{2}\frac{1}{r}$$
-		  > 
-		  > $W$ = [[Work (Physics)]] required in $J$
-		  > $k$ = Some constant, likely negative [[Coulomb's Constant]] /[[Dielectric Constant]]
-		  > $J$ = [[Potential Energy]] in $J$
-		  > $Q_{1}$ = [[Charge]] $1$
-		  > $Q_{2}$ = [[Charge]] $2$
-		  > $F(r)$ = Force as defined by [[Coulomb's Law of Force (Chemistry)]] in $N$
-		  > $r$ = Distance in $m$
-		  > 
-		  > The units for this are $\frac{J}{C}$ or [[Voltage|Volts]].
-	- Voltage Difference
-	  > [!Equation]-
-	  > $$\large{V_{a}-V_{b}=\Delta V_{ab}}$$
-	  > $$\large{\Delta V_{ab}=kQ \frac{1}{V_{a}}-\frac{1}{V_{b}}}$$
-	  > $$\large{\Delta V_{ba}=kQ \frac{1}{V_{b}}-\frac{1}{V_{a}}}$$
+- ## Point Voltage
+	- [[Voltage]] is the [[Voltage|Electric Potential Difference]] between two points, however, sometimes it is said that a specific point has some [[Voltage]]. This is referred to as:
+		- Point Voltage
+		- Voltage with respect to infinity (which is $0$ because when a charge is very far away from everything else it has no potential energy)
+	- > [!Equation]
+	  > $$\large{V_{r}=\frac{1}{4\pi\epsilon_{0}} \frac{q}{\vec{r}}}$$
+	  > $$
 - ## Practice
 	- [[PY208 Homework 16.1-16.4.pdf]]
 - ## Reference
