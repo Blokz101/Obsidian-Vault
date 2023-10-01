@@ -21,8 +21,8 @@ Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 	  > A [[Limit|Left Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{-}}=L}$
 	  > A [[Limit|Right Hand Limit]] is notated as: $\large{^{lim}_{x\rightarrow x_0^{+}}=L}$
 - ## Solving Limits
-	- #### Plug it in
-		- If $x_0$ is within the [[Domain]] of $f(x)$ and $f(x)$ is a function then you can simply plug $x_0$ into $f(x)$ to find the [[Limit]] of $f(x)$.
+	- #### Rules for Limits
+		- ![[Pasted image 20231001155044.png]]
 	- #### Squeeze Theorem
 		- Let $g(x)≤f(x)≤h(x)$.
 		- If $g(x)$ and $h(x)$ have the same [[Limit]] $L$, then $f(x)$ will have the same limit because it must stay be between them.
