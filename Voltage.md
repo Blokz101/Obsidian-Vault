@@ -38,7 +38,7 @@ Alias: [Voltages, Volt, Volts, V, Potential Difference]
 		  > > [!Proof]-
 		  > > Because the [[Electric Field]] is changing $r$ changes, [[Integral|Integration]] is required.
 		  > > ![[IMG_82FF022B2DA8-1.jpeg]]
-		- **The [[Electric Field]] points in the direction of DECREASING [[Voltage|Electric Potential]]**.
+	- **The [[Electric Field]] points in the direction of DECREASING [[Voltage|Electric Potential]]**.
 	- [[Voltage]] always refers to **difference in electrical [[Potential Energy]]**. In these notes it is notated as both $\Delta V$ and $V$ interchangeably. They are the same.
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
