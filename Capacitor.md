@@ -73,5 +73,12 @@ Alias: [Capacitors]
 	  > $|\vec{E}|$ [[Electric Field]] in the [[Capacitor]] in $\frac{N}{C}$
 	  > $Q$ = The [[Charge]] on each plate in $C$
 	  > $A$ = The area of each plate in $m^2$
+- ## Time Constant
+	- Not sure what this is but I think its important
+	- > [!Equation]
+	  > $$\large{T=RC}$$
+	  > $T$ = Time constant in $s$
+	  > $R$ = Resistance in $\Omega$
+	  > $C$ = [[Capacitance]] in $?$
 ---
 - ## Reference
