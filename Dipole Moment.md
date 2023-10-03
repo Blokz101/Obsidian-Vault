@@ -13,9 +13,9 @@ aliases: []
 	  >  ![[IMG_47C2FE0322F0-1.jpeg|300]]
 	  > $$\large{p=qs}$$
 	  > 
-	  > $p$ = [[Dipole Moment]] in $??$
+	  > $p$ = [[Dipole Moment]] in $Cm$
 	  > $q$ = [[Charge]] in $C$
-	  > $s$ = Distance in $???$
+	  > $s$ = Distance in $m$
 	- When a [[Dipole]] is placed in an [[Electric Field]] its [[Dipole Moment]] can be found with:
 	  > [!Equation]
 	  > $$\large{p=\alpha E}$$
