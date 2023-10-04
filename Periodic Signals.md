@@ -3,9 +3,9 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Periodic Signals]]
+> Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Average Voltage]] [[Peek to Peek Voltage]] [[Duty Cycle]] [[Amplitude]] [[Period]] [[Frequency]]
 ---
 - ## Definition
 	- 
