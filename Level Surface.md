@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus III]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Tangent Plane of a Level Surface]]
 ---
 - ## Definition
 	- A set of points that a function assigns to the same value.
