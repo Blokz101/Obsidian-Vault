@@ -9,7 +9,7 @@ Modification Date: NaN
 - ## Definition
 	- [[Electron|Electrons]] can jump from energy level to energy level.
 		- When it **absorbs** energy it jumps from a **lower energy level to a higher one**.
-		- When it **releases** energy it drops from a **higher energy level to a lower one** and  emits [[Energy (Chemistry)]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency]].
+		- When it **releases** energy it drops from a **higher energy level to a lower one** and  emits [[Energy (Chemistry)]] in the form of [[Spectrum of Light|Light]] at a specific [[Frequency Of Light]].
 			- > [!Equation]
 		  > $$\large{E_{transition}=hR(\frac{1}{n^2_{lo}}-\frac{1}{n^2_{hi}})}$$
 		  > 

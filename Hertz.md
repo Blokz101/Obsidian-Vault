@@ -11,4 +11,4 @@ Modification Date: NaN
 	- Hertz
 	- $\large{\frac{1}{seconds}}$ or $s^{-1}$
 - ## Reference
-	- Unit of measure of [[Frequency]].
+	- Unit of measure of [[Frequency Of Light]].

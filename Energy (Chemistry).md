@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- The ability to do [[Work (Chemistry)]].
 - ## [[Spectrum of Light]]
-	- This equation relates [[Energy (Chemistry)]] to [[Frequency]].
+	- This equation relates [[Energy (Chemistry)]] to [[Frequency Of Light]].
 	  ![[Planck's Equation#^0cca3d]]
 - ## [[Effective Nuclear Charge]]
 	- This equation relates [[Energy (Chemistry)]] to [[Electronegativity]] and [[Principle Quantum Number]].
@@ -35,5 +35,5 @@ Alias: []
 - ## Practice (Chemistry)
 	- [[Drawing 2022-09-04 15.09.53.excalidraw]]
 - ## Reference
-	- [[Energy (Chemistry)]] and [[Frequency]] are **Directly** related.
+	- [[Energy (Chemistry)]] and [[Frequency Of Light]] are **Directly** related.
 	- [[Heat]] is is a type of [[Energy (Chemistry)]].

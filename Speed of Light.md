@@ -12,12 +12,12 @@ Modification Date: NaN
 	  
 	  The speed at witch light travels.
 - ## Equation
-	- This equation relates the [[Speed of Light]] to [[Wavelength]] and [[Frequency]].
+	- This equation relates the [[Speed of Light]] to [[Wavelength]] and [[Frequency Of Light]].
 	  > [!Equation]
 	  > $$S=\lambda*v$$
 	  > 
 	  > $S$ = [[Speed of Light]] (Meters/Second) = $3.0e8m/s$
 	  > $\lambda$ = [[Wavelength]] (Meters)
-	  > $v$ = [[Frequency]] ([[Hertz]])
+	  > $v$ = [[Frequency Of Light]] ([[Hertz]])
 - ## Reference
-	- Is a **constant**, however is related to [[Frequency]] and [[Energy (Chemistry)]]
+	- Is a **constant**, however is related to [[Frequency Of Light]] and [[Energy (Chemistry)]]
