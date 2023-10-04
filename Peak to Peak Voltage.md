@@ -8,6 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The [[Voltage]] difference between the two peeks of the [[Periodic Signals]].$
+	- The [[Voltage]] difference between the two peaks of the [[Periodic Signals]].
+	  > [!Equation]
+	  > $\large{}$
 ---
 - ## Reference
