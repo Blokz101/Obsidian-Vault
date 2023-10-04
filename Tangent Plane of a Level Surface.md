@@ -9,6 +9,9 @@ Alias: []
 ---
 - ## Definition
 	- > [!Equation]
-	  > $Let m$
+	  > Let $T$ be the [[Tangent Plane]] of $f$ at any point $(x,y,z)$:
+	  > $\large{T(x,y,z)=\nabla f=\left\langle \frac{ \partial f }{ \partial x },\frac{ \partial f }{ \partial y }, \frac{ \partial f }{ \partial z } \right\rangle}$
+	  > [!Proof]
+	  > 
 ---
 - ## Reference
