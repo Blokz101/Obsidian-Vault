@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [V_dc]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- The "midpoint" that the [[Voltage]] 
 ---
 - ## Reference
