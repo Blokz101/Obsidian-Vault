@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- > [!Equation]
+	  > 
 ---
 - ## Reference

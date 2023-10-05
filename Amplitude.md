@@ -8,6 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- Distance from [[Average Voltage]] to either max or min peak.
+	  > [!Equation]
+	  > $$\large{A=\frac{V_{H}-V_{L}}{2}}$$
 ---
 - ## Reference
