@@ -9,6 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- > [!Equation]
-	  > 
+	  > $\large{DC=}$
 ---
 - ## Reference
