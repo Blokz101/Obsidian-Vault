@@ -3,12 +3,12 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Periodic Signals]]
+> Parents:: [[Periodic Signal]]
 > Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- The [[Voltage]] difference between the two peaks of the [[Periodic Signals]].
+	- The [[Voltage]] difference between the two peaks of the [[Periodic Signal]].
 	  > [!Equation]
 	  > $$\large{V_{pp} = V_{H}-V_{L}}$$
 	  > 

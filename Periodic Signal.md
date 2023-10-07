@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Wave, Waves, Periodic Signals]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]

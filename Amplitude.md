@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Periodic Signals]]
+> Parents:: [[Periodic Signal]]
 > Friends:: 
 > Children:: 
 ---

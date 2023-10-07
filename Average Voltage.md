@@ -3,7 +3,7 @@ Alias: [V_dc]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Periodic Signals]]
+> Parents:: [[Periodic Signal]]
 > Friends:: 
 > Children:: 
 ---
