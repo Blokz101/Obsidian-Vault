@@ -9,6 +9,8 @@ Alias: []
 ---
 - ## Definition
 	- > [!Equation]
-	  > $\large{DC=}$
+	  > $\large{DC=\frac{t_{V_{H}}}{T}}$
+	  > 
+	  > $DC$ = [[Duty Cycle]] in $$
 ---
 - ## Reference
