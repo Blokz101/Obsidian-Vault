@@ -4,10 +4,11 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Periodic Signal]]
-> Friends:: [[Frequency]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
-	- The time that it takes a [[Periodic Signal]] to repeat.
+	- Also notated as $V_{DC}$ or $I_{DC}$ when referring to the [[Voltage]] offset or [[Current]] offset respectively.
+	  $$
 ---
 - ## Reference

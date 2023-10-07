@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The [[Voltage]] difference between the two peaks of the [[Periodic Signal]].
+	- The [[Voltage]] difference between the two peaks of the [[Periodic Signal|Wave]].
 	  > [!Equation]
 	  > $$\large{V_{pp} = V_{H}-V_{L}}$$
 	  > 

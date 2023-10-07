@@ -8,7 +8,7 @@ Alias: [Duty Cycles]
 > Children:: 
 ---
 - ## Definition
-	- Percentage of the time that the wave is high.
+	- Percentage of the time that the [[Periodic Signal|Wave]] is **high**.
 	  > [!Equation]
 	  > $\large{DC=\frac{t_{V_{H}}}{T}}$
 	  > 
