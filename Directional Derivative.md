@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus III]]
-> Parents:: [[Derivative]]
-> Friends:: [[Gradient]]
+> Parents:: [[Gradient]]
+> Friends:: [[Derivative]] 
 > Children:: 
 ---
 - ## Definition

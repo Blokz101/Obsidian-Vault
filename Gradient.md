@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The "rate of change" of a [[Multi-Variable Function]].
+	- The **greatest** "rate of change" of a [[Multi-Variable Function]].
 	- The [[Gradient]] is to a [[Multi-Variable Function]] as [[Derivative]] is to a single variable function.
 	- Simply the [[Partial Derivative]] for each of the components.
 	  > [!Equation]
