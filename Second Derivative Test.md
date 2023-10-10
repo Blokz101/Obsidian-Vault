@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Calculus III]]
-> Parents:: [[Optimization]] [[Concavity]]
+> Parents:: [[Local Optimization]] [[Concavity]]
 > Friends:: 
 > Children:: 
 ---
@@ -18,6 +18,8 @@ Alias: []
 	  > $$\large{D=f_{xx}f_{yy}-(f_{xy})^2}$$
 	  > 
 	  > If $D>0$ and $f_{xx}>0$ it is a **minimum**
-	  > If $D>0$ and $f_{xx}<0$ it is a **minimum**
+	  > If $D>0$ and $f_{xx}<0$ it is a **maximum**
+	  > If $D<0$ it is a **saddle point**
+	  > If $D=0$ the test is inclusive
 ---
 - ## Reference
