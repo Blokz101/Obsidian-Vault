@@ -1,11 +1,19 @@
 ---
 Alias: []
-Creation Date: Thu October 20th 2022 07:06:38 pm 
-Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-#Permanent [[Calculus]]
-
+> [!Info]
+> Subject:: [[Calculus]] [[Calculus III]]
+> Parents:: 
+> Friends:: 
+> Children:: 
+---
 - ## Definition
-	- A problem where a desired outcome is a result of a function. Finding the max or min of this function can optimize the process.
+	- A method for finding the max or min of some function.
+- ## Single Variable [[Optimization]]
+	- Steps:
+		- Find [[Critical Point (Calculus)|Critical Points]] of the function equal to $0$.
+		- Use the [[Second Derivative Test]] to check if the [[Critical Point (Calculus)|Critical Point]] is a **max** or **min**.
+- ## Multi-Variable [[Optimization]]
+	- There are steps to [[optimize]]  
+---
 - ## Reference
-	- A real world application for [[Derivative|Derivatives]].
