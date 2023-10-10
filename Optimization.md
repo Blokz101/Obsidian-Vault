@@ -5,7 +5,7 @@ Alias: [Optimize]
 > Subject:: [[Calculus]] [[Calculus III]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Second Derivative Test]]
 ---
 - ## Definition
 	- A method for finding the max or min of some function.
@@ -16,6 +16,7 @@ Alias: [Optimize]
 - ## Multi-Variable [[Optimization]]
 	- Steps:
 		- Set each [[Partial Derivative|Partial Derivatives]] of the function equal to $0$.
-		- Solve for a list of points where the [[Partial Derivative|Partial Derivatives]]
+		- Solve the set of equations for points that satisfy both [[Partial Derivative|Partial Derivatives]] being equal to $0$.
+		- Calculate the value for each point to determine the **max** and **mins** or use the [[Second Derivative Test]].
 ---
 - ## Reference
