@@ -19,8 +19,9 @@ Alias: [Implicit Differentiation, Implicitly Differentiated]
 		- > [!Note]
 		  > There are two important types of variable types for this method:
 		  > - Variable
-		  > - The Function that is being [[Implicit Derivative|Implicitly Differentiated]]
 		  > - Functions of the variable
+		- When taking the [[Partial Derivative]] of the **Variable**, do so as normal.
+		- When taking the 
 	- If another method of [[Implicit Derivative|Implicit Differentiation]] is required then use this equation:
 	  > [!Equation]
 	  > Let $F(x,y)$ be the function we want to [[Derivative|Differentiate]], it must be solved for $0$.
