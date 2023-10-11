@@ -12,7 +12,9 @@ Alias: [Constrained Optimization]
 - ## Single Variable [[Global Optimization]]
 	- Same as [[Local Optimization]], but check the points that the function is bounded by.
 - ## Multi Variable [[Global Optimization]]
-	- If the function is bounded by lines then 
+	- If the function is bounded by lines then:
+		- Perform [[Local Optimization]]
+		- Ignore the criti
 	- If the function is bounded by another function then it is best to use the [[Lagrange Multiplier]].
 ---
 - ## Reference
