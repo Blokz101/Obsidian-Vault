@@ -18,4 +18,6 @@ Alias: [Constrained Optimization, Absolute Maximum, Absolute Minimum, Absolute E
 		- Add the end points of each line to the **points of interest**.
 	- If the function is bounded by another function then it is best to use the [[Lagrange Multiplier]].
 ---
+- ## Practice
+	- 
 - ## Reference

@@ -19,4 +19,6 @@ Alias: [Optimize]
 		- Solve the set of equations for points that satisfy both [[Partial Derivative|Partial Derivatives]] being equal to $0$.
 		- Calculate the value for each point to determine the **max** and **mins** or use the [[Second Derivative Test]].
 ---
+- ## Practice
+	- 
 - ## Reference

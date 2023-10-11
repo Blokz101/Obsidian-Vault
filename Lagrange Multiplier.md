@@ -23,7 +23,11 @@ Alias: []
 	  > > 
 	  > > 
 	  > > Solving for things such as **square roots** and **multiplying factors that equal 0** ( Ex: $x(4x-2)=0$ ) are a few ways that the system of equations will split into many **points of interest**.
-		- When solving, make different cases for variables having "special states".
-			- Account for each variable 
+		- When solving, make different cases for variables having **"special states"**.
+			- Account for each variable being equal to 0.
+			- Account for variables that are negative being squared.
+			- Other special cases that can make operations impossible.
 ---
+- ## Practice
+	- 
 - ## Reference

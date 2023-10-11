@@ -14,4 +14,6 @@ Alias: []
 	  > $$\large{D_{\hat{u}}f(x,y,z)=\nabla f \cdot \hat{u}}$$
 	  > $$\large{D_{\hat{u}}f(x,y,z)=\left\langle \frac{ \partial f }{ \partial x } ,\frac{ \partial f }{ \partial y } ,\frac{ \partial f }{ \partial z }  \right\rangle \cdot \left\langle a,b,c \right\rangle }$$
 ---
+- ## Practice
+	- 
 - ## Reference

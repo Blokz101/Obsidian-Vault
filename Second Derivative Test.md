@@ -22,4 +22,6 @@ Alias: []
 	  > If $D<0$ it is a **saddle point**
 	  > If $D=0$ the test is inclusive
 ---
+- ## Practice
+	- 
 - ## Reference
