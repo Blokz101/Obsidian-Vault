@@ -21,7 +21,7 @@ Alias: [Implicit Differentiation, Implicitly Differentiated]
 		  > - Variable
 		  > - Functions of the variable
 		- When taking the [[Partial Derivative]] of the **Variable**, do so as normal.
-		- When taking the 
+		- When taking the [[Partial Derivative]] of a **Function**, write it as the [[Partial Derivative]] of that **Function** with respect to the **Variable**.
 	- If another method of [[Implicit Derivative|Implicit Differentiation]] is required then use this equation:
 	  > [!Equation]
 	  > Let $F(x,y)$ be the function we want to [[Derivative|Differentiate]], it must be solved for $0$.
