@@ -14,5 +14,7 @@ Alias: []
 	  > $P$ = [[Power]] in $W$
 	  > $W$ = [[Work (Physics)]] in $J$
 	  > $t$ = Time in $s$
+	  > [!Equation]
+	  > $\large{P=VI}$
 ---
 - ## Reference

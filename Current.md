@@ -10,7 +10,7 @@ Alias: [Currents, Volt, Volts, V]
 - ## Definition
 	- [[Current]] is how much [[Charge]] moves per unit of time.
 	  > [!Equation]
-	  > $\large{I=\frac{dQ}{dt}}$
+	  > $$\large{I=\frac{dQ}{dt}}$$
 	  > 
 	  > $I$ = [[Current]] in $A$
 	  > $Q$ = [[Charge]] in $C$

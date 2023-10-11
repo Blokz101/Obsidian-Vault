@@ -42,11 +42,11 @@ Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 	- [[Voltage]] always refers to **difference in electrical [[Potential Energy]]**. In these notes it is notated as both $\Delta V$ and $V$ interchangeably. They are the same.
 	- [[Voltage|Volt]] is a unit notated by $v$.
 	  > [!Equation]
-	  > $$\large{V=\frac{J}{C}}$$
+	  > $$\large{V=\frac{\Delta W}{\Delta q}}$$
 	  > 
 	  > $V$ = [[Voltage|Volt]]
-	  > $J$ = [[Joule]]
-	  > $C$ = [[Coulomb]]
+	  > $W$ = [[Work (Physics)]] in $J$
+	  > $C$ = Charge in $C$
 - ## Point Voltage
 	- [[Voltage]] is the [[Voltage|Electric Potential Difference]] between two points, however, sometimes it is said that a specific point has some [[Voltage]]. This is referred to as **Point Voltage** or [[Voltage]] with respect to infinity.
 		- > [!Equation]
