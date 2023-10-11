@@ -9,5 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- The time that it takes a [[Periodic Signal]] to repeat.
+	- Notated with $T$
 ---
 - ## Reference
