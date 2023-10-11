@@ -14,4 +14,6 @@ Alias: []
 	  > [!Equation]
 	  > $$\large{\nabla f=\left\langle \frac{ \partial f }{ \partial x },\frac{ \partial f }{ \partial y },\frac{ \partial f }{ \partial z } \right\rangle}$$
 ---
+- ## Practice
+	- [[MA242 Homework 3.5.pdf]]
 - ## Reference
