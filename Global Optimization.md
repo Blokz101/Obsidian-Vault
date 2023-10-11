@@ -19,5 +19,5 @@ Alias: [Constrained Optimization, Absolute Maximum, Absolute Minimum, Absolute E
 	- If the function is bounded by another function then it is best to use the [[Lagrange Multiplier]].
 ---
 - ## Practice
-	- 
+	- [[MA242 Homework 3.7.pdf]]
 - ## Reference

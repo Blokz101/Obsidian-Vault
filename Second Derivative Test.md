@@ -23,5 +23,6 @@ Alias: []
 	  > If $D=0$ the test is inclusive
 ---
 - ## Practice
-	- 
+	- [[MA242 Homework 3.7.pdf]]
+	- [[MA242 Homework 3.6.pdf]]
 - ## Reference

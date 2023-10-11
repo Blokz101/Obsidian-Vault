@@ -20,5 +20,5 @@ Alias: [Optimize]
 		- Calculate the value for each point to determine the **max** and **mins** or use the [[Second Derivative Test]].
 ---
 - ## Practice
-	- 
+	- [[MA242 Homework 3.6.pdf]]
 - ## Reference

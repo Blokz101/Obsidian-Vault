@@ -20,6 +20,9 @@ Alias: [Implicit Differentiation, Implicitly Differentiated]
 		  > There are two important types of variable types for this method:
 		  > - Variable
 		  > - Functions of the variable
+		  >   
+		  > Reference:
+		  > $\frac{ \partial y }{ \partial x }$ is the [[Partial Derivative]] of the function $y$ with respect to $x$
 		- When taking the [[Partial Derivative]] of the **Variable**, do so as normal.
 		- When taking the [[Partial Derivative]] of a **Function**, write it as the [[Partial Derivative]] of that **Function** with respect to the **Variable**.
 	- If another method of [[Implicit Derivative|Implicit Differentiation]] is required then use this equation:
@@ -36,5 +39,6 @@ Alias: [Implicit Differentiation, Implicitly Differentiated]
 ---
 - ## Practice
 	- [[Drawing 2022-10-01 16.50.33.excalidraw]]
+	- [[MA242 Homework 3.5.pdf]]
 - ## Reference
 	- Same as [[Derivative|Differentiation]] but works with $f(x)$ in on both sides.

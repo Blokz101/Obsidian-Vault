@@ -29,5 +29,5 @@ Alias: []
 			- Other special cases that can make operations impossible.
 ---
 - ## Practice
-	- 
+	- [[MA242 Homework 3.7.pdf]]
 - ## Reference
