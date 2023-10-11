@@ -10,4 +10,6 @@ Alias: [Wave, Waves, Periodic Signals]
 - ## Definition
 	- 
 ---
+- ## Practice
+	- [[ECE200 Homework 5.pdf]]
 - ## Reference

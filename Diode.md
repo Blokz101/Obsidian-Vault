@@ -29,4 +29,5 @@ Alias: [Diodes]
 - ## Practice
 	- [[ECE200 Exam 1 Review.pdf]]
 	- [[ECE200 Homework 3.pdf]]
+	- [[ECE200 Homework 5.pdf]]
 - ## Reference

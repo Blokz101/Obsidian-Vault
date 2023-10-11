@@ -20,5 +20,5 @@ Alias: []
 	  > **Phase** - Basically horizontal offset for the cosine function.
 ---
 - ## Practice
-	- 
+	- [[ECE200 Homework 5.pdf]]
 - ## Reference
