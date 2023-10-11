@@ -46,7 +46,7 @@ Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 	  > 
 	  > $V$ = [[Voltage|Volt]]
 	  > $W$ = [[Work (Physics)]] in $J$
-	  > $C$ = Charge in $C$
+	  > $q$ = Charge in $C$
 - ## Point Voltage
 	- [[Voltage]] is the [[Voltage|Electric Potential Difference]] between two points, however, sometimes it is said that a specific point has some [[Voltage]]. This is referred to as **Point Voltage** or [[Voltage]] with respect to infinity.
 		- > [!Equation]

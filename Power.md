@@ -5,11 +5,11 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Average Power]]
 ---
 - ## Definition
 	- The rate at witch [[Work (Physics)]] is done
-	- > [!Equation] 
+	  > [!Equation] 
 	  > $$P=\frac{dW}{dt}$$
 	  > or
 	  > $$\large{P=VI}$$
@@ -20,7 +20,7 @@ Alias: []
 	  > $t$ = Time in $s$
 	  > $V$ = [[Voltage]] in $V$
 	  > $I$ = [[Current]] in $A$
-	  > > [!Proof]
-	  > > 
+	  > > [!Proof]-
+	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]
 ---
 - ## Reference
