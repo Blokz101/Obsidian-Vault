@@ -16,6 +16,8 @@ Alias: []
 	  > $$\large{f_{x}=\lambda g_{x}}$$
 	  > $$\large{f_{y}=\lambda g_{y}}$$
 	  > $$\large{f_{z}=\lambda g_{z}}$$
-	  > Solve this system to 
+	  > > [!Note]
+	  > > This system of solves for many points which will be the **extrema**. When solving things such as **square roots** and **multiplying factors that equal 0**( Ex: $x(4x-2)=0$ )
+	  > > 
 ---
 - ## Reference
