@@ -10,10 +10,10 @@ Alias: []
 - ## Definition
 	- Distance from [[Average Voltage]] to either max or min peak.
 	  > [!Equation]
-	  > $$\large{A=\frac{V_{H}-V_{L}}{2}}$$
+	  > $$\large{A=|V_{H}-V_{DC}|}$$
 	  > 
 	  > $A$ = [[Amplitude]] in $V$
 	  > $V_{H}$ = Max [[Voltage]] in $V$
-	  > $V_{L}$ = Min [[Voltage]] in $V$
+	  > $V_{DC}$ = [[Average Voltage]] in $V$
 ---
 - ## Reference
