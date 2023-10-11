@@ -20,6 +20,8 @@ Alias: []
 	  > > [!Note]
 	  > > This system of solves for many points which will be the **extrema**. 
 	  > > 
-	  > > Solving things such as **square roots** and **multiplying factors that equal 0** ( Ex: $x(4x-2)=0$ ) a
+	  > > When solving, make sure to account for variables having "special states". Separate cases must be made for each variable if it equals 0
+	  > > 
+	  > > Solving for things such as **square roots** and **multiplying factors that equal 0** ( Ex: $x(4x-2)=0$ ) are a few ways that the system of equations will split into many **points of interest**.
 ---
 - ## Reference
