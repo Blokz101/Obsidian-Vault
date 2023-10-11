@@ -1,5 +1,5 @@
 ---
-Alias: [Implicit Differentiation]
+Alias: [Implicit Differentiation, Implicitly Differentiated]
 ---
 > [!Info]
 > Subject:: [[Calculus]] [[Calculus III]]
@@ -15,8 +15,13 @@ Alias: [Implicit Differentiation]
 		- After [[Derivative|Differentiation]] solve for $\frac{df}{dx}$, this will probably be in terms of $f(x)$.
 		- Optional: Solve the original equation for $f(x)$ and plug it into the [[Implicit Derivative]] that was just calculated.
 - ## [[Implicit Derivative]] of a [[Multi-Variable Function]]
-	- Use the 
-	- If another method of [[Implicit Derivative|Implicit Differentiation]] is required then 
+	- Use something similar to the basic method of [[Implicit Derivative|Implicit Differentiation]]:
+		- > [!Note]
+		  > There are two important types of variable types for this method:
+		  > - Variable
+		  > - The Function that is being [[Implicit Derivative|Implicitly Differentiated]]
+		  > - Functions of the variable
+	- If another method of [[Implicit Derivative|Implicit Differentiation]] is required then use this equation:
 	  > [!Equation]
 	  > Let $F(x,y)$ be the function we want to [[Derivative|Differentiate]], it must be solved for $0$.
 	  > Let $y=f(x)$.
