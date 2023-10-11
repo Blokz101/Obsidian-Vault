@@ -1,20 +1,18 @@
 ---
 Alias: []
-Creation Date: Sun May 29th 2022 6:48:22 pm 
-Modification Date: NaN
 ---
-# NaN
-#Permanent [[Electricity]]
-
-- Definition
-	- The rate at witch [[Work (Chemistry)]] is done
-	- Basically [[Average Acceleration]], but for [[Work (Chemistry)]] instead of [[Position]].
-	- General [[Power]] equation
-	  >$$P=\frac{W}{t}$$
-	  > $P$ = [[Power]]
-	  > $W$ = [[Work (Chemistry)]]
-	  > $t$ = Time
-- Symbol
-	- Generally $P$
-- Unit
-	- Wats
+> [!Info]
+> Subject:: [[Signals, Circuits, and Systems]]
+> Parents:: 
+> Friends:: 
+> Children:: 
+---
+- ## Definition
+	- The rate at witch [[Work (Physics)]] is done
+	- > [!Equation] 
+	  > $$P=\frac{dW}{dt}$$
+	  > $P$ = [[Power]] in $W$
+	  > $W$ = [[Work (Physics)]] in $J$
+	  > $t$ = Time in $s$
+---
+- ## Reference
