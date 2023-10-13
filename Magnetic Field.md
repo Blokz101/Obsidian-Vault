@@ -15,7 +15,7 @@ Alias: [Magnetic Fields]
 	  > 
 	  > $\vec{B}$ = [[Magnetic Field]] in $?$
 	  > $I$ = [[Current]] in $A$
-	  > $\Delta \vec{l}$ = 
+	  > $\Delta \vec{l}$ = Position vector from start to end of the wire in the direction of [[Conventional Current]] in $m$
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 	  > $\vec{r}$ = Position from [[Charge]] to observation point in $m$
 	  
