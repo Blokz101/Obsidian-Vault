@@ -4,7 +4,7 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electromagnetic Force]]
-> Friends:: [[Charge Mobility]] [[Magnetic Field]
+> Friends:: [[Charge Mobility]] [[Magnetic Field]]
 > Children:: [[Electric Field of a Dipole]]
 ---
 - ## Definition
