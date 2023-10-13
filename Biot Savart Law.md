@@ -31,5 +31,7 @@ Alias: []
 	  ![[Pasted image 20231013022014.png|400]]
 	  > [!Warning]
 	  > This assumes that [[Conventional Current]], if going by the direction that [[Electron|Electrons]] are flowing then the direction of the [[Magnetic Field]] will be opposite of the [[Right Hand Rule]].
+	  > 
+	  > Also note that if the [[Current]] is negative then it means that [[Current]] is flowing in the opposite direction, account for this when using the [[Right Hand Rule]].
 ---
 - ## Reference
