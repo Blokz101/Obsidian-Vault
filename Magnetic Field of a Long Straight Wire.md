@@ -14,7 +14,7 @@ Alias: []
 	  > $$\large{B_{wire}=\frac{\mu_{0}}{4\pi} \frac{LI}{{r}\sqrt{ {r}^2+\left( \frac{L}{2} \right)^2 }}}$$
 	  > $$\large{B_{wire}\approx\frac{\mu_{0}}{r\pi} \frac{2I}{r}}$$
 	  > 
-	  > $B_{wire}$ = [[Magnetic Field of a Long Straight Wire]] in $?$
+	  > $B_{wire}$ = [[Magnetic Field of a Long Straight Wire]] in $T$
 	  > $L$ = Length of Wire in $m$
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 	  > $I$ = [[Conventional Current]] in $A$

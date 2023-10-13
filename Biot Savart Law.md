@@ -13,7 +13,7 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{\Delta \vec{B}}=\frac{{\mu_{0}}}{4\pi} \frac{I(\Delta \vec{l}\times \hat{r})}{|\vec{r}|^2}$$
 	  > 
-	  > $\vec{B}$ = [[Magnetic Field]] in $?$
+	  > $\vec{B}$ = [[Magnetic Field]] in $T$
 	  > $I$ = [[Current]] in $A$
 	  > $\Delta \vec{l}$ = Position vector from start to end of the wire in the direction of [[Conventional Current]] in $m$
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
@@ -22,7 +22,7 @@ Alias: []
 	- > [!Equation]
 		  > $$\large{\vec{B}=\frac{\mu_{0}}{4\pi} \frac{q(\vec{v}\times \hat{r})}{|\vec{r}|^2}}$$
 		  > 
-		  > $\vec{B}$ = [[Magnetic Field]] in $?$
+		  > $\vec{B}$ = [[Magnetic Field]] in $T$
 		  > $q$ = [[Charge]] in $C$
 		  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 		  > $\vec{r}$ = Position from [[Charge]] to observation point in $m$
