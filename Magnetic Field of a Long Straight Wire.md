@@ -21,5 +21,8 @@ Alias: []
 	  > $r$ = Perpendicular distance from center of wire to observation point in $m$
 	  > 
 	  > This gives a [[Scaler]] value, use the [[Right Hand Rule]] to find the direction if desired.
+	  > > [!Proof]-
+	  > > ![[Screenshot 2023-10-13 at 3.16.07 PM.png]]
+	  > > ![[Screenshot 2023-10-13 at 3.17.37 PM.png]]
 ---
 - ## Reference
