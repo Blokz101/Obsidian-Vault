@@ -12,7 +12,12 @@ Alias: []
 	  > [!Equation]
 	  > $$\large{B_{loop}=\frac{\mu_{0}}{4\pi} \frac{2\pi R^2I}{(z^2+R^2)^{3/2}}}$$
 	  > 
-	  > 
+	  > $B_{loop}$ = [[Magnetic Field of a Loop]] in $T$
+	  > $R$ = Radius of loop in $m$
+	  > $I$ = [[Conventional Current]] in $A$
+	  > $z$ = Distance from center of loop to observation point in $m$
+	  > > [!Note]
+	  > > The observation point must be on the axis that goes though the ring and is perpendicular to it.
 	- ![[Screenshot 2023-10-13 at 6.09.38 PM.png|400]]
 ---
 - ## Reference
