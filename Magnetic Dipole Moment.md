@@ -27,4 +27,6 @@ Alias: []
 	  > $\mu$ = [[Magnetic Dipole Moment]] in $Am^2$
 	  > 
 ---
+- ## Practice
+	- [[PY208 Homework 17.8,17.10-17.12.pdf]]
 - ## Reference

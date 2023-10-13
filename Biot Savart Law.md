@@ -34,4 +34,7 @@ Alias: []
 	  > 
 	  > Also note that if the [[Current]] is negative then it means that [[Current]] is flowing in the opposite direction, account for this when using the [[Right Hand Rule]].
 ---
+- ## Practice
+	- [[PY208 Homework 17.6-17.7.pdf]]
+	- [[PY208 Homework 17.8,17.10-17.12.pdf]]
 - ## Reference

@@ -12,7 +12,7 @@ Alias: []
 	  > [!Equation]
 	  > $$\large{B_{loop}=\frac{\mu_{0}}{4\pi} \frac{2\pi R^2I}{(z^2+R^2)^{3/2}}}$$
 	  > 
-	  > $B_{loop}$ = [[Magnetic Field of a Loop]] in $T$
+	  > $B_{loop}$ = [[Magnetic Field of a Coil]] in $T$
 	  > $R$ = Radius of loop in $m$
 	  > $I$ = [[Conventional Current]] in $A$
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
@@ -25,4 +25,6 @@ Alias: []
 	  > > ![[Screenshot 2023-10-13 at 6.16.56 PM.png]]
 	- ![[Screenshot 2023-10-13 at 6.09.38 PM.png|400]]
 ---
+- ## Practice
+	- [[PY208 Homework 17.8,17.10-17.12.pdf]]
 - ## Reference

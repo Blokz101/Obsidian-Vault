@@ -25,4 +25,7 @@ Alias: []
 	  > > ![[Screenshot 2023-10-13 at 3.16.07 PM.png]]
 	  > > ![[Screenshot 2023-10-13 at 3.17.37 PM.png]]
 ---
+- ## Practice
+	- [[PY208 Homework 17.6-17.7.pdf]]
+	- [[PY208 Homework 17.8,17.10-17.12.pdf]]
 - ## Reference
