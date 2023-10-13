@@ -5,7 +5,7 @@ Alias: [Currents, Volt, Volts, V]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]] [[Voltage]]
-> Children:: [[Kirchhoff’s Current Law]]
+> Children:: [[Kirchhoff’s Current Law]] [[Conventional Current]]
 ---
 - ## Definition
 	- [[Current]] is how much [[Charge]] moves per unit of time.
@@ -16,6 +16,5 @@ Alias: [Currents, Volt, Volts, V]
 	  > $q$ = [[Charge]] in $C$
 	  > $t$ = Time in $s$
 	- Symbol is $I$
-
-Current is related to [[Voltage]] with [[Ohm's Law]].
-![[Ohm's Law#^1c650e]]
+	- Current is related to [[Voltage]] with [[Ohm's Law]].
+	  ![[Ohm's Law#^1c650e]]
