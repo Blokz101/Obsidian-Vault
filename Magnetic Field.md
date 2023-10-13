@@ -14,7 +14,8 @@ Alias: [Magnetic Fields]
 	  > $$\large{\Delta \vec{B}}=\frac{{\mu_{0}}}{4\pi} \frac{I\Delta \vec{l}\times \hat{r}}{|\vec{r}|^2}$$
 	  > 
 	  > $\vec{B}$ = [[Magnetic Field]] in $?$
-	  > $q$ = [[Charge]] in $C$
+	  > $I$ = [[Current]] in $A$
+	  > $\Delta \vec{l}$ = 
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 	  > $\vec{r}$ = Position from [[Charge]] to observation point in $m$
 	  
