@@ -12,7 +12,7 @@ Alias: []
 	  > [!Equation]
 	  > ![[Screenshot 2023-10-13 at 3.24.22 PM.png|400]]
 	  > $$\large{B_{wire}=\frac{\mu_{0}}{4\pi} \frac{LI}{{r}\sqrt{ {r}^2+\left( \frac{L}{2} \right)^2 }}}$$
-	  > $$\large{B_{wire}\approx\frac{\mu_{0}}{r\pi} \frac{2I}{r}}$$
+	  > $$\large{B_{wire}\approx\frac{\mu_{0}}{4\pi} \frac{2I}{r}}$$
 	  > 
 	  > $B_{wire}$ = [[Magnetic Field of a Long Straight Wire]] in $T$
 	  > $L$ = Length of Wire in $m$
