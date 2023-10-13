@@ -5,7 +5,7 @@ Alias: [Dipoles]
 > Subject:: [[Chemistry]] [[Physics II]]
 > Parents:: [[Charge]]
 > Friends:: [[Induced Dipole]]
-> Children:: [[Electric Field of a Dipole]] [[Dipole Moment]]
+> Children:: [[Electric Field of a Dipole]] [[Electric Dipole Moment]]
 ---
 - ## Definition
 	- A particle that has an uneven distribution of [[Valence Electron|Valence Electrons]] and therefore **one end is slightly more positive** while **the other end is slightly more negative**.

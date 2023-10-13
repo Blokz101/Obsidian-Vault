@@ -4,7 +4,7 @@ aliases: []
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: [[Dipole]] [[Induced Dipole]]
-> Friends:: 
+> Friends:: [[Magnetic Dipole Moment]]
 > Children:: 
 ---
 - ## Definition
@@ -13,14 +13,14 @@ aliases: []
 	  >  ![[IMG_47C2FE0322F0-1.jpeg|300]]
 	  > $$\large{p=qs}$$
 	  > 
-	  > $p$ = [[Dipole Moment]] in $Cm$
+	  > $p$ = [[Electric Dipole Moment]] in $Cm$
 	  > $q$ = [[Charge]] in $C$
 	  > $s$ = Distance in $m$
-	- When a [[Dipole]] is placed in an [[Electric Field]] its [[Dipole Moment]] can be found with:
+	- When a [[Dipole]] is placed in an [[Electric Field]] its [[Electric Dipole Moment]] can be found with:
 	  > [!Equation]
 	  > $$\large{p=\alpha E}$$
 	  > 
-	  > $p$ = [[Dipole Moment]] in $???$
+	  > $p$ = [[Electric Dipole Moment]] in $???$
 	  > $\alpha$ = [[Polarizability]] in $????$
 	  > $E$ = [[Electric Field]] in $\frac{N}{C}$
 ---

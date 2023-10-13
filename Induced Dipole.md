@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Physics II]]
 > Parents:: 
 > Friends:: [[Dipole]]
-> Children:: [[Dipole Moment]]
+> Children:: [[Electric Dipole Moment]]
 ---
 - ## Definition
 	- A [[Diode]] that is created when a particle is placed in an [[Electric Field]].
