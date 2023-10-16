@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Real Power]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
+	- Also known as [[Average Power|Real Power]].
 	- > [!Equation]
 	  > $$\large{P=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
 	  > 
