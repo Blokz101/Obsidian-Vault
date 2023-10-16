@@ -4,7 +4,7 @@ Creation Date: Mon August 22nd 2022 03:07:42 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A collection of objects or items

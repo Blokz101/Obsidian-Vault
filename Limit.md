@@ -2,7 +2,7 @@
 Alias: [Limits, Left Hand Limit, Right Hand Limit, Squeeze Theorem]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Proving a Limit]]
 > Friends:: [[L'Hopital's Rule]]
 > Children:: [[Derivative]]

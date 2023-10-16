@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Sine]] [[Cosine]] [[Tangent]] [[Cosecant]] [[Secant]] [[Cotangent]]
 > Friends:: [[Unit Circle]] [[Trigonometric Derivatives and Integrals]]
 > Children:: [[Reciprocal Identities]] [[Quotient Identities]] [[Pythagorean Identities]] [[Trigonometric Sum and Difference]]

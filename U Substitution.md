@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Techniques of Integration]]
 > Friends:: [[Integration By Parts]]
 > Children:: 

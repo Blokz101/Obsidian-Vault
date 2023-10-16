@@ -3,7 +3,7 @@ Alias: []
 Creation Date: Thu October 20th 2022 07:07:35 pm 
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- States that when a [[Limit]] of a function is an [[Indeterminate Type]] then the following rule applies.

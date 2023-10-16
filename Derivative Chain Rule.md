@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Calculus]] [[Calculus III]]
+> Subject:: [[Calculus I]] [[Calculus III]]
 > Parents:: [[Derivative Rules]] [[Partial Derivative]]
 > Friends:: 
 > Children:: 

@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 09:53:50 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A type of [[Function]] in witch each y value cannot point to the same x value.

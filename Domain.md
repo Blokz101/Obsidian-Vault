@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 12:53:57 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- All [[Real Number|Real Numbers]] for which the [[Function]] is defined.

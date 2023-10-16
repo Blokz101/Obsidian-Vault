@@ -2,7 +2,7 @@
 Alias: [Riemann Sum]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Summation Notation]]
 > Friends:: [[Trapezoidal Sum]]
 > Children:: [[Integral]]

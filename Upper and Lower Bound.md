@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 10:58:22 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A [[Subset]] S [[In|∈]] $\mathbb{R}$ (S in [[Real Number|Real Numbers]]) is bounded above or below if there is a [[Real Number]] M such that M is greater/less than or equal to all [[Element|Elements]] in S.

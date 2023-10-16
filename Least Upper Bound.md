@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 11:12:14 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- The smallest [[Upper and Lower Bound|Upper Bound]] for a [[Set]].

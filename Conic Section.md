@@ -2,7 +2,7 @@
 Alias: [Conic Sections]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Parametric Function]]
 > Friends:: 
 > Children:: [[Parabola]] [[Hyperbola]] [[Ellipse]]

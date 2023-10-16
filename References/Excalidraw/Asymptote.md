@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 10:23:44 am
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A line that a rational [[Function]] continually approaches but never meets. There are two types, vertical and horizontal.

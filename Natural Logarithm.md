@@ -4,7 +4,7 @@ Creation Date: Tue September 27th 2022 09:59:06 am
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A base [[E]] [[Logarithm]]

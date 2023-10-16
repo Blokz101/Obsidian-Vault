@@ -2,7 +2,7 @@
 Alias: [Differentiation, Differentiable, Derivatives, Differentiate]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Limit]]
 > Friends:: [[Integral]]
 > Children:: [[Derivative Rules]] [[Partial Derivative]]

@@ -2,7 +2,7 @@
 Alias: [Parametric Functions,Parametric Equation,Parametric Equations]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: 
 > Friends:: 
 > Children:: [[Conic Section]]

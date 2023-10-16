@@ -4,7 +4,7 @@ Creation Date: Tue September 27th 2022 12:38:04 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Rules
 	- > [!Derivative when x is an exponent]

@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 11:19:54 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A paring between two [[Set|Sets]] in witch every [[Element]] of the first [[Set]] is paired with **exactly** one [[Element]] of the second [[Set]].

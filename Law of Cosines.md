@@ -4,7 +4,7 @@ Creation Date: Fri August 26th 2022 05:24:28 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- An equation that relates the sides of a triangle together and an angle.

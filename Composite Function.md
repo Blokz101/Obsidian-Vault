@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 10:03:43 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A function inside a function

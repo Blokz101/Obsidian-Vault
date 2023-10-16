@@ -4,7 +4,7 @@ Creation Date: Fri August 26th 2022 12:04:07 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- $sin(a+b)=sin(a)cos(b)+cos(a)sin(b)$|$sin(a-b)=sin(a)cos(b)-cos(a)sin(b)$

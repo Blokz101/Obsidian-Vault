@@ -4,7 +4,7 @@ Creation Date: Tue September 13th 2022 12:09:36 pm
 Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a") %>
 ---
 # <%+ tp.file.title %>
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
   - > [!Quotient Rule]

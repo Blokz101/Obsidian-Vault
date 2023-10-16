@@ -3,7 +3,7 @@ Alias: []
 Creation Date: Mon November 7th 2022 02:36:11 pm 
 Modification Date: NaN
 ---
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- Refers to an **infinitesimally small change** in some varying quantity.

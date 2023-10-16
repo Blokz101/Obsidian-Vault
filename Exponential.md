@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 10:17:34 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A [[Function]] that increases by a specified exponent.

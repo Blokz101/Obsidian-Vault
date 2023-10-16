@@ -4,7 +4,7 @@ Creation Date: Wed August 31st 2022 03:37:20 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Proving a [[Limit]]
 	- The objective is to be able to pick values, $x$ that are infinitesimally close to the value that our [[Limit]] approaches, and prove that that there is a $f(x)$ value defined for them. **We do not need the function to be defined at the [[Limit]] itself.*

@@ -2,7 +2,7 @@
 Alias: [Continuous]
 ---
 > [!Info]
-> Subject:: [[Calculus]] [[Calculus III]]
+> Subject:: [[Calculus I]] [[Calculus III]]
 > Parents:: 
 > Friends:: [[Types of Discontinuity]]
 > Children:: 

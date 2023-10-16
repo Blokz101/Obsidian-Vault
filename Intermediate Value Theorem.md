@@ -2,7 +2,7 @@
 Alias: [IVT]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: 
 > Friends:: 
 > Children:: 

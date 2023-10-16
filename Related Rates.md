@@ -4,7 +4,7 @@ Creation Date: Fri September 30th 2022 05:01:45 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 - ## Practice

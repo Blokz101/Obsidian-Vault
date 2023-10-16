@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: 
 > Friends:: 
 > Children:: [[Derivative Sum Rule|Sum Rule]] [[Derivative Constant Multiple Rule|Constant Multiple Rule]] [[Derivative Product Rule|Product Rule]] [[Derivative Quotient Rule|Quotient Rule]] [[E|E Rule]] [[Logarithm Derivative Rules]]

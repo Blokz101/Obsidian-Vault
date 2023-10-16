@@ -4,7 +4,7 @@ Creation Date: Fri August 26th 2022 11:39:37 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Identities
 	- $sin(\theta)=\frac{1}{csc(\theta)}$|$cos(\theta)=\frac{1}{sec(\theta)}$|$tan(\theta)=\frac{1}{cot(\theta)}$

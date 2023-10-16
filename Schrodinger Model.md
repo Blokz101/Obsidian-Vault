@@ -6,7 +6,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Chemistry]]
 
 - ## Definition
-	- The [[Bohr's Model]] lacked some complexities that fully describe the behavior of an atom. The new theory, the [[Schrodinger Model]] uses coordinate systems, trigonometry, [[Calculus]] and more math to model atoms other than just Hydrogen.
+	- The [[Bohr's Model]] lacked some complexities that fully describe the behavior of an atom. The new theory, the [[Schrodinger Model]] uses coordinate systems, trigonometry, [[Calculus I]] and more math to model atoms other than just Hydrogen.
 	- Resulted in the [[Schrodinger Equation]] and 4 [[Quantum Number|Quantum Numbers]] that describe the Probability Region[^1].
 		- Symbol|[[Quantum Number]]
 		  ---|---

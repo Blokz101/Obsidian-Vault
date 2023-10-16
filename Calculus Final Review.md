@@ -3,7 +3,7 @@ Alias: []
 Creation Date: Sun December 4th 2022 06:08:18 pm 
 Modification Date: NaN
 ---
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 | Status | Subject                   |
 | ------ | ------------------------- |

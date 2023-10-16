@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 01:18:02 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]] [[Conic Section]]
+#Permanent [[Calculus I]] [[Conic Section]]
 
 - ## Definition ^767ab2
 	- ![[Drawing 2022-08-24 13.20.24.excalidraw|150]]

@@ -2,7 +2,7 @@
 Alias: [Optimize]
 ---
 > [!Info]
-> Subject:: [[Calculus]] [[Calculus III]]
+> Subject:: [[Calculus I]] [[Calculus III]]
 > Parents:: 
 > Friends:: [[Global Optimization]]
 > Children:: [[Second Derivative Test]]

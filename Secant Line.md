@@ -4,7 +4,7 @@ Creation Date: Tue August 30th 2022 11:58:33 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A line passing through two points on a curve.

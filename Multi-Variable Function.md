@@ -20,7 +20,7 @@ Alias: []
 			> [!Equation]
 			  > $$\large{f(x,y,z)}$$
 			- This can not be represented graphically as it would require four dimensions. 
-	- [[Calculus|Calculus I]] and [[Calculus II]] delt exclusively with single variable [[Function|Single-Variable Functions]].
+	- [[Calculus I|Calculus I]] and [[Calculus II]] delt exclusively with single variable [[Function|Single-Variable Functions]].
 	- [[Calculus III]] works with [[Multi-Variable Function]]. 
 ---
 - ## Reference

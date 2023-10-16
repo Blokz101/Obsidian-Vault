@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 10:38:22 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A [[Set]] in witch all the elements of the [[Subset]] are in the [[Set]] to witch it is a [[Subset]] of.

@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 11:42:49 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A formula to solve for the roots of a [[Quadratic Equation]].

@@ -2,7 +2,7 @@
 Alias: [Implicit Differentiation, Implicitly Differentiated]
 ---
 > [!Info]
-> Subject:: [[Calculus]] [[Calculus III]]
+> Subject:: [[Calculus I]] [[Calculus III]]
 > Parents:: 
 > Friends:: 
 > Children:: 

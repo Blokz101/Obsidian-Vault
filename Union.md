@@ -4,7 +4,7 @@ Creation Date: Wed August 24th 2022 10:43:57 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A [[Set]] formed by putting all the [[Element|Elements]] of two [[Set|Sets]] into a new [[Set]].

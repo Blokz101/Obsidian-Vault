@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 10:10:44 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- The measure of the average [[Rate of Change]] of a [[Function]] over an [[Interval]].

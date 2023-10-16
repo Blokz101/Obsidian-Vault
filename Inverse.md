@@ -4,7 +4,7 @@ Creation Date: Thu August 25th 2022 09:50:45 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- An equation whose x and y values are swapped.

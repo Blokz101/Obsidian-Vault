@@ -4,7 +4,7 @@ Creation Date: Tue August 30th 2022 12:00:42 pm
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A line that touches a single point on a curve and whose slope is equal to that point on the curve.

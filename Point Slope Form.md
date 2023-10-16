@@ -4,7 +4,7 @@ Creation Date: Fri August 26th 2022 10:37:44 am
 Modification Date: NaN
 ---
 # NaN
-#Permanent [[Calculus]]
+#Permanent [[Calculus I]]
 
 - ## Definition
 	- A type of [[Line Equation]] that follows this format

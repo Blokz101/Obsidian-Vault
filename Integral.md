@@ -2,7 +2,7 @@
 Alias: [Integrals, Integration, Integrate]
 ---
 > [!Info]
-> Subject:: [[Calculus]]
+> Subject:: [[Calculus I]]
 > Parents:: [[Limit]] [[Riemann Sum]]
 > Friends:: [[Derivative]] [[Integral Tables]]
 > Children:: [[Techniques of Integration]] [[Iterated Integral]]
