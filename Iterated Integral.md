@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus III]]
 > Parents:: [[Integral]]
 > Friends:: 
-> Children:: [[Regions of Iterated Integration]]
+> Children:: [[Region of Iterated Integration]]
 ---
 - ## Definition
 	- ![[Screenshot 2023-10-16 at 6.34.24 PM.png]]
