@@ -10,9 +10,9 @@ Alias: [Real Power]
 - ## Definition
 	- Also known as [[Average Power|Real Power]].
 	- > [!Equation]
-	  > $$\large{P=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
+	  > $$\large{P_{avg}=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
 	  > 
-	  > $P$ = [[Power]] as a function of time in $W$
+	  > $P_{avg}$ = [[Power]] as a function of time in $W$
 	  > $T$ = [[Period]] in $s$
 	  > $t$ = Time in $s$
 ---
