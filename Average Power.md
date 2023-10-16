@@ -12,7 +12,8 @@ Alias: [Real Power]
 	- > [!Equation]
 	  > $$\large{P_{avg}=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
 	  > 
-	  > $P_{avg}$ = [[Power]] as a function of time in $W$
+	  > $P_{avg}$ = [[Average Power]] in $W$
+	  > $P(t)$ = Instantaneous [[Power]] as a function of time in $W$
 	  > $T$ = [[Period]] in $s$
 	  > $t$ = Time in $s$
 ---
