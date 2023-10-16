@@ -7,7 +7,7 @@ Alias: []
 > Friends:: 
 > Children:: 
 ---
-- ## Definition
+- ## Type 1 Region
 	- 
 ---
 - ## Reference

@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "line:(\"[[Calculus]]\")",
+      "query": "line:(\"[[Calculus I]]\")",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -81,6 +81,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.27907784609323893,
+  "scale": 0.32762336159623395,
   "close": true
 }
