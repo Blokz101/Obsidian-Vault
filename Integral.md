@@ -5,7 +5,7 @@ Alias: [Integrals, Integration, Integrate]
 > Subject:: [[Calculus]]
 > Parents:: [[Limit]] [[Riemann Sum]]
 > Friends:: [[Derivative]] [[Integral Tables]]
-> Children:: [[Techniques of Integration]]
+> Children:: [[Techniques of Integration]] [[Iterated Integral]]
 ---
 - ## Definition
 	- Finds the area under a curve.
