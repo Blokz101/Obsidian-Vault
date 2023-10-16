@@ -14,7 +14,8 @@ Alias: [Regions of Iterated Integration, Type 1 Region, Type 2 Region]
 	- ![[Screenshot 2023-10-16 at 7.15.22 PM.png|300]]
 	- Use this equation to compute an [[Iterated Integral]] on a [[Region of Iterated Integration|Type 1 Region]]
 	  > [!Equation]
-	  > Let $f(x,y)$ be continuous on the [[Region of Iterated Integration|Type 1 Region]] defined by $\mathcal{D}$
+	  > Let $f(x,y)$ be continuous on the [[Region of Iterated Integration|Type 1 Region]] defined by
+	  > $$\large{\mathcal{D}=\{ (x,y)\mid a≤x≤b,g(x)≤y≤h(x) \}}$$
 - ## Type 2 Region
 	- A [[Region of Iterated Integration]] defined by complex functions in terms if $x$ and simple bounds in terms of $y$.
 	- ![[Screenshot 2023-10-16 at 7.17.10 PM.png|300]]
