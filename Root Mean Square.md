@@ -8,6 +8,6 @@ Alias: [RMS]
 > Children:: 
 ---
 - ## Definition
-	- A method of measuring [[Voltage]]
+	- A method of measuring [[Voltage]] for any [[Periodic Signal]].
 ---
 - ## Reference
