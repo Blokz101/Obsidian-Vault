@@ -18,3 +18,13 @@ Alias: [Currents, Volt, Volts, V]
 	- Symbol is $I$
 	- Current is related to [[Voltage]] with [[Ohm's Law]].
 	  ![[Ohm's Law#^1c650e]]
+	- Taking a look on a more microscopic level yields this equation:
+	  > [!Equation]
+	  > $\large{I=nA\mu E}$
+	  > 
+	  > $I$ = [[Current]] in $A$
+	  > $n$ = Number of electrons
+	  > $A$ = Cross-sectional Area of Wire in $m^2$
+	  > $E$ = [[Electric Field]] caused by 
+---
+- ## Reference
