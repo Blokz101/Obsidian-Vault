@@ -20,11 +20,13 @@ Alias: [Currents, Volt, Volts, V]
 	  ![[Ohm's Law#^1c650e]]
 	- Taking a look on a more microscopic level yields this equation:
 	  > [!Equation]
-	  > $\large{I=nA\mu E}$
+	  > $$\large{I=nA\mu E}$$
 	  > 
 	  > $I$ = [[Current]] in $A$
 	  > $n$ = Number of electrons
 	  > $A$ = Cross-sectional Area of Wire in $m^2$
-	  > $E$ = [[Electric Field]] caused by 
+	  > $E$ = [[Electric Field]] in the wire due to [[Voltage|Electric Potential Difference]] in $\frac{N}{C}$
+	  > 
+	  > Note that [[Drift Speed]] can be substituted in for $\mu E$.
 ---
 - ## Reference

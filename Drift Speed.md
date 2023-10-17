@@ -17,3 +17,4 @@ Alias: []
 	  > $E$ = [[Electric Field]] in $\frac{N}{C}$
 ---
 - ## Reference
+	- Useful equation in [[Current]] that this equation can be combined with.
