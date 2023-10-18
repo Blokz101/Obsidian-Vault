@@ -10,7 +10,7 @@ Alias: [RMS]
 - ## Definition
 	- A method of measuring [[Power]], [[Voltage]], [[Current]], etc for any [[Periodic Signal]].
 		- Measuring [[Average Voltage|V_dc]] does not work because the [[Integral]] of a sine or cosine wave is always 0. Therefore another method of measuring these values is required.
-		- $V_{rms}$ provides the same [[Average Power]] to any [[Electrical Component]]. This is useful because it can be treated as DC voltage in many calculations.
+		- $V_{rms}$ provides the same [[Power]] to any [[Electrical Component]]. This is useful because it can be treated as DC voltage in many calculations.
 	- > [!Equation]
 	  > $$\large{V_{rms}=\sqrt{  \frac{1}{T}\int_{0}^{T} V(t)^2 \, dt}}$$
 	  > 

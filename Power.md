@@ -1,33 +1,29 @@
 ---
-Alias: []
+Alias: [Real Power]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: 
+> Parents:: [[Instantaneous Power]]
 > Friends:: 
-> Children:: [[Average Power]]
+> Children:: 
 ---
 - ## Definition
-	- The rate at witch [[Work (Physics)]] is done.
-	  > [!Equation] 
-	  > $$P(t)=\frac{dW}{dt}$$
-	  > or
-	  > $$\large{P(t)=V(t)I(t)}$$
-	  > (See proof below)
+	- A type of average of [[Instantaneous Power]].
+	- Also known as [[Power|Real Power]].
+	- Measured in [[Watts]].
+	- > [!Equation]
+	  > $$\large{P_{avg}=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
 	  > 
-	  > $P(t)$ = Instantaneous [[Power]] as a function of time in $W$
-	  > $W$ = [[Work (Physics)]] in $J$
+	  > $P_{avg}$ = [[Power]] in $W$
+	  > $P(t)$ = [[Instantaneous Power]] as a function of time in $W$
+	  > $T$ = [[Period]] in $s$
 	  > $t$ = Time in $s$
-	  > $V(t)$ = [[Voltage]] as a function of time in $V$
-	  > $I(t)$ = [[Current]] as a function of time in $A$
+	- At a [[Resistor]] the [[Power]] can also be calculated like this:
+	  > [!Equation]
+	  > $$\large{P=V_{rms}*I_{rms}}$$
 	  > 
-	  > > [!Warning]
-	  > > Because [[Power]] goes by the definition of [[Work (Physics)]], it uses **electron current** instead of [[Conventional Current]] like the rest of [[Circuit Analysis]].
-	  > > 
-	  > > To get around this, when solving for [[Power]] in [[Circuit Analysis]] simply define [[Current]] though **energy sources** as going into the **positive terminal** and out of the **negative terminal.**
-	  > 
-	  > > [!Proof]-
-	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]
-	- Power can also be calculated 
+	  > $P$ = [[Power]] in $W$
+	  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
+	  > $I_{rms}$ = [[Root Mean Square|RMS]] [[Current]] in $A$
 ---
 - ## Reference
