@@ -20,6 +20,10 @@ Alias: []
 	  > $t$ = Time in $s$
 	  > $V$ = [[Voltage]] in $V$
 	  > $I$ = [[Current]] in $A$
+	  > 
+	  > > [!Warning]
+	  > > Because [[Power]] goes by the definition of [[Work (Physics)]], it uses **electron current** instead of [[Conventional Current]] like the rest of circuit anal
+	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]
 ---
