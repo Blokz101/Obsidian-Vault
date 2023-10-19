@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Current]]
 > Children:: 
 ---
 - ## Definition
@@ -13,7 +13,7 @@ Alias: []
 	  > $$\large{v_{drift}=\mu E}$$
 	  > 
 	  > $v_{drift}$ = [[Drift Speed]] in $\frac{m}{s}$
-	  > $\mu$ = [[Electron Mobility Constant]] in $?$
+	  > $\mu$ = [[Electron Mobility Constant]] in $\frac{\frac{m}{s}}{\frac{N}{C}}$
 	  > $E$ = [[Electric Field]] in $\frac{N}{C}$
 ---
 - ## Reference

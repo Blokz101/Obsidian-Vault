@@ -4,7 +4,7 @@ Alias: [Currents, Volt, Volts, V]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]] [[Voltage]]
+> Friends:: [[Voltage]] [[Ohm's Law]] [[Resistance]] [[Amp]] [[Voltage]] [[Drift Speed]]
 > Children:: [[Kirchhoff’s Current Law]] [[Conventional Current]]
 ---
 - ## Definition
