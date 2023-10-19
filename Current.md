@@ -23,7 +23,7 @@ Alias: [Currents, Volt, Volts, V]
 	  > $$\large{I=nA\mu E}$$
 	  > 
 	  > $I$ = [[Current]] in $A$
-	  > $n$ = Number of electrons per $m^3$ or [[Electron]] Density in $m^3$
+	  > $n$ = Number of [[Electron|Electrons]] in the wire or [[Electron]] Density in $m^3$
 	  > $A$ = Cross-sectional Area of Wire in $m^2$
 	  > $E$ = [[Electric Field]] in the wire due to [[Voltage|Electric Potential Difference]] in $\frac{N}{C}$
 	  > 
