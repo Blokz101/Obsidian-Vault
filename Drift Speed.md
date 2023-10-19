@@ -16,5 +16,7 @@ Alias: []
 	  > $\mu$ = [[Electron Mobility Constant]] in $\frac{\frac{m}{s}}{\frac{N}{C}}$
 	  > $E$ = [[Electric Field]] in $\frac{N}{C}$
 ---
+- ## Practice
+	- [[PY208 Homework 18.1-18.5.pdf]]
 - ## Reference
 	- Useful equation in [[Current]] that this equation can be combined with.

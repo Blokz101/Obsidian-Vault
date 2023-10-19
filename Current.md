@@ -29,4 +29,6 @@ Alias: [Currents, Volt, Volts, V]
 	  > 
 	  > Note that [[Drift Speed]] can be substituted in for $\mu E$.
 ---
+- ## Practice
+	- [[PY208 Homework 18.1-18.5.pdf]]
 - ## Reference
