@@ -22,9 +22,11 @@ Alias: []
 	  > $I(t)$ = [[Current]] as a function of time in $A$
 	  > 
 	  > > [!Warning]
-	  > > Because [[Instantaneous Power]] goes by the definition of [[Work (Physics)]], it uses **electron current** instead of [[Conventional Current]] like the rest of [[Circuit Analysis]].
+	  > > [[Power]] and [[Instantaneous Power]] are technically **power dissipation**. 
 	  > > 
-	  > > To get around this, when solving for [[Instantaneous Power]] in [[Circuit Analysis]] simply define [[Current]] though **energy sources** as going into the **positive terminal** and out of the **negative terminal.**
+	  > > This means that when performing [[Circuit Analysis]] to solve for the [[Power]] of an **energy source**, multiply the equation above by $-1$.
+	  > > 
+	  > > In other words, **energy sources** produce 
 	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]
