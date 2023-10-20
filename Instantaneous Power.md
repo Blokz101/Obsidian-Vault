@@ -26,7 +26,7 @@ Alias: []
 	  > > 
 	  > > This means that when performing [[Circuit Analysis]] to solve for the [[Power]] of an **energy source**, multiply the equation above by $-1$.
 	  > > 
-	  > > In other words, **energy sources** produce 
+	  > > In other words, energy sources produce negative [[Power]].
 	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]

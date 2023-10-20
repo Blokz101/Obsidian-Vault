@@ -18,6 +18,13 @@ Alias: [Real Power]
 	  > $P(t)$ = [[Instantaneous Power]] as a function of time in $W$
 	  > $T$ = [[Period]] in $s$
 	  > $t$ = Time in $s$
+	  > 
+	  > > [!Warning]
+	  > > [[Power]] and [[Instantaneous Power]] are technically **power dissipation**. 
+	  > > 
+	  > > This means that when performing [[Circuit Analysis]] to solve for the [[Power]] of an **energy source**, multiply the equation above by $-1$.
+	  > > 
+	  > > In other words, energy sources produce negative [[Power]].
 	- At a [[Resistor]] the [[Power]] can also be calculated like this:
 	  > [!Equation]
 	  > $$\large{P=V_{rms}*I_{rms}}$$
