@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- To access a [[Local Variable]] or [[Global Variable]] in [[LC3]] [[LC3 Load Data Register]] is used.
+	- To access a [[Local Variable]] or [[Global Variable]] in [[LC3]] use [[LC3 Load Data Register]].
 	- 
 ---
 - ## Reference
