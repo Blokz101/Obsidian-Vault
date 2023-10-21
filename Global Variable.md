@@ -13,6 +13,5 @@ Alias: [Global Variables]
 	- [[Global Variable|Global Variables]] are tracked by `R4`. 
 		- `R4` Points to the first [[Global Variable]] defined in the program and the rest of the [[Global Variable|Global Variables]] grow **upwards** in [[Memory]] from there.
 		  ![[Screenshot 2023-10-21 at 6.47.35 PM.png]]
-	- To access [[Global Variable|Global Variables]] use [[LC3 Load Data Register|LDR]] where the `OFFSET` is 
 ---
 - ## Reference
