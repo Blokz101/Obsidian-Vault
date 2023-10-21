@@ -8,6 +8,7 @@ Alias: [LDR]
 > Children:: 
 ---
 - ## Definition
-	- 
+	- Loads the value from a [[Memory Address]] to a [[Register]].
 ---
 - ## Reference
+	- [[LC3 Assembly Manual.pdf]]
