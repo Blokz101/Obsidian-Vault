@@ -15,7 +15,7 @@ Alias: [ISA]
 		- [[Register]] Set
 			- Number of [[Register|Registers]]
 			- [[Register]] size
-		- [[Instruction]] Set
+		- [[LC3 Instruction]] Set
 			- Opcodes 
 			- Data types
 			- Addressing models

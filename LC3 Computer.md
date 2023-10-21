@@ -21,3 +21,4 @@ Alias: []
 		- `R7`: Used for [[LC3 Return]] addresses. 
 ---
 - ## Reference
+	- [[LC3 Assembly Manual.pdf]]

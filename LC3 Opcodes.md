@@ -16,7 +16,7 @@ Alias: [LC3 Commands, LC3 Opcode, LC3 Command]
 		- Data Movement Opcodes
 			- [[LC3 Opcodes]] that deal with [[Memory]] and the manipulation of [[Memory]].
 		- Program Control Opcodes
-			- [[LC3 Opcodes]] that are used to alter the sequence of [[Instruction|Instructions]] by changing the [[Program Counter]].
+			- [[LC3 Opcodes]] that are used to alter the sequence of [[LC3 Instruction|Instructions]] by changing the [[Program Counter]].
 	- Complete [[LC3 Opcodes|LC3 Opcode]] list is in [[LC3 Assembly Manual.pdf]] and a quick reference for the [[LC3 Opcodes|LC3 Opcode]] is in [[LC3 Quick Reference Guide.pdf]]:
 		- ![[LC3 Quick Reference Guide.pdf]]
 - ## Opcodes Binary

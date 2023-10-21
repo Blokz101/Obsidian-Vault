@@ -8,7 +8,7 @@ Alias: [Condition Codes]
 > Children:: 
 ---
 - ## Definition
-	- A code made up of 3 [[Bit|Bits]] that represents the **sign** of the last [[Register]] that was altered by an [[Instruction]].
+	- A code made up of 3 [[Bit|Bits]] that represents the **sign** of the last [[Register]] that was altered by an [[LC3 Instruction]].
 		- P: Positive
 		- Z: Zero
 		- N: Negative

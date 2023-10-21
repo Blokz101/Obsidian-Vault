@@ -12,6 +12,6 @@ Alias: [Instructions]
 	- Has two main parts:
 		- [[LC3 Opcodes]]: The operation to be performed.
 		- **Operands**: The data or locations of the data that the operation is to be performed on.
-	- Each [[Instruction]] is either executed completely or not at all.
+	- Each [[LC3 Instruction]] is either executed completely or not at all.
 ---
 - ## Reference
