@@ -33,4 +33,6 @@ Alias: [Real Power]
 	  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
 	  > $I_{rms}$ = [[Root Mean Square|RMS]] [[Current]] in $A$
 ---
+- ## Practice
+	- [[ECE200 Homework 6.pdf]]
 - ## Reference

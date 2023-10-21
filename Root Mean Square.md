@@ -20,4 +20,6 @@ Alias: [RMS]
 	  > > [!Proof]-
 	  > > ![[IMG_CE9DBED0812D-1.jpeg]]
 ---
+- ## Practice
+	- [[ECE200 Homework 6.pdf]]
 - ## Reference

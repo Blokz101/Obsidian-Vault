@@ -21,4 +21,5 @@ Alias: []
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]
+	- [[ECE200 Homework 6.pdf]]
 - ## Reference

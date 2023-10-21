@@ -16,4 +16,6 @@ Alias: [V_dc]
 	  > $v(t)$ = [[Voltage]] function with respect to time in $V$
 	  > $t$ = Time in $s$
 ---
+- ## Practice
+	- [[ECE200 Homework 6.pdf]]
 - ## Reference
