@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A [[Subroutine]] that jumps to a [[L]]
+	- 
 ---
 - ## Reference
