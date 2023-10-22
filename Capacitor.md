@@ -82,4 +82,6 @@ Alias: [Capacitors]
 	  > $R$ = Resistance in $\Omega$
 	  > $C$ = [[Capacitance]] in $?$
 ---
+- ## Practice
+	- 
 - ## Reference
