@@ -18,5 +18,7 @@ Alias: []
 	  ![[Pythagorean Identities#^cca7b3]]
 	- [[Trigonometric Sum and Difference|Sum and Difference]]
 	  ![[Trigonometric Sum and Difference#^b45e0d]]
+	- [[Trigonometric Half Angle Identities]]
+	  ![[Trigonometric Half Angle Identities#^244d73]]
 ---
 - ## Reference

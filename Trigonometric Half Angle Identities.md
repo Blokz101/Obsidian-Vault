@@ -11,5 +11,6 @@ Alias: []
 	- $\sin^2(\theta)=\frac{1}{2}(1-\cos(2\theta))$|$\cos^2(\theta)=\frac{1}{2}(1+\cos(2\theta))$
 	  ---|---
 	  $\sin\left( \frac{\theta}{2} \right)=\pm \sqrt{ \frac{1-\cos(\theta)}{2} }$|$\cos\left( \frac{\theta}{2} \right)=\pm \sqrt{ \frac{1+\cos(\theta)}{2} }$
+	  $\tan\left( \frac{\theta}{2} \right)=\pm \sqrt{ \frac{1-\cos (\theta)}{1+\cos(\theta)} }$| ^244d73
 ---
 - ## Reference
