@@ -5,7 +5,7 @@ Alias: [C Programs]
 > Subject:: [[Computer Systems Programming]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Compiling C to LC3]]
 ---
 - ## Definition
 	- A low level program that can be compiled into [[Assembly]].
@@ -24,6 +24,6 @@ Alias: [C Programs]
 		- `R7`: Used for [[LC3 Return]] addresses.
 	- Memory Diagram
 	  ![[IMG_D52D10873D12-1.jpeg]]
-	- See [[Compiling C to LC]]
+	- See [[Compiling C to LC3]] for more info.
 ---
 - ## Reference
