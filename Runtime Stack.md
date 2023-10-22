@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
-> Parents:: [[LC3 Computer]] [[Stack]] [[Local Variable]] [[Global Variable]]
-> Friends:: [[Supervisor Stack]]
+> Parents:: [[C Program]] [[Stack]] [[Local Variable]] [[Global Variable]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition

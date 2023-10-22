@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Computer Systems Programming]] [[Computer Systems]]
 > Parents:: 
 > Friends::
-> Children:: [[Runtime Stack]]
+> Children:: 
 ---
 - ## Definition
 	- Stands for Little Computer 3 and is used for teaching assembly etc.
@@ -15,11 +15,9 @@ Alias: []
 		- `R1`: General Purpose.
 		- `R2`: General Purpose.
 		- `R3`: General Purpose.
-		- `R4`: [[Pointer]] in the first [[Global Variable]].
-		- `R5`: [[Pointer]] in the [[Runtime Stack]] to the first [[Local Variable]] in the current scope.
-			- Used to access [[Local Variable]] of the [[Computer Function]] that the program is currently running.
-		- `R6`: Top [[Memory Address]] of the [[Runtime Stack]].
-			- Used to track where the next [[Computer Function]]'s [[Activation Record]] goes.
+		- `R4`: General Purpose.
+		- `R5`: General Purpose.
+		- `R6`: General Purpose.
 		- `R7`: Used for [[LC3 Return]] addresses.
 ---
 - ## Reference

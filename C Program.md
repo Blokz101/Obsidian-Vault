@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [C Programs]
 ---
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
@@ -10,6 +10,7 @@ Alias: []
 - ## Definition
 	- A low level program that can be compiled into [[Assembly]].
 - ## LC3
+	- [[C Program|C Programs]] can be compiled by hand into [[LC3]]. The rest of the information in this section refers to doing so.
 	- Register Purposes:
 		- `R0`: General Purpose.
 		- `R1`: General Purpose.
@@ -23,5 +24,6 @@ Alias: []
 		- `R7`: Used for [[LC3 Return]] addresses.
 	- Memory Diagram
 	  ![[IMG_D52D10873D12-1.jpeg]]
+	- See [[Compiling C to LC]]
 ---
 - ## Reference
