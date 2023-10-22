@@ -10,6 +10,6 @@ Alias: []
 - ## Definition
 	- $\sin^2(\theta)=\frac{1}{2}(1-\cos(2\theta))$|$\cos^2(\theta)=\frac{1}{2}(1+\cos(2\theta))$
 	  ---|---
-	  $\sin(\frac{\theta}{2})=\pm \sqrt{ 1-\cos(\theta) }$
+	  $\sin\left( \frac{\theta}{2} \right)=\pm \sqrt{ \frac{1-\cos(\theta)}{2} }$| $\sin\left( \frac{\theta}{2} \right)=\pm \sqrt{ \frac{1-\cos(\theta)}{2} }$
 ---
 - ## Reference
