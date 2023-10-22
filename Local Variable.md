@@ -14,5 +14,7 @@ Alias: [Local Variables]
 	- [[Global Variable|Global Variables]] are tracked by `R5` which is the [[Framework Pointer]] in the [[Runtime Stack]].  
 		- `R5` Points to the first [[Local Variable]] defined in a [[Computer Function]] and the rest of the [[Local Variable|Local Variables]] grow **downwards** in [[Memory]] from there.
 		  ![[Screenshot 2023-10-21 at 6.49.40 PM.png]]
+	- > [!Warning]
+	  > Variables dont have [[LC3 Label|LC3 Labels]]
 ---
 - ## Reference
