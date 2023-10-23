@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
-> Parents:: 
+> Parents:: [[Compiling C to LC3]]
 > Friends:: 
 > Children:: 
 ---
