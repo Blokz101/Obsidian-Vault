@@ -55,7 +55,7 @@ Alias: [Capacitors]
 				- $V_{c}=0$
 			- When $0^+<t<\infty$
 				- The [[Capacitor]] is charging, as the two plates become more and more polar the [[Electric Field]] that the [[Capacitor]] generates grows and opposes [[Current]]. During this time the [[Current]] drops and the [[Voltage|Potential Difference]] climbs. See the **How It Works** section below.
-				- 
+				- During this time the [[Capacitor]] is [[Ohm's Law|Ohmic]].
 				- $i_{c}=\frac{V_{c}}{R}$
 				- $V_{c}=V_{c}(0^+)e^{\frac{1}{RC}t}$
 					- > [!Equation]

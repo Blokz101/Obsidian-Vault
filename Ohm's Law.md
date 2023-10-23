@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Ohmic]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -8,7 +8,8 @@ Alias: []
 > Children:: [[Circuit Analysis]]
 ---
 - ## Definition
-	- Relates [[Voltage]] to [[Current]] and [[Resistance]]
+	- Relates [[Voltage]] to [[Current]] and [[Resistance]] over [[Ohm's Law|Ohmic]] [[Electrical Component]].
+	- An [[Ohm's Law|Ohmic]] [[Electrical Component]] is simply 
 	- > [!Equation]
         >$$\large{V=I*R}$$
         >$$\large{I=\frac{V}{R}}$$
