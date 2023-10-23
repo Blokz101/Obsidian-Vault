@@ -4,7 +4,7 @@ Alias: [Capacitors]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electrical Component]] [[Capacitance]]
-> Friends:: [[Capacitors In Series]] [[Capacitors In Parallel]]
+> Friends:: [[Capacitor In Parallel]] [[Capacitors In Series]]
 > Children:: [[Capacitance]]
 ---
 - ## Definition
