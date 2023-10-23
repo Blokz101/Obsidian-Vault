@@ -5,7 +5,7 @@ Alias: [Ohmic]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Current]] [[Voltage]] [[Resistance]] [[Electrical Circuit]]
-> Children:: [[Circuit Analysis]]
+> Children:: [[Circuit Analysis]] [[Passive Sign Convention]]
 ---
 - ## Definition
 	- Relates [[Voltage]] to [[Current]] and [[Resistance]] over [[Ohm's Law|Ohmic]] [[Electrical Component]].
