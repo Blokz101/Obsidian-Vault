@@ -18,6 +18,14 @@ Alias: [Capacitors]
 		  > $V$ = [[Voltage]] in $V$
 		  > $A$ = Area of plates in the drawing below in $m^2$
 		  > $d$ = Distance as shown in the drawing below in $m$
+	- **When not at a static state ($0^+\leq t\leq \infty$)** the [[Current]] flowing though a [[Capacitor]] can be written as a function of [[Time]] and [[Voltage]].
+	  > [!Equation]
+				  > $$\large{i_{c}=C\frac{dV_{c}}{dt}}$$
+				  > 
+				  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
+				  > $V _{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
+				  > $C$ = [[Capacitance]] in $?$
+				  > $t$ = Time in $s$
 	- Made up of two metal plates and an [[Insulator]] in between.
 	  ![[IMG_294D7E6DD76F-1.jpeg|400]]
 - ## Charging and Discharging
@@ -47,13 +55,7 @@ Alias: [Capacitors]
 				- $V_{c}=0$
 			- When $0^+<t<\infty$
 				- The [[Capacitor]] is charging, as the two plates become more and more polar the [[Electric Field]] that the [[Capacitor]] generates grows and opposes [[Current]]. During this time the [[Current]] drops and the [[Voltage|Potential Difference]] climbs. See the **How It Works** section below.
-				- > [!Equation]
-				  > $$\large{i_{c}=C\frac{dV_{c}}{dt}}$$
-				  > 
-				  > $i_{c}$ = [[Current]] through the [[Capacitor]] in $A$
-				  > $V _{c}$ = [[Voltage]] over the [[Capacitor]] in $V$
-				  > $C$ = [[Capacitance]] in $?$
-				  > $t$ = Time in $s$
+				- 
 				- $i_{c}=\frac{V_{s}}{R}$
 				- $V_{c}=\text{unknown}$ (Requires solving a [[Differential Equation]] to find)
 			- When $t=\infty$
