@@ -10,8 +10,9 @@ Alias: [C to LC3 Function Definitions]
 - ## Definition
 	- Steps to preamble
 		1. Push space for the **return value**.
-		2. Push the **return address** ([[Memory Address]] to return to after function is done) to `R7`.
-		3. 
+		2. Push the **return address** ([[Memory Address]] to return to after function is done) from `R7` to the [[Runtime Stack]].
+		3. Push the [[Dynamic Link]] from `R5` to the [[Runtime Stack]].
+		4. Set the [[Framework Pointer]]
 	- Steps to return
 ---
 - ## Reference
