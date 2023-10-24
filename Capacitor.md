@@ -96,5 +96,5 @@ Alias: [Capacitors]
 	  > $C$ = [[Capacitance]] in $?$
 ---
 - ## Practice
-	- 
+	- [[ECE200 Homework 4.pdf]]
 - ## Reference
