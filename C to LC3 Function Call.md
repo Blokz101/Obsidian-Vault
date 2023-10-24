@@ -9,7 +9,7 @@ Alias: [C to LC3 Function Calls]
 ---
 - ## Definition
 	- General steps on how to translate a [[C]] function call to [[LC3]].
-		- The idea is that the functions **arguments** are stored on the [[Runtime Stack]] 
+		- The idea is that the functions **arguments** are stored on top of the [[Runtime Stack]] for easy access, and so is the return value when the function returns.
 	- Steps to call: ^c7ac30
 		1. Evaluate and push **arguments** to the [[Runtime Stack]]. (Start from left and go right)
 		2. Transfer Control with [[LC3 Jump Sub Routine|JSR]].
