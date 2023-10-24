@@ -8,11 +8,15 @@ Alias: [C to LC3 Function Calls]
 > Children:: 
 ---
 - ## Definition
-	- Steps to call:
+	- General steps on how to translate a [[C]] function call to [[LC3]].
+		- The idea is that the functions **arguments** are stored on the [[Runtime Stack]] 
+	- Steps to call: ^c7ac30
 		1. Evaluate and push **arguments** to the [[Runtime Stack]]. (Start from left and go right)
 		2. Transfer Control with [[LC3 Jump Sub Routine|JSR]].
-	- Steps after return:
+	- Steps to clean-up:
 		1. Pop **return value** from the [[Runtime Stack]] and save to memory.
-		2. Pop and discard **arguments** pushed in 
+		2. Pop and discard **arguments** pushed in [[C to LC3 Function Call#^c7ac30|Steps to call]].
+	- > [!Example]
+	  > ![[Screenshot 2023-10-23 at 9.07.56 PM.png]]
 ---
 - ## Reference
