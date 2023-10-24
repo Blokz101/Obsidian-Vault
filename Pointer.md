@@ -4,7 +4,7 @@ Alias: [Deference Operator, Pointers, Pointing]
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
 > Parents:: [[C]]
-> Friends:: 
+> Friends:: [[Pointer]]
 > Children:: 
 ---
 - ## Definition

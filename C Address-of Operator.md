@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
 > Parents:: [[C]]
-> Friends:: 
+> Friends:: [[String]]
 > Children:: 
 ---
 - ## Definition

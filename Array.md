@@ -4,7 +4,7 @@ Alias: [Arrays]
 > [!Info]
 > Subject:: [[Computer Systems Programming]]
 > Parents:: [[C]]
-> Friends:: 
+> Friends:: [[Array]]
 > Children:: 
 ---
 - ## Definition 
