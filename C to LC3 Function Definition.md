@@ -27,7 +27,9 @@ Alias: [C to LC3 Function Definitions]
 		2. Pop and discard [[Local Variable|Local Variables]].
 		3. Pop and restore the [[Framework Pointer]] to `R5`.
 		4. Pop and restore the **return address** to `R7`.
-		5. [[LC3 Return]]
-	- 
+		5. [[LC3 Return|RET]].
+		- > [!Example]
+		  > Includes the preamble as well.
+		  > ![[Screenshot 2023-10-23 at 9.47.32 PM.png]]
 ---
 - ## Reference
