@@ -10,6 +10,7 @@ Alias: []
 - ## Definition
 	- A variable that contains a [[Memory Address]]. 
 	- A [[Pointer]] is declared with the `*` operator like this:
-	  
+	  ![[Screenshot 2023-10-23 at 10.17.31 PM.png|400]]
+	- When using the `*` character anywhere outside of a **declariati**
 ---
 - ## Reference
