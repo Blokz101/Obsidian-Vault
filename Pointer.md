@@ -19,5 +19,7 @@ Alias: [Deference Operator, Pointers, Pointing]
 	- This only works for [[Pointer]] expressions.
 	- > [!Example]-
 	  > ![[Screenshot 2023-10-23 at 10.30.27 PM.png]]
+- ## Pointer Arithmetic
+	- Adding `+1` to a [[Pointer]] does not actually add `1` to the [[Memory Address]]. Instead it incri
 ---
 - ## Reference
