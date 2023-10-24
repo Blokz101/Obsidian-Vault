@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [JSR]
 ---
 > [!Info]
 > Subject:: [[Computer Systems]]
