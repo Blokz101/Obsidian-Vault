@@ -20,6 +20,7 @@ Alias: [Deference Operator, Pointers, Pointing]
 	- > [!Example]-
 	  > ![[Screenshot 2023-10-23 at 10.30.27 PM.png]]
 - ## Pointer Arithmetic
-	- Adding `+1` to a [[Pointer]] does not actually add `1` to the [[Memory Address]]. Instead it incri
+	- Adding `+1` to a [[Pointer]] does not actually add `1` to the [[Memory Address]]. Instead it increments the [[Pointer]] to the [[Memory Address]] of the next "item" in [[Memory]].
+		- If doubles take two words to store on some operating system, then `*x+1` will move the [[Pointer]] to the next double or two spaces in [[Memory]].
 ---
 - ## Reference
