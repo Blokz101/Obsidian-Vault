@@ -17,7 +17,7 @@ Alias: []
 	  > $\vec{E}$ = [[Electric Field]] in $\frac{N}{C}$ or $\frac{V}{m}$
 	  > $\sigma$ = Conductivity in $\frac{A}{m^2}/\frac{V}{m}$
 	  > $q$ = The [[Charge]] on each carrier in $C$
-	  > $n$ = The number of [[Charge|Charges]] in $\frac{1}{m^3}$
-	  > $u$ = The mobility of the charge carriers in $\frac{m^2}{sV}$
+	  > $n$ = The number of [[Charge|Charges]] in $?$
+	  > $u$ = The mobility of the charge carriers in $\frac{m}{s} / \frac{V}{m}$
 ---
 - ## Reference
