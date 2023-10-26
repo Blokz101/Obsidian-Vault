@@ -15,10 +15,11 @@ Alias: [Resistors]
 		- ![[Screenshot 2023-08-25 at 11.30.33 AM.png|400]]
 	- The [[Resistance]] of a [[Resistor]] is given by:
 	  > [!Equation]
-	  > $\large{R=\frac{L}{\sigma A}}$
+	  > $$\large{R=\frac{L}{\sigma A}}$$
 	  > 
 	  > $R$ = [[Resistance]] in $\Omega$
-	  > $\sigma$ = Conductivity in $\frac{A}{m^2}/\frac{V}{m}$
+	  > $\sigma$ = [[Conductivity]] in $\frac{A}{m^2}/\frac{V}{m}$
+	  > $A$ = Area in $m^2$
 - ## Resistor Types
 	- #### Thermistor
 		- **Resistance value** changes with heat.
