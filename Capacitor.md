@@ -88,12 +88,12 @@ Alias: [Capacitors]
 	  > $Q$ = The [[Charge]] on each plate in $C$
 	  > $A$ = The area of each plate in $m^2$
 - ## Time Constant
-	- Not sure what this is but I think its important
+	- Not 100% sure what this is but I know that it is important as a [[Scaler]] for how quickly a [[Capacitor]] charges or discharges.
 	- > [!Equation]
 	  > $$\large{T=RC}$$
 	  > $T$ = Time constant in $s$
 	  > $R$ = Resistance in $\Omega$
-	  > $C$ = [[Capacitance]] in $?$
+	  > $C$ = [[Capacitance]] in $F$
 ---
 - ## Practice
 	- [[ECE200 Homework 4.pdf]]
