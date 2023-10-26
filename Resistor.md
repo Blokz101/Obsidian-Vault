@@ -13,6 +13,12 @@ Alias: [Resistors]
 		  ![[IMG_53C066EBB01B-1.jpeg|400]]
 	- Set value [[Resistor|Resistors]] use a small wire to provide a known [[Resistance]].
 		- ![[Screenshot 2023-08-25 at 11.30.33 AM.png|400]]
+	- The [[Resistance]] of a [[Resistor]] is given by:
+	  > [!Equation]
+	  > $\large{R=\frac{L}{\sigma A}}$
+	  > 
+	  > $R$ = [[Resistance]] in $\Omega$
+	  > $\sigma$ = Conductivity in $\frac{A}{m^2}/\frac{V}{m}$
 - ## Resistor Types
 	- #### Thermistor
 		- **Resistance value** changes with heat.
