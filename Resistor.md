@@ -30,4 +30,6 @@ Alias: [Resistors]
 		- Notated in an [[Electrical Circuit]] like this:
 		  ![[Screenshot 2023-08-25 at 11.39.59 AM.png|200]]
 ---
+- ## Practice
+	- [[PY208 Homework 19.1-19.1.pdf]]
 - ## Reference

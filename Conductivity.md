@@ -17,4 +17,6 @@ Alias: []
 	  > $n$ = The number of [[Charge|Charges]] in $?$
 	  > $u$ = The mobility of the charge carriers in $\frac{m}{s} / \frac{V}{m}$
 ---
+- ## Practice
+	- [[PY208 Homework 19.1-19.1.pdf]]
 - ## Reference

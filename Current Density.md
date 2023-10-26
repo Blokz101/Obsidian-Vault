@@ -22,4 +22,6 @@ Alias: []
 	  > > [!Proof]-
 	  > > ![[IMG_C1011E7ADF71-1.jpeg]]
 ---
+- ## Practice
+	- [[PY208 Homework 19.1-19.1.pdf]]
 - ## Reference
