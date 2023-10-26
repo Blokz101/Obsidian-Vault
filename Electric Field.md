@@ -22,7 +22,7 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 	  > $$\large{\vec{E}=\frac{\vec{F}}{q}}$$
 	  > $$\large{\vec{F}=\vec{E}q}$$
 	  > 
-	  > $\vec{E}$ = [[Electric Field]] in $\frac{N}{C}$
+	  > $\vec{E}$ = [[Electric Field]] in $\frac{N}{C}$ or $\frac{V}{m}$
 	  > $\vec{F}$ = [[Force]] in $N$
 	  > $q$ = [[Charge]] of object feeling the force in $C$
 	- We can move [[Charge|Charges]] by using the attractive and repulsive properties of [[Charge|Charges]] as defined by [[Coulomb's Law of Force (Chemistry)]].
