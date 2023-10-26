@@ -12,7 +12,7 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 	  > [!Equation]
 	  > $$\large{\vec{E}_{\text{at x}}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^2}\hat{r}=\frac{1}{4\pi\epsilon_{0}}*\frac{Q}{|\vec{r}|^{3/2}}\vec{r}}$$
 	  > 
-	  > $\vec{E}_{\text{at x}}$ = [[Electric Field]] at observation point $x$ in $\frac{N}{C}$
+	  > $\vec{E}_{\text{at x}}$ = [[Electric Field]] at observation point $x$ in $\frac{N}{C}$ or $\frac{V}{m}$
 	  > $Q$ = [[Charge]] in $C$
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $\vec{r}$ = Position of [[Charge]] to observation point $x$ in $m$
