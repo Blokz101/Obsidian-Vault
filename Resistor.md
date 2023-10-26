@@ -2,7 +2,7 @@
 Alias: [Resistors]
 ---
 > [!Info]
-> Subject:: [[Signals, Circuits, and Systems]]
+> Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Resistance]] [[Electrical Component]]
 > Friends:: 
 > Children:: [[Resistors In Parallel]] [[Resistors In Series]]
