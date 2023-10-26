@@ -13,4 +13,5 @@ Alias: []
 ---
 - ## Practice
 	- [[MA242 Homework 4.1.pdf]]
+	- [[MA242 Homework 4.2.pdf]]
 - ## Reference
