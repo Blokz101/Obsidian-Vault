@@ -12,5 +12,12 @@ Alias: [Polar Coordinates, Cylindrical Coordinates]
 	  ![[Screenshot 2023-10-29 at 3.26.43 AM.png|400]]
 	- [[Polar and Cylindrical Coordinates|Cylindrical Coordinates]] are an alternative 3 dimensional method of describing points.
 	  ![[Screenshot 2023-10-29 at 3.29.47 AM.png|400]]
+	- Conversions from [[Cartesian Coordinates]] to [[Polar and Cylindrical Coordinates]]
+	  > [!Equation]
+	  > $\large{x=r\cos(\theta)}$
+	  > $\large{y=r\cos(\theta)}$
+	  > 
+	  > Correction Term
+	  > > 
 ---
 - ## Reference
