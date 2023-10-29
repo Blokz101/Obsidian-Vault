@@ -14,10 +14,13 @@ Alias: [Polar Coordinates, Cylindrical Coordinates]
 	  ![[Screenshot 2023-10-29 at 3.29.47 AM.png|400]]
 	- Conversions from [[Cartesian Coordinates]] to [[Polar and Cylindrical Coordinates]]
 	  > [!Equation]
-	  > $\large{x=r\cos(\theta)}$
-	  > $\large{y=r\cos(\theta)}$
+	  > Main Conversions
+	  > $$\large{x=r\cos(\theta)}$$
+	  > $$\large{y=r\sin(\theta)}$$
 	  > 
 	  > Correction Term
-	  > > 
+	  > **(When substituting using the equations above into an [[Integral]] multiply the correction term)**
+	  > 
+	  > $$\large{r}$$
 ---
 - ## Reference
