@@ -18,8 +18,10 @@ Alias: []
 	  > $$\large{z=\rho\cos(\phi)}$$
 	  > 
 	  > Other Conversations:
-	  > $$x^2+y^2+z^2=\rho^2$$
-	  > $$\sqrt{ x^2 +y^2+z^2}=\rho$$
+	  > $$\large{x^2+y^2=\rho^2\sin^2(\phi)}$$
+	  > $$\large{\sqrt{x^2+y^2}=\rho\sin(\phi)}$$
+	  > $$\large{x^2+y^2+z^2=\rho^2}$$
+	  > $$\large{\sqrt{ x^2 +y^2+z^2}=\rho}$$
 	  > 
 	  > Correction Term
 	  > *When substituting using the equations above into an [[Integral]] multiply the new function by the correction term*
