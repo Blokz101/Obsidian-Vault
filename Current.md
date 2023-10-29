@@ -29,6 +29,12 @@ Alias: [Currents, Volt, Volts, V]
 	  > $\mu$ = [[Electron Mobility Constant]] in $?$
 	  > 
 	  > Note that [[Drift Speed]] can be substituted in for $\mu E$.
+	- Convert form [[Electron|Electrons]] per second to [[Conventional Current]] with like this:
+	  > [!Equation]
+	  > $\large{I=iq}$
+	  > $I$ = [[Conventional Current]] in $A$
+	  > $i$ = [[Current]] in $\frac{\text{electrons}}{s}$
+	  > $q$ = [[Charge]] of an [[Proton]] $1.67e-19 \frac{C}{s}$
 ---
 - ## Practice
 	- [[PY208 Homework 18.1-18.5.pdf]]
