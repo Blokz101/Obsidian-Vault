@@ -3,7 +3,7 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces, Coulomb's Law o
 ---
 > [!Info]
 > Subject:: [[Physics]] [[Signals, Circuits, and Systems]]
-> Parents:: [[Charge]] [[Coulomb's Law of Force (Chemistry)]]
+> Parents:: [[Charge]] [[Coulomb's Law of Force (Chemistry)]] [[Magnetic Field]]
 > Friends:: [[Strong Force]] [[Coulomb's Law of Force (Chemistry)]]
 > Children:: [[Electric Field]]
 ---
@@ -20,6 +20,13 @@ Alias: [Electromagnetic Forces, Electric Force, Electric Forces, Coulomb's Law o
 	- ![[IMG_1623.jpg|200]]
 	- > [!Memory Aid]
 	  > The [[Charge|Charges]] are only attracted to each other when the arrows connect the two [[Charge|Charges]]. If they do not connect, then they repel.
+	- > [!Equation]
+	  > $$\large{\vec{F}=q\vec{v}\times \vec{B}}$$
+	  > 
+	  > $\vec{F}$ = [[Electromagnetic Force]] in $N$
+	  > $q$ = [[Charge]] of a [[Proton]] in $C$
+	  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$
+	  > $\vec{B}$ = [[Magnetic Field]] in $T$
 ---
 - ## Practice
 	- [[PY205 Homework 3.11-3.12.pdf]]

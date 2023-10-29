@@ -4,17 +4,13 @@ Alias: [Magnetic Fields]
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: [[electroma]]
+> Friends:: [[Electromagnetic Force]]
 > Children:: [[Biot Savart Law]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]]
 ---
 - ## Definition
 	- Symbolized with $\vec{B}$
 	- [[Magnetic Field]] of a magnet
 	  ![[Screenshot 2023-10-13 at 6.49.55 PM.png|400]]
-	- > [!Equation]
-	  > $\large{F=q\vec{v}\times \vec{B}}$
-	  > 
-	  > $F$ = [[Electromagnetic Force]]
 ---
 - ## Practice
 	- [[PY208 Homework 17.6-17.7.pdf]]
