@@ -8,6 +8,9 @@ Alias: [Polar Coordinates, Cylindrical Coordinates]
 > Children:: 
 ---
 - ## Definition
-	- [[Polar and Cylindrical Coordinates]] 
+	- [[Polar and Cylindrical Coordinates|Polar Coordinates]] are an alternative 2 dimensional method of describing points.
+	  ![[Screenshot 2023-10-29 at 3.26.43 AM.png|400]]
+	- [[Polar and Cylindrical Coordinates|Cylindrical Coordinates]] are an alternative 3 dimensional method of describing points.
+	  ![[Screenshot 2023-10-29 at 3.29.47 AM.png|400]]
 ---
 - ## Reference
