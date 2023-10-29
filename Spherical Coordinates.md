@@ -13,9 +13,9 @@ Alias: []
 	- Conversions from [[Cartesian Coordinates]] to [[Spherical Coordinates]]:
 	  > [!Equation]
 	  > Main Conversions:
-	  > $$\large{x=\rho}$$
-	  > $$\large{y=}$$
-	  > $$\large{z=}$$
+	  > $$\large{x=\rho \sin(\phi)\cos(\theta)}$$
+	  > $$\large{y=\rho \sin(\phi)\sin(\theta)}$$
+	  > $$\large{z=\rho\cos(\phi)}$$
 	  > 
 	  > Other Conversions:
 	  > $$\large{x^2+y^2=r^2}$$
