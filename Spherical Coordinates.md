@@ -17,6 +17,10 @@ Alias: []
 	  > $$\large{y=\rho \sin(\phi)\sin(\theta)}$$
 	  > $$\large{z=\rho\cos(\phi)}$$
 	  > 
+	  > Other Conversations:
+	  > $$x^2+y^2+z^2=\rho^2$$
+	  > $$\sqrt{ x^2 +y^2+z^2}=\rho$$
+	  > 
 	  > Correction Term
 	  > *When substituting using the equations above into an [[Integral]] multiply the new function by the correction term*
 	  > 
