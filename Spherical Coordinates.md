@@ -17,12 +17,9 @@ Alias: []
 	  > $$\large{y=\rho \sin(\phi)\sin(\theta)}$$
 	  > $$\large{z=\rho\cos(\phi)}$$
 	  > 
-	  > Other Conversions:
-	  > $$\large{x^2+y^2=r^2}$$
-	  > 
 	  > Correction Term
 	  > *When substituting using the equations above into an [[Integral]] multiply the new function by the correction term*
 	  > 
-	  > $$\large{}$$
+	  > $$\large{\rho^2\sin(\phi)}$$
 ---
 - ## Reference
