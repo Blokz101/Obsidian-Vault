@@ -31,7 +31,7 @@ Alias: [Currents, Volt, Volts, V]
 	  > Note that [[Drift Speed]] can be substituted in for $\mu E$.
 	- Convert form [[Electron|Electrons]] per second to [[Conventional Current]] with like this:
 	  > [!Equation]
-	  > $\large{I=iq}$
+	  > $$\large{I=iq}$$
 	  > $I$ = [[Conventional Current]] in $A$
 	  > $i$ = [[Current]] in $\frac{\text{electrons}}{s}$
 	  > $q$ = [[Charge]] of an [[Proton]] $1.67e-19 \frac{C}{s}$
