@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: [[Cartesian Coordinates]] [[Polar and Cylindrical Coordinates]]
+> Friends:: [[Cartesian Coordinates]] [[Polar and Cylindrical Coordinates]] [[Iterated Integral]]
 > Children:: 
 ---
 - ## Definition
@@ -28,4 +28,6 @@ Alias: []
 	  > 
 	  > $$\large{\rho^2\sin(\phi)}$$
 ---
+- ## Practice
+	- [[MA242 Homework 5.3.pdf]]
 - ## Reference

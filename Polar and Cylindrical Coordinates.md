@@ -4,7 +4,7 @@ Alias: [Polar Coordinates, Cylindrical Coordinates]
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: [[Cartesian Coordinates]] [[Spherical Coordinates]]
+> Friends:: [[Cartesian Coordinates]] [[Spherical Coordinates]] [[Iterated Integral]]
 > Children:: 
 ---
 - ## Definition
@@ -28,4 +28,7 @@ Alias: [Polar Coordinates, Cylindrical Coordinates]
 	  > 
 	  > $$\large{r}$$
 ---
+- ## Practice
+	- [[MA242 Homework 5.1.pdf]]
+	- [[MA242 Homework 5.2.pdf]]
 - ## Reference
