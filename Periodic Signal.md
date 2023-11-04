@@ -8,7 +8,7 @@ Alias: [Wave, Waves, Periodic Signals]
 > Children:: [[Average Voltage]] [[Peak to Peak Voltage]] [[Duty Cycle]] [[Amplitude]] [[Period]] [[Frequency]] [[Cosine Wave]]
 ---
 - ## Definition
-	- 
+	- A signal that repeats every set interval. 
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]
