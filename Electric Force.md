@@ -20,6 +20,8 @@ Alias: [Electromagnetic Forces, Electric Forces, Coulomb's Law of Force (Physics
 	- ![[IMG_1623.jpg|200]]
 	- > [!Memory Aid]
 	  > The [[Charge|Charges]] are only attracted to each other when the arrows connect the two [[Charge|Charges]]. If they do not connect, then they repel.
+	- From [[Electric Field]]:
+	  ![[Electric Field#^6d294d]]
 ---
 - ## Practice
 	- [[PY205 Homework 3.11-3.12.pdf]]
