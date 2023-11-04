@@ -8,10 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
-	- 
-	- Curl the fingers of your right hand in the direction of the rotational motion, which ever way your thumb is facing is the direction of the [[Vector Cross Product]].
-	- ![[Screen Shot 2023-04-10 at 6.17.28 PM.png|200]]
-	- ![[Screen Shot 2023-04-10 at 6.17.41 PM.png|200]]
+	- A method of quickly determining the direction of a [[Vector Cross Product]]
+	- Point your pointer finger in the direction of the first vector and your middle finger in the direction of the second vector. The direction that your thumb points is the direction of the [[Vector Cross Product]].
+	- ![[Screenshot 2023-11-04 at 3.23.26 PM.png|300]]
 ---
 - ## Reference
