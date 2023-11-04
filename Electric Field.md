@@ -3,7 +3,7 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
-> Parents:: [[Electromagnetic Force]]
+> Parents:: [[Electric Force]]
 > Friends:: [[Charge Mobility]] [[Magnetic Field]]
 > Children:: [[Electric Field of a Dipole]]
 ---
@@ -17,7 +17,7 @@ Alias: [Electric Fields, Electric Field of a Point Charge]
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $\vec{r}$ = Position of [[Charge]] to observation point $x$ in $m$
   - When multiple [[Charge|Charges]] are present, the [[Electric Field]] is the sum of the [[Electric Field|Electric Fields]] created by each of the [[Charge|Charges]].
-  - The [[Electric Field]] can be calculated from an [[Electromagnetic Force]] and [[Charge]], and vice versa.
+  - The [[Electric Field]] can be calculated from an [[Electric Force]] and [[Charge]], and vice versa.
     > [!Equation]
 	  > $$\large{\vec{E}=\frac{\vec{F}}{q}}$$
 	  > $$\large{\vec{F}=\vec{E}q}$$

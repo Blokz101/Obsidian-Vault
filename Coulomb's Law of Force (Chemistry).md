@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Chemistry]]
 > Parents:: 
-> Friends:: [[Coulomb's Law of Energy]] [[Electromagnetic Force]]
+> Friends:: [[Coulomb's Law of Energy]] [[Electric Force]]
 > Children:: 
 ---
 - ## Definition ^5645df

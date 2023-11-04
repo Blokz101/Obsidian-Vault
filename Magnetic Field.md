@@ -4,7 +4,7 @@ Alias: [Magnetic Fields]
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: [[Electromagnetic Force]]
+> Friends:: [[Magnetic Force]]
 > Children:: [[Biot Savart Law]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]]
 ---
 - ## Definition

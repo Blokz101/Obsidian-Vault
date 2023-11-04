@@ -3,7 +3,7 @@ Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
-> Parents:: [[Electromagnetic Force]]
+> Parents:: [[Electric Force]]
 > Friends:: [[Current]] [[Ohm's Law]] [[Electromotive Force]]
 > Children:: [[Voltage Source]] [[Kirchhoff’s Voltage Law]]
 ---

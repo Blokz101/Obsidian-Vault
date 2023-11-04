@@ -17,7 +17,7 @@ Alias: []
 	  > $\frac{1}{4\pi\epsilon_{0}}$ = $9e9\frac{Nm^2}{c^2}$
 	  > $r$ = Separation in $m$
 	  > 
-	  > The proof is the exact same as for [[Gravitational Potential Energy]] but with $F_{g}$ substituted for $F_{e}$ from [[Electromagnetic Force]].
+	  > The proof is the exact same as for [[Gravitational Potential Energy]] but with $F_{g}$ substituted for $F_{e}$ from [[Electric Force]].
 ---
 - ## Practice
 	- [[PY205 Homework 6.7-6.8.pdf]]
