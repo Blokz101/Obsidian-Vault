@@ -17,7 +17,8 @@ Alias: []
 	  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
 	  > $V_{p}$ = [[Amplitude]] in $V$
 	  > > [!Note]
-	  > > To find the power of the $V_{dc}$ compo
+	  > > To find the **power of the $V_{dc}$ component** of a [[Periodic Signal]] (The component of the signal at $0\,Hz$) using the convention of the $1\Omega$ [[Resistor]], the equation will be:
+	  > > $$\large{P=V_{dc}^2}$$
 	- [[Signal Power]] is useful as a standard for measuring and comparing the [[Power]] of different [[Periodic Signal|Periodic Signals]].
 ---
 - ## Reference
