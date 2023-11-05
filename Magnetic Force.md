@@ -17,4 +17,6 @@ Alias: []
 	  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$
 	  > $\vec{B}$ = [[Magnetic Field]] in $T$
 ---
+- ## Practice
+	- [[PY208 Homework 20.3.pdf]]
 - ## Reference
