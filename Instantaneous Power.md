@@ -13,7 +13,6 @@ Alias: []
 	  > $$P(t)=\frac{dW}{dt}$$
 	  > or
 	  > $$\large{P(t)=V(t)I(t)}$$
-	  > (See proof below)
 	  > 
 	  > $P(t)$ = [[Instantaneous Power]] as a function of time in $W$
 	  > $W$ = [[Work (Physics)]] in $J$
