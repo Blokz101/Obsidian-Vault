@@ -5,10 +5,10 @@ Alias: [Real Power]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Instantaneous Power]]
 > Friends:: 
-> Children:: 
+> Children:: [[Signal Power]]
 ---
 - ## Definition
-	- A type of average of [[Instantaneous Power]].
+	- Average of [[Instantaneous Power]].
 	- Also known as [[Power|Real Power]].
 	- Measured in [[Watts]].
 	- > [!Equation]
