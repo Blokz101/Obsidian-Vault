@@ -13,4 +13,6 @@ Alias: []
 		- [[Branch Current Circuit Analysis]]
 		- [[Node Voltage Circuit Analysis]]
 ---
+- ## Practice
+	- [[PY208 Homework 19.4-19.6.pdf]]
 - ## Reference
