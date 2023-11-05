@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Amplitudes]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]

@@ -5,12 +5,12 @@ Alias: [Series]
 > Subject:: [[Calculus II]]
 > Parents:: [[Sequence]]
 > Friends:: [[Series Convergence Tests]] [[Absolute Convergence]]
-> Children:: [[Power Series]] [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series]] [[P Series]]
+> Children:: [[Power Series]] [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series (Calculus II)]] [[P Series]]
 ---
 - ## Definition
 	- The [[Summation Notation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].
 	- Determining if a [[Sequence]] **converges** or **diverges** tells us a lot about the sequence, including if we can find the overall sum of the [[Sequence]].
-		- For common [[Infinite Series|Series]] such as [[Harmonic Series]], [[Geometric Series]], [[Telescoping Series]], and others we can easily determine **convergence**.
+		- For common [[Infinite Series|Series]] such as [[Harmonic Series (Calculus II)]], [[Geometric Series]], [[Telescoping Series]], and others we can easily determine **convergence**.
 		- For non common [[Infinite Series|Series]] we have to use [[Series Convergence Tests]].
 - ## Determining Convergence Or Divergence
 	- There are several minor and major theorems that can help us determine this.

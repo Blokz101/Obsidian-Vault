@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Calculus II]]
 > Parents:: [[Infinite Series]]
 > Friends:: 
-> Children:: [[Harmonic Series]]
+> Children:: [[Harmonic Series (Calculus II)]]
 ---
 - ## Definition
 	- An [[Infinite Series]] that takes the form of:

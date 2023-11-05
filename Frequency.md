@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Frequencies]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
