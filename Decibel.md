@@ -8,7 +8,7 @@ Alias: [dB]
 > Children:: 
 ---
 - ## Definition
-	- A logarithmic unit used to 
+	- **A logarithmic unit** used to express and simplify relationships between [[Voltage]], [[Current]], [[Resistance]], [[Power]], and other variables.
 	- Notated as $dB$.
 ---
 - ## Reference

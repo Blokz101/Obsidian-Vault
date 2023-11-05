@@ -8,6 +8,7 @@ Alias: [dBW]
 > Children:: 
 ---
 - ## Definition
+	- Simply [[Decibel]] but with reference to a [[Power]] of $1\,dB$. Basically [[Decibel]] but describing [[Power]].
 	- Notated as $dBW$.
 ---
 - ## Reference
