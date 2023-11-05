@@ -20,9 +20,12 @@ Alias: [Currents, Volt, Volts, V]
 	  ![[Ohm's Law#^1c650e]]
 	- Taking a look on a more microscopic level yields this equation:
 	  > [!Equation]
-	  > $$\large{I=nA\mu E}$$
+	  > $$\large{i=nA\mu E}$$
+	  > or
+	  > $$\large{I=|q|nA\mu E}$$
 	  > 
 	  > $I$ = [[Current]] in $A$
+	  > $i$ = [[Current]] in $\frac{\text{electrons}}{s}$
 	  > $n$ = Number of [[Electron|Electrons]] in the wire or [[Electron]] Density in $m^3$
 	  > $A$ = Cross-sectional Area of Wire in $m^2$
 	  > $E$ = [[Electric Field]] in the wire due to [[Voltage|Electric Potential Difference]] in $\frac{N}{C}$
