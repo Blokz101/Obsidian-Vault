@@ -20,5 +20,9 @@ Alias: []
 	  > > To find the **power of the $V_{dc}$ component** of a [[Periodic Signal]] (The component of the signal at $0\,Hz$) using the convention of the $1\Omega$ [[Resistor]], the equation will be:
 	  > > $$\large{P=V_{dc}^2}$$
 	- [[Signal Power]] is useful as a standard for measuring and comparing the [[Power]] of different [[Periodic Signal|Periodic Signals]].
+	- The [[Power]] of a [[Periodic Signal]] can be found by simply summing the [[Power]] of all of its [[Harmonic|Harmonics]]
+	  > [!Equation]
+	  > $$\large{P=V_{dc}^2+\sum^{\infty}_{n=1}\frac{V_{p\,n}^2}{2}}$$
+	  > $$
 ---
 - ## Reference
