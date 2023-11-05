@@ -12,6 +12,7 @@ Alias: []
 	  > [!Equation]
 	  > $$V(t)=V_{DC}+A\cos(2\pi ft+\theta)$$
 	  > $V(t)$ = [[Voltage]] in terms of time in $V$
+	  > $t$ = Time in $s$
 	  > $V_{DC}$ = [[Average Voltage]] in $V$
 	  > $A$ = [[Amplitude]] in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$

@@ -1,5 +1,5 @@
 ---
-Alias: [Amplitudes]
+Alias: [Amplitudes, V_p]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -15,5 +15,6 @@ Alias: [Amplitudes]
 	  > $A$ = [[Amplitude]] in $V$
 	  > $V_{H}$ = Max [[Voltage]] in $V$
 	  > $V_{DC}$ = [[Average Voltage]] in $V$
+	- Notated as $A$ or as $V_{p}$.
 ---
 - ## Reference
