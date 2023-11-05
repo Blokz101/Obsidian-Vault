@@ -9,6 +9,6 @@ Alias: [First Harmonic]
 ---
 - ## Definition
 	- The first [[Harmonic]] in a [[Fourier Series]].
-	- All [[Harmonic|Harmonics]] after the [[Fundamental Frequency]] must be **integer** multiples of the [[Fundamental Frequency]].  ^70118a
+	- Notated as $f_{0}$
 ---
 - ## Reference
