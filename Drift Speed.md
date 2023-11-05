@@ -13,7 +13,7 @@ Alias: []
 	  > $$\large{v_{drift}=\mu E}$$
 	  > 
 	  > $v_{drift}$ = [[Drift Speed]] in $\frac{m}{s}$
-	  > $\mu$ = [[Electron Mobility Constant]] in $\frac{\frac{m}{s}}{\frac{N}{C}}$
+	  > $\mu$ = [[Electron Mobility Constant]] in $\frac{m/s}{v/m}$
 	  > $E$ = [[Electric Field]] in $\frac{N}{C}$
 ---
 - ## Practice

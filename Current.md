@@ -26,10 +26,10 @@ Alias: [Currents, Volt, Volts, V]
 	  > 
 	  > $I$ = [[Current]] in $A$
 	  > $i$ = [[Current]] in $\frac{\text{electrons}}{s}$
-	  > $n$ = Number of [[Electron|Electrons]] in the wire or [[Electron]] Density in $m^3$
+	  > $n$ = Density of [[Electron|Electrons]] in the wire in $\frac{\text{electrons}}{m^3}$
 	  > $A$ = Cross-sectional Area of Wire in $m^2$
 	  > $E$ = [[Electric Field]] in the wire due to [[Voltage|Electric Potential Difference]] in $\frac{N}{C}$
-	  > $\mu$ = [[Electron Mobility Constant]] in $?$
+	  > $\mu$ = [[Electron Mobility Constant]] in $\frac{m/s}{v/m}$
 	  > 
 	  > Note that [[Drift Speed]] can be substituted in for $\mu E$.
 	- Convert form [[Electron|Electrons]] per second to [[Conventional Current]] with like this:
