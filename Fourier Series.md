@@ -18,5 +18,8 @@ Alias: []
 	  > $V_{p\,n}$ = [[Amplitude]] of [[Harmonic]] $n$ in $V$
 	  > $f_{n}$ = [[Frequency]] of [[Harmonic]] $n$ in $\frac{1}{s}$
 	  > $\theta_{n}$ = [[Phase Angle|Phase]] of [[Harmonic]] $n$ in $s$
+	- > [!Example]
+	  > The progressive sum of the first four non-zero [[Harmonic|Harmonics]] of a [[Square Wave]].
+	  > ![[Screenshot 2023-11-05 at 2.20.49 PM.png|400]]
 ---
 - ## Reference
