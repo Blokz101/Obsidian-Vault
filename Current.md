@@ -42,4 +42,5 @@ Alias: [Currents, Volt, Volts, V]
 - ## Practice
 	- [[PY208 Homework 18.1-18.5.pdf]]
 	- [[ECE200 Homework 6.pdf]]
+	- [[PY208 Homework 20.4-20.5.pdf]]
 - ## Reference

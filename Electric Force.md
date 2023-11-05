@@ -26,4 +26,6 @@ Alias: [Electromagnetic Forces, Electric Forces, Coulomb's Law of Force (Physics
 - ## Practice
 	- [[PY205 Homework 3.11-3.12.pdf]]
 	- [[PY205 Homework 3.7.pdf]]
+	- [[PY208 Homework 20.3.pdf]]
+	- [[PY208 Homework 20.4-20.5.pdf]]
 - ## Reference

@@ -18,5 +18,6 @@ Alias: []
 ---
 - ## Practice
 	- [[PY208 Homework 18.1-18.5.pdf]]
+	- [[PY208 Homework 20.4-20.5.pdf]]
 - ## Reference
 	- Useful equation in [[Current]] that this equation can be combined with.

@@ -15,4 +15,6 @@ Alias: [Magnetic Fields]
 - ## Practice
 	- [[PY208 Homework 17.6-17.7.pdf]]
 	- [[PY208 Homework 17.8,17.10-17.12.pdf]]
+	- [[PY208 Homework 20.3.pdf]]
+	- [[PY208 Homework 20.4-20.5.pdf]]
 - ## Reference

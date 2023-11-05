@@ -61,5 +61,6 @@ Alias: [Voltages, Volt, Volts, V, Electric Potential Difference]
 	- [[PY208 Homework 16.1-16.4.pdf]]
 	- [[PY208 Homework 16.4-16.7.pdf]]
 	- [[ECE200 Homework 6.pdf]]
+	- [[PY208 Homework 20.4-20.5.pdf]]
 - ## Reference
 	- Voltage is related to [[Current]] with [[Ohm's Law]].
