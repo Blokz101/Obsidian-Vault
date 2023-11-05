@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Harmonic]]
 ---
 - ## Definition
 	- Any [[Periodic Signal]] can be represented as an infinite sum of **Sinusoids** with varying [[Amplitude|Amplitudes]], [[Frequency|Frequencies]], and [[Phase Angle|Phases]]. This summation of signals is called a [[Fourier Series]].
@@ -15,7 +15,7 @@ Alias: []
 	  >  $V(t)$ = [[Voltage]] at time $t$ of any [[Periodic Signal]] $V$
 	  >  $t$ = Time in $s$
 	  > $V_{DC}$ = [[Average Voltage]] in $V$
-	  > $V_{n}$ = [[Amplitude]] of [[Harmonic]] $n$ in $V$
+	  > $V_{p\,n}$ = [[Amplitude]] of [[Harmonic]] $n$ in $V$
 	  > $f_{n}$ = [[Frequency]] of [[Harmonic]] $n$ in $\frac{1}{s}$
 	  > $\theta_{n}$ = [[Phase Angle|Phase]] of [[Harmonic]] $n$ in $s$
 ---
