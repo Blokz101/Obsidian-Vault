@@ -4,13 +4,13 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Periodic Signal]] [[Power]]
-> Friends:: 
+> Friends:: [[Power Spectrum]]
 > Children:: 
 ---
 - ## Definition
 	- The average [[Power]] dissipated over a $1\Omega$ [[Resistor]].
 	  > [!Equation]
-	  > $$\large{P=V_{rms}^2}$$
+	  > $$\large{P=\frac{V_{rms}^2}{1}=V_{rms}^2}$$
 	  > After substituting [[Voltage|V]] [[Root Mean Square|RMS]] for [[V RMS of a Sinusoidal Waveform]]:
 	  > $$\large{P=\frac{V_{p}^2}{2}}$$
 	  > $P$ = [[Signal Power]] in $W$
