@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Phase Angle]]
 > Children:: 
 ---
 - ## Definition
@@ -15,9 +15,7 @@ Alias: []
 	  > $V_{DC}$ = [[Average Voltage]] in $V$
 	  > $A$ = [[Amplitude]] in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$
-	  > $\theta$ = **Phase** in $s$
-	  > 
-	  > **Phase** - Basically horizontal offset for the cosine function.
+	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]
