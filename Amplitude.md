@@ -15,6 +15,6 @@ Alias: [Amplitudes, V_p]
 	  > $A$ = [[Amplitude]] in $V$
 	  > $V_{H}$ = Max [[Voltage]] in $V$
 	  > $V_{DC}$ = [[Average Voltage]] in $V$
-	- Notated as $A$ or as $V_{p}$.
+	- Notated as $A$ or as $V_{p}$ (Peak [[Voltage]]).
 ---
 - ## Reference

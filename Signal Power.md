@@ -23,6 +23,8 @@ Alias: []
 	- The [[Power]] of a [[Periodic Signal]] can be found by simply summing the [[Power]] of all of its [[Harmonic|Harmonics]]
 	  > [!Equation]
 	  > $$\large{P=V_{dc}^2+\sum^{\infty}_{n=1}\frac{V_{p\,n}^2}{2}}$$
-	  > $$
+	  > $P$ = [[Power|Real Power]] in $W$
+	  > $V_{dc}$ = [[Average Voltage]] in $V$
+	  > $V_{p\,n}$ = [[Amplitude]] of [[Harmonic]] $n$ in $V$
 ---
 - ## Reference
