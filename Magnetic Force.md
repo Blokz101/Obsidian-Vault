@@ -13,8 +13,8 @@ Alias: []
 	  > $$\large{\vec{F}=q\vec{v}\times \vec{B}}$$
 	  > 
 	  > $\vec{F}$ = [[Electric Force]] in $N$
-	  > $q$ = [[Charge]] of a [[Proton]] in $C$
-	  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$
+	  > $q$ = [[Charge]] in $C$
+	  > $\vec{v}$ = [[Velocity]] of [[Charge]] in $\frac{m}{s}$
 	  > $\vec{B}$ = [[Magnetic Field]] in $T$
 ---
 - ## Practice
