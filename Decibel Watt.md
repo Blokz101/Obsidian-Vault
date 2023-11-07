@@ -9,6 +9,7 @@ Alias: [dBW]
 ---
 - ## Definition
 	- Simply [[Decibel]] but with reference to a [[Power]] of $1\,dB$. Basically [[Decibel]] but describing [[Power]].
+		- It is basically a unit made for representing 
 	- The conventional unit for the [[Power Spectrum]].
 	- Notated as $dBW$.
 	- To convert from $W$ to $dBW$:
