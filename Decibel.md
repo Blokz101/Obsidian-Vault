@@ -1,5 +1,5 @@
 ---
-Alias: [dB]
+Alias: [Decibels, dB]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
