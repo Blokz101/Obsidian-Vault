@@ -9,11 +9,13 @@ Alias: [dBW]
 ---
 - ## Definition
 	- Simply [[Decibel]] but with reference to a [[Power]] of $1\,dB$. Basically [[Decibel]] but describing [[Power]].
-		- It is basically a unit made for representing 
+		- Basically a unit made for representing [[Power]] in a [[Logarithm|Logarithmic]] way.
 	- The conventional unit for the [[Power Spectrum]].
 	- Notated as $dBW$.
-	- To convert from $W$ to $dBW$:
+	- Conversions to and from $W$ and $dBW$:
 	  > [!Equation]
 	  > $$\large{P_{[dBW]}=10\log_{10}(P_{[dB]})}$$
+	  > and
+	  > $$\large{P_{[dB]}=10^{\frac{P_{[dBW]}}{10}}}$$
 ---
 - ## Reference
