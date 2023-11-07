@@ -8,7 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The average [[Power]] dissipated over a $1\Omega$ [[Resistor]].
+	- To standardize comparing [[Power]], use a [[Resistance]] of $1\Omega$.
+	- The average [[Power]] dissipated over a $1\Omega$ [[Resistor]]:
 	  > [!Equation]
 	  > $$\large{P=\frac{V_{rms}^2}{1}=V_{rms}^2}$$
 	  > After substituting [[Voltage|V]] [[Root Mean Square|RMS]] for [[V RMS of a Sinusoidal Waveform]]:
