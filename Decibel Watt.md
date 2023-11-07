@@ -4,11 +4,12 @@ Alias: [dBW]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Decibel]]
+> Friends:: [[Decibel]] [[Power Spectrum]]
 > Children:: 
 ---
 - ## Definition
 	- Simply [[Decibel]] but with reference to a [[Power]] of $1\,dB$. Basically [[Decibel]] but describing [[Power]].
+	- The conventional unit for the [[Power Spectrum]].
 	- Notated as $dBW$.
 	- To convert from $W$ to $dBW$:
 	  > [!Equation]
