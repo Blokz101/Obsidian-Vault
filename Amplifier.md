@@ -8,6 +8,6 @@ Alias: []
 > Children:: [[Gain]]
 ---
 - ## Definition
-	- 
+	- An [[Electrical Component]] that takes an input [[Voltage]], multiplies it by 
 ---
 - ## Reference

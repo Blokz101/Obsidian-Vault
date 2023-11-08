@@ -19,9 +19,16 @@ Alias: []
 	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
 	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Cosine Wave (Signals, Circuits, and Systems)]] without a $V_{dc}$ component can be simplified like this:
 	  > [!Equation]
-	  > $\large{V_{rms}=\sqrt{ V_{dc}^2+\frac{V_{p}^2}{2} }}$
-	  > Or if $V_{dc}=0$:
-	  > $\large{V_{rms}=\sqrt{ V_{dc}^2+\frac{V_{p}^2}{2} }}$
+	  > $$\large{V_{rms}=\sqrt{ V_{dc}^2+\frac{V_{p}^2}{2} }}$$
+	  > And if $V_{dc}=0$:
+	  > $$\large{V_{rms}=\frac{V_{p}}{\sqrt{ 2 }}}$$
+	  > 
+	  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
+	  > $V_{dc}$ = [[Average Voltage]] in $V$
+	  > $V_{p}$ = [[Amplitude]] in $V$
+	  > 
+	  > > [!Proof]-
+	  > > ![[IMG_973171CD2746-1.jpeg]]
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]
