@@ -17,6 +17,9 @@ Alias: []
 	  > $V_{p}$ = [[Amplitude]] in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$
 	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
+	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Cosine Wave (Signals, Circuits, and Systems)]] without a $V_{dc}$ component can be simplified like this:
+	  > [!Equation]
+	  > $\large{}$
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]

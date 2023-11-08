@@ -19,8 +19,6 @@ Alias: [RMS]
 	  > $V$ = [[Voltage]] as a function of time in $V$
 	  > > [!Proof]-
 	  > > ![[IMG_CE9DBED0812D-1.jpeg]]
-- ## [[Root Mean Square|RMS]] [[Voltage]]
-	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Periodic Signal]].
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]
