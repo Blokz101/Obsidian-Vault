@@ -17,6 +17,9 @@ Alias: [RMS]
 	  > $V_{rms}$ = [[Root Mean Square]] [[Voltage]] in $V$
 	  > $T$ = [[Period]] of the [[Periodic Signal]] in $s$
 	  > $V$ = [[Voltage]] as a function of time in $V$
+	  > 
+	  > [[Voltage]] was used as the function of time in this equation, but this applies for any function of time.
+	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_CE9DBED0812D-1.jpeg]]
 ---
