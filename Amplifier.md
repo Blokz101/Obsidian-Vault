@@ -17,5 +17,8 @@ Alias: []
 	  > $A_{v}$ = [[Gain]] in $dB$
 	- The $V_{out}$ to $V_{in}$ graph of a **Non Inverting Dual Supply Amplifier**
 	  ![[IMG_569A5E9F0BFC-1.jpeg]]
+	- The Amplification Range can be found with this equation
+	  > [!Equation]
+	  > 
 ---
 - ## Reference
