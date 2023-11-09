@@ -19,7 +19,9 @@ Alias: []
 	  ![[IMG_569A5E9F0BFC-1.jpeg]]
 	- The Amplification Range can be found with this equation
 	  > [!Equation]
-	  > $$\large{R=\pm\frac{V_{pp}}{2A}}$$
-	  > $R$ = $V_{in}$ value 
+	  > $$\large{R=\pm\frac{V_{pp}}{2A_{v}}}$$
+	  > $R$ = First $V_{in}$ that becomes saturated in $V$
+	  > $V_{pp}$ = [[Peak to Peak Voltage]] of the [[Gain]] graph
+	  > $A_{v}$ = [[Gain]]
 ---
 - ## Reference
