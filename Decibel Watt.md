@@ -18,4 +18,6 @@ Alias: [dBW]
 	  > and
 	  > $$\large{P_{[dB]}=10^{\frac{P_{[dBW]}}{10}}}$$
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

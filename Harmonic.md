@@ -18,4 +18,6 @@ Alias: [Harmonics]
 	  > > [!Example]
 	  >> The fifth [[Harmonic]] would be $5*f_{0}\,Hz$
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

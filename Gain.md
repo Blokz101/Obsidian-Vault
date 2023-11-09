@@ -24,4 +24,6 @@ Alias: []
 	  > > [!Power]-
 	  > > ![[IMG_5B18B634A61F-1.jpeg]]
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

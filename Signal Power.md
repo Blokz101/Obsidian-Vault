@@ -28,4 +28,6 @@ Alias: []
 	  > $V_{dc}$ = [[Average Voltage]] in $V$
 	  > $V_{p\,n}$ = [[Amplitude]] of [[Harmonic]] $n$ in $V$
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

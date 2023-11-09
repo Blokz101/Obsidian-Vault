@@ -24,4 +24,6 @@ Alias: []
 	  > $V_{pp}$ = [[Peak to Peak Voltage]] of the [[Gain]] graph
 	  > $A_{v}$ = [[Gain]]
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

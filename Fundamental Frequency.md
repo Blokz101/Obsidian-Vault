@@ -11,4 +11,6 @@ Alias: [First Harmonic]
 	- The first [[Harmonic]] in a [[Fourier Series]].
 	- Notated as $f_{0}$
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference
