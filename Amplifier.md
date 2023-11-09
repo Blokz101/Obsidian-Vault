@@ -19,6 +19,7 @@ Alias: []
 	  ![[IMG_569A5E9F0BFC-1.jpeg]]
 	- The Amplification Range can be found with this equation
 	  > [!Equation]
-	  > 
+	  > $$\large{R=\pm\frac{V_{pp}}{2A}}$$
+	  > $R$ = $V_{in}$ value 
 ---
 - ## Reference
