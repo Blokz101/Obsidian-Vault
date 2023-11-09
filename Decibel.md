@@ -11,4 +11,6 @@ Alias: [Decibels, dB]
 	- **A logarithmic unit** used to express and simplify relationships between [[Voltage]], [[Current]], [[Resistance]], [[Power]], and other variables.
 	- Notated as $dB$.
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

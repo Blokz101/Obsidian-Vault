@@ -12,4 +12,6 @@ Alias: []
 	- The [[Power Spectrum]] is in the [[Frequency]] domain.
 	- It is conventional to use the unit [[Decibel Watt]] to display the [[Power]].
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference
