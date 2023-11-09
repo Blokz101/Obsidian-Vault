@@ -21,5 +21,7 @@ Alias: []
 	  > $G$ = [[Power]] [[Gain]] in $dB$
 	  > $V_{in}$ = The input [[Voltage]] in $V$
 	  > $V_{out}$ = The output [[Voltage]] in $V$
+	  > > [!Power]-
+	  > > ![[IMG_5B18B634A61F-1.jpeg]]
 ---
 - ## Reference
