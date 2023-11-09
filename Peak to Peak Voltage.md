@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Periodic Signal]]
-> Friends:: 
+> Friends:: [[Amplitude]]
 > Children:: 
 ---
 - ## Definition
@@ -15,5 +15,6 @@ Alias: []
 	  > $V_{pp}$ [[Peak to Peak Voltage]] in $V$
 	  > $V_{H}$ = Maximum [[Voltage]] in $V$
 	  > $V_{L}$ = Maximum [[Voltage]] in $V$
+	- Also [[Amplitude]] multiplied by $2$.
 ---
 - ## Reference
