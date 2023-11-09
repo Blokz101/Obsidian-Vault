@@ -14,7 +14,7 @@ Alias: []
 	  > 
 	  > $V_{out}(t)$ = Output [[Voltage]] as a function of time in $V$
 	  > $V_{in}(t)$ = Input [[Voltage]] as a function of time in $V$
-	  > $A_{v}$ = [[Gain]] in $dB$
+	  > $A_{v}$ = [[Gain]]
 	- The $V_{out}$ to $V_{in}$ graph of a **Non Inverting Dual Supply Amplifier**
 	  ![[IMG_569A5E9F0BFC-1.jpeg]]
 	- The Amplification Range can be found with this equation

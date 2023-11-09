@@ -12,7 +12,7 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{A_{v}=\frac{V_{out}}{V_{in}}}$$
 	  > 
-	  > $A_{v}$ = [[Gain]] in $dB$
+	  > $A_{v}$ = [[Gain]]
 	  > $V_{in}$ = The input [[Voltage]] in $V$
 	  > $V_{out}$ = The output [[Voltage]] in $V$
 	- > [!Equation]
