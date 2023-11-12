@@ -1,5 +1,7 @@
 ---
-Alias: [Electric Fields, Electric Field of a Point Charge]
+aliases:
+  - Electric Fields
+  - Electric Field of a Point Charge
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
