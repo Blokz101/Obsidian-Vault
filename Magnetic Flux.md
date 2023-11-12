@@ -18,5 +18,5 @@ Alias: [Ampere's Law]
 	  > $I_{\text{inside}}$ = [[Current]] flowing inside the [[Amperian Loop]] in $A$
 ---
 - ## Practice
-	- 
+	- [[PY208 Homework 21.6.pdf]]
 - ## Reference
