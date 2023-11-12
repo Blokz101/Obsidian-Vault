@@ -10,8 +10,8 @@ Alias: [Ampere's Law]
 - ## Definition
 	- Given by [[Magnetic Flux|Ampere's Law]]:
 		- > [!Equation]
-		  > $\large{\oint \vec{B}\cdot dl=0}$
+		  > $$\large{\oint \vec{B}\cdot dl=0}$$
 		- > [!Equation]
-		  > $\large{\oint \vec{B}\cdot dl=0}$
+		  > $$\large{\oint \vec{B}\cdot dl=\mu_{0}\sum^{}_{}I_{\text{inside path}}}$$
 ---
 - ## Reference
