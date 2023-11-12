@@ -17,4 +17,6 @@ Alias: [Ampere's Law]
 	  > $\mu_{0}$ = $4\pi *10^{-12}\, \frac{Tm}{A}$
 	  > $I_{\text{inside}}$ = [[Current]] flowing inside the [[Amperian Loop]] in $A$
 ---
+- ## Practice
+	- 
 - ## Reference
