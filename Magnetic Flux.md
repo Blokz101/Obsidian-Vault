@@ -10,8 +10,9 @@ Alias: [Ampere's Law]
 - ## Definition
 	- Given by [[Magnetic Flux|Ampere's Law]]:
 	  > [!Equation]
-	  > $$\large{\oint \vec{B}\cdot d\vec{l}=\mu_{0}\sum^{}_{}I_{\text{inside path}}}$$
+	  > $$\large{\oint \vec{B}\cdot d\vec{l}=\mu_{0}I_{\text{inside}}}$$
 	  > 
-	  > $\vec{B}$ = [[Magnetic Field]] along the path of the [[Amperian Loop]]
+	  > $\vec{B}$ = [[Magnetic Field]] along the path of the [[Amperian Loop]] in $T$
+	  > 
 ---
 - ## Reference
