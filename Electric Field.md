@@ -6,7 +6,7 @@ aliases:
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]] [[Physics II]]
 > Parents:: [[Electric Force]]
-> Friends:: [[Charge Mobility]] [[Magnetic Field]] [[Electric Flux]]
+> Friends:: [[Charge Mobility]] [[Magnetic Field]] [[Electric Flux]] [[Non Coulomb Electric Field]]
 > Children:: [[Electric Field of a Dipole]]
 ---
 - ## Definition

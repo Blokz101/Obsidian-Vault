@@ -5,14 +5,15 @@ Alias: [Magnetic Fields]
 > Subject:: [[Physics II]]
 > Parents:: 
 > Friends:: [[Magnetic Force]]
-> Children:: [[Biot Savart Law]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]]
+> Children:: [[Magnetic Field Due to Current]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]]
 ---
 - ## Definition
 	- Symbolized with $\vec{B}$
 	- [[Magnetic Field]] of a magnet
 	  ![[Screenshot 2023-10-13 at 6.49.55 PM.png|300]]
-	- [[Magnetic Field]] due to moving [[Charge]] or [[Current]]
-	  ![[Biot Savart Law#^2d7a8c]]
+	- [[Magnetic Field]] due to moving [[Charge]] or [[Current]] given by the [[Magnetic Field Due to Current|Biot Savart Law]]:
+	  ![[Magnetic Field Due to Current#^2d7a8c]]
+	  ![[Magnetic Field Due to Current#^53651a]]
 ---
 - ## Practice
 	- [[PY208 Homework 17.6-17.7.pdf]]

@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Biot Savart Law]
 ---
 > [!Info]
 > Subject:: [[Physics II]]
@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- States that moving [[Charge|Charges]] or [[Current]] generates a [[Magnetic Field]] around a wire.
+	- The [[Magnetic Field Due to Current|Biot Savart Law]] states that moving [[Charge|Charges]] or [[Current]] generates a [[Magnetic Field]] around a wire.
 		- This only works for a **short thin wire** as it is an approximation of sorts.
 	- > [!Equation]
 	  > $$\large{\Delta \vec{B}}=\frac{{\mu_{0}}}{4\pi} \frac{I(\Delta \vec{l}\times \hat{r})}{|\vec{r}|^2}$$
@@ -26,7 +26,7 @@ Alias: []
 		  > $q$ = [[Charge]] in $C$
 		  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 		  > $\vec{r}$ = Position from the moving [[Charge]] to observation point in $m$
-		  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$
+		  > $\vec{v}$ = [[Velocity]] in $\frac{m}{s}$ ^53651a
 	- To find the direction of the [[Magnetic Field]] around the wire, you can use the [[Right Hand Rule]] as a short cut.
 	  ![[Pasted image 20231013022014.png|400]]
 	  > [!Warning]
