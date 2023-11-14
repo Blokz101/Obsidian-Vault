@@ -11,7 +11,7 @@ Alias: [Gauss's Law]
 	- How much of an [[Electric Field]] passes though a closed surface.
 	- [[Electric Flux|Gauss's Law]] states:
 		- > [!Equation]
-		  > $$\Phi=\large{\oint \vec{E}\cdot \hat{n}A \, dx}$$
+		  > $$\Phi=\large{\oint \vec{E}\cdot \hat{n} \, dA}$$
 		  > When the [[Electric Field]] is constant over the surface:
 		  > $$\large{\Phi=\vec{E}\cdot \hat{n}A}$$
 		  > $\Phi$ = [[Electric Flux]] over a closed surface in $Vm$
