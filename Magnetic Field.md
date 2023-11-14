@@ -10,7 +10,9 @@ Alias: [Magnetic Fields]
 - ## Definition
 	- Symbolized with $\vec{B}$
 	- [[Magnetic Field]] of a magnet
-	  ![[Screenshot 2023-10-13 at 6.49.55 PM.png|400]]
+	  ![[Screenshot 2023-10-13 at 6.49.55 PM.png|300]]
+	- [[Magnetic Field]] due to moving [[Charge]] or [[Current]]
+	  ![[Biot Savart Law#^2d7a8c]]
 ---
 - ## Practice
 	- [[PY208 Homework 17.6-17.7.pdf]]

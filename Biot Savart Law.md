@@ -18,7 +18,7 @@ Alias: []
 	  > $\Delta \vec{l}$ = Position vector from start to end of the wire in the direction of [[Conventional Current]] in $m$
 	  > $\frac{\mu_{0}}{4\pi}$ = $1e-7 \frac{Tm^2}{C \frac{m}{s}}$
 	  > $\vec{r}$ = Position from [[Charge]] to observation point in $m$
-	  
+	   ^2d7a8c
 	- > [!Equation]
 		  > $$\large{\vec{B}=\frac{\mu_{0}}{4\pi} \frac{q(\vec{v}\times \hat{r})}{|\vec{r}|^2}}$$
 		  > 
