@@ -13,6 +13,10 @@ Alias: []
 	- To find the direction of the "curly" [[Electric Field]] point your thumb in the direction of **$-\frac{d\vec{B}}{dt}$**. The direction that your other four fingers curl is the direction of "curl".
 	- A [[Non Coulomb Electric Field]] can create [[Current]]:
 	  > [!Equation]
-	  > $V_{\text{induced}}=-d\Phi_{\text{magnetic}}$
+	  > $$\large{V_{\text{induced}}=-\frac{d\Phi_{\text{magnetic}}}{dt}}$$
+	  > 
+	  > $V_{\text{induced}}$ = [[Voltage]] induced by the [[Magnetic Flux]] in $V$
+	  > $\Phi_{\text{magnetic}}$ = [[Magnetic Flux]] in $Tm^2$
+	  > $t$ = Time in $s$
 ---
 - ## Reference

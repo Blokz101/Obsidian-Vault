@@ -10,6 +10,12 @@ Alias: [Ampere's Law]
 - ## Definition
 	- Given by [[Magnetic Flux|Ampere's Law]]:
 	  > [!Equation]
+	  > $\large{\Phi_{\text{magnetic}}}=\int \vec{B}\cdot \hat{n} \, dA$
+	  > 
+	  > $\Phi_{\text{magnetic}}$ = [[Magnetic Flux]] in $Tm^2$
+	  > 
+	  
+	  > [!Equation]
 	  > $$\large{\oint \vec{B}\cdot d\vec{l}=\mu_{0}I_{\text{inside}}}$$
 	  > 
 	  > $\vec{B}$ = [[Magnetic Field]] along the path of the [[Amperian Loop]] in $T$
