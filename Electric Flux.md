@@ -24,6 +24,7 @@ Alias: [Gauss's Law]
 		  > $\Phi$ = [[Electric Flux]] over a closed surface in $Vm$
 		  > $q_{\text{enclosed}}$ = Total surface [[Charge]] of the object in $C$
 		  > $\epsilon_{0}$ = $8.85e-12\ \frac{C^2}{Nm^2}$
+	- Flux is symbolized with $\Phi$.
 ---
 - ## Practice
 	- [[PY208 Homework 21.1-21.5.pdf]]

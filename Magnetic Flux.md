@@ -4,7 +4,7 @@ Alias: [Ampere's Law]
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: [[Magnetic Field]] [[Magnetic Flux]]
+> Friends:: [[Magnetic Field]] [[Electric Flux]]
 > Children:: 
 ---
 - ## Definition
@@ -16,6 +16,7 @@ Alias: [Ampere's Law]
 	  > $\vec{l}$ = [[Vector]] path along the [[Amperian Loop]] in $m$
 	  > $\mu_{0}$ = $4\pi *10^{-12}\, \frac{Tm}{A}$
 	  > $I_{\text{inside}}$ = [[Current]] flowing inside the [[Amperian Loop]] in $A$
+	- Flux is symbolized with $\Phi$.
 ---
 - ## Practice
 	- [[PY208 Homework 21.6.pdf]]
