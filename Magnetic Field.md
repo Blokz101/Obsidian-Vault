@@ -4,8 +4,8 @@ Alias: [Magnetic Fields]
 > [!Info]
 > Subject:: [[Physics II]]
 > Parents:: 
-> Friends:: [[Magnetic Force]]
-> Children:: [[Magnetic Field Due to Current]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]]
+> Friends:: [[Magnetic Force]] 
+> Children:: [[Non Coulomb Electric Field]] [[Magnetic Field Due to Current]] [[Magnetic Field of a Long Straight Wire]] [[Magnetic Field of a Coil]] 
 ---
 - ## Definition
 	- Symbolized with $\vec{B}$
