@@ -10,9 +10,9 @@ Alias: []
 - ## Definition
 	- A [[Non Coulomb Electric Field]] can create a [[Current]]:
 	  > [!Equation]
-	  > $$\large{V_{\text{induced}}=-\frac{d\Phi_{\text{magnetic}}}{dt}}$$
-	  > 
-	  > $V_{\text{induced}}$ = [[Voltage]] induced by the [[Magnetic Flux]] in $V$
+	  > $$\large{emf_{\text{induced}}=-\frac{d\Phi_{\text{magnetic}}}{dt}}$$
+	  > After substituting with 
+	  > $emf_{\text{induced}}$ = [[emf]] by the [[Magnetic Flux]] in $V$
 	  > $\Phi_{\text{magnetic}}$ = [[Magnetic Flux]] in $Tm^2$
 	  > $t$ = Time in $s$
 ---
