@@ -1,5 +1,5 @@
 ---
-Alias: [dBW]
+Alias: [Decibel Watts, dBW]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
