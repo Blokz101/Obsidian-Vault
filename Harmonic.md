@@ -4,7 +4,7 @@ Alias: [Harmonics]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Fourier Series]]
-> Friends:: [[Fundamental Frequency]]
+> Friends:: [[Fundamental Frequency]] [[Harmonic Filter]]
 > Children:: 
 ---
 - ## Definition
