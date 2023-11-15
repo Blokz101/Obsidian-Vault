@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- A [[Harmonic Filter]] that only lets **a range of specific frequency** [[Harmonic|Harmonics]] through.
+	- ![[Screenshot 2023-11-15 at 12.41.30 AM.png|300]]
 ---
 - ## Reference
