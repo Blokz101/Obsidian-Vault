@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Operational Amplifier]]
 > Children:: [[Gain]]
 ---
 - ## Definition
