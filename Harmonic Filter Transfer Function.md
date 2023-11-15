@@ -16,4 +16,6 @@ Alias: [Transfer Function]
 	  > $V_{in}$ = Input [[Voltage]] in $V$
 	- ![[Screenshot 2023-11-15 at 12.52.23 AM.png|300]]
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

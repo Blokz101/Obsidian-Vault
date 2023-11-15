@@ -26,4 +26,6 @@ Alias: [Harmonic Filters]
 	  > $P_{in}$ = Input [[Power]] in $W$
 	  > $P_{out}$ = Output [[Power]] in $W$
 ---
+- ## Practice
+	- [[ECE200 Homework 8.pdf]]
 - ## Reference

@@ -28,7 +28,7 @@ Alias: []
 	  > 
 	  > > [!Note]
 	  > > Note that the [[Power]] version of [[Gain]] can also be expressed in [[Decibel Watt|Decibel Watts]] like this:
-	  > > $\large{G=10\log_{10}(P_{[W]out})-10\log_{10}(P_{[W]in})=P_{out}-P}$
+	  > > $$\large{G=10\log_{10}(P_{[W]out})-10\log_{10}(P_{[W]in})=P_{[dBW]out}-P_{[dBW]in}}$$
 	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_5B18B634A61F-1.jpeg]]
