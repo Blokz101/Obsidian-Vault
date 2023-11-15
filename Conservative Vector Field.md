@@ -17,6 +17,6 @@ Alias: []
 			- $\large{f=\int \frac{ \partial f }{ \partial y } \, dy}$
 			- $\large{f=\int \frac{ \partial f }{ \partial z } \, dz}$
 		- Then add up each result without adding repeated terms twice.
-		- For a more detailed proof look at page 47
+		- For a more detailed proof look at [[MA242 Chapter 6 Section 1-3.pdf]] page 47
 --- 
 - ## Reference
