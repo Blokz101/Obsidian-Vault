@@ -5,14 +5,18 @@ Alias: [Harmonic Filters]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Harmonic]]
-> Children:: [[Lowpass Filter]] [[Highpass Filter]] [[Band Pass Filter]]
+> Children:: [[Lowpass Filter]] [[Highpass Filter]] [[Band Pass Filter]] [[Cut-Off Frequency]]
 ---
 - ## Definition
 	- An [[Electrical Component]] that dampens or eliminates some [[Harmonic|Harmonics]] in a [[Periodic Signal]].
 	- Each [[Harmonic Filter]] has a [[Harmonic Filter Transfer Function|Transfer Function]] which relates 
 	- Example of a [[Lowpass Filter]]
-	  ![[Screenshot 2023-11-15 at 12.42.04 AM.png|300]]
+		- ![[Screenshot 2023-11-15 at 12.42.04 AM.png|300]]
 	- Example of a simple [[Harmonic Filter]]
-	  ![[Screenshot 2023-11-15 at 12.52.23 AM.png|300]]
+		- 
+		- ![[Screenshot 2023-11-15 at 12.52.23 AM.png|300]]
+- ## Non-Ideal Filters
+	- In reality we cannot create [[Harmonic Filter|Harmonic Filters]] with a perfect cut off at $f_{c}$ [[Voltage|Volts]]. Another method of determining [[Cut-Off Frequency]] is required.
+	- 
 ---
 - ## Reference
