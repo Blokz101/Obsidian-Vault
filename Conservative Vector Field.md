@@ -19,4 +19,6 @@ Alias: []
 		- Then add up each result without adding repeated terms twice.
 		- For a more detailed proof look at [[MA242 Chapter 6 Section 1-3.pdf]] page 47
 --- 
+- ## Practice
+	- [[MA242 Homework 6.3.pdf]]
 - ## Reference
