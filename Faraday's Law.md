@@ -27,4 +27,6 @@ Alias: []
 	  > $A$ = Area of the loop in $m^2$
 	  > $t$ = Time in $s$
 ---
+- ## Practice
+	- [[PY208 Homework 22.1-22.2.pdf]]
 - ## Reference

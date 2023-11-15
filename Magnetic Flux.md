@@ -29,4 +29,5 @@ Alias: [Ampere's Law]
 ---
 - ## Practice
 	- [[PY208 Homework 21.6.pdf]]
+	- [[PY208 Homework 22.1-22.2.pdf]]
 - ## Reference
