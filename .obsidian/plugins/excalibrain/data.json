@@ -147,7 +147,6 @@
     "Jumps": {}
   },
   "navigationHistory": [
-    "3D Line.md",
     "References/Moments And Center Of Mass - Textbook.pdf",
     "Line Integral.md",
     "Biot Savart Law.md",
@@ -196,8 +195,9 @@
     "Computer Systems Programming.md",
     "Double Angle Identities.md",
     "Temperature.md",
-    "Derivative.md",
-    "Limit.md"
+    "Limit.md",
+    "Improper Integral.md",
+    "Derivative.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
