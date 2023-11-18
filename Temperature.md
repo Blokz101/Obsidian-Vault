@@ -1,10 +1,12 @@
 ---
 Alias: [Temp, F, C, K]
-Creation Date: Thu October 6th 2022 06:10:19 pm 
-Modification Date: NaN
 ---
-#Permanent [[Chemistry]]
-
+> [!Info]
+> Subject:: [[Chemistry]]
+> Parents:: 
+> Friends:: 
+> Children:: 
+---
 - ## Definition
 	- Measure of the **average kinetic [[Energy (Chemistry)]]**  in a **system**.
 - ## Absolute Zero
@@ -18,4 +20,5 @@ Modification Date: NaN
 	- Kelvin (k)
 		- $k=c+273.15$
 		- $c=k-273.15$
+---
 - ## Reference
