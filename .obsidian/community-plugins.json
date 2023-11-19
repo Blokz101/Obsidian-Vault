@@ -4,6 +4,7 @@
   "maximise-active-pane-obsidian",
   "obsidian-outliner",
   "obsidian-latex-suite",
-  "excalibrain",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "excalibrain"
 ]
