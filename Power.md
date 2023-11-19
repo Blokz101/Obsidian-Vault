@@ -4,7 +4,7 @@ Alias: [Real Power]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Instantaneous Power]]
-> Friends:: 
+> Friends:: [[Decibel Watt]]
 > Children:: [[Signal Power]]
 ---
 - ## Definition
