@@ -4,7 +4,7 @@ Alias: [Decibel Watts, dBW]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Decibel]] [[Power Spectrum]] [[Power]]
+> Friends:: [[Decibel]] [[Power Spectrum]] [[Power]] [[Signal Equations.canvas|Signal Equations]]
 > Children:: 
 ---
 - ## Definition

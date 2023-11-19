@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Phase Angle]]
+> Friends:: [[Phase Angle]] [[Signal Equations.canvas|Signal Equations]]
 > Children:: 
 ---
 - ## Definition

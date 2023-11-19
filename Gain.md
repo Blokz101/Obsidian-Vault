@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Amplifier]]
-> Friends:: 
+> Friends:: [[Signal Equations.canvas|Signal Equations]]
 > Children:: 
 ---
 - ## Definition
