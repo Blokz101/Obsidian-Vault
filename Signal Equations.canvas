@@ -1,25 +1,26 @@
 {
 	"nodes":[
-		{"id":"c2c6a8ef76e65e67","x":500,"y":-206,"width":250,"height":92,"type":"text","text":"## $V_{rms}$ in $V$\n[[Voltage]] [[Root Mean Square|RMS]]"},
-		{"id":"a32a1adf2892b47e","x":500,"y":45,"width":250,"height":50,"type":"text","text":"## $P$ in $W$"},
-		{"id":"d404c964e3577c41","x":500,"y":130,"width":250,"height":90,"type":"text","text":"#### $P_{[dBW]}=10\\log_{10}(P_{[dB]})$\nFrom [[Decibel Watt]]"},
-		{"id":"c10495ea8af029c7","x":500,"y":-440,"width":250,"height":200,"type":"text","text":"If the [[Harmonic]] is NOT $0Hz$\n#### $V_{rms}=\\frac{V}{\\sqrt{ 2 }}$\nFrom [[Cosine Wave (Signals, Circuits, and Systems)]]"},
-		{"id":"cf80295b33920da1","x":-160,"y":-350,"width":440,"height":380,"type":"text","text":"## $V$ in $V$\nThe [[Voltage]] per [[Harmonic]] or $V_{p}$ from [[Cosine Wave (Signals, Circuits, and Systems)]]: \n![[Cosine Wave (Signals, Circuits, and Systems)#^6b129b]]"},
-		{"id":"25fa6405d1c13d8b","type":"text","text":"## $P$ in $dBW$","x":30,"y":150,"width":250,"height":50},
-		{"id":"a18b940ce8e78264","x":-520,"y":104,"width":419,"height":96,"type":"text","text":"#### $P_{[dBW]out}=G+P_{[dBW]in}$\n[[Gain]] equation in the form of [[Power]] in $dBW$ from [[Gain]]."},
-		{"id":"0363fe905de20638","x":500,"y":-80,"width":250,"height":90,"type":"text","text":"#### $P=\\frac{V_{rms}^2}{R}$\nFrom [[Power]]\n"},
-		{"id":"2b5dfe3c95bd1471","x":971,"y":-276,"width":250,"height":116,"type":"text","text":"#### $V_{out}=A_{v}V_{in}$\nInput [[Voltage]] to output [[Voltage]]. From [[Gain]]."},
-		{"id":"deb18d96012b91f3","x":385,"y":-654,"width":250,"height":60,"type":"text","text":"If the [[Harmonic]]"}
+		{"id":"cf80295b33920da1","x":-65,"y":-656,"width":440,"height":380,"type":"text","text":"## $V$ in $V$\nThe [[Voltage]] per [[Harmonic]] or $V_{p}$ from [[Cosine Wave (Signals, Circuits, and Systems)]]: \n![[Cosine Wave (Signals, Circuits, and Systems)#^6b129b]]"},
+		{"id":"deb18d96012b91f3","x":500,"y":-636,"width":250,"height":114,"type":"text","text":"If the [[Harmonic]] IS $0Hz$\n#### $V_{rms}=V$"},
+		{"id":"c10495ea8af029c7","x":500,"y":-492,"width":250,"height":200,"type":"text","text":"If the [[Harmonic]] is NOT $0Hz$\n#### $V_{rms}=\\frac{V}{\\sqrt{ 2 }}$\nFrom [[Cosine Wave (Signals, Circuits, and Systems)]]"},
+		{"id":"2b5dfe3c95bd1471","x":830,"y":-260,"width":250,"height":116,"type":"text","text":"#### $V_{out}=A_{v}V_{in}$\nInput [[Voltage]] to output [[Voltage]]. From [[Gain]]."},
+		{"id":"0363fe905de20638","x":1180,"y":-522,"width":250,"height":90,"type":"text","text":"#### $P=\\frac{V_{rms}^2}{R}$\nWhere $R=1$ from [[Power]]\n"},
+		{"id":"c2c6a8ef76e65e67","x":860,"y":-522,"width":250,"height":92,"type":"text","text":"## $V_{rms}$ in $V$\n[[Voltage]] [[Root Mean Square|RMS]]"},
+		{"id":"a32a1adf2892b47e","x":1500,"y":-502,"width":250,"height":50,"type":"text","text":"## $P$ in $W$"},
+		{"id":"d404c964e3577c41","x":1840,"y":-522,"width":250,"height":90,"type":"text","text":"#### $P_{[dBW]}=10\\log_{10}(P_{[dB]})$\nFrom [[Decibel Watt]]"},
+		{"id":"25fa6405d1c13d8b","type":"text","text":"## $P$ in $dBW$","x":2180,"y":-501,"width":250,"height":50},
+		{"id":"a18b940ce8e78264","x":2096,"y":-320,"width":419,"height":96,"type":"text","text":"#### $P_{[dBW]out}=G+P_{[dBW]in}$\n[[Gain]] equation in the form of [[Power]] in $dBW$ from [[Gain]]."}
 	],
 	"edges":[
 		{"id":"b47332d570d48e7e","fromNode":"cf80295b33920da1","fromSide":"right","toNode":"c10495ea8af029c7","toSide":"left"},
-		{"id":"37b79d33ebffffa5","fromNode":"c2c6a8ef76e65e67","fromSide":"bottom","toNode":"0363fe905de20638","toSide":"top"},
-		{"id":"c824bcb7ab3c4336","fromNode":"0363fe905de20638","fromSide":"bottom","toNode":"a32a1adf2892b47e","toSide":"top"},
-		{"id":"8fab48ade3f93104","fromNode":"a32a1adf2892b47e","fromSide":"bottom","toNode":"d404c964e3577c41","toSide":"top"},
-		{"id":"0c9c10ca75f2d9b8","fromNode":"c10495ea8af029c7","fromSide":"bottom","toNode":"c2c6a8ef76e65e67","toSide":"top"},
-		{"id":"46f894d91d0ac8eb","fromNode":"d404c964e3577c41","fromSide":"left","toNode":"25fa6405d1c13d8b","toSide":"right"},
-		{"id":"68e06907550a98ae","fromNode":"25fa6405d1c13d8b","fromSide":"left","toNode":"a18b940ce8e78264","toSide":"right","fromEnd":"arrow"},
-		{"id":"fe7701c62344a84d","fromNode":"c2c6a8ef76e65e67","fromSide":"right","toNode":"2b5dfe3c95bd1471","toSide":"left","fromEnd":"arrow"},
-		{"id":"e1f1f2c3ac7e5660","fromNode":"cf80295b33920da1","fromSide":"right","toNode":"deb18d96012b91f3","toSide":"left"}
+		{"id":"e1f1f2c3ac7e5660","fromNode":"cf80295b33920da1","fromSide":"right","toNode":"deb18d96012b91f3","toSide":"left"},
+		{"id":"28ff3df2f8ccbaa1","fromNode":"c10495ea8af029c7","fromSide":"right","toNode":"c2c6a8ef76e65e67","toSide":"left"},
+		{"id":"be3248db0bcca0e1","fromNode":"deb18d96012b91f3","fromSide":"right","toNode":"c2c6a8ef76e65e67","toSide":"left"},
+		{"id":"59feeeb4767d79d2","fromNode":"c2c6a8ef76e65e67","fromSide":"right","toNode":"0363fe905de20638","toSide":"left"},
+		{"id":"f47aaf56bb1c508d","fromNode":"0363fe905de20638","fromSide":"right","toNode":"a32a1adf2892b47e","toSide":"left"},
+		{"id":"06e6f9a2bf5bd9c2","fromNode":"a32a1adf2892b47e","fromSide":"right","toNode":"d404c964e3577c41","toSide":"left"},
+		{"id":"aa75af43260d57bb","fromNode":"d404c964e3577c41","fromSide":"right","toNode":"25fa6405d1c13d8b","toSide":"left"},
+		{"id":"d1bcff4cd2592356","fromNode":"c2c6a8ef76e65e67","fromSide":"bottom","toNode":"2b5dfe3c95bd1471","toSide":"top","fromEnd":"arrow"},
+		{"id":"e923efc32099e4ba","fromNode":"25fa6405d1c13d8b","fromSide":"bottom","toNode":"a18b940ce8e78264","toSide":"top","fromEnd":"arrow"}
 	]
 }
