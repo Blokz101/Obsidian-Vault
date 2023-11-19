@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Operational Amplifier]]
-> Children:: [[Gain]]
+> Children:: [[Gain]] [[Signal Power Table]]
 ---
 - ## Definition
 	- An [[Electrical Component]] that takes an input [[Voltage]] and scales it by some [[Gain]].
