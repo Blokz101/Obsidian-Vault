@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Surface Integral]]
 > Children:: 
 ---
 - ## Definition
