@@ -13,6 +13,5 @@ Alias: []
 		- $\vec{r}(t)$ is the parameterized line.
 		- $f(x,y,z)$ is the [[Function]] being integrated along the line and $f(\vec{r}(t))$ is shorthand for $f(x(t),y(t),z(t))$.
 		- $t$ is the parameter.
-	- 
 ---
 - ## Reference
