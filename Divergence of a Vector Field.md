@@ -1,15 +1,15 @@
 ---
-Alias: [Curl]
+Alias: [Div]
 ---
 > [!Info]
 > Subject:: [[Calculus III]]
 > Parents:: 
-> Friends:: [[Divergence of a Vector Field]]
+> Friends:: [[Curl of a Vector Field]]
 > Children:: 
 ---
 - ## Definition
 	- > [!Equation]
-	  > $$\large{\text{Curl }\vec{F}=\nabla \times \vec{F}}$$
+	  > $$\large{\text{Div }\vec{F}=\nabla\cdot \vec{F}}$$
 	  > Where $\nabla=\left\langle \frac{ \partial  }{ \partial x },\frac{ \partial  }{ \partial y },\frac{ \partial  }{ \partial z } \right\rangle$
 ---
 - ## Reference
