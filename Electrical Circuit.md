@@ -57,5 +57,5 @@ Alias: [Electrical Circuits]
 		  > $$\large{LI''+RI'+\frac{1}{C}I}=E'(t)$$
 ---
 - ## Practice
-	- [[MA241 Homework 3.6 1.pdf]]
+	- [[PY205 Homework 3.6.pdf]]
 - ## Reference
