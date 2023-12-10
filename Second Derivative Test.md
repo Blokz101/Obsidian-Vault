@@ -14,6 +14,7 @@ Alias: []
 		- If it is greater then 0, it is [[Concavity|Concave Up]] and a **minimum**
 		- If it is less then 0, it is [[Concavity|Concave Down]] and a **maximum**
 - ## Multi Variable Function
+	- To use this method $f$ must be continuous so $f_{xy}=f_{yx}$ 
 	- > [!Equation]
 	  > $$\large{D=f_{xx}f_{yy}-(f_{xy})^2}$$
 	  > 
