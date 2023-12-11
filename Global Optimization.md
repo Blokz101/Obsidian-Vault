@@ -15,7 +15,7 @@ Alias: [Constrained Optimization, Absolute Maximum, Absolute Minimum, Absolute E
 	- If the function is bounded by lines then:
 		- Perform [[Local Optimization]] and ignore the [[Critical Point (Calculus)|Critical Points]] outside the boundary.
 		- Add the end points of each line to the **points of interest**.
-		- 
+		- Plug 
 	- If the function is bounded by another function then it is best to use the [[Lagrange Multiplier]].
 ---
 - ## Practice
