@@ -21,4 +21,5 @@ Alias: [Optimize]
 ---
 - ## Practice
 	- [[MA242 Homework 3.6.pdf]]
+	- [[MA242 Homework 3.7.pdf]]
 - ## Reference
