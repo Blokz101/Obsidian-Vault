@@ -16,7 +16,9 @@ Alias: [Constrained Optimization, Absolute Maximum, Absolute Minimum, Absolute E
 		- Perform [[Local Optimization]] and ignore the [[Critical Point (Calculus)|Critical Points]] outside the boundary.
 		- Add the end points of each line to the **points of interest**.
 		- For each boundary segment plug in constraints for each segment into the function. Solve for each critical point and add them to the **points of interest**.
-			- Note the example in Homework 3.6 is not correct, check the textbook for an actual example.
+			- Note the example in Homework 3.6 is not correct. Below is a correct example:
+			  > [!Example]-
+			  > ![[IMG_2B614075CB50-1.jpeg]]
 	- If the function is bounded by another function then it is best to use the [[Lagrange Multiplier]].
 ---
 - ## Practice
