@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[<% tp.file.cursor(1) %>]]
+> Subject:: [[Statistics]]
 > Parents:: 
 > Friends:: 
 > Children:: 
