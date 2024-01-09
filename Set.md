@@ -4,7 +4,7 @@ Alias: [Sets, Set Literal]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Sequence]] [[Empty Set]] [[Subset]]
+> Friends:: [[Sequence]] [[Empty Set]] [[Subset]] [[Cardinality]]
 > Children:: 
 ---
 - ## Definition
