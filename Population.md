@@ -9,11 +9,11 @@ Alias: []
 ---
 - ## Definition
 	- A collection of objects of interest.
-	- f
+	- [[Population]] and [[Sample]] relationship.
 	  ```mermaid
 	  stateDiagram
-	      Population -> Sample: aa
-	      Sample -> Population: fea
-```
+	      Population --> Sample: Probability
+	      Sample --> Population: Statistics
+      ```
 ---
 - ## Reference
