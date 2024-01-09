@@ -10,6 +10,7 @@ Alias: [Sets, Set Literal]
 - ## Definition
 	- A collection of elements.
 	- Generally notated by enclosing the elements in a comma delimited list with $\{\,\}$
+	- Two sets are equal if they have the same elements.
 - #### Set Literal
 	- A way to define a [[Set]] by giving its list of elements.
 		- Ex: $\{ 0,1,2,3,4,5 \}$
