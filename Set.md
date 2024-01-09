@@ -8,9 +8,10 @@ Alias: [Sets, Set Literal]
 > Children:: 
 ---
 - ## Definition
-	- A collection of elements.
+	- A collection of elements that **do not repeat** and have no order.
 	- Generally notated by enclosing the elements in a comma delimited list with $\{\,\}$
-	- Two sets are equal if they have the same elements.
+	- Two [[Set|Sets]] are **equal** if they have the same elements.
+	- A [[Set]] can be an element in another [[Set]].
 - #### Set Literal
 	- A way to define a [[Set]] by giving its list of elements.
 		- Ex: $\{ 0,1,2,3,4,5 \}$
