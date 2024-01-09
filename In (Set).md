@@ -7,7 +7,7 @@ Alias: [In]
 > Friends:: 
 > Children:: 
 ---
-- ## Definition
-	- Notated with $\in$.
+## Definition
+Notated with 
 ---
 - ## Reference
