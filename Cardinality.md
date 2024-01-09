@@ -10,5 +10,6 @@ Alias: []
 - ## Definition
 	- The length of a [[Set]].
 	- Notated with $\mid \,\mid$.
+- ####  Common Mathematical Set 
 ---
 - ## Practice

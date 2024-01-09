@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Real Numbers]
 ---
 > [!Info]
 > Subject:: [[Calculus I]]
