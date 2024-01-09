@@ -14,5 +14,7 @@ Alias: [Sets, Set Literal]
 - #### Set Literal
 	- A way to define a [[Set]] by giving its list of elements.
 		- Ex: $\{ 0,1,2,3,4,5 \}$
+- #### Defining Sets
+	- A set can also be "defined" 
 ---
 - ## Reference
