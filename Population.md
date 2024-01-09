@@ -4,17 +4,10 @@ Alias: []
 > [!Info]
 > Subject:: [[Statistics]]
 > Parents:: 
-> Friends:: [[Sample]] [[Statistics]] [[Probability]]
+> Friends:: [[Sample]] [[Inferential Statistics]] [[Probability]]
 > Children:: 
 ---
 - ## Definition
 	- A collection of objects of interest.
-	- [[Population]] and [[Sample]] relationship.
-	  > Probability reasons from the population to the sample (deductive reasoning), whereas inferential statistics reasons from the sample to the population (inductive reasoning)
-	  ```mermaid
-	  stateDiagram
-	      Population --> Sample: Probability
-	      Sample --> Population: Inferential Statistics
-      ```
 ---
 - ## Reference
