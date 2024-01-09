@@ -4,7 +4,7 @@ Alias: [Sets, Set Literal]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Sequence]]
+> Friends:: [[Sequence]] [[Empty Set]] [[Subset]]
 > Children:: 
 ---
 - ## Definition
@@ -12,6 +12,6 @@ Alias: [Sets, Set Literal]
 	- Generally notated by enclosing the elements in a comma delimited list with $\{\,\}$
 - #### Set Literal
 	- A way to define a [[Set]] by giving its list of elements.
-		- Ex: 
+		- Ex: $\{ 0,1,2,3,4,5 \}$
 ---
 - ## Reference
