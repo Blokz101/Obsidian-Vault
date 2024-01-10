@@ -19,5 +19,5 @@ Modification Date: NaN
     > $m$ = [[Slope]]
     > $h$ = The x-axis difference between the two points. ^7b00b6
 - ## Reference
-	- Used with [[Limit|Limits]] to take the [[Derivative]] of a [[Function]].
+	- Used with [[Limit|Limits]] to take the [[Derivative]] of a [[Function (Calculus)]].
 	- Used with [[Limit|Limits]] to find the [[Slope]] of a [[Tangent Line]].

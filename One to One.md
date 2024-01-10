@@ -7,13 +7,13 @@ Modification Date: NaN
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- A type of [[Function]] in witch each y value cannot point to the same x value.
+	- A type of [[Function (Calculus)]] in witch each y value cannot point to the same x value.
 	  > [!Example]
 	  > Example of One to One: Standard lines, Exponential, etc
 	  > Not an example of One to One: Parabola, etc
 	  > 
 	  > Think [[Vertical Line Test]] but horizontal.
-	- You can algebraically prove that a [[Function]] is [[One to One]] by setting the equation equal to itself but with each $x$ replaced with $y$ and solving until you get $x=y$.
+	- You can algebraically prove that a [[Function (Calculus)]] is [[One to One]] by setting the equation equal to itself but with each $x$ replaced with $y$ and solving until you get $x=y$.
 	  > [!Example]
 	  > $$f(x)=\frac{x-3}{x+2}$$
 	  > $\frac{x-3}{x+2}=\frac{y-3}{y+2}$

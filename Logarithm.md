@@ -27,4 +27,4 @@ Modification Date: NaN
 	Quotient Rule|$\large{log(x/y)=log(x)-log(y)}$
 - ## Reference
 	- [[Natural Logarithm]] is a type of [[Logarithm]].
-	- Is the [[Inverse]] of a [[Exponential]] [[Function]]
+	- Is the [[Inverse]] of a [[Exponential]] [[Function (Calculus)]]

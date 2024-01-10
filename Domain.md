@@ -7,7 +7,7 @@ Modification Date: NaN
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- All [[Real Number|Real Numbers]] for which the [[Function]] is defined.
+	- All [[Real Number|Real Numbers]] for which the [[Function (Calculus)]] is defined.
 		- Cannot include numbers divided by 0.
 		- Cannot include even roots of negative numbers.
 - ## Reference

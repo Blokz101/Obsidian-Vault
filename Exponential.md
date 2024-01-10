@@ -7,9 +7,9 @@ Modification Date: NaN
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- A [[Function]] that increases by a specified exponent.
+	- A [[Function (Calculus)]] that increases by a specified exponent.
 	  > [!Equation]
 	  > $$y=a^x$$
 	  > Where $a$ can be any constant
 - ## Reference
-	- Is the [[Inverse]] of a [[Logarithm|Logarithmic]] [[Function]].
+	- Is the [[Inverse]] of a [[Logarithm|Logarithmic]] [[Function (Calculus)]].

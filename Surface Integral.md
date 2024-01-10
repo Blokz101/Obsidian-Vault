@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- Integrating a [[Function]] over a parameterized surface.
+	- Integrating a [[Function (Calculus)]] over a parameterized surface.
 	- Surface Area
 	  ![[Screenshot 2023-11-19 at 2.24.26 PM.png]]
 	- Surface Integral of a Function

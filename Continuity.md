@@ -8,7 +8,7 @@ Alias: [Continuous]
 > Children:: 
 ---
 - ## Definition
-	-  A [[Function]] is a [[Continuity|Continuous]] for its [[Domain]] if it can be sketched without the need to left your pencil.
+	-  A [[Function (Calculus)]] is a [[Continuity|Continuous]] for its [[Domain]] if it can be sketched without the need to left your pencil.
 	- If the [[Limit|Right Hand Limit]], [[Limit|Left Hand Limit]], and function itself are defined at an $x$ then the function is continuous at that $x$.
 	- If the function is one of the following
 	  

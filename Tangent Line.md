@@ -15,4 +15,4 @@ Modification Date: NaN
     > $m$ = [[Slope]]
     > $h$ = The x-axis difference between the two points.
 - ## Reference
-	- The [[Derivative]] of a [[Function]] reveals the slope of this line at that point.
+	- The [[Derivative]] of a [[Function (Calculus)]] reveals the slope of this line at that point.

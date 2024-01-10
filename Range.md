@@ -7,6 +7,6 @@ Modification Date: NaN
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- All [[Real Number|Real Numbers]] which are output values of a [[Function]].
+	- All [[Real Number|Real Numbers]] which are output values of a [[Function (Calculus)]].
 - ## Reference
 	- Similar to [[Domain]]

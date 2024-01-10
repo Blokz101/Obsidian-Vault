@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- A line that a rational [[Function]] continually approaches but never meets. There are two types, vertical and horizontal.
+	- A line that a rational [[Function (Calculus)]] continually approaches but never meets. There are two types, vertical and horizontal.
 	  > [!Note]
 	  > I am referring to rational function as a function that follows the standard format or format shown below.
 	  > $$f(x)=\frac{n(x)}{d(x)}$$
@@ -32,7 +32,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 		- If $m>n$ then there is no horizontal [[Asymptote]].
 		- If $m=n$ then the horizontal [[Asymptote]] is $y=\frac{a}{b}$.
 - ## Reference
-	- Are a characteristic of some [[Function|Functions]]
+	- Are a characteristic of some [[Function (Calculus)|Functions]]
 - ## Practice
 	- [[Drawing 2022-08-25 10.44.22.excalidraw]]
 	- [[Drawing 2022-09-06 15.30.33.excalidraw]]

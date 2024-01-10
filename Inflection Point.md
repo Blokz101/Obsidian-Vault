@@ -7,7 +7,7 @@ Modification Date: <%+ tp.file.last_modified_date("ddd MMMM Do YYYY hh:mm:ss a")
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- The point at which a [[Function]] switches [[Concavity]].
+	- The point at which a [[Function (Calculus)]] switches [[Concavity]].
 	- Can be found where:
 		- The first [[Derivative]] of a function is equal to 0.
 		- The first [[Derivative]] of a function does not exist.

@@ -7,7 +7,7 @@ Modification Date: NaN
 #Permanent [[Calculus I]]
 
 - ## Definition
-	- The measure of the average [[Rate of Change]] of a [[Function]] over an [[Interval]].
+	- The measure of the average [[Rate of Change]] of a [[Function (Calculus)]] over an [[Interval]].
 	  > [!Equation]
 	  > $$Dq=\frac{f(x+h)+f(x)}{h}$$
 	  > $Dq$ = [[Difference Quotient]] for $f(x)$

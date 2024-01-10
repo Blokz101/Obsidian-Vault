@@ -1,11 +1,12 @@
 ---
-Alias: [Functions]
-Creation Date: Wed August 24th 2022 11:19:54 am 
-Modification Date: NaN
+Alias: []
 ---
-# NaN
-#Permanent [[Calculus I]]
-
+> [!Info]
+> Subject:: [[Calculus I]] [[Discrete Math]]
+> Parents:: 
+> Friends:: [[Function ()]]
+> Children:: 
+---
 - ## Definition
 	- A paring between two [[Set|Sets]] in witch every [[Element]] of the first [[Set]] is paired with **exactly** one [[Element]] of the second [[Set]].
 	  > [!Example]
@@ -25,4 +26,5 @@ Modification Date: NaN
 	  > 
 	  > This is not a function because -3 points to two values:
 	  > {(3, 2), (-3, 1), (4, 2), (-3, 3)}
-- ## Reference
+---
+- ## Practice

@@ -4,10 +4,12 @@ Alias: [Sequences]
 > [!Info]
 > Subject:: [[Calculus II]]
 > Parents:: [[Real Number]]
-> Friends:: 
+> Friends:: [[Set]]
 > Children:: [[Monotonic Sequence]] [[Infinite Series]]
 ---
 - ## Definition
-	- An ordered list of elements that can repeat and
+	- An ordered list of elements that can repeat and is ordered.
+	- Notated with $(\,)$.
+	- [[Sequence|Sequences]] are **not** [[Set|Sets]].
 ---
 - ## Reference
