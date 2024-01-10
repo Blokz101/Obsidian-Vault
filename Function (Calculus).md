@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Calculus I]] [[Discrete Math]]
+> Subject:: [[Calculus I]]
 > Parents:: 
-> Friends:: [[Function ()]]
+> Friends:: [[Function (Discrete Math)]]
 > Children:: 
 ---
 - ## Definition
