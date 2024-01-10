@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- Maps values 
+	- Maps values from the **domain** to **codomain**
 ---
 - ## Practice
