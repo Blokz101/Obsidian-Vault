@@ -8,6 +8,7 @@ Alias: [Stem and Leaf Plots]
 > Children:: 
 ---
 - ## Definition
-	- 
+	- A plot where each data value is split into a "stem" (the first digit or digits) and a "leaf" (usually the last digit)
+	  
 ---
 - ## Reference
