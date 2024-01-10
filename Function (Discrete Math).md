@@ -14,7 +14,7 @@ Alias: [Injections, Injective, Surjections, Surjective, Bijective, Bijections]
 	- Notated as $f:A\to B$ for a function $f$ that maps domain [[Set]] $A$ to codomain [[Set]] $B$.
 - #### Terminology
 	- A [[Function (Discrete Math)]] is [[Function (Discrete Math)|Injective]] if no two values of the domain map to the same value of the codomain.
-	- A [[Function (Discrete Math)]] is [[Function (Discrete Math)|Surjective]] if every value in the codomain has a mapped value from the domain. That is to say 
-	1. A [[Function (Discrete Math)]] is [[Function (Discrete Math)|Bijective]]
+	- A [[Function (Discrete Math)]] is [[Function (Discrete Math)|Surjective]] if every value in the codomain has a mapped value from the domain.
+	- A [[Function (Discrete Math)]] is [[Function (Discrete Math)|Bijective]] if it is both [[Function (Discrete Math)|Injective]] and [[Function (Discrete Math)|Surjective]].
 ---
 - ## Practice
