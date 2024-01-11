@@ -14,7 +14,10 @@ Alias: []
 		- [[Glass Box Test]]
 - #### Types
 	- Unit Testing
-		- Normally [[Glass Box Test]]
-		- Tests individual parts of hardware or software
+		- Normally a [[Glass Box Test]].
+		- Tests individual parts of hardware or software. Focus on testing methods.
+	- Integration Testing
+		- Normally a [[Glass Box Test]].
+		- Tests hardware and software components and their interactions with each other.
 ---
 - ## Practice
