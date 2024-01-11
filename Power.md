@@ -11,6 +11,7 @@ Alias: [Real Power]
 	- Average of [[Instantaneous Power]].
 	- Also known as [[Power|Real Power]].
 	- Measured in [[Watts]].
+	- When [[Power]] is **positive** it is being **absorbed** by a circuit element. When [[Power]] is **negative** it is being **supplied** by a circuit element.
 	- > [!Equation]
 	  > $$\large{P_{avg}=\frac{1}{T}\int_{0}^{T} P(t) \, dt}$$
 	  > 
@@ -34,6 +35,7 @@ Alias: [Real Power]
 	  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
 	  > $R$ = Constant [[Resistance]] in $\Omega$
 	  > $I_{rms}$ = [[Root Mean Square|RMS]] [[Current]] in $A$
+- #### First Sign Convention for [[Power]]
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]
