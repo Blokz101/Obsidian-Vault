@@ -5,7 +5,7 @@ Alias: [Sets, Set Literal]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
 > Friends:: [[Sequence]]  [[Cardinality]]
-> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]] [[Set Union]] [[Set Intersection]]
+> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]] [[Set Union]] [[Set Intersection]] [[Set Difference]] [[Set Symmetric Difference]] [[Set Compliment]] [[Set Identities]]
 ---
 - ## Definition
 	- A collection of elements that **do not repeat** and have no order.
@@ -20,6 +20,8 @@ Alias: [Sets, Set Literal]
 	- [[Set Intersection]]
 	- [[Set Difference]]
 	- [[Set Symmetric Difference]]
+	- [[Set Compliment]]
+	- ![[Screenshot 2024-01-11 at 12.44.10 PM.png]]
 - #### Common Mathematical Sets
 	- $\mathbb{N}$ is the [[Set]] of [[Natural Numbers]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
