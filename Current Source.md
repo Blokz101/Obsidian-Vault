@@ -1,5 +1,5 @@
 ---
-Alias: [Current Sources]
+Alias: [Current Sources, Dependent Current Source, Dependent Current Sources]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
