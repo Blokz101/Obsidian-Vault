@@ -5,7 +5,7 @@ Alias: [Sets, Set Literal]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
 > Friends:: [[Sequence]]  [[Cardinality]]
-> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]]
+> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]] [[Set Union]] [[Set Intersection]]
 ---
 - ## Definition
 	- A collection of elements that **do not repeat** and have no order.
@@ -15,8 +15,9 @@ Alias: [Sets, Set Literal]
 		- Ex: $\{ n \in \mathbb{Z}\mid n\geq 2 \text{ and }n<7 \}$ yields $\{ 2,3,4,5,6 \}$
 	- A [[Set|Set Literal]] is a [[Set]] defined by giving its list of elements.
 		- Ex: $\{ 0,1,2,3,4,5 \}$
-- #### Set Literal
-	- 
+- #### Set Operations
+	- [[Set Union]]
+	- [[Set Intersection]]
 - #### Common Mathematical Sets
 	- $\mathbb{N}$ is the [[Set]] of [[Natural Numbers]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
