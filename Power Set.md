@@ -8,7 +8,8 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A [[Set]] of all subsets of a targeted [[Set]].
-	- Its [[Cardinality]] is always $2$
+	- Let $A$ be a [[Set]] and $P(A)$ be the [[Power Set]] of $A$ **including** the [[Empty Set]].
+	- A [[Set]] of all [[Subset|Subsets]] of $A$.
+	- Its [[Cardinality]] is $2^x$ where $x$ is the [[Cardinality]] of $A$.
 ---
 - ## Practice

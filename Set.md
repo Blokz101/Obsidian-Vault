@@ -11,13 +11,12 @@ Alias: [Sets, Set Literal]
 	- A collection of elements that **do not repeat** and have no order.
 	- Generally notated by enclosing the elements in a comma delimited list with $\{\,\}$
 	- Two [[Set|Sets]] are **equal** if they have the same elements.
-	- A [[Set]] can be an element in another [[Set]].
-- #### Set Literal
-	- A way to define a [[Set]] by giving its list of elements.
-		- Ex: $\{ 0,1,2,3,4,5 \}$
-- #### Defining Sets
-	- A set can also be "defined" with an expression in $\{  \}$.
+	- A [[Set]] can also be defined with an expression in $\{  \}$.
 		- Ex: $\{ n \in \mathbb{Z}\mid n\geq 2 \text{ and }n<7 \}$ yields $\{ 2,3,4,5,6 \}$
+	- A [[Set|Set Literal]] is a [[Set]] defined by giving its list of elements.
+		- Ex: $\{ 0,1,2,3,4,5 \}$
+- #### Set Literal
+	- 
 - #### Common Mathematical Sets
 	- $\mathbb{N}$ is the [[Set]] of [[Natural Numbers]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].

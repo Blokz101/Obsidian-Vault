@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Subsets]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
