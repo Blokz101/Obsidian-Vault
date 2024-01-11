@@ -37,7 +37,7 @@ Alias: [Real Power]
 	  > $I_{rms}$ = [[Root Mean Square|RMS]] [[Current]] in $A$
 - #### First Sign Convention for [[Power]]
 	- **Positive** [[Current]] enters the **positive** terminal of a component. **Negative** [[Current]] enters the **negative** terminal of a component.
-	- 
+	- ![[IMG_FD9AA85501BA-1.jpeg]]
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]
