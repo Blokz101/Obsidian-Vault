@@ -18,6 +18,8 @@ Alias: [Sets, Set Literal]
 - #### Set Operations
 	- [[Set Union]]
 	- [[Set Intersection]]
+	- [[Set Difference]]
+	- [[Set Symmetric Difference]]
 - #### Common Mathematical Sets
 	- $\mathbb{N}$ is the [[Set]] of [[Natural Numbers]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
