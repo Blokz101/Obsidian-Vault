@@ -4,8 +4,8 @@ Alias: [Sets, Set Literal]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Sequence]] [[Empty Set]] [[Subset]] [[Cardinality]]
-> Children:: 
+> Friends:: [[Sequence]]  [[Cardinality]]
+> Children:: [[Universal Set]] [[Empty Set]] [[Subset]]
 ---
 - ## Definition
 	- A collection of elements that **do not repeat** and have no order.
@@ -23,5 +23,6 @@ Alias: [Sets, Set Literal]
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
 	- $\mathbb{Q}$ is the [[Set]] of all [[Rational Numbers]].
 	- $\mathbb{R}$ is the [[Set]] of all [[Real Number|Real Numbers]].
+	- The superscript $^+$ or $^-$ is used to describe a set with only positive or negative numbers respectively. 
 ---
 - ## Reference

@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
-> Parents:: 
-> Friends:: [[Set]]
+> Parents:: [[Set]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition
