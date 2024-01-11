@@ -19,5 +19,12 @@ Alias: []
 	- Integration Testing
 		- Normally a [[Glass Box Test]].
 		- Tests hardware and software components and their interactions with each other.
+	- Functional System Testing
+		- Normally a [[Black Box Test]].
+		- Tests a complete integrated system to evaluate its compliance with specific requirements. 
+	- Acceptance Testing
+		- Normally a [[Black Box Test]].
+		- Formal testing to determine if a program meets the criteria of the customer.
+		- Generally done by the customer in their environment. 
 ---
 - ## Practice
