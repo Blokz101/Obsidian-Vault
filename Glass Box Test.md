@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A test where the code being run in the test is known. An
+	- A test where the code being run in the test is known.
+	- Generally used to test smaller specific methods.
 ---
 - ## Practice

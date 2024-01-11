@@ -5,14 +5,16 @@ Alias: []
 > Subject:: [[Computer Science]]
 > Parents:: 
 > Friends:: 
-> Children:: [[Black Box Test]] [[Glass Box Test]] [[Unit Test]]
+> Children:: [[Black Box Test]] [[Glass Box Test]]
 ---
 - ## Definition
 	- Testing is the profess of finding software faults.
-	- There are many tests, some of which are listed below:
+	- Tests mainly fall into two categories:
 		- [[Black Box Test]]
 		- [[Glass Box Test]]
-		- [[Unit Test]]
-		- 
+- #### Types
+	- Unit Testing
+		- Normally [[Glass Box Test]]
+		- Tests individual parts of hardware or software
 ---
 - ## Practice
