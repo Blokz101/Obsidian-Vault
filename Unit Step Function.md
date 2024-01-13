@@ -8,11 +8,17 @@ Alias: [Unit Step Signal]
 > Children:: 
 ---
 - ## Definition
-	- $$$
-	  \begin{array}
-      
-	  \end{array}
+	- A function whit this definition:
 	  $$$
+	u(t)=\left\{ 
+	\begin{array}
+	00, & t<0 \\
+	1, & t>0
+	\end{array}
+	\right\}
+	$$$
+	- Notated with $u(t)$
+	- ![[Pasted image 20240113142908.png]]
 
 ---
 - ## Practice
