@@ -1,11 +1,11 @@
 ---
-Alias: [Unit Step Signal]
+Alias: [Unit Step Functions, Unit Step Signal, Unit Step Signals]
 ---
 > [!Info]
 > Subject:: [[ECE220]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Unit Pulse Function]]
 ---
 - ## Definition
 	- A function whit this definition:
