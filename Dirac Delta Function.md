@@ -19,9 +19,11 @@ Alias: []
 		- Infinite Hight
 		- Area of $1$
 		- [[Even and Odd Functions|Even Function]]
-- #### Identities
+- #### Properties
 	- $\large{\delta (t)=\delta(-t)}$
 	- $\large{\int_{-\infty}^{\infty} \delta(t)g(t) \, dt=g(0)}$
+		- Basically states that the area of the [[Dirac Delta Function]] multiplied by some other function $g(t)$ will be equal to $g(t)$ at $t=0$
 	- $\large{\int_{-\infty}^{\infty} \delta(t-t_{0})g(t) \, dt}=g(t_{0})$
+		- A variation of the identity above, but with the [[Dirac Delta Function]] offset by some $t_{0}$. In this case the area of the product of the two will be equal to $g(t)$ at $t=t_{0}$.
 ---
 - ## Practice
