@@ -14,6 +14,6 @@ Alias: [Unit Pulse Functions, Unit Pulse Function, Unit Pulse Functions]
 	  > 
 	  > $u(t)$ = [[Unit Step Function]]
 	  > $t_{0}$ = The time when the [[Unit Pulse Function]] returns to $0$
-	- 
+	- ![[IMG_9401FF421217-1.jpeg]]
 ---
 - ## Practice
