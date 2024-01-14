@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [IQR]
 ---
 > [!Info]
 > Subject:: [[Statistics]]
