@@ -30,6 +30,13 @@ Alias: []
 			  > From my understanding this means that there is some function $P$ that takes a collection of subsets of all possible outcomes and returns how likely it is to happen.
 - #### Discrete Sample Space
 	- $\mid\Omega \mid$ is finite or $\Omega$ is countable.
-	- $F$ is the set of all [[Subset|Subsets]] of $\Omega$.
+	- $F$ is the [[set]] of all [[Subset|Subsets]] of $\Omega$.
+	- With this setup an event $A$ is any $A \subset \Omega$.
+		- Events $A$ with $\mid A\mid=1$ are [[Simple Events]].
+		- Events $A$ with $\mid A\mid>1$ are [[Compound Events]]
+	- > [!Example]
+	  > If a coin is flipped $3$ times.
+	  > 
+	  > $\Omega=\{ HHHH \}$
 ---
 - ## Reference

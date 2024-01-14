@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The set of all outcomes of some events.
+	- The [[set]] of all unique outcomes of an event or [[Set]] of events.
 ---
 - ## Practice
