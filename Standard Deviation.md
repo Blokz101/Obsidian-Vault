@@ -13,6 +13,8 @@ Alias: [Standard Variance]
 	  > 
 	  > $s_{x}$ = [[Standard Deviation]]
 	  > $s_{x}^2$ = [[Standard Deviation|Standard Variance]]
-	- Motivation for $s_{x}^2$
+	- Notated with $s$.
+	- Motivation for $s^2$:
+	  ![[IMG_9BED73A3B25E-1.jpeg]]
 ---
 - ## Practice
