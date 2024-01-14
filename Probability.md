@@ -15,5 +15,21 @@ Alias: []
 	      Population --> Sample: Probability
 	      Sample --> Population: Inferential Statistics
       ```
+	- The standard mathematical treatment of probability is via [[Kolmogorov's Axioms of Probability]]. Using this setup, there are a few main parts:
+		- A [[Sample Space]].
+			- Notated with $\Omega$
+		- A [[Set]] of [[Subset|Subsets]] of the [[Sample Space]]
+			- Notated with $F$
+			- $\Omega \in F$
+		- A countably additive function.
+			- Notated with $P$
+			- $P: F\to[0,1]$ with $P(\Omega)=1$
+			- > [!Warning]
+			  > I am not sure if this is how this works so update this later.
+			  > 
+			  > From my understanding this means that there is some function $P$ that takes a collection of subsets of all possible outcomes and returns how likely it is to happen.
+- #### Discrete Sample Space
+	- $\mid\Omega \mid$ is finite or $\Omega$ is countable.
+	- $F$ is the set of all [[Subset|Subsets]] of $\Omega$.
 ---
 - ## Reference
