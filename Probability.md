@@ -34,9 +34,16 @@ Alias: []
 	- With this setup an event $A$ is any $A \subset \Omega$.
 		- Events $A$ with $\mid A\mid=1$ are [[Simple Events]].
 		- Events $A$ with $\mid A\mid>1$ are [[Compound Events]]
+	- $\mid F\mid=x^\Omega$
+	- > [!Example]
+	  > If a coin is flipped $1$ time.
+	  > $\Omega=\{ H,T \}$
+	  > $F=\{ \emptyset,\{ H \},\{ T \},\{ H,T \} \}$
+	  
 	- > [!Example]
 	  > If a coin is flipped $3$ times.
 	  > 
-	  > $\Omega=\{ HHHH \}$
+	  > $\Omega=\{ HHH, HHT,HTT,HTH,THH,THT,TTH,TTT \}$
+	  > $\mid F\mid=2^8=256$
 ---
 - ## Reference
