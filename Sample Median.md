@@ -20,5 +20,6 @@ Alias: []
 	  > \right\}
 	  > }
 	  > $$
+	- The [[Sample Median]] is very robust against [[Outliers]].
 ---
 - ## Practice
