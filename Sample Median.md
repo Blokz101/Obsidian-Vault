@@ -4,12 +4,18 @@ Alias: []
 > [!Info]
 > Subject:: [[Statistics]]
 > Parents:: 
-> Friends:: [[Sample Median]]
+> Friends:: [[Sample Mean]]
 > Children:: 
 ---
 - ## Definition
-	- The average of the values in the [[Sample]].
+	- The middle value of the values in [[Sample]] ordered from lowest to highest.
 	  > [!Equation]
-	  > $$\large{\bar{x}=\frac{1}{n}\sum^{}_{i}x_{i}}$$
+	  > 
+
+
+$$
+x
+$$
+
 ---
 - ## Practice
