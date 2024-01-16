@@ -19,4 +19,8 @@ Alias: [Counting Permutations, Permutations]
 	  > 
 	  > $P(r,n)$ is the number of $r$ [[Permutation|Permutations]] from a [[Set]] with $n$ elements.
 ---
+- ## Reference
+	- > [!Example]-
+	  > ![[Screenshot 2024-01-16 at 2.18.02 PM.png]]
+	  > ![[Screenshot 2024-01-16 at 2.18.18 PM.png]]
 - ## Practice
