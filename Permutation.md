@@ -11,11 +11,11 @@ Alias: [Counting Permutations, Permutations]
 	- An $r$ [[Permutation]] is a [[Sequence]] of $r$ items without repetition.
 	- To [[Counting|Count]] a [[Permutation]] use this equation:
 	  > [!Equation]
-	  > $$\large{P{(r,n)}=\frac{n!}{(n-r)!}}$$
+	  > $$\large{P{(n,r)}=\frac{n!}{(n-r)!}}$$
 	  > 
 	  > $P(r,n)$ = The number of [[Permutation|Permutations]] possible
-	  > $r$ = Length of each [[Permutation]]
 	  > $n$ = Number of elements in parent [[Set]]
+	  > $r$ = Length of each [[Permutation]]
 	  > 
 	  > $P(r,n)$ is the number of $r$ [[Permutation|Permutations]] from a [[Set]] with $n$ elements.
 ---
