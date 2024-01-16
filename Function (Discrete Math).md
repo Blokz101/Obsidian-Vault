@@ -1,10 +1,10 @@
 ---
-Alias: [Injections, Injective, Surjections, Surjective, Bijective, Bijections]
+Alias: [Injections, Injective, Surjections, Surjective, Bijective, Bijections, Bijection]
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Function (Calculus)]]
+> Friends:: [[Function (Calculus)]] [[Counting Bijection Rule|Bijection Rule]]
 > Children:: 
 ---
 - ## Definition
