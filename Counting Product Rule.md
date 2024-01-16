@@ -3,7 +3,7 @@ Alias: [Product Rule]
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]
-> Parents:: 
+> Parents:: [[Counting]]
 > Friends:: [[Cartesian Product]]
 > Children:: 
 ---
@@ -14,5 +14,9 @@ Alias: [Product Rule]
 	- > [!Equation]
 	  > $$\large{\mid \sum^{n} \mid = \underbrace{ \mid \sum^{}_{}\mid \times \mid \sum^{}_{}\mid \times \dots \times \mid \sum^{}_{}\mid }_{ n \text{ times} }}$$
 	  > Where $\sum^{}_{}$ is a static [[Set]] of things that does not change.
+	- > [!Example]-
+	  > ![[Screenshot 2024-01-16 at 1.42.14 AM.png]]
+	- > [!Example]-
+	  > ![[Screenshot 2024-01-16 at 1.41.23 AM.png]]
 ---
 - ## Practice

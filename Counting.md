@@ -4,8 +4,8 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Counting Product Rule]]
-> Children:: 
+> Friends:: 
+> Children:: [[Counting Product Rule]] [[Counting Sum Rule]]
 ---
 - ## Definition
 	- 
