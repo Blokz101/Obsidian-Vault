@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Count]
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]

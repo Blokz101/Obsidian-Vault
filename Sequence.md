@@ -5,7 +5,7 @@ Alias: [Sequences]
 > Subject:: [[Calculus II]]
 > Parents:: [[Real Number]]
 > Friends:: [[Set]]
-> Children:: [[Monotonic Sequence]] [[Infinite Series]]
+> Children:: [[Monotonic Sequence]] [[Infinite Series]] [[Permutation]]
 ---
 - ## Definition
 	- An ordered list of elements that can repeat and is ordered.
