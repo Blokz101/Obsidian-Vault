@@ -13,8 +13,10 @@ Alias: [Counting Permutations, Permutations]
 	  > [!Equation]
 	  > $$\large{P{(r,n)}=\frac{n!}{(n-r)!}}$$
 	  > 
-	  > $P(r,n)$ = The number of $r$ [[Permutation|Permutations]] from a set of $n$ elements.
+	  > $P(r,n)$ = The number of [[Permutation|Permutations]] possible
 	  > $r$ = Length of each [[Permutation]]
-	  > $n$ = Number of [[Element|Elements]]
+	  > $n$ = Number of elements in parent [[Set]]
+	  > 
+	  > $P(r,n)$ is the number of $r$ [[Permutation|Permutations]] from a [[Set]] with $n$ elements.
 ---
 - ## Practice
