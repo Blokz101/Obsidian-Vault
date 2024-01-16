@@ -8,6 +8,7 @@ Alias: [Product Rule]
 > Children:: 
 ---
 - ## Definition
-	- 
+	- > [!Equation]
+	  > 
 ---
 - ## Practice
