@@ -1,5 +1,5 @@
 ---
-Alias: [Subsets, r-combination]
+Alias: [Subsets, r-Subset, r-Combination]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
@@ -12,11 +12,12 @@ Alias: [Subsets, r-combination]
 	- If every element in $A$ is also an element of $B$ then "$A$ is a subset of $B$".
 	- Notated with $\subseteq$ if the set and subset can be equal or $\subset$ if they cannot.
 	  > [!Example]
-	  > $A=\{ 3,4,5 \}$
-	  > $B=\{ 1,2,3,4,5,6 \}$
+	  > $$\large{A=\{ 3,4,5 \}}$$
+	  > $$\large{B=\{ 1,2,3,4,5,6 \}}$$
 	  > Therefore:
-	  > $A\subseteq B$
-	- A [[Subset]] of $r$ size is called an r-subset, it is also sometimes reffered to as an [[Subset|r-combination]].
+	  > $$\large{A\subseteq B}$$
+	- A [[Subset]] of $r$ size is called an [[Subset|r-Subset]], it is also sometimes referred to as an [[Subset|r-combination]].
+		- The word "combination" in the context of [[Counting]] means "subset".
 - #### Counting Subsets
 	- 
 ---
