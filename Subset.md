@@ -1,5 +1,5 @@
 ---
-Alias: [Subsets]
+Alias: [Subsets, r-combination]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
@@ -16,5 +16,8 @@ Alias: [Subsets]
 	  > $B=\{ 1,2,3,4,5,6 \}$
 	  > Therefore:
 	  > $A\subseteq B$
+	- A [[Subset]] of $r$ size is called an r-subset, it is also sometimes reffered to as an [[Subset|r-combination]].
+- #### Counting Subsets
+	- 
 ---
 - ## Practice
