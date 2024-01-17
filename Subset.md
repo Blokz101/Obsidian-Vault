@@ -1,5 +1,5 @@
 ---
-Alias: [Subsets, r-Subset, r-Combination]
+Alias: [Subsets, r-Subset, r-Combination, n Choose r]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
@@ -21,8 +21,11 @@ Alias: [Subsets, r-Subset, r-Combination]
 - #### Counting Subsets
 	- The number of ways of selecting an $r$-subset from a [[Set]] of size $n$:
 	  > [!Equation]
+	  > $\binom{n}{r}$ is notation for "$n$ choose $r$":
 	  > $$\large{\binom{n}{r}=\frac{n!}{r!(n-r)!}}$$
+	- > [!Example]-
+	  > ![[Screenshot 2024-01-16 at 10.37.40 PM.png]]
 	  > 
-	  > $\binom{n}{r}$ is 
+	  > ![[Screenshot 2024-01-16 at 10.37.59 PM.png]]
 ---
 - ## Practice
