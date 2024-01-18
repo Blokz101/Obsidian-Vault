@@ -5,7 +5,7 @@ Alias: [Sets, Set Literal]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
 > Friends:: [[Sequence]]  [[Cardinality]]
-> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]] [[Set Union]] [[Set Intersection]] [[Set Difference]] [[Set Symmetric Difference]] [[Set Compliment]] [[Set Identities]]
+> Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Power Set]] [[Set Union]] [[Set Intersection]] [[Set Difference]] [[Set Symmetric Difference]] [[Set Compliment]] [[Set Identities]] [[Multiset]]
 ---
 - ## Definition
 	- A collection of elements that **do not repeat** and have no order.
