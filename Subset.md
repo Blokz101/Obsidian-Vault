@@ -25,6 +25,10 @@ Alias: [Subsets, r-Subset, r-Combination, n Choose r]
 	  > $$\large{\binom{n}{r}=\frac{n!}{r!(n-r)!}}$$
 	  > or using [[Permutation|Permutations]]:
 	  > $$\large{\binom{n}{r}=\frac{P(n,r)}{r!}}$$
+	  > 
+	  > $\binom{n}{r}$ = The number of ways of selecting unique [[Subset|Subsets]] from a parent [[Set]]
+	  > $n$ = [[Cardinality]] of the parent [[Set]]
+	  > $r$ = [[Cardinality]] of each [[Subset]]
 	- > [!Example]-
 	  > ![[Screenshot 2024-01-16 at 10.37.40 PM.png]]
 	  > 
