@@ -81,7 +81,28 @@
       "query": "line:(\"[[Computer Science]]\")",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 8388863
+      }
+    },
+    {
+      "query": "line:(\"[[Discrete Math]]\")",
+      "color": {
+        "a": 1,
+        "rgb": 6372608
+      }
+    },
+    {
+      "query": "line:(\"[[Statistics]]\")",
+      "color": {
+        "a": 1,
+        "rgb": 12386477
+      }
+    },
+    {
+      "query": "line:(\"[[Analytics of Electrical and Computer Engineering]]\")",
+      "color": {
+        "a": 1,
+        "rgb": 57855
       }
     }
   ],
@@ -95,6 +116,6 @@
   "repelStrength": 10.8610026041667,
   "linkStrength": 0.773640950520833,
   "linkDistance": 149,
-  "scale": 0.24486788859772468,
-  "close": false
+  "scale": 0.42198437109839926,
+  "close": true
 }
