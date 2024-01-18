@@ -18,7 +18,7 @@ Alias: [Subsets, r-Subset, r-Combination, n Choose r]
 	  > $$\large{A\subseteq B}$$
 	- A [[Subset]] of $r$ size is called an [[Subset|r-Subset]], it is also sometimes referred to as an [[Subset|r-combination]].
 		- The word "combination" in the context of [[Counting]] means "subset".
-- #### Counting Subsets (n choose r)
+- #### Counting Subsets ($n$ choose $r$)
 	- The number of ways of selecting an $r$-subset from a [[Set]] of size $n$:
 	  > [!Equation]
 	  > $\binom{n}{r}$ is notation for "$n$ choose $r$":
