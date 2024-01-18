@@ -3,11 +3,14 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]
-> Parents:: 
-> Friends:: 
+> Parents:: [[Counting]]
+> Friends:: [[Subset]] [[Multiset]] [[Permutation]]
 > Children:: 
 ---
 - ## Definition
-	- 
+	- Many counting problems that ask about the number of ways to assign or distribute a set of items can be expressed abstractly by asking about the number of ways to place $n$ balls into $m$ different bins.
+	- This is a good example to show the different ways of [[Counting]] based on restrictions.
+	- This table shows the number of ways to place $n$ balls into $m$ distinguishable bins based on some restrictions.
+	  ![[Screenshot 2024-01-18 at 11.54.03 AM.png]]
 ---
 - ## Practice

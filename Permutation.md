@@ -4,7 +4,7 @@ Alias: [Counting Permutations, Permutations]
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Sequence]] [[Counting]]
-> Friends:: [[Subset]]
+> Friends:: [[Subset]] [[Permutation]]
 > Children:: 
 ---
 - ## Definition

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Set]] [[Counting]]
-> Friends:: 
+> Friends:: [[Assigning Balls Problem]]
 > Children:: 
 ---
 - ## Definition

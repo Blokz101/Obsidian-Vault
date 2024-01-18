@@ -147,7 +147,6 @@
     "Jumps": {}
   },
   "navigationHistory": [
-    "Inferential Statistics.md",
     "Population.md",
     "Sample.md",
     "Stratified Random Sample.md",
@@ -197,7 +196,8 @@
     "Set Difference.md",
     "Orthogonal Projection.md",
     "Orthogonal Decomposition.md",
-    "Vector.md"
+    "Vector.md",
+    "Assigning Balls Problem.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
