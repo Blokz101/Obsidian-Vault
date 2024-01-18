@@ -2,7 +2,7 @@
 Alias: [Unit Step Functions, Unit Step Signal, Unit Step Signals]
 ---
 > [!Info]
-> Subject:: [[ECE220]]
+> Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
 > Friends:: 
 > Children:: [[Unit Pulse Function]]

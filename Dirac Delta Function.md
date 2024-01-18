@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[ECE220]]
+> Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
 > Friends:: 
 > Children:: 

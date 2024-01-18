@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[ECE220]]
+> Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Periodic Signal]]
 > Children:: 
 ---
 - ## Definition
@@ -17,6 +17,12 @@ Alias: []
 	  > - $t_{0}$ = Value to shift by
 	- There are two methods.
 		- Shift and Scale
-			- Use the first equation: $g(t)=$
+			- Use the first equation: $g(t)=f(\alpha t-t_{0})$.
+			- First, shift by $t_{0}$.
+			- Then, scale by $\alpha$.
+		- Scale and Shift
+			- Use the second equation: $f\left( \alpha\left( t-\frac{t_{0}}{\alpha} \right) \right)$.
+			- First, scale by $\alpha$.
+			- Then, shift by $\frac{t_{0}}{\alpha}$.
 ---
 - ## Practice

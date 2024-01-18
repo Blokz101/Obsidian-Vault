@@ -2,7 +2,7 @@
 Alias: [Even Function, Odd Function, Even Functions, Odd Functions]
 ---
 > [!Info]
-> Subject:: [[ECE220]]
+> Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
 > Friends:: 
 > Children:: 
