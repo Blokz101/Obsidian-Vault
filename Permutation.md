@@ -24,6 +24,12 @@ Alias: [Counting Permutations, Permutations]
 	  > 
 	  > $P(n,n)$ = The number of [[Permutation|Permutations]] possible
 	  > $n$ = Number of elements in parent [[Set]]
+- #### Permutation With Repetition
+	- How to count [[Permutation|Permutations]] with repetition:
+	  > [!Equation]
+	  > The number of distinct [[Sequence|Sequences]] with $n_{1}$ $1$'s, $n_{2}$ $2$'s,...,and $n_{k}$ $k$'s, where $n=n_{1}+n_{2}+\dots+n_{k}$ is:
+	  > $$\large{\frac{n!}{n_{1}!*n_{2}!*\dots*n_{k}!}}$$
+		- Basically pick a repeating element and use [[Subset|n Choose r]] to determine the 
 ---
 - ## Reference
 	- > [!Example]-
