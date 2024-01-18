@@ -1,5 +1,5 @@
 ---
-Alias: [Subsets, r-Subset, r-Combination, n Choose r]
+Alias: [Subsets, Combination, Combinations, n Choose r]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
