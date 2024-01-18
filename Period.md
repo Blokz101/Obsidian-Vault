@@ -12,6 +12,6 @@ Alias: [Fundamental Period]
 	- Notated with $T$
 	- The [[Period|Fundamental Period]] is the smallest $T>0$ such that $f(t)=f(t+T)$ for all $t$.
 		- Basically the [[Period|Fundamental Period]] is the smallest amount of time that the signal repeats.
-		- Any integer multiple ($nT$) of the [[Period|Fundamental Period]] is also a [[Period]].
+		- Any **integer multiple** ($nT$) of the [[Period|Fundamental Period]] is also a [[Period]].
 ---
 - ## Reference
