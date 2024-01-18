@@ -32,8 +32,12 @@ Alias: []
 		- This method basically creates a pool of bits that is the length of the **code word**. This will include all possibilities with $m-1$ dividers ($1$s) and more. 
 		- It eliminates the illegal options by choosing only the correct number of dividers from the pool. 
 		- This can then be related back to the selection of varieties because the mapping between selection and **code words** is a [[Function (Discrete Math)|Bijection]].
+	- Counting with a fixed sum
+	  > [!Example]
+	  > ![[Screenshot 2024-01-18 at 1.43.44 AM.png]]
 ---
 - ## Practice
-	- > [!ZyBooks]
+	- > [!ZyBooks]-
 	  > ![[Screenshot 2024-01-18 at 1.38.19 AM.png]]
+	  > ![[Screenshot 2024-01-18 at 1.45.11 AM.png]]
 	  > 
