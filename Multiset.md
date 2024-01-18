@@ -40,4 +40,6 @@ Alias: []
 	- > [!ZyBooks]-
 	  > ![[Screenshot 2024-01-18 at 1.38.19 AM.png]]
 	  > ![[Screenshot 2024-01-18 at 1.45.11 AM.png]]
+	  > ![[Screenshot 2024-01-18 at 1.51.12 AM.png]]
+	  > ![[Screenshot 2024-01-18 at 1.51.26 AM.png]]
 	  > 
