@@ -26,6 +26,11 @@ Alias: []
 	  > 
 	  > $$\large{\binom{n+m-1}{m-1}}$$
 	  > 
-	  > $n+m-1$ = Number of 
+	  > $n$ = Number of items to select
+	  > $m$ = Number of varieties
+	  >  
+	  > $n+m-1$ = Number of $0$s and $1$s in the **code word**
+	  > $m-1$ = Number of $1$s in the **code word**
+		- This method basically creates a pool of 
 ---
 - ## Practice
