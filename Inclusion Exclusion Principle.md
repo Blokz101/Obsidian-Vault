@@ -14,6 +14,8 @@ Alias: []
 	  > $$\large{\mid A\cup B\mid=\mid A\mid+\mid B\mid-\mid A\cap B\mid}$$
 - #### Three [[Set|Sets]]
 	- > [!Equation]
-	  > $\large{\mid A\cup B\cup C\mid=\mid A\mid+\mid B\mid+\mid C\mid-\mid A\cap B\mid-\mid B\cap C\mid-\mid A\cap C\mid+\mid A\cap B\cap C\mid}$
+	  > $$\large{\mid A\cup B\cup C\mid=\mid A\mid+\mid B\mid+\mid C\mid-\mid A\cap B\mid-\mid B\cap C\mid-\mid A\cap C\mid+\mid A\cap B\cap C\mid}$$
+- #### Generalized
+	- ![[Screenshot 2024-01-18 at 4.08.14 PM.png]]
 ---
 - ## Practice
