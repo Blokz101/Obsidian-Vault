@@ -22,14 +22,11 @@ Alias: []
 	   ![[Screenshot 2024-01-18 at 1.14.36 AM.png]]
 	- The mapping of selections to code words is a [[Function (Discrete Math)|Bijection]] and so the number of distinct **code words** is equal to the number of distinct selections.
 	  > [!Equation]
-	  > The number of distinct selections is given by:
+	  > The number of ways to select $n$ objects from a [[Set]] of $m$ varieties is:
 	  > > If the number of objects to select is $n$, and the number of varieties of object is $m$, each code word has $n$ $0$'s and $m-1$ $1$'s, for a total of $n+m-1$ bits. The number of binary strings of length $n+m+1$ with exactly $m-1$ $1$'s is:
 	  > 
 	  > $$\large{\binom{n+m-1}{m-1}}$$
 	  > 
-	  > $n$ = Number of items to select
-	  > $m$ = Number of varieties
-	  >  
 	  > $n+m-1$ = Number of bits in the **code word**
 	  > $m-1$ = Number of $1$s in the **code word**
 		- This method basically creates a pool of bits that is the length of the **code word**. This will include all possibilities with $m-1$ dividers ($1$s) and more. 
@@ -38,4 +35,5 @@ Alias: []
 ---
 - ## Practice
 	- > [!ZyBooks]
+	  > ![[Screenshot 2024-01-18 at 1.38.19 AM.png]]
 	  > 
