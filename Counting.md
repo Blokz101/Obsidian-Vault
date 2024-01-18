@@ -5,7 +5,7 @@ Alias: [Count]
 > Subject:: [[Discrete Math]]
 > Parents:: 
 > Friends:: 
-> Children:: [[Counting Product Rule]] [[Counting Sum Rule]] [[Counting Bijection Rule]] [[Counting Difference Rule]] [[Subset]] [[Permutation]] [[Multiset]] [[Assigning Balls Problem]]
+> Children:: [[Counting Product Rule]] [[Counting Sum Rule]] [[Counting Bijection Rule]] [[Counting Difference Rule]] [[Subset]] [[Permutation]] [[Multiset]] [[Assigning Balls Counting Example]]
 ---
 - ## Definition
 	- 

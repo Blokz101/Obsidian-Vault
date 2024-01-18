@@ -4,7 +4,7 @@ Alias: [Subsets, Combination, Combinations, n Choose r]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: [[Set]] [[Counting]]
-> Friends:: [[Permutation]] [[Assigning Balls Problem]]
+> Friends:: [[Permutation]] [[Assigning Balls Counting Example]]
 > Children:: 
 ---
 - ## Definition
