@@ -34,6 +34,7 @@ Alias: [Counting Permutations, Permutations]
 		- Do it again, but subtract the spots taken in the previous step from $n$.
 		- Continue until there are no more repeating elements.
 		- Calculate the rest like a normal [[Permutation]].
+	- This is shorter way of performing the [[Counting Product Rule|Product Rule]].
 	- > [!Example]-
 	  > ![[Screenshot 2024-01-18 at 12.31.33 AM.png]]
 ---
@@ -43,4 +44,4 @@ Alias: [Counting Permutations, Permutations]
 	  > ![[Screenshot 2024-01-16 at 2.18.18 PM.png]]
 - ## Practice
 	- > [!ZyBooks]-
-	  > 
+	  > ![[Screenshot 2024-01-18 at 12.40.47 AM.png]]
