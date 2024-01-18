@@ -1,5 +1,5 @@
 ---
-aliases: [Intersection]
+aliases: [Intersection, Intersections]
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]

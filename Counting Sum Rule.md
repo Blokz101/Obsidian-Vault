@@ -4,7 +4,7 @@ Alias: [Sum Rule]
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Counting]]
-> Friends:: 
+> Friends:: [[Inclusion Exclusion Principle]]
 > Children:: 
 ---
 - ## Definition
