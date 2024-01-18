@@ -4,7 +4,7 @@ Alias: [Subsets, r-Subset, r-Combination, n Choose r]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: [[Set]] [[Counting]]
-> Friends:: 
+> Friends:: [[Permutation]]
 > Children:: 
 ---
 - ## Definition
