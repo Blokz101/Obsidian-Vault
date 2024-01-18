@@ -42,3 +42,5 @@ Alias: [Counting Permutations, Permutations]
 	  > ![[Screenshot 2024-01-16 at 2.18.02 PM.png]]
 	  > ![[Screenshot 2024-01-16 at 2.18.18 PM.png]]
 - ## Practice
+	- > [!ZyBooks]-
+	  > 
