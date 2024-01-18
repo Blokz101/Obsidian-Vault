@@ -3,7 +3,7 @@ Alias: [Subsets, r-Subset, r-Combination, n Choose r]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
-> Parents:: [[Set]]
+> Parents:: [[Set]] [[Counting]]
 > Friends:: 
 > Children:: 
 ---
