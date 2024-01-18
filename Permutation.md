@@ -18,6 +18,12 @@ Alias: [Counting Permutations, Permutations]
 	  > $r$ = Length of each [[Permutation]]
 	  > 
 	  > $P(r,n)$ is the number of $r$ [[Permutation|Permutations]] from a [[Set]] with $n$ elements.
+	- A shortcut can be used when $n$ and $r$ are equal:
+	  > [!Equation]
+	  > $$\large{P(n,n)=n!}$$
+	  > 
+	  > $P(n,n)$ = The number of [[Permutation|Permutations]] possible
+	  > $n$ = Number of elements in parent [[Set]]
 ---
 - ## Reference
 	- > [!Example]-

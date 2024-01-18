@@ -8,11 +8,14 @@ Alias: [Product Rule]
 > Children:: 
 ---
 - ## Definition
-	- > [!Equation]
+	- A method for determining the number of combinations a [[Sequence]] of events can create.
+	  > [!Equation]
 	  > $$\large{\mid A_{1}\times A_{2}\times \dots \times A_{n}\mid=\mid A_{1}\mid*\mid A_{2}\mid*\dots*\mid A_{n}\mid}$$
 	  > Where the [[Set]] $A_{x}$ can vary for every new $A$.
 	  > 
-	  > Note that $A_{1}\times A_{2}\times \dots \times A_{n}$ is NOT a [[Set]] because it will have repeating elements in different orders in it.
+	  > Note that $A_{1}\times A_{2}\times \dots \times A_{n}$ is **NOT** a [[Set]] because it will have repeating elements in different orders in it.
+	- The **Generalized Product Rule**:
+	  > States that in selecting an item from a set, if the number of choices at each step does not depend on previous choices made, then the number of items in the set is the product of the number of choices in each step.
 ---
 - ## Reference
 	- > [!Example]-
