@@ -19,3 +19,6 @@ Alias: []
 	- ![[Screenshot 2024-01-18 at 4.08.14 PM.png]]
 ---
 - ## Practice
+	- > [!ZyBooks]-
+	  > ![[Screenshot 2024-01-18 at 6.54.54 PM.png]]
+	  > ![[Screenshot 2024-01-18 at 6.55.38 PM.png]]
