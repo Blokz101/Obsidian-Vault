@@ -63,6 +63,6 @@ Alias: []
 		- [[Partitioning Rule]]
 		- For any [[Event|Events]] $A$ and $B$:
 		  > [!Equation]
-		  > $\large{P(A\cup B)=P(A)}$
+		  > $$\large{P(A\cup B)=P(A)+P(B)-P(A\cap B)}$$
 ---
 - ## Practice
