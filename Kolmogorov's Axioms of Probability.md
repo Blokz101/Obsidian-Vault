@@ -58,5 +58,11 @@ Alias: []
 		- For any [[Event|Events]] $A$ and $B$:
 		  > [!Equation]
 		  > $$\large{{P(A)}=P(A\cap B)+P(A\cap \bar{B})}$$
+		  > > [!Proof]-
+		  > > ![[IMG_391AE249B47E-1.jpeg]]
+		- [[Partitioning Rule]]
+		- For any [[Event|Events]] $A$ and $B$:
+		  > [!Equation]
+		  > $\large{P(A\cup B)=P(A)}$
 ---
 - ## Practice
