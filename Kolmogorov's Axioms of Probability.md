@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- The [[set]] of all unique outcomes of an event or [[Set]] of events.
-	- Generally notated by: $\Omega$
+	- > [!Equation]
+	  > Let $\Omega$ be a discrete [[Sample Space]] and $F=2^\Omega$. A [[Probability]] measure 
 ---
 - ## Practice
