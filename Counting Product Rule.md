@@ -11,7 +11,7 @@ Alias: [Product Rule]
 	- A method for determining the number of combinations a [[Sequence]] of events can create.
 	  > [!Equation]
 	  > $$\large{\mid A_{1}\times A_{2}\times \dots \times A_{n}\mid=\mid A_{1}\mid*\mid A_{2}\mid*\dots*\mid A_{n}\mid}$$
-	  > Where the [[Set]] $A_{x}$ can vary for every new $A$.
+	  > Where each [[Set]] $A_{x}$ can vary in its elements and [[Cardinality]].
 	  > 
 	  > Note that $A_{1}\times A_{2}\times \dots \times A_{n}$ is **NOT** a [[Set]] because it will have repeating elements in different orders in it.
 	- The **Generalized Product Rule**:
