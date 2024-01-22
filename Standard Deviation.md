@@ -4,7 +4,7 @@ Alias: [Standard Variance]
 > [!Info]
 > Subject:: [[Statistics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Mean Absolute Deviation]]
 > Children:: 
 ---
 - ## Definition
