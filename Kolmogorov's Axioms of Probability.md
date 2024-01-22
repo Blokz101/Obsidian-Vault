@@ -42,11 +42,15 @@ Alias: []
 	  > Let $\Omega$ be a discrete [[Sample Space]] and $F=2^\Omega$. A [[Probability]] measure $P$ on $\Omega$ is a function: $P:F\to[0,1]$ satisfying:
 	  > 1. $P(A) \geq 0$ for all $A\subset\Omega$
 	  > 2. $P(\Omega)=1$
-	  > 3. For any [[Sequence]] of [[Pairwise Disjoint]] events $A_{1},A_{2},A_{3},\dots$
+	  > 3. For any [[Sequence]] of **infinite** [[Pairwise Disjoint]] events $A_{1},A_{2},A_{3},\dots$
 	  >    $$\large{P(\bigcup_{i\geq 1}A_{i})=\sum^{}_{i\geq 1}P(A_{i})}$$
 	- The first Axiom implies the following:
 		- $\large{P(\emptyset)=0}$: The [[Probability]] of an [[Empty Set]] is $0$
 		- $\large{P(\Omega)=1}$
-		- $$
+		-  For any [[Sequence]] of **finite** [[Pairwise Disjoint]] events $A_{1},A_{2},A_{3},\dots,A_{n}$:
+		  > [!Equation]
+		  > $$\large{P(\bigcup^n_{i=1}A_{i})=\sum^{n}_{i=1}P(A_{i})}$$
+			- Note that this is [[Finite Additivity]] whereas the First Axiom is [[Countable Additivity]].
+			- The 
 ---
 - ## Practice
