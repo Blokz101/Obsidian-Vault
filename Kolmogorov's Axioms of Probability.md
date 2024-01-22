@@ -51,6 +51,12 @@ Alias: []
 		  > [!Equation]
 		  > $$\large{P(\bigcup^n_{i=1}A_{i})=\sum^{n}_{i=1}P(A_{i})}$$
 			- Note that this is [[Finite Additivity]] whereas the First Axiom is [[Countable Additivity]].
-			- The 
+			- This is important and leads to the next point.
+		- For any $A\subset\Omega$:
+		  > [!Equation]
+		  > $$\large{P(\bar{A})=1-P(A)}$$
+		- For any [[Event|Events]] $A$ and $B$:
+		  > [!Equation]
+		  > $$\large{{P(A)}=P(A\cap B)+P(A\cap \bar{B})}$$
 ---
 - ## Practice
