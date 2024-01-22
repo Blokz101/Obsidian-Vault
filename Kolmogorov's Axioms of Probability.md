@@ -25,7 +25,7 @@ Alias: []
 	- $\mid\Omega \mid$ is finite or $\Omega$ is countable.
 	- $F$ is the [[set]] of all [[Subset|Subsets]] of $\Omega$.
 	- With this setup an event $A$ is any $A \subset \Omega$.
-		- Events $A$ with $\mid A\mid=1$ are [[Simple Events]].
+		- Events $A$ with $\mid A\mid=1$ are [[Event]].
 		- Events $A$ with $\mid A\mid>1$ are [[Compound Events]]
 	- $\mid F\mid=x^\Omega$
 	- > [!Example]-
