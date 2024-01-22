@@ -1,5 +1,5 @@
 ---
-Alias: [Pairwise Disjointed, Mutually Disjoint, Mutually Disjointed]
+Alias: [Pairwise Disjointed, Mutually Disjoint, Mutually Disjointed, Mutually Exclusive]
 ---
 > [!Info]
 > Subject:: [[Statistics]]
