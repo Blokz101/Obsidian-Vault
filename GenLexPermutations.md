@@ -20,3 +20,7 @@ Alias: []
 			- Reorder everything after the now swapped chosen number in increasing order from left to right.
 ---
 - ## Practice
+	- > [!ZyBooks]-
+	  > ![[Screenshot 2024-01-23 at 12.52.20 AM.png]]
+	  > ![[Screenshot 2024-01-23 at 12.52.43 AM.png]]
+	  > ![[Screenshot 2024-01-23 at 12.53.03 AM.png]]

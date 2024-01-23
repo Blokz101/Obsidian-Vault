@@ -20,3 +20,6 @@ Alias: []
 			- Fill in the rest of the values after the chosen value by adding $1$ to the previous number.
 ---
 - ## Practice
+	- > [!ZyBooks]-
+	  > ![[Screenshot 2024-01-23 at 12.53.33 AM.png]]
+	  > ![[Screenshot 2024-01-23 at 12.53.53 AM.png]]
