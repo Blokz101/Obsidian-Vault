@@ -14,5 +14,7 @@ Alias: []
 	  > [!Algorithm]-
 	  > ![[Screenshot 2024-01-23 at 12.14.36 AM.png|400]]
 	  > ![[Screenshot 2024-01-23 at 12.14.54 AM.png|400]]
+		- In simpler terms:
+			- Compare values at the end of the 
 ---
 - ## Practice
