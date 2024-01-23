@@ -1,4 +1,4 @@
-- How to run / debug a single jUnit test with a specific input.
+- How to run / debug a single junit test with a specific input.
 - Is copying comments from the guided project document allowed?
 - I committed to git with my personal credentials for the first commit. Is this a problem and if so what do I need to do to fix it?
 - Should I change the author lines at the top of each test file?
