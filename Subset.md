@@ -5,7 +5,7 @@ Alias: [Subsets, Combination, Combinations, n Choose r, Collection]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: [[Set]] [[Counting]]
 > Friends:: [[Permutation]] [[Assigning Balls Counting Example]]
-> Children:: 
+> Children:: [[GenLexSubsets]]
 ---
 - ## Definition
 	- A [[Set]] where every element in that set is in another set.

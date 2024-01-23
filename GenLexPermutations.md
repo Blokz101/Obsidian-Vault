@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Permutation]]
-> Friends:: [[Lexicographic Order]]
+> Friends:: [[Lexicographic Order]] [[GenLexSubsets]]
 > Children:: 
 ---
 - ## Definition
