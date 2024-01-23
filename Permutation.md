@@ -5,7 +5,7 @@ Alias: [Counting Permutations, Permutations]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Sequence]] [[Counting]]
 > Friends:: [[Subset]] [[Permutation]]
-> Children:: 
+> Children:: [[GenLexPermutations]]
 ---
 - ## Definition
 	- An $r$ [[Permutation]] is a [[Sequence]] of $r$ items.

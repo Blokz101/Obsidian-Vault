@@ -23,7 +23,7 @@ Alias: [Sets, Set Literal]
 	- [[Set Compliment]]
 	- ![[Screenshot 2024-01-11 at 12.44.10 PM.png]]
 - #### Common Mathematical Sets
-	- $\mathbb{N}$ is the [[Set]] of [[Natural Numbers]].
+	- $\mathbb{N}$ is the [[Set]] of [[Natural Number]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
 	- $\mathbb{Q}$ is the [[Set]] of all [[Rational Numbers]].
 	- $\mathbb{R}$ is the [[Set]] of all [[Real Number|Real Numbers]].

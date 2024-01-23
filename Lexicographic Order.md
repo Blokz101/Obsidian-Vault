@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[GenLexPermutations]]
 > Children:: 
 ---
 - ## Definition
