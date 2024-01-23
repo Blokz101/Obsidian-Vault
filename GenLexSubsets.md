@@ -17,6 +17,6 @@ Alias: []
 		- In simpler terms:
 			- Compare values at the end of the previous [[Subset]] and the parent [[Set]]. Compare the second to last values of the previous [[Subset]] and parent [[Set]], etc. Stop when the value of the parent [[Set]] is larger then the value of the previous [[Subset]]. Choose that value on the previous [[Subset]].
 			- Create a new [[Subset]] identical up to the chosen value. Increase that value by $1$. 
-			- Fill in the rest of the values from the chosen value to the end 
+			- Fill in the rest of the values after the chosen value by adding $1$ to the previous number.
 ---
 - ## Practice
