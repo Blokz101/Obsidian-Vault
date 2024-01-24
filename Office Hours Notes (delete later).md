@@ -1,9 +1,0 @@
-- How to run / debug a single junit test with a specific input.
-- Is copying comments from the guided project document allowed?
-- I committed to git with my personal credentials for the first commit. Is this a problem and if so what do I need to do to fix it?
-- Should I change the author lines at the top of each test file?
-- Why is Jenkins failing to build my code?
-- How to use conditional breakpoints in Eclipse.
-- What is the debug shell there for and how do I use it.
-- How possible is it to use IntelliJ Idea as my IDE for development processes and Eclipse to manage the project?
-- How to use git in the command line and commit with my NCSU credentials and not my personal credentials.
