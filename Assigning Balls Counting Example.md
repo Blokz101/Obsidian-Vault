@@ -12,6 +12,7 @@ Alias: []
 	- This is a good example to show the different ways of [[Counting]] based on restrictions.
 	- This table shows the number of ways to place $n$ balls into $m$ distinguishable bins based on some restrictions.
 	  ![[Screenshot 2024-01-18 at 11.54.03 AM.png]]
+		- Note that the bottom right equation is the equation for a [[Permutation]] with repetition where each $\large{n_{x}=\frac{n}{m}}$.
 ---
 - ## Practice
 	- > [!ZyBooks]-
