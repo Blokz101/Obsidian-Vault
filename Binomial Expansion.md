@@ -1,4 +1,17 @@
 ---
+Alias: []
+---
+> [!Info]
+> Subject:: [[]]
+> Parents:: 
+> Friends:: 
+> Children:: 
+---
+- ## Definition
+	- 
+---
+- ## Practice
+---
 Alias: [Binomial Theorem]
 Creation Date: Fri August 26th 2022 06:15:28 pm 
 Modification Date: NaN
