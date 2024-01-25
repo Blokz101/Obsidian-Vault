@@ -15,9 +15,11 @@ Alias: []
 		- Integrate
 		- Differentiate
 	- An ideal [[Operational Amplifier]] has:
-		- Infinite open loop gain
-		- Infinite input resistance
-		- Zero output resistance
-	- 
+		- Infinite [[open loop]] [[Gain]]
+		- Infinite input [[Resistance]]
+		- Zero output [[Resistance]]
+	- These ideal properties  imply that:
+		- There is no [[Voltage]] difference between the input terminals. In other words if you know the [[Voltage]] of one terminal you know the [[Voltage]] of the other. $Vn=Vp$
+		- N
 ---
 - ## Reference
