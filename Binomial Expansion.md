@@ -1,24 +1,12 @@
 ---
-Alias: []
+Alias: [Binomial Theorem]
 ---
 > [!Info]
-> Subject:: [[]]
+> Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Pascal's Triangle]]
 > Children:: 
 ---
-- ## Definition
-	- 
----
-- ## Practice
----
-Alias: [Binomial Theorem]
-Creation Date: Fri August 26th 2022 06:15:28 pm 
-Modification Date: NaN
----
-# NaN
-#Permanent [[Calculus I]]
-
 - ## Definition
 	- Formula to expand a binomial equation raised to a high power
 	  > [!Equation]
@@ -26,7 +14,7 @@ Modification Date: NaN
 	  > $x$ and $y$ = Random placeholder terms
 	  > $n$ = Max Index
 	  > $k$ = Index
-	  > $(_k^n)$ = Binomial Coefficient of Each Term
+	  > $(_k^n)$ = Binomial Coefficient of Each Term in [[Subset|n Choose r]] format
 	- This link explains it better then I currently care to: mathsisfun.com/algebra/binomial-theorem.html
-- ## Reference
-	- Uses [[Pascal's Triangle]].
+---
+- ## Practice

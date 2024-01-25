@@ -8,7 +8,7 @@ Alias: [Series]
 > Children:: [[Power Series]] [[Geometric Series]] [[Telescoping Series]] [[Harmonic Series (Calculus II)]] [[P Series]]
 ---
 - ## Definition
-	- The [[Summation Notation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].
+	- The [[Summation|Sum]] of an infinite [[Sequence]] is called an [[Infinite Series]].
 	- Determining if a [[Sequence]] **converges** or **diverges** tells us a lot about the sequence, including if we can find the overall sum of the [[Sequence]].
 		- For common [[Infinite Series|Series]] such as [[Harmonic Series (Calculus II)]], [[Geometric Series]], [[Telescoping Series]], and others we can easily determine **convergence**.
 		- For non common [[Infinite Series|Series]] we have to use [[Series Convergence Tests]].

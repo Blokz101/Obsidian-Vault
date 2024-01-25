@@ -2,7 +2,7 @@
 Alias: [Sum]
 ---
 > [!Info]
-> Subject:: [[Calculus I]]
+> Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
 > Friends:: 
 > Children:: 
@@ -12,12 +12,12 @@ Alias: [Sum]
 	- > [!Equation]
 	  > $$\large{\sum_{i=n}^{N}[a_i]}$$
 	  > 
-	  > $n$ = Starting index
-	  > $N$ = Ending index
+	  > $n$ = Starting index inclusive
+	  > $N$ = Ending index inclusive
+	  > $i$ = Index, changes with each element summed
 	  > $a_i$ = The expression to be summed
-	  > 
-	  > > [!Example]
-	  > > $\sum_{i=1}^{20}[2i]=(2*1)+(2*2)+(2*3)+...+(2*20)$
+	- > [!Example]
+	  > $$\large{\sum_{i=1}^{20}[2i]=(2*1)+(2*2)+(2*3)+...+(2*20)}$$
 - ## Rules
 	- > [!Sum Rule]
 	  > $$\sum_{i=n}^{N}[a_i+b_i]=\sum_{i=n}^{N}[a_i]+\sum_{i=n}^{N}[b_i]$$
