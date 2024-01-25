@@ -21,7 +21,6 @@ Alias: [Sum]
 - ## Rules
 	- > [!Sum Rule]
 	  > $$\sum_{i=n}^{N}[a_i+b_i]=\sum_{i=n}^{N}[a_i]+\sum_{i=n}^{N}[b_i]$$
-	  > and
 	  > $$\sum_{i=n}^{N}[a_i-b_i]=\sum_{i=n}^{N}[a_i]-\sum_{i=n}^{N}[b_i]$$
 	- > [!Constant Rule]
 	  > $$\sum_{i=n}^{N}[C*a_i]=C*\sum_{i=n}^{N}[a_i]$$
