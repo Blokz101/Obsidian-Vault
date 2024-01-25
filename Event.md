@@ -3,8 +3,8 @@ Alias: [Events, Simple Event, Simple Events, Compound Event, Compound Events]
 ---
 > [!Info]
 > Subject:: [[Statistics]]
-> Parents:: 
-> Friends:: [[Sample Space]]
+> Parents:: [[Sample Space]]
+> Friends:: 
 > Children:: 
 ---
 - ## Definition

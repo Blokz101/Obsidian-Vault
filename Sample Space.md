@@ -2,13 +2,13 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Statistics]]
+> Subject:: [[Statistics]] [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Event]]
-> Children:: 
+> Friends:: 
+> Children:: [[Event]]
 ---
 - ## Definition
-	- The [[set]] of all unique outcomes a [[Event|Simple Event]] or [[Event|Compound Event]].
+	- The [[set]] of all possible unique outcomes a [[Event|Simple Event]] or [[Event|Compound Event]].
 	- Generally notated by: $\Omega$
 ---
 - ## Practice
