@@ -2,7 +2,7 @@
 Alias: [Events, Simple Event, Simple Events, Compound Event, Compound Events]
 ---
 > [!Info]
-> Subject:: [[Statistics]]
+> Subject:: [[Statistics]] [[Discrete Math]]
 > Parents:: [[Sample Space]]
 > Friends:: 
 > Children:: 
