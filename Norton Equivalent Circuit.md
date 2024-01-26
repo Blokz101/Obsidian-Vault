@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[ECE211]]
 > Parents:: 
-> Friends:: [[Norton Equivalent Circuit]]
+> Friends:: [[Thevenin Equivalent Circuit]]
 > Children:: 
 ---
 - ## Definition
