@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[ECE211]]
-> Parents:: [[Circuit Analysis]]
-> Friends:: 
+> Parents:: 
+> Friends:: [[Thevenin Equivalent Circuit]] [[Norton Equivalent Circuit]]
 > Children:: 
 ---
 - ## Definition
@@ -12,6 +12,8 @@ Alias: []
 	  ![[Screenshot 2024-01-26 at 3.39.03 PM.png]]
 	- These two circuits are equivalent provided that they have the same [[Voltage]] between the two terminals and the same [[Current]] flowing though them.
 	- > [!Equation]
-	  > To find the value of the equivlent
+	  > To find the value of the equivalent [[Current Source]] or [[Voltage]] just apply [[Ohm's Law]]:
+	  > $$\large{V_{s}=I_{s}R}$$
+	  > $$\large{I_{s}=\frac{V_{s}}{R}}$$
 ---
 - ## Practice
