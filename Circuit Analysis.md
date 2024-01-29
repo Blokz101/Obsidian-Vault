@@ -15,4 +15,6 @@ Alias: []
 ---
 - ## Practice
 	- [[PY208 Homework 19.4-19.6.pdf]]
-- ## Reference
+	- [[ECE211 Homework 1.pdf]]
+	- [[ECE211 Homework 1.5.pdf]]
+	- [[ECE211 Homework 2.pdf]]

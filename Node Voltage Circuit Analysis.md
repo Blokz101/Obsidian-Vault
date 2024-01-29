@@ -42,4 +42,7 @@ Alias: []
 - ## Practice
 	- [[ECE200 Exam 1 Review.pdf]]
 	- [[ECE200 Homework 3.pdf]]
+	- [[ECE211 Homework 1.pdf]]
+	- [[ECE211 Homework 1.5.pdf]]
+	- [[ECE211 Homework 2.pdf]]
 - ## Reference

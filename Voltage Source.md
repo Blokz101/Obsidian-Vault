@@ -14,4 +14,7 @@ Alias: [Voltage Sources, Dependent Voltage Source, Dependent Voltage Sources]
 	- A [[Voltage Source|Dependent Voltage Source]] is a [[Voltage Source]] that is dependent on another [[Voltage]] or [[Current]] in the circuit. 
 		- Represented with a diamond around the $+-$.
 ---
-- ## Reference
+- ## Practice
+	- [[ECE211 Homework 1.pdf]]
+	- [[ECE211 Homework 1.5.pdf]]
+	- [[ECE211 Homework 2.pdf]]

@@ -15,4 +15,7 @@ Alias: [Current Sources, Dependent Current Source, Dependent Current Sources]
 	- A [[Current Source|Dependent Current Source]] is a [[Current Source]] that is dependent on another [[Voltage]] or [[Current]] in the circuit. 
 		- Represented with a diamond around the arrow instead of a circle.
 ---
-- ## Reference
+- ## Practice
+	- [[ECE211 Homework 1.pdf]]
+	- [[ECE211 Homework 1.5.pdf]]
+	- [[ECE211 Homework 2.pdf]]
