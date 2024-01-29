@@ -25,3 +25,4 @@ Alias: []
 			  ![[Screenshot 2024-01-26 at 4.07.53 PM.png]]
 ---
 - ## Practice
+	- [[ECE211 Homework 3.pdf]]
