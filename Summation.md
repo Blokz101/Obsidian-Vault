@@ -30,6 +30,9 @@ Alias: [Sum]
 	  > $$\sum_{i=1}^{N}[i]=\frac{N(N+1)}{2}$$
 	  > $$\sum_{i=1}^{N}[i^2]=\frac{N(N+1)(2N+1)}{6}$$
 	  > $$\sum_{i=1}^{N}[i^3]=[\frac{N(N+1)}{2}]^2$$
+- ## Changing Variables
+	- Some complex summations can be easily rewritten by rewriting the upper and lower bounds to simplify the [[Summation]] expression.
+	  ![[Screenshot 2024-01-29 at 10.10.13 PM.png]]
 ---
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
