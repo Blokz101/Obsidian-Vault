@@ -33,5 +33,6 @@ Alias: [Sum]
 ---
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
+	- [[CSC226 Homework 3.pdf]]
 - ## Reference
 	- Used in [[Riemann Sum|Riemann Sums]] and [[Integral|Integrals]]

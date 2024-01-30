@@ -46,3 +46,4 @@ Alias: [Counting Permutations, Permutations]
 	- > [!ZyBooks]-
 	  > ![[Screenshot 2024-01-18 at 12.40.47 AM.png]]
 	  > ![[Screenshot 2024-01-18 at 12.44.40 AM.png]]
+	- [[CSC226 Homework 3.pdf]]

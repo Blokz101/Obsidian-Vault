@@ -35,3 +35,4 @@ Alias: [Subsets, Combination, Combinations, n Choose r, Collection]
 	  > ![[Screenshot 2024-01-16 at 10.37.59 PM.png]]
 ---
 - ## Practice
+	- [[CSC226 Homework 3.pdf]]
