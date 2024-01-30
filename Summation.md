@@ -35,9 +35,12 @@ Alias: [Sum, Sums, Summations, Closed Form Summation, Closed Form Summations]
 	  ![[Screenshot 2024-01-29 at 10.10.13 PM.png]]
 - ## Closed Form Summation
 	- Some [[Summation|Summations]] can be solved into just a value. Solving the [[Summation]] into a numeric value is called a [[Summation|Closed Form Summation]].
-	- > [!Arithmetic sequence]
-	  > For any integer $n\geq 1$
-	  > $\large{}$
+	- > [!Arithmetic Sequence]
+	  > For any integer $n\geq 1$:
+	  > $$\large{\sum^{n-1}_{k=0}(a+kd)=an+\frac{d(n-1)n}{2}}$$
+	- > [!Geometric Sequence]
+	  > For any [[Real Number]] $r\neq 1$ and any integer $n\geq 1$:
+	  > $$\large{\sum^{n-1}_{k=0}ar^k}=\frac{a(r^n-1)}{r-1}$$
 ---
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
