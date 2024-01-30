@@ -1,5 +1,5 @@
 ---
-Alias: [Sum]
+Alias: [Sum, Sums, Summations, Closed Form Summation, Closed Form Summations]
 ---
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
@@ -33,6 +33,11 @@ Alias: [Sum]
 - ## Changing Variables
 	- Some complex summations can be easily rewritten by rewriting the upper and lower bounds to simplify the [[Summation]] expression.
 	  ![[Screenshot 2024-01-29 at 10.10.13 PM.png]]
+- ## Closed Form Summation
+	- Some [[Summation|Summations]] can be solved into just a value. Solving the [[Summation]] into a numeric value is called a [[Summation|Closed Form Summation]].
+	- > [!Arithmetic sequence]
+	  > For any integer $n\geq 1$
+	  > $\large{}$
 ---
 - ## Practice
 	- [[Drawing 2022-11-09 15.05.43.excalidraw]]
