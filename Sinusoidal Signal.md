@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Sinusoidal Signals]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
