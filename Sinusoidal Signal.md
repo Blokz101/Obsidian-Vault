@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Phase Angle]] [[Signal Equations.canvas|Signal Equations]]
-> Children:: 
+> Children:: [[Sinusoidal Operations]]
 ---
 - ## Definition
 	- A [[Periodic Signal]] in the form of:
@@ -17,7 +17,7 @@ Alias: []
 	  > $V_{p}$ = [[Amplitude]] in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$
 	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
-	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Cosine Wave (Signals, Circuits, and Systems)]] without a $V_{dc}$ component can be simplified like this:
+	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Sinusoidal Signal]] without a $V_{dc}$ component can be simplified like this:
 	  > [!Equation]
 	  > $$\large{V_{rms}=\sqrt{ V_{dc}^2+\frac{V_{p}^2}{2} }}$$
 	  > And if $V_{dc}=0$:

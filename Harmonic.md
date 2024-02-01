@@ -8,7 +8,7 @@ Alias: [Harmonics]
 > Children:: 
 ---
 - ## Definition
-	- A [[Harmonic]] in a [[Fourier Series]] is a single [[Cosine Wave (Signals, Circuits, and Systems)|Cosine Wave]] in the infinite summation.
+	- A [[Harmonic]] in a [[Fourier Series]] is a single [[Sinusoidal Signal|Sinusoidal Signal]] in the infinite summation.
 	- All [[Harmonic|Harmonics]] after the [[Fundamental Frequency]] must be **integer** multiples of the [[Fundamental Frequency]].
 	  > [!Equation]
 	  > $$\large{f_{n}=nf_{0}}$$

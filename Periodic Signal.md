@@ -5,7 +5,7 @@ Alias: [Wave, Waves, Periodic Signals]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: [[Time Shifting and Scaling]]
-> Children:: [[Average Voltage]] [[Peak to Peak Voltage]] [[Duty Cycle]] [[Amplitude]] [[Period]] [[Frequency]] [[Cosine Wave (Signals, Circuits, and Systems)]] [[Signal Power]]
+> Children:: [[Average Voltage]] [[Peak to Peak Voltage]] [[Duty Cycle]] [[Amplitude]] [[Period]] [[Frequency]] [[Sinusoidal Signal]] [[Signal Power]]
 ---
 - ## Definition
 	- A signal that repeats every set interval. 
