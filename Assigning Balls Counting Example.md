@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Counting]]
-> Friends:: [[Subset]] [[Multiset]] [[Permutation]]
+> Friends:: [[Subset]] [[Multiset]] [[Permutation]] [[Pigeonhole Principle]]
 > Children:: 
 ---
 - ## Definition

@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Statistics]]
 > Parents:: 
 > Friends:: [[Population]] [[Sample]] [[Inferential Statistics]] 
-> Children:: [[Conditional Probability]]
+> Children:: [[Conditional Probability]] [[Discrete Probability]]
 ---
 - ## Definition
 	- Drawing conclusions about a [[Sample]] from a [[Population]].

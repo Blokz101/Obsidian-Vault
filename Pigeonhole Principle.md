@@ -3,8 +3,8 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]
-> Parents:: 
-> Friends:: 
+> Parents:: [[Counting]]
+> Friends:: [[Assigning Balls Counting Example]]
 > Children:: 
 ---
 - ## Definition
