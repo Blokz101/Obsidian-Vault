@@ -19,7 +19,9 @@ Alias: []
 	  > [!Equation]
 	  > $$\large{P(A\mid B)+P(\bar{A}\mid B)=1}$$
 - #### Total Probability Theorem
-	- For two events $A$ and $B$, if $A$ and $B$ are [[Pairwise Disjoint|Mutually Exclusive]] and [[Mutually Exhaustive Events]].
+	- For two events $B$ and $C$, if $B$ and $C$ are [[Pairwise Disjoint|Mutually Exclusive]] and [[Mutually Exhaustive Events]].
+	  > [!Equation]
+	  > $$\large{P(A)=P(A|B)*P(B)+P(A|C)*P(C)}$$
 - #### Conditionally Independent Events
 	- Probability of conditionally independent [[Event|Events]].
 		- Conditionally independent is the same as [[Independent Events]], just with respect to the "new sample space".
