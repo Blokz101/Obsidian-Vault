@@ -21,6 +21,9 @@ Alias: []
 - #### Total Probability Theorem
 	- For two events $A$ and $B$, if $A$ and $B$ are [[Pairwise Disjoint|Mutually Exclusive]] and [[Mutually Exhaustive Events]].
 - #### Conditionally Independent Events
-	- If two events are 
+	- Probability of conditionally independent [[Event|Events]].
+		- Conditionally independent is the same as [[Independent Events]], just with respect to the "new sample space".
+	- If two events are [[Conditionally Independent]] given some [[Event]] $M$:
+	  > 
 ---
 - ## Practice
