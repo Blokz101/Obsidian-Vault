@@ -23,7 +23,8 @@ Alias: []
 - #### Conditionally Independent Events
 	- Probability of conditionally independent [[Event|Events]].
 		- Conditionally independent is the same as [[Independent Events]], just with respect to the "new sample space".
-	- If two events are [[Conditionally Independent]] given some [[Event]] $M$:
-	  > 
+	- > [!Equation]
+	  > If two events are [[Conditionally Independent]] given some [[Event]] $M$:
+	  > $$\large{P(A\cap B\mid M)=P(A\mid M)*P(B\mid M)}$$
 ---
 - ## Practice
