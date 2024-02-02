@@ -20,5 +20,7 @@ Alias: []
 	  > $$\large{P(A\mid B)+P(\bar{A}\mid B)=1}$$
 - #### Total Probability Theorem
 	- For two events $A$ and $B$, if $A$ and $B$ are [[Pairwise Disjoint|Mutually Exclusive]] and [[Mutually Exhaustive Events]].
+- #### Conditionally Independent Events
+	- If two events are 
 ---
 - ## Practice
