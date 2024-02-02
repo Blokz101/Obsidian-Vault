@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Statistics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Counting by Complement]]
 > Children:: 
 ---
 - ## Definition
@@ -44,6 +44,10 @@ Alias: []
 	  > 2. $P(\Omega)=1$
 	  > 3. For any [[Sequence]] of **infinite** [[Pairwise Disjoint]] events $A_{1},A_{2},A_{3},\dots$
 	  >    $$\large{P(\bigcup_{i\geq 1}A_{i})=\sum^{}_{i\geq 1}P(A_{i})}$$
+	  >    
+	  > Basically if $A$ and $B$ are [[Pairwise Disjoint]]:
+	  > $$\large{P(A\cup B)=P(A)+P(B)}$$
+
 	- The first Axiom implies the following:
 		- $\large{P(\emptyset)=0}$: The [[Probability]] of an [[Empty Set]] is $0$
 		- $\large{P(\Omega)=1}$
