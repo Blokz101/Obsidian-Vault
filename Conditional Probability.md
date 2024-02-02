@@ -8,6 +8,6 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- [[Probability]] of an outcome 
 ---
 - ## Practice
