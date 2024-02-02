@@ -14,6 +14,6 @@ Alias: []
 	- > [!Equation]
 	  > $$\large{P(A\mid B)=\frac{P(A\cap B)}{P(B)}}$$
 	- Think of this as redefining the [[Sample Space]]. If event $B$ is known to be true, or is given, then the [[Sample Space]] becomes $B$ and the only possibilities remaining are $A\mid B$ and $\bar{A}\mid B$.
-	  ![[Pasted image 20240201212358.png]]
+	  ![[Pasted image 20240201212622.png]]
 ---
 - ## Practice

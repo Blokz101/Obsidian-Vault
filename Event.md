@@ -5,7 +5,7 @@ Alias: [Events, Simple Event, Simple Events, Compound Event, Compound Events]
 > Subject:: [[Statistics]] [[Discrete Math]]
 > Parents:: [[Sample Space]]
 > Friends:: 
-> Children:: 
+> Children:: [[Independent Events]]
 ---
 - ## Definition
 	- An [[Event]] is any [[Subset]] of outcomes contained in the [[Sample Space]].
