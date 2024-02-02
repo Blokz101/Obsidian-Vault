@@ -15,6 +15,10 @@ Alias: []
 	      Population --> Sample: Probability
 	      Sample --> Population: Inferential Statistics
       ```
-	
+
+- #### Probability of [[Independent Events]]
+	- > [!Equation]
+	  > If $A$ and $B$ are in the same [[Sample Space]] and [[Independent Events]], then:
+	  > $$\large{P(A\cap B)=P(A)*P(B)}$$
 ---
 - ## Reference

@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Probability]]
-> Friends:: 
+> Friends:: [[Bayes Law]]
 > Children:: 
 ---
 - ## Definition
