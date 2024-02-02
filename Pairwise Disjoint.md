@@ -4,7 +4,7 @@ Alias: [Pairwise Disjointed, Mutually Disjoint, Mutually Disjointed, Mutually Ex
 > [!Info]
 > Subject:: [[Statistics]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Mutually Exhaustive Events]]
 > Children:: 
 ---
 - ## Definition
