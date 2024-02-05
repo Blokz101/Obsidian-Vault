@@ -12,5 +12,6 @@ Alias: []
 	  ![[Screenshot 2024-02-05 at 5.49.42 PM.png]]
 	- If $n$ pigeons are placed in $k$ boxes then there is at least one box that has $\left\lceil  \frac{n}{k}  \right\rceil$ pigeons in it.
 		- See [[Ceiling Function]] if $\lceil x \rceil$ is unfamiliar.
+	- To quickly count the number of pigeons required to ensure there are more then one pigeon in one hole 
 ---
 - ## Practice
