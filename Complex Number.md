@@ -9,9 +9,16 @@ Alias: [Complex Numbers]
 ---
 - ## Definition
 	- Numbers containing [[Imaginary Number|Imaginary Numbers]] and [[Real Number|Real Numbers]].
-	- Every [[Complex Number]] can be broken into a **real part** and **imaginary part** by formatting them like this:
+	- Every [[Complex Number]] can be broken into a **real part**, $a$, and **imaginary part**, $b$, by formatting them like this:
 		- > [!Equation]
-		  > $$\large{z=\alpha+\beta i}$$
+		  > Cartesian Representation
+		>  $$\large{z=a+b i}$$
+		  > or 
+		  > $$\large{z=a+b j}$$
+- #### Polar Representation
+	- 
+- #### Exponentional Representation
+	- 
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
