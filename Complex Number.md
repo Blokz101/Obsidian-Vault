@@ -19,6 +19,9 @@ Alias: [Complex Numbers]
 		  > $z$ = [[Complex Number]]
 		  > $a$ = Real part
 		  > $b$ = Imaginary part
+	- Let $Re$ and $Im$ be two new functions that get the **Real part** and **Imaginary part** of a [[Complex Number]] respectively.
+	  > [!Equation]
+	  > $\large{}$
 - #### Polar Representation
 	- [[Complex Number|Complex Numbers]] can also be represented on a Polar Graph:
 	  > [!Equation]
@@ -27,6 +30,10 @@ Alias: [Complex Numbers]
 	  > $z$ = [[Complex Number]]
 	  > $\rho$ = Radius
 	  > $\theta$ = Angle
+	  
+	- Converting from Cartesian to Polar
+	  > [!Equation]
+	  > $\large{\rho(z)=\sqrt{ a^2+b^2 }}$
 - #### Exponential Representation
 	- 
 ---
