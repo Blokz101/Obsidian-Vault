@@ -2,7 +2,7 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[ECE211]]
+> Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
 > Friends:: [[Norton Equivalent Circuit]] [[Source Transformation]]
 > Children:: 
