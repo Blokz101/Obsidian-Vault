@@ -52,7 +52,8 @@ Alias: [Complex Numbers]
 	  > $|z|$ = [[Magnitude]] of the **real and imaginary parts** of $z$
 	  > $\theta$ = Angle
 	  > > [!Proof]-
-	  > > ![[2024-02-06 23-23.pdf]]
+	  > > ![[Screenshot 2024-02-06 at 11.28.47 PM.png]]
+	  > > ![[Screenshot 2024-02-06 at 11.29.03 PM.png]]
 	  
 	- Conversion from **Cartesian** to **Exponential**:
 	  > [!Equation]-
