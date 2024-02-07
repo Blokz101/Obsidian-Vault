@@ -44,7 +44,20 @@ Alias: [Complex Numbers]
 	  > $$\large{Im(z)=\rho \sin(\theta)}$$
 - #### Exponential Representation
 	- The left side of [[Euler's Equation]] can be interpreted as a [[Complex Number]] where the **real part** is $\cos(\theta)$ and the **imaginary part** is $\sin(\theta)$.
-	- This leads to a weird **polar** representati
+	- This leads to a weird polar-like representation:
+	  > [!Equation]-
+	  > $$\large{z=|z|*e^{j\theta}}$$
+	  > 
+	  > $z$ = [[Complex Number]]
+	  > $|z|$ = [[Magnitude]] of the **real and imaginary parts** of $z$
+	  > $\theta$ = Angle
+	  
+	- Conversion from **Cartesian** to **Exponential**:
+	  > [!Equation]
+	  > $$\large{|z|=\sqrt{ Re(z)^2+Im(z)^2 }}$$
+	  > $$\large{\theta=\arctan\left( \frac{\mathrm{Re}(z)}{\mathrm{Im}(z)} \right)}$$
+	- Conversion from **Exponential** to **Cartesian*:
+	  
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
