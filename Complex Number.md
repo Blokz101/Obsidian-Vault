@@ -4,7 +4,7 @@ Alias: [Complex Numbers]
 > [!Info]
 > Subject:: [[Calculus II]] [[Analytics of Electrical and Computer Engineering]]
 > Parents:: [[Real Number]] [[Imaginary Number]] 
-> Friends:: [[Polar and Cylindrical Coordinates]] [[Euler's Identity]]
+> Friends:: [[Polar and Cylindrical Coordinates]] [[Euler's Equation]]
 > Children:: 
 ---
 - ## Definition
@@ -43,7 +43,7 @@ Alias: [Complex Numbers]
 	  > $$\large{Re(z)=\rho \cos(\theta)}$$
 	  > $$\large{Im(z)=\rho \sin(\theta)}$$
 - #### Exponential Representation
-	- 
+	- The left side of [[Euler's Equation]] can be interpreted as a [[Complex Number]] where the **real part** is $\cos(\theta)$
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
