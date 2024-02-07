@@ -20,8 +20,10 @@ Alias: [Complex Numbers]
 		  > $a$ = Real part
 		  > $b$ = Imaginary part
 	- Let $Re$ and $Im$ be two new functions that get the **Real part** and **Imaginary part** of a [[Complex Number]] respectively.
-	  > [!Equation]
-	  > $\large{}$
+	  > [!Equation]-
+	  > Let $z=a+bj$:
+	  > $$\large{Re(z)=a}$$
+	  > $$\large{Im(z)=b}$$
 - #### Polar Representation
 	- [[Complex Number|Complex Numbers]] can also be represented on a Polar Graph:
 	  > [!Equation]
@@ -31,9 +33,15 @@ Alias: [Complex Numbers]
 	  > $\rho$ = Radius
 	  > $\theta$ = Angle
 	  
-	- Converting from Cartesian to Polar
-	  > [!Equation]
-	  > $\large{\rho(z)=\sqrt{ a^2+b^2 }}$
+	- Converting from **Cartesian** to **Polar**:
+	  > [!Equation]-
+	  > $$\large{\rho=\sqrt{ Re(z)^2+Im(z)^{2}}}$$
+	  > $$\large{\theta=\arctan\left( \frac{Im(z)}{Re(z)} \right)}$$
+	  
+	- Converting from **Polar** to **Cartesian**:
+	  > [!Equation]-
+	  > $$\large{Re(z)=\rho \cos(\theta)}$$
+	  > $$\large{Im(z)=\rho \sin(\theta)}$$
 - #### Exponential Representation
 	- 
 ---
