@@ -43,7 +43,8 @@ Alias: [Complex Numbers]
 	  > $$\large{Re(z)=\rho \cos(\theta)}$$
 	  > $$\large{Im(z)=\rho \sin(\theta)}$$
 - #### Exponential Representation
-	- The left side of [[Euler's Equation]] can be interpreted as a [[Complex Number]] where the **real part** is $\cos(\theta)$
+	- The left side of [[Euler's Equation]] can be interpreted as a [[Complex Number]] where the **real part** is $\cos(\theta)$ and the **imaginary part** is $\sin(\theta)$.
+	- This leads to a weird **polar** representati
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
