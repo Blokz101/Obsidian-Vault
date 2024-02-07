@@ -3,8 +3,8 @@ Alias: [Complex Numbers]
 ---
 > [!Info]
 > Subject:: [[Calculus II]] [[Analytics of Electrical and Computer Engineering]]
-> Parents:: [[Real Number]] [[Imaginary Number]]
-> Friends:: 
+> Parents:: [[Real Number]] [[Imaginary Number]] 
+> Friends:: [[Polar and Cylindrical Coordinates]] [[Euler's Identity]]
 > Children:: 
 ---
 - ## Definition
