@@ -59,9 +59,9 @@ Alias: [Capacitors]
 				- $i_{c}=\frac{V_{c}}{R}$
 				- $V_{c}=V_{c}(0^+)e^{\frac{1}{RC}t}$
 					- > [!Equation]
-					  > $$\large{V_{c}(t)=V_{c}(0^-)e^{\frac{1}{RC}t}}$$
+					  > $$\large{V_{c}(t)=V_{c}(0^+)e^{\frac{1}{RC}t}}$$
 					  > $V_{c}(t)$ = [[Voltage]] over the [[Capacitor]] as a function of time in $V$.
-					  > $V_{c}(0^-)$ = [[Voltage]] over the [[Capacitor]] the instant after the event at $t=0$ in $V$.
+					  > $V_{c}(0^+)$ = [[Voltage]] over the [[Capacitor]] the instant after the event at $t=0$ in $V$.
 					  > $R$ = [[Resistance]] of the [[Resistor]] in $\Omega$.
 					  > $C$ = [[Capacitance]] in $F$
 					  > 
