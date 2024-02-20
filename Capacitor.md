@@ -8,6 +8,7 @@ Alias: [Capacitors]
 > Children:: [[Capacitance]]
 ---
 - ## Definition
+	- ![[Pasted image 20240220145653.png|300]]
 	- A [[Electrical Component|Passive Component]] that can store and release [[Charge]].
 		- > [!Equation]
 		  > $$\large{Q=CV}$$
