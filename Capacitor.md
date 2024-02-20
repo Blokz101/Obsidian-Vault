@@ -20,10 +20,18 @@ Alias: [Capacitors]
 		  > $d$ = Distance as shown in the drawing below in $m$
 	- Key properties for [[Circuit Analysis]]:
 		- The [[Voltage]] over a [[Capacitor]] **cannot** change instantly.
-		- The [[Current]] though a [[Capacitor]] **can** change instantly.
-		- When in [[Steady State]] [[Current]]
+			- $v(0^-)=v(0^+)$
+		- When in [[Steady State]] the [[Current]] though a [[Capacitor]] is $0$.
 	- A [[Capacitor]] has 4 important states. These states occur when some event occurs, we will say it occurs at $t=0$, that takes the [[Capacitor]] out of [[Steady State]].
 		- **$t=0^-$**
 			- This is the time the instant before the event occurs.
 			- The capacitor is in [[Steady State]].
 			- $i(0^-)=0$
+		- **$t=0^+$**
+			- This is the time the instant after the event occurs.
+			- $v(0^-)=v(0^+)$
+		- **$0<t<\infty$**
+			- This is the time period after the event occurs but before [[Steady State]] is reached again.
+			- The [[Voltage]] across the capacitor becomes a [[Differential Equation]].
+			  > [!Equation]
+			  > $\large{v(t)=(v(0^+))}$
