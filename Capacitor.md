@@ -11,13 +11,10 @@ Alias: [Capacitors]
 	- A [[Electrical Component|Passive Component]] that can store and release [[Charge]].
 		- > [!Equation]
 		  > $$\large{Q=CV}$$
-		  > $$\large{C=\epsilon \frac{A}{d}}$$
 		  > 
 		  > $Q$ = [[Charge]] in $C$
 		  > $C$ = [[Capacitance]] in $F$
 		  > $V$ = [[Voltage]] in $V$
-		  > $A$ = Area of plates in the drawing below in $m^2$
-		  > $d$ = Distance as shown in the drawing below in $m$
 	- Key properties for [[Circuit Analysis]]:
 		- The [[Voltage]] over a [[Capacitor]] **cannot** change instantly.
 			- $v(0^-)=v(0^+)$
