@@ -24,4 +24,6 @@ Alias: []
 		- There is no [[Current]] flowing into the [[Operational Amplifier]] but there can be [[Current]] flowing out of $V_{o}$. This [[Current]] is unknown though and depends on the rest of the circuit.
 	- When performing [[Circuit Analysis]] it is generally easiest to use [[Node Voltage Circuit Analysis]].
 ---
+- ## Practice
+	- [[ECE211 Homework 4.pdf]]
 - ## Reference

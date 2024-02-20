@@ -53,6 +53,9 @@ Alias: [Capacitors]
 			  > $\tau$ = TIme constant in $\Omega C$
 			  > $R$ = [[Resistance]] across the [[Capacitor]] in $\Omega$
 			  > $C$ = [[Capacitance]] in $F$
+			  > 
+			  > > [!Note]
+			  > > The [[Resistance]] can be found by solving for the [[Thevenin Equivalent Circuit]] or [[Norton Equivalent Circuit]] around the [[Capacitor]] and using the [[Resistance]] value there.
 		- **$t=\infty$**
 			- This is the time period when the [[Capacitor]] reaches [[Steady State]] again after the event.
 			- $i(0^-)=0$

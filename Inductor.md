@@ -44,10 +44,13 @@ Alias: []
 			  > $$\large{\tau=\frac{L}{R}}$$
 			  > 
 			  > $\tau$ = TIme constant in $\frac{H}{\Omega}$
-			  > $R$ = [[Resistance]] across the [[Capacitor]] in $\Omega$
+			  > $R$ = [[Resistance]] across the [[Inductor]] in $\Omega$
 			  > $L$ = [[Inductance]] in $F$
+			  > 
+			  > > [!Note]
+			  > > The [[Resistance]] can be found by solving for the [[Thevenin Equivalent Circuit]] or [[Norton Equivalent Circuit]] around the [[Inductor]] and using the [[Resistance]] value there.
 		- **$t=\infty$**
-			- This is the time period when the [[Capacitor]] reaches [[Steady State]] again after the event.
-			- $i(0^-)=0$
+			- This is the time period when the [[Inductor]] reaches [[Steady State]] again after the event.
+			- $v(0^-)=0$
 ---
 - ## Practice
