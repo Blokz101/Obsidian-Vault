@@ -34,14 +34,18 @@ Alias: [Capacitors]
 			- This is the time period after the event occurs but before [[Steady State]] is reached again.
 			- The [[Voltage]] across the capacitor becomes a [[Differential Equation]].
 			  > [!Equation]
-			  > $$\large{v(t)=[v(0^+)-v(\infty)]e^{t/\tau}+v(\infty)}$$
+			  > $$\large{v(t)=[v(0^+)-v(\infty)]*e^{-t/\tau}+v(\infty)}$$
 			  > 
 			  > $v(t)$ = [[Voltage]] over the [[Capacitor]]
 			  > $v(0^+)$, $v(0^-)$, $v(\infty)$ = [[Voltage]] across the [[Capacitor]] at states described in this list
 			  > $\tau$ = Time constant
 			  
 			  > [!Equation]
-			  > $\large{\tau=RC}$
+			  > $$\large{\tau=RC}$$
 			  > 
+			  > $\tau$ = TIme constant
 			  > $R$ = [[Resistance]] across the [[Capacitor]].
 			  > $C$ = [[Capacitance]]
+		- **$t=\infty$**
+			- This is the time period when the [[Capacitor]] reaches [[Steady State]] again after the event.
+			- $i(0^-)=0$
