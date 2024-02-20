@@ -82,4 +82,5 @@ Alias: [Capacitors]
 ---
 - ## Practice
 	- [[ECE200 Homework 4.pdf]]
+	- [[ECE211 Homework 5.pdf]]
 - ## Reference
