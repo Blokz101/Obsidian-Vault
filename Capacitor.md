@@ -34,4 +34,4 @@ Alias: [Capacitors]
 			- This is the time period after the event occurs but before [[Steady State]] is reached again.
 			- The [[Voltage]] across the capacitor becomes a [[Differential Equation]].
 			  > [!Equation]
-			  > $\large{v(t)=(v(0^+))}$
+			  > $\large{v(t)=(v(0^+)-v(\infty))}$
