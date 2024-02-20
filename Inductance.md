@@ -3,12 +3,13 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: 
+> Parents:: [[Inductor]]
 > Friends:: 
-> Children:: [[Inductor]]
+> Children:: [[Henry]]
 ---
 - ## Definition
 	- How much an [[Inductor]] resists the change of [[Current]] flowing though it.
-	- Measured in H
+	- Measured in [[Henry]].
+	- Notated with $L$
 ---
 - ## Practice
