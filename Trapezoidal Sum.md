@@ -19,6 +19,6 @@ Alias: []
 	- > [!Equation]
 	  > The upper bound for the error can be found like this:
 	  > $$\large{|E_{t}|\leq \frac{K(b-a)^3}{12n^2}}$$
-	  > Given that $|f''(x)|\leq K$.
+	  > Where $|f''(x)|\leq K$ on the interval $a$ to $b$.
 ---
 - ## Reference
