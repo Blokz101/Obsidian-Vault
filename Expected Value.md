@@ -8,6 +8,7 @@ Alias: [Expected Values, Mean, Means]
 > Children:: 
 ---
 - ## Definition
-	- The average
+	- The average of something.
+	- Notated with $E$.
 ---
 - ## Practice
