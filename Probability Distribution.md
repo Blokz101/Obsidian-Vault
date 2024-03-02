@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Statistics]]
 > Parents:: [[Probability]]
 > Friends:: 
-> Children:: 
+> Children:: [[Discrete Random Variable Distribution]]
 ---
 - ## Definition
 	- How the total [[Probability]]($1.0$) is distributed among all the outcomes in the [[Sample Space]].
