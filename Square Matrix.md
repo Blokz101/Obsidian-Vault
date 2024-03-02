@@ -5,7 +5,7 @@ Alias: [Square Matricies, Diagonal Elements, Off Elements]
 > Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: [[Matrix]]
 > Friends:: 
-> Children:: [[Upper Triangular Matrix]] [[Lower Triangular Matrix]]
+> Children:: [[Upper Triangular Matrix]] [[Lower Triangular Matrix]] [[Identity Matrix]]
 ---
 - ## Definition
 	- A [[Matrix]] of size $n\times m$ where $n=m$.

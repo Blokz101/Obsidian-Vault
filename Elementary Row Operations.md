@@ -13,14 +13,21 @@ Alias: []
 		- Swapping two rows.
 		- Multiplying or dividing a row by a non zero scalar.
 		- Multiply or dividing a row by a non zero scaler and adding it to another row.
-	- Each of these [[Elementary Row Operations]] can be achieved by multiplying a [[Matrix]] by another specific [[Matrix]].
+	- Each of these [[Elementary Row Operations]] can be achieved by multiplying a [[Matrix]] by a slightly altered [[Identity Matrix]].
 		-  Swapping two rows is equivalent to multiplying the [[Matrix]] by:
-	
-  $$\begin{matrix}
-  0 0 1
-  0 1 0
-  1 0 0
-\end{matrix}$$
+			- > [!Equation]
+			  > $$\begin{bmatrix}
+			  >   0 & 0 & 1\\
+			  >   0 & 1 & 0\\
+			  >   1 & 0 & 0
+			  > \end{bmatrix}$$
+		- Multiplying or dividing a row by a non zero scalar is equivalent to multiplying the [[Matrix]] by an [[Identity Matrix]] where the $1$ corro
+			- > [!Equation]
+			  > $$\begin{bmatrix}
+			  >   1 & 0 & 0\\
+			  >   0 & 1 & 0\\
+			  >   0 & 0 & 1
+			  > \end{bmatrix}$$
 
 ---
 - ## Practice
