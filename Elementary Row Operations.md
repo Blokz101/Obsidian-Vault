@@ -21,13 +21,15 @@ Alias: []
 			  >   0 & 1 & 0\\
 			  >   1 & 0 & 0
 			  > \end{bmatrix}$$
-		- Multiplying or dividing a row by a non zero scalar is equivalent to multiplying the [[Matrix]] by an [[Identity Matrix]] where the $1$ corro
-			- > [!Equation]
+		- Multiplying or dividing a row by a non zero scalar is equivalent to multiplying the [[Matrix]] by an [[Identity Matrix]] where the $1$ corresponding to the row to be multiplied is set to the constant which the row should be multiplied by.
+			- Divide $\text{row }3$ by $2$:
+			  > [!Equation]
 			  > $$\begin{bmatrix}
 			  >   1 & 0 & 0\\
 			  >   0 & 1 & 0\\
-			  >   0 & 0 & 1
+			  >   0 & 0 & 0.5
 			  > \end{bmatrix}$$
+		- Multiplying or dividing a row by a non zero scalar and adding it to another row can be acheived by multip
 
 ---
 - ## Practice
