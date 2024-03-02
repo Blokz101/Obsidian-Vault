@@ -5,7 +5,7 @@ Alias: [Probability Mass Function, PMF]
 > Subject:: [[Statistics]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Cumulative Distribution Function]]
 ---
 - ## Definition
 	- Also known as the [[Discrete Random Variable Distribution|Probability Mass Function]] or [[Discrete Random Variable Distribution|PMF]].
