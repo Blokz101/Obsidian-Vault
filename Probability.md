@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Probabilities]
 ---
 > [!Info]
 > Subject:: [[Statistics]]
