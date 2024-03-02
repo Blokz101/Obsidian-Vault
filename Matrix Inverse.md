@@ -1,11 +1,11 @@
 ---
-Alias: []
+Alias: [Inverse]
 ---
 > [!Info]
 > Subject:: [[Analytics of Electrical and Computer Engineering]]
 > Parents:: 
 > Friends:: 
-> Children:: 
+> Children:: [[Elementary Row Operations]]
 ---
 - ## Definition
 	- 
