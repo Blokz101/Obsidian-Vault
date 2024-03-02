@@ -23,7 +23,7 @@ Alias: []
 		  > \sin(\theta) & \cos(\theta)
 		  > \end{bmatrix}$$
 		  > 
-		  > $P\Theta$ will be the new rotated [[Matrix]].
+		  > $\Theta P$ will be the new rotated [[Matrix]].
 - #### Translation
 	- Let $a$ and $b$ be the translation in the $x$ and $y$ direction respectively.
 	- To achieve the translation, add [[Matrix]] $P$ by $T$ as defined below.
@@ -35,6 +35,15 @@ Alias: []
 		  > 
 		  > $P+T$ will be the new translated [[Matrix]].
 - #### Rotation and Translation
-	- To perform both operations at once, an extra row must be added to the original [[Matrix]]. 
+	- To perform both operations at once, an extra row must be added to the original [[Matrix]]. The value of the last row is $1$.
+	- To rotate by $\theta$ and translate by $a$ and $b$, multiply the [[Matrix]] $P$ by $C$ as defined below.
+		-  > [!Equation]
+		  > $$C=\begin{bmatrix}
+		  > \cos(\theta) & -\sin(\theta) & a \\
+		  > \sin(\theta) & \cos(\theta) & b \\
+		  > 0 & 0 & 1
+		  > \end{bmatrix}$$
+		  > 
+		  > $PC$ will be the new rotated  and translated matrix.
 ---
 - ## Practice
