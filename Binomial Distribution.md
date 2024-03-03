@@ -14,5 +14,7 @@ Alias: []
 		- Each trial must result in either a *success* or *failure*.
 		- The trials are independent.
 		- The probability of success, $p$, is constant between trials.
+	- > [!Equation]
+	  > $$\large{b(x,n,p)=\binom{n}{x}p^x)(1-p)^{n-x}}$$
 ---
 - ## Practice
