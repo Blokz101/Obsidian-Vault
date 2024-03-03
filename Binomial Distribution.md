@@ -23,8 +23,11 @@ Alias: []
 		- > [!Equation]
 		  > $$\large{E(X)=np}$$
 		  > 
-		  > $E(X)$ [[Expected Value|Expected]] number of successes 
+		  > $E(X)$ [[Expected Value|Expected]] number of successes in $n$ number of trials, each with a $p$ [[Probability]] of succeeding. 
 	- [[Variance]]
-		- 
+		- > [!Equation]
+		  > $$\large{V(X)=np(1-p)}$$
+		  > 
+		  > $V(X)$ = [[Variance]] of number of successes in $n$ number of trials, each with a $p$ [[Probability]] of succeeding.
 ---
 - ## Practice
