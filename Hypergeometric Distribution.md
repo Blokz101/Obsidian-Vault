@@ -17,17 +17,17 @@ Alias: []
 	  > The binomial distribution is the approximate probability model for sampling without replacement from a finite boolean (each individual is either a success or failure) population provided the sample size $n$ is small relative to the population size $N$; the hypergeometric distribution is the exact probability model for the number of successes in the sample.
 	- [[Probability]]
 		- > [!Equation]
-		  > $$\large{H(x,n,M,N)=\binom{M}{x}\binom{N-M}{x}}$$
+		  > $$\large{H(x,n,M,N)=\frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}}$$
 		  > 
-		  > $B(x,n,p)$ = [[Probability]] of $x$ successes in $n$ number of trials, each with a $p$ [[Probability]] of succeeding. 
+		  > $B(x,n,p)$ = [[Probability]] of $x$ successes in a sample of $n$ size from a population of size $N$ with $M$ successes total.
 	- [[Expected Value]]
 		- > [!Equation]
-		  > $$\large{E(X)=np}$$
+		  > $$\large{E(X)=\frac{nM}{N}}$$
 		  > 
-		  > $E(X)$ [[Expected Value|Expected]] number of successes in $n$ number of trials, each with a $p$ [[Probability]] of succeeding. 
+		  > $E(X)$ [[Expected Value|Expected]] number of  successes in a sample of $n$ size from a population of size $N$ with $M$ successes total.
 	- [[Variance]]
 		- > [!Equation]
-		  > $$\large{V(X)=np(1-p)}$$
+		  > $$\large{V(X)=\binom{N-n}{N-1} \frac{nM}{N} \left( 1-\frac{M}{N} \right)}$$
 		  > 
 		  > $V(X)$ = [[Variance]] of number of successes in $n$ number of trials, each with a $p$ [[Probability]] of succeeding.
 ---
