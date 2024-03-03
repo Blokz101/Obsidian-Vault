@@ -14,5 +14,6 @@ Alias: [Inverse]
 		  > 
 		  > $A$ and $B$ = Arbitrary [[Square Matrix]]
 		  > $I$ = [[Identity Matrix]]
+	- For a $2\times2$ [[Matrix]] $A$this formula can simply be applied.
 ---
 - ## Practice
