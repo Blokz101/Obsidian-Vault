@@ -1,4 +1,7 @@
 {
+  "compactView": false,
+  "compactingFactor": 1.5,
+  "minLinkLength": 18,
   "excalibrainFilepath": "Excalibrain Graph.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
@@ -38,16 +41,50 @@
       "j",
       "Jump",
       "Jumps"
+    ],
+    "hidden": [
+      ""
+    ],
+    "leftFriends": [
+      "Friend",
+      "Friends",
+      "j",
+      "Jump",
+      "Jumps"
+    ],
+    "rightFriends": [
+      "cons",
+      "disadvantages",
+      "missing",
+      "opposes"
+    ],
+    "previous": [
+      "Before",
+      "Prev",
+      "Previous",
+      "w",
+      "West"
+    ],
+    "next": [
+      "After",
+      "e",
+      "East",
+      "n",
+      "Next"
     ]
   },
   "inferAllLinksAsFriends": false,
   "inverseInfer": false,
+  "inverseArrowDirection": true,
   "renderAlias": false,
   "nodeTitleScript": "",
   "backgroundColor": "#0a2742ff",
   "excludeFilepaths": [],
+  "autoOpenCentralDocument": true,
+  "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": false,
   "showAttachments": true,
+  "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": false,
   "showTagNodes": false,
@@ -85,6 +122,9 @@
     "backgroundColor": "#000005b3",
     "textColor": "#95c7f3ff"
   },
+  "urlNodeStyle": {
+    "prefix": "🌐 "
+  },
   "virtualNodeStyle": {
     "backgroundColor": "#ff000066",
     "fillStyle": "hachure",
@@ -110,6 +150,9 @@
   },
   "tagNodeStyles": {},
   "tagStyleList": [],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
   "baseLinkStyle": {
     "strokeColor": "#696969FF",
     "strokeWidth": 1,
@@ -147,24 +190,6 @@
     "Jumps": {}
   },
   "navigationHistory": [
-    "Dot Plot.md",
-    "Statistics Plots.md",
-    "Stem and Leaf Plot.md",
-    "One Path of Construction.md",
-    "Reference Semantics.md",
-    "Programming Paradigm.md",
-    "Abstraction.md",
-    "Encapsulation.md",
-    "Function (Discrete Math).md",
-    "Current.md",
-    "Power.md",
-    "Electrical Component.md",
-    "Passive Sign Convention.md",
-    "Universal Set.md",
-    "Glass Box Test.md",
-    "Black Box Test.md",
-    "Testing.md",
-    "Empty Set.md",
     "Set Union.md",
     "Set Intersection.md",
     "Set.md",
@@ -179,7 +204,6 @@
     "Oscillating Springs.md",
     "Hooke's Law (Calculus II).md",
     "Arc Length.md",
-    "Pressure (Calculus).md",
     "Mixing Problems.md",
     "Thevenin Equivalent Circuit.md",
     "Norton Equivalent Circuit.md",
@@ -196,16 +220,43 @@
     "Permutation.md",
     "Current Source.md",
     "Summation.md",
+    "Conditional Probability.md",
+    "Pressure (Calculus).md",
+    "References/Integration Practice.pdf",
+    "Probability Mass Function.md",
+    "Lower Triangular Matrix.md",
+    "Identity Matrix.md",
+    "Upper Triangular Matrix.md",
+    "Matrix Inverse.md",
+    "Square Matrix.md",
+    "Matrix Rotation and Translation.md",
+    "Matrix.md",
+    "Expected Value.md",
+    "Integration By Parts.md",
+    "Inverse Matrix.md",
+    "Elementary Row Operations.md",
+    "Dirac Delta Function.md",
+    "Cumulative Distribution Function.md",
     "Probability.md",
-    "Conditional Probability.md"
+    "Discrete Random Variable Distribution.md",
+    "Probability Distribution.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
   "ontologySuggesterChildTrigger": "::c",
-  "ontologySuggesterFriendTrigger": "::f",
+  "ontologySuggesterLeftFriendTrigger": "::l",
+  "ontologySuggesterRightFriendTrigger": "::r",
+  "ontologySuggesterPreviousTrigger": "::e",
+  "ontologySuggesterNextTrigger": "::n",
   "ontologySuggesterTrigger": ":::",
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
   "allowAutozoom": true,
-  "allowAutofocuOnSearch": true
+  "maxZoom": 1,
+  "allowAutofocuOnSearch": true,
+  "defaultAlwaysOnTop": false,
+  "embedCentralNode": false,
+  "centerEmbedWidth": 550,
+  "centerEmbedHeight": 700,
+  "ontologySuggesterFriendTrigger": "::f"
 }
