@@ -8,20 +8,20 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- There is no specific way to describe a [[Poisson Distribution]] random variable. 
 	- [[Probability]]
 		- > [!Equation]
-		  > $$\large{NB(x,r,p)=\binom{x+r+1}{r-1}p^r}(1-p)^x$$
+		  > $$\large{P(x,\mu)=\frac{e^{-\mu}\mu^x}{x!}}$$
 		  > 
-		  > $B(x,n,p)$ = [[Probability]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
+		  > $P(x,\mu)$ = [[Probability]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
 	- [[Expected Value]]
 		- > [!Equation]
-		  > $$\large{E(X)=\frac{r(1-p)}{p}}$$
+		  > $$\large{E(X)=\mu}$$
 		  > 
 		  > $E(X)$ [[Expected Value|Expected]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
 	- [[Variance]]
 		- > [!Equation]
-		  > $$\large{V(X)=\frac{r(1-p)}{p^2}}$$
+		  > $$\large{V(X)=\mu}$$
 		  > 
 		  > $V(X)$ = [[Variance]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
 ---

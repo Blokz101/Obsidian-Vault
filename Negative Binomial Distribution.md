@@ -20,7 +20,7 @@ Alias: []
 		- > [!Equation]
 		  > $$\large{NB(x,r,p)=\binom{x+r+1}{r-1}p^r}(1-p)^x$$
 		  > 
-		  > $B(x,n,p)$ = [[Probability]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
+		  > $NB(x,n,p)$ = [[Probability]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
 	- [[Expected Value]]
 		- > [!Equation]
 		  > $$\large{E(X)=\frac{r(1-p)}{p}}$$
