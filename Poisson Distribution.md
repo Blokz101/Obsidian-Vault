@@ -13,16 +13,16 @@ Alias: []
 		- > [!Equation]
 		  > $$\large{P(x,\mu)=\frac{e^{-\mu}\mu^x}{x!}}$$
 		  > 
-		  > $P(x,\mu)$ = [[Probability]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
+		  > $P(x,\mu)$ = [[Probability]] of  
 	- [[Expected Value]]
 		- > [!Equation]
 		  > $$\large{E(X)=\mu}$$
 		  > 
-		  > $E(X)$ [[Expected Value|Expected]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
+		  > $E(X)$ [[Expected Value|Expected]] 
 	- [[Variance]]
 		- > [!Equation]
 		  > $$\large{V(X)=\mu}$$
 		  > 
-		  > $V(X)$ = [[Variance]] of $x$ trials until $r$ successes have been observed. Trials have $p$ chance of success.
+		  > $V(X)$ = [[Variance]] of 
 ---
 - ## Practice
