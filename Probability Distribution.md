@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Statistics]]
 > Parents:: [[Probability]]
 > Friends:: 
-> Children:: [[Discrete Random Variable Distribution]] [[Binomial Distribution]] [[Hypergeometric Distribution]] [[Negative Binomial Distribution]]
+> Children:: [[Discrete Random Variable Distribution]] [[Binomial Distribution]] [[Hypergeometric Distribution]] [[Negative Binomial Distribution]] [[Poisson Distribution]]
 ---
 - ## Definition
 	- How the total [[Probability]]($1.0$) is distributed among all the outcomes in the [[Sample Space]].
