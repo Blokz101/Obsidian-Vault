@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Statistics]]
-> Parents:: 
+> Parents:: [[Probability Distribution]]
 > Friends:: [[Negative Binomial Distribution]]
 > Children:: 
 ---

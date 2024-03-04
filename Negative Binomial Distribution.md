@@ -2,9 +2,9 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[<% tp.file.cursor(1) %>]]
-> Parents:: 
-> Friends:: 
+> Subject:: [[Statistics]]
+> Parents:: [[Probability Distribution]]
+> Friends:: [[Hypergeometric Distribution]]
 > Children:: 
 ---
 - ## Definition
