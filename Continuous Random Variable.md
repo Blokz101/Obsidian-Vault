@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A [[Random Variable]] is **continuous** if both of the following apply:
-	- 
+	- A [[Random Variable]] is continuous if **both** of the following apply:
+		- 
 ---
 - ## Practice
