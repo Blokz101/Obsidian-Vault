@@ -3,7 +3,7 @@ Alias: [Probability Mass Function, PMF]
 ---
 > [!Info]
 > Subject:: [[Statistics]]
-> Parents:: 
+> Parents:: [[Discrete Random Variable]]
 > Friends:: 
 > Children:: [[Cumulative Distribution Function]]
 ---
