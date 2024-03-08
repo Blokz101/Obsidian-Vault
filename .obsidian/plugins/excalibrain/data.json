@@ -190,14 +190,6 @@
     "Jumps": {}
   },
   "navigationHistory": [
-    "Set Union.md",
-    "Set Intersection.md",
-    "Set.md",
-    "Set Identities.md",
-    "Set Compliment.md",
-    "Set Symmetric Difference.md",
-    "Set Difference.md",
-    "Orthogonal Projection.md",
     "Orthogonal Decomposition.md",
     "Vector.md",
     "Assigning Balls Problem.md",
@@ -239,7 +231,15 @@
     "Cumulative Distribution Function.md",
     "Probability.md",
     "Discrete Random Variable Distribution.md",
-    "Probability Distribution.md"
+    "Probability Distribution.md",
+    "Continuous Random Variable.md",
+    "Random Variable.md",
+    "Second Order Linear Homogeneous Differential Equations.md",
+    "Differential Equation.md",
+    "Delete Later.md",
+    "Power.md",
+    "Power Spectrum.md",
+    "Decibel Watt.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
