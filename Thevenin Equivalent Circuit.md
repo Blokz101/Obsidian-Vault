@@ -13,7 +13,7 @@ Alias: []
 	- This circuit can be converted into a [[Thevenin Equivalent Circuit]] using [[Source Transformation]].
 - #### Finding $V_{Th}$
 	- To find $V_{Th}$ simply find the [[Voltage]] difference between the terminals of the circuit as shown
-	  ![[Screenshot 2024-03-08 at 1.08.46 PM.png]]
+	  ![[Screenshot 2024-03-08 at 1.12.13 PM.png|400]]
 	- The same process applies even if the circuit has [[Voltage Source|Dependent Voltage Sources]] or [[Voltage Source|Dependent Voltage Sources]].
 - #### Finding $R_{Th}$
 	- Same process as [[Norton Equivalent Circuit]].

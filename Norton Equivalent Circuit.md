@@ -14,7 +14,7 @@ Alias: []
 	- This circuit can be converted into a [[Thevenin Equivalent Circuit]] using [[Source Transformation]].
 - #### Finding $I_{N}$
 	- Simply [[Short Circuit]] the two terminals together and calculate the [[Current]] flowing though the short.
-	  ![[Screenshot 2024-01-26 at 4.11.49 PM.png|400]]
+	  ![[Screenshot 2024-03-08 at 1.11.30 PM.png|400]]
 - #### Finding $R_{N}$
 	- Same process as [[Thevenin Equivalent Circuit]].
 	- To find the $R_{Th}$ there are two cases:
