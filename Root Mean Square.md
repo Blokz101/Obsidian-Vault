@@ -4,7 +4,7 @@ Alias: [RMS]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: 
+> Friends:: [[Sinusoidal Signal]]
 > Children:: 
 ---
 - ## Definition
