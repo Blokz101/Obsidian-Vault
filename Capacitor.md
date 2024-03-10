@@ -20,9 +20,13 @@ Alias: [Capacitors]
 		- The [[Voltage]] over a [[Capacitor]] **cannot** change instantly.
 			- $v(0^-)=v(0^+)$
 		- When in [[Steady State]] the [[Current]] though a [[Capacitor]] is $0$.
-		- [[Impedance]]:
+		- [[Impedance]]
 			- > [!Equation]
-			  > $\large{Z_{c}=}$
+			  > $$\large{Z_{C}=\frac{1}{j\omega C}}$$
+			  > 
+			  > $Z_{C}$ = [[Impedance]] in $\Omega$
+			  > $\omega$ = $2\pi f$ where $f$ is [[Frequency]]
+			  > $C$ = [[Capacitance]]
 	- A [[Capacitor]] has 4 important states. These states occur when some event occurs, we will say it occurs at $t=0$, that takes the [[Capacitor]] out of [[Steady State]].
 		- **$t=0^-$**
 			- This is the time the instant before the event occurs.
