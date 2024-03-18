@@ -4,8 +4,8 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]]
-> Friends:: [[Quantifier]]
-> Children:: 
+> Friends:: 
+> Children:: [[Quantifier]]
 ---
 - ## Definition
 	- A [[Proposition]] who's truth value is a function of one or more variables.
