@@ -28,10 +28,22 @@ Alias: []
 		- The **particular solution** is a solution of the homogeneous part of the equation.
 			- To find the **particular solution**:
 				1. Pick an equation that matches $F(x)$ with constants instead of specifics.
-					- For **quadratic** use: $y_{p}(x)=Ax^2+Bx+C$
-					- For **exponential in the form of $e^{nx}$** use: $y_{p}(x)=Ae^{nx}$. Where $n$ is the coefficient of $x$ in the original equation.
-					- For **exponential in the form of $xe^{nx}$** use: $y_{p}(x)=(Ax+B)e^{nx}$. Where $n$ is the coefficient of $x$ in the original equation.
-					- For **$\sin(n)$ and $\cos(n)$** use: $y_{p}(x)=A\sin(nx)+B\cos(nx)$. Where $n$ is the coefficient of $x$ in the original equation.
+					- For **quadratic** use: 
+						- > [!Equation]
+						  > $$\large{y_{p}(x)=Ax^2+Bx+C}$$
+					- For **exponential in the form of $e^{nx}$** use: 
+						- > [!Equation]
+						  > $$\large{y_{p}(x)=Ae^{nx}}$$ 
+						  > 
+						  > Where $n$ is the coefficient of $x$ in the original equation.
+					- For **exponential in the form of $xe^{nx}$** use: 
+						- > [!Equation]
+						  > $$\large{y_{p}(x)=(Ax+B)e^{nx}}$$
+						  > Where $n$ is the coefficient of $x$ in the original equation.
+					- For **$\sin(n)$ and $\cos(n)$** use: 
+						- > [!Equation]
+						  > $$\large{y_{p}(x)=A\sin(nx)+B\cos(nx)}$$
+						  > Where $n$ is the coefficient of $x$ in the original equation.
 				2. Solve for its first and second [[Derivative]].
 				3. Plug into the original equation and solve for the generalized constants.
 				4. Plug the constants into the equation we picked in step 1.
