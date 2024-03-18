@@ -4,8 +4,8 @@ Alias: [Propositions]
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: 
-> Friends:: 
-> Children:: 
+> Friends:: [[Conditional Operator]]
+> Children:: [[Tautology]] [[Contradiction]]
 ---
 - ## Definition
 	- A statement that is either **true** or **false**.

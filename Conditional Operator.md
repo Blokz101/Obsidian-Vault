@@ -4,7 +4,7 @@ Alias: [Conditional Operators, Implies, Contrapositive, Converse, Inverse]
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Boolean Operator]]
-> Friends:: 
+> Friends:: [[Proposition]]
 > Children:: 
 ---
 - ## Definition
