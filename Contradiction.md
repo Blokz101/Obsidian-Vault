@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A [[Proposition]] that is always **false** regardless of the values of the 
+	- A [[Proposition]] that is always **false** regardless of the values of the individual variables.
+	- Opposite of [[Tautology]].
 ---
 - ## Practice
