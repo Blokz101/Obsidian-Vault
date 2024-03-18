@@ -18,5 +18,8 @@ Alias: [Quantifiers, Universal Quantifier, Universal Quantifiers, Existential Qu
 	- Notated with $\exists$.
 	- $\exists x$ means "true for some $x$".
 	- $\neg\exists x$ means "never true for some $x$".
+- #### [[DeMorgan's Law]] with Nested Quantifiers
+	- Negating a [[quantifier]] 
+	- ![[IMG_5F1A632F8496-1.jpeg]]
 ---
 - ## Practice
