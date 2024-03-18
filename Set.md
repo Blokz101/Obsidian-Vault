@@ -4,7 +4,7 @@ Alias: [Sets, Set Literal]
 > [!Info]
 > Subject:: [[Calculus I]] [[Discrete Math]]
 > Parents:: 
-> Friends:: [[Sequence]]  [[Cardinality]]
+> Friends:: [[Sequence]]  [[Cardinality]] [[Laws of Propositional Logic]]
 > Children:: [[Universal Set]] [[Empty Set]] [[Subset]] [[Multiset]] [[Power Set]] [[Set Union]] [[Set Intersection]] [[Set Difference]] [[Set Symmetric Difference]] [[Set Compliment]] [[Set Identities]] [[Set Distributive Law]]
 ---
 - ## Definition
@@ -21,7 +21,7 @@ Alias: [Sets, Set Literal]
 	- [[Set Difference]]
 	- [[Set Symmetric Difference]]
 	- [[Set Compliment]]
-	- ![[Screenshot 2024-01-11 at 12.44.10 PM.png]]
+	- ![[Screenshot 2024-03-18 at 6.02.23 PM.png]]
 - #### Common Mathematical Sets
 	- $\mathbb{N}$ is the [[Set]] of [[Natural Number]].
 	- $\mathbb{Z}$ is the [[Set]] of all [[Integer|Integers]].
