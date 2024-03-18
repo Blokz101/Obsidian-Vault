@@ -5,7 +5,7 @@ Alias: [Propositions]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Boolean]]
 > Friends:: [[Conditional Operator]]
-> Children:: [[Tautology]] [[Contradiction]] [[Laws of Propositional Logic]]
+> Children:: [[Tautology]] [[Contradiction]] [[Laws of Propositional Logic]] [[Pre]]
 ---
 - ## Definition
 	- A statement that is either **true** or **false**.
@@ -20,5 +20,6 @@ Alias: [Propositions]
 		  > - What time is it
 		  > - Are you awake
 		  > - Have a nice day
+		  > - $x$ is an odd number
 ---
 - ## Practice
