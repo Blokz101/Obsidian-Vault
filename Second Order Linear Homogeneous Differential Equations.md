@@ -43,12 +43,9 @@ Alias: []
 		> $$\large{y=C_{1}e^{rx}+C_{2}xe^{rx}}$$
 	- #### Case 3: Complex Roots
 		- In this case you get [[Complex Number|Complex Numbers]] as your roots.
-		- In the **real plane** split the **complex root** into its **real($\alpha$)** and **imaginary($\beta$)** parts and use this equation:
-			- > [!Equation]
-		       > $$\large{y=e^{\alpha x}(C_{1}\sin(\beta x)+C_{2}\cos(\beta x))}$$
-		- In the **complex plane**:
-			- > [!Equation]
-			  > $$\large{y=C_{1}e^{r_{1}x}+C_{2}e^{r_{2}x}}$$
+		- Split the **complex root** into its **real($\alpha$)** and **imaginary($\beta$)** parts and use this equation:
+		- > [!Equation]
+		 > $$\large{y=e^{\alpha x}(C_{1}\sin(\beta x)+C_{2}\cos(\beta x))}$$
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
