@@ -20,6 +20,6 @@ Alias: [Quantifiers, Universal Quantifier, Universal Quantifiers, Existential Qu
 	- $\neg\exists x$ means "never true for some $x$".
 - #### [[DeMorgan's Law]] with Nested Quantifiers
 	- A [[Quantifier]] that is being negated can be swapped for the other [[Quantifier]] and the negation is moved inwards.
-	- ![[IMG_5F1A632F8496-1.jpeg]]
+	- ![[IMG_5F1A632F8496-1.jpeg|400]]
 ---
 - ## Practice
