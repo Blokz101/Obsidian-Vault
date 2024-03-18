@@ -5,7 +5,7 @@ Alias: [Propositions]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Boolean]]
 > Friends:: [[Conditional Operator]]
-> Children:: [[Tautology]] [[Contradiction]] [[Laws of Propositional Logic]] [[Pre]]
+> Children:: [[Tautology]] [[Contradiction]] [[Laws of Propositional Logic]] [[Predicate]]
 ---
 - ## Definition
 	- A statement that is either **true** or **false**.
