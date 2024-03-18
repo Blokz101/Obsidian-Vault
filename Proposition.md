@@ -3,7 +3,7 @@ Alias: [Propositions]
 ---
 > [!Info]
 > Subject:: [[Discrete Math]]
-> Parents:: 
+> Parents:: [[Boolean]]
 > Friends:: [[Conditional Operator]]
 > Children:: [[Tautology]] [[Contradiction]] [[Laws of Propositional Logic]]
 ---
