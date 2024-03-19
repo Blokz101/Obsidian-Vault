@@ -16,6 +16,6 @@ Alias: []
 		- These elements can be generalized to all elements in the domain.
 	- A **Particular** element is an element in the domain that may have special properties not shared by all other elements in the domain.
 		- These elements may not be generalized to all elements in the domain.
-	- 
+	- ![[Screenshot 2024-03-18 at 11.08.22 PM.png]]
 ---
 - ## Practice
