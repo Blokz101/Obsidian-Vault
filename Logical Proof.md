@@ -14,9 +14,13 @@ Alias: [Direct Proof, Proof by Contrapositive]
 - #### Direct Proof
 	- The standard kind of proof. Use the given hypotheses and proven logic to prove the conclusion true.
 	- Proves $x\to y$ directly.
+	- >[!Example]-
+	  > ![[Screenshot 2024-03-19 at 2.31.49 PM.png]]
 - #### Proof by Contrapositive 
 	- Proves a statement by proving its [[Conditional Operator|Contrapositive]].
 	- Proves $x\to y$ by proving $\neg y\to \neg x$.
 	- Proving by [[Conditional Operator|Contrapositive]] is useful when [[Logical Proof|Direct Proofs]] are difficult.
+	- > [!Example]-
+	  > ![[Screenshot 2024-03-19 at 2.32.25 PM.png]]
 ---
 - ## Practice
