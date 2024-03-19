@@ -29,8 +29,8 @@ Alias: [Propositions]
 		  > ![[Screenshot 2024-03-18 at 10.16.37 PM.png]]
 		  > The letters $h$ represent different **Arguments**. The $c$ represents the **Conclusion**. Lastly, $\therefore$ means therefore. 
 		  > 
-		  > This is equivalent to
-		  > $$\large{(h_{1})}$$
+		  > This is equivalent to:
+		  > $$\large{(h_{1}\land h_{2}\land\dots \land h_{n})\to c}$$
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
