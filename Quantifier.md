@@ -5,7 +5,7 @@ Alias: [Quantifiers, Universal Quantifier, Universal Quantifiers, Existential Qu
 > Subject:: [[Discrete Math]]
 > Parents:: [[Predicate]]
 > Friends:: 
-> Children:: 
+> Children:: [[Laws of Propositional Inference]]
 ---
 - ## Definition
 	- A method of assigning variables in a [[Predicate]].
