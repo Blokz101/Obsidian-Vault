@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]]
-> Friends:: [[Set]] [[Laws of Propositional Inference]]
+> Friends:: [[Set]] [[Laws of Propositional Inference]] [[Mathematical Numerical Definitions]]
 > Children:: 
 ---
 - ## Definition
