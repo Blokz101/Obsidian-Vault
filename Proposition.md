@@ -26,7 +26,11 @@ Alias: [Propositions]
 	- The **Conclusion** is the final [[Proposition]] in an **Argument**.
 	- Notated like this:
 		- > [!Equation]
-		  > ![[Screenshot 2024-03-18 at 10.16.37 PM.png]]|fea
+		  > ![[Screenshot 2024-03-18 at 10.16.37 PM.png]]
+		  > The letters $h$ represent different **Arguments**. The $c$ represents the **Conclusion**. Lastly, $\therefore$ means therefore. 
+		  > 
+		  > This is equivalent to
+		  > $$\large{(h_{1})}$$
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
