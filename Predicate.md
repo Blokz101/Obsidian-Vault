@@ -19,3 +19,4 @@ Alias: []
 	- A [[Predicate]] can be turned into a [[Proposition]] with a [[Quantifier]].
 ---
 - ## Practice
+	- [[CSC226 Homework 5.pdf]]

@@ -23,3 +23,4 @@ Alias: [Propositions]
 		  > - $x$ is an odd number
 ---
 - ## Practice
+	- [[CSC226 Homework 5.pdf]]

@@ -12,3 +12,4 @@ Alias: []
 	- The $\equiv$ symbol means **equivalence**.
 ---
 - ## Practice
+	- [[CSC226 Homework 5.pdf]]
