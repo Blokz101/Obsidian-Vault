@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]]
-> Friends:: [[Set]]
+> Friends:: [[Set]] [[]]
 > Children:: 
 ---
 - ## Definition

@@ -5,7 +5,7 @@ Alias: [Conditional Operators, Implies, Contrapositive, Converse, Inverse]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Boolean Operator]]
 > Friends:: [[Proposition]]
-> Children:: 
+> Children:: [[Laws of Propositional Inference]]
 ---
 - ## Definition
 	- > [!Equation]
