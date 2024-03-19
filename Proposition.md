@@ -26,18 +26,7 @@ Alias: [Propositions]
 	- The **Conclusion** is the final [[Proposition]] in an **Argument**.
 	- Notated like this:
 		- > [!Equation]
-		  
-
-$$$
-\begin{array}{ r l }
-               & p \rightarrow q \\
-               & p \\
-        \cline{2-2}
-    \therefore & q
-\end{array}
-
-$$$
-
+		  > ![[Screenshot 2024-03-18 at 10.16.37 PM.png]]|fea
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
