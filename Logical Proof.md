@@ -22,5 +22,7 @@ Alias: [Direct Proof, Proof by Contrapositive]
 	- Proving by [[Conditional Operator|Contrapositive]] is useful when [[Logical Proof|Direct Proofs]] are difficult.
 	- > [!Example]-
 	  > ![[Screenshot 2024-03-19 at 2.32.25 PM.png]]
+- #### Proof by Contradiction
+	- 
 ---
 - ## Practice
