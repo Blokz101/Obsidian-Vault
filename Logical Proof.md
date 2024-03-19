@@ -12,6 +12,7 @@ Alias: []
 	- A [[Logical Proof]] consists of a series of steps each of which follows logically from assumptions, or form previously proven statements, until the **theorem** is proven or disproven.
 	- There are several methods to prove or disprove a **theorem**.
 - #### Direct Proof
-	- The standard kind of proof. Prove that 
+	- The standard kind of proof. Use the given hypotheses and proven logic to prove the conclusion true.
+- #### 
 ---
 - ## Practice
