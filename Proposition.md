@@ -21,8 +21,23 @@ Alias: [Propositions]
 		  > - Are you awake
 		  > - Have a nice day
 		  > - $x$ is an odd number
-- #### Argument and Hypotheses
-	- **Arguments or Hypotheses** are a series of [[Proposition|Propositions]]
+- #### Argument, Hypotheses, and Conclusion
+	- An **Argument** is a series of individual [[Proposition|Propositions]]. Individual [[Proposition|Propositions]] in an **Argument** are called **Hypotheses**.
+	- The **Conclusion** is the final [[Proposition]] in an **Argument**.
+	- Notated like this:
+		- > [!Equation]
+		  
+
+$$$
+\begin{array}{ r l }
+               & p \rightarrow q \\
+               & p \\
+        \cline{2-2}
+    \therefore & q
+\end{array}
+
+$$$
+
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
