@@ -22,8 +22,9 @@ Alias: [Quantifiers, Universal Quantifier, Universal Quantifiers, Existential Qu
 	- > [!Equation]
 	  > ![[IMG_5F1A632F8496-1.jpeg]]
 	- that is being negated can be swapped for the other [[Quantifier]] and the negation is moved inwards.
-	- > [!Example]
+	- > [!Example]-
 	  > ![[Screenshot 2024-03-18 at 9.18.46 PM.png]]
+	  > ![[Screenshot 2024-03-18 at 9.19.45 PM.png]]
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
