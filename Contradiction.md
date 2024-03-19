@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]]
-> Friends:: [[Tautology]]
+> Friends:: [[Tautology]] [[Logical Proof]]
 > Children:: 
 ---
 - ## Definition

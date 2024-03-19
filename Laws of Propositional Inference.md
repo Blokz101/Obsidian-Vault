@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]] [[Conditional Operator]] [[Quantifier]]
-> Friends:: [[Laws of Propositional Logic]]
+> Friends:: [[Laws of Propositional Logic]] [[Logical Proof]]
 > Children:: 
 ---
 - ## Definition

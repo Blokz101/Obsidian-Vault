@@ -4,7 +4,7 @@ Alias: [Quantifiers, Universal Quantifier, Universal Quantifiers, Existential Qu
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Predicate]]
-> Friends:: 
+> Friends:: [[Logical Proof]]
 > Children:: [[Laws of Propositional Inference]]
 ---
 - ## Definition

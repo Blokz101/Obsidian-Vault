@@ -4,7 +4,7 @@ Alias: []
 > [!Info]
 > Subject:: [[Discrete Math]]
 > Parents:: [[Proposition]]
-> Friends:: [[Contradiction]]
+> Friends:: [[Contradiction]] [[Logical Proof]]
 > Children:: 
 ---
 - ## Definition
