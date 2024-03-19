@@ -21,6 +21,8 @@ Alias: [Propositions]
 		  > - Are you awake
 		  > - Have a nice day
 		  > - $x$ is an odd number
+- #### Argument and Hypotheses
+	- **Arguments or Hypotheses** are a series of [[Proposition|Propositions]]
 ---
 - ## Practice
 	- [[CSC226 Homework 5.pdf]]
