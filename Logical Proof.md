@@ -11,10 +11,7 @@ Alias: []
 	- A **theorem** is a [[Proposition]] that a [[Logical Proof]] seeks to prove.
 	- A [[Logical Proof]] consists of a series of steps each of which follows logically from assumptions, or form previously proven statements, until the **theorem** is proven or disproven.
 	- There are several methods to prove or disprove a **theorem**.
-- #### Proof by Exhaustion
-	- Used to prove something universally.
-	- One of the easiest kinds of proofs, simply prove that the theorem is true for all variables for all variables in their respective domains.
-- #### Contradiction by Counterexample
-	- Used to disp  
+- #### Direct Proof
+	- The standard kind of proof. Prove that 
 ---
 - ## Practice
