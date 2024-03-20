@@ -32,8 +32,8 @@ Alias: [AC Instantaneous Power]
 - #### AC Instantaneous Power
 	- Same as the equation above, but $v(t)$ and $i(t)$ are [[Sinusoidal Signal|Sinusoidal Signals]].
 		- > [!Equation]
-		  > $\large{v(t)=V_{m}\cos(\omega t+\theta_{v})}$
-		  > $\large{i(t)=I_{m}\cos(\omega t+\theta_{i})}$
+		  > $$\large{v(t)=V_{m}\cos(\omega t+\theta_{v})}$$
+		  > $$\large{i(t)=I_{m}\cos(\omega t+\theta_{i})}$$
 		  > 
 		  > $v(t)$ or $i(t)$ = AC [[Voltage]] or [[Current]] in $V$ or $A$ respectively
 		  > $V_{m}$ or $I_{m}$ = Magnitude of the signal in $V$ or $A$
