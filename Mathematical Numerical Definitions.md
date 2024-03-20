@@ -25,6 +25,6 @@ Alias: []
 	- > [!Equation]
 	  > An integer $x$ is **Prime** if and only if the only positive integers that divide $x$ are $1$ and $x$ when $x>1$.
 	  > 
-	  > An integer $x$ is **Composite** if and only if there is an integer $m$ such that $1<m<n$ and $m|n$ when $n>1$.
+	  > An integer $x$ is **Composite** if and only if there is an integer $m$ such that $1<m<n$ and $m|n$ when $n>1$. They will also have a [[Greatest Common Divisor|GCD]] of $1$.
 ---
 - ## Practice
