@@ -4,8 +4,8 @@ Alias: [Power, Powers, Real Powers, AC Real Power, AC Real Powers]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Instantaneous Power]]
-> Friends:: [[Decibel Watt]] [[Signal Equations.canvas|Signal Equations]] [[Root Mean Square|RMS]]
-> Children:: [[Signal Power]] [[Apparent Power]] [[Power Factor]]
+> Friends:: [[Decibel Watt]] [[Signal Equations.canvas|Signal Equations]] [[Root Mean Square|RMS]] [[Reactive Power]]
+> Children:: [[Complex Power]] [[Signal Power]] [[Apparent Power]] [[Power Factor]]
 ---
 - ## Definition
 	- Notated with $P$ (time invariant).
