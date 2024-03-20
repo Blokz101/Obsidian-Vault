@@ -45,8 +45,7 @@ Alias: [Power]
 		  > $V_{m}$ or $I_{m}$ = Magnitude of [[Voltage]] or [[Current]] in $V$ or $I$
 		  > $\theta_{v}$ or $\theta_{i}$ = Phase of the sinusoidal [[Voltage]] or [[Current]] in degrees/radians
 		  > > [!Proof]-
-		  > > ![[IMG_2DAC2A342F57-1.jpeg]]
-		  > > ![[IMG_FD9AA85501BA-1.jpeg]]
+		  > > 
 - #### First Sign Convention for [[Real Power]]
 	- **Positive** [[Current]] enters the **positive** terminal of a component. **Negative** [[Current]] enters the **negative** terminal of a component.
 	- ![[IMG_FD9AA85501BA-1.jpeg]]
