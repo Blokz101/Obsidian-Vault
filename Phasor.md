@@ -8,7 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- A way of representing [[Sinusoidal Signal|Sinusoidal Signals]] in the [[Complex Domain]].
+	- A way of representing [[Sinusoidal Signal|Sinusoidal Signals]] in the [[Phasor Domain]].
 		- > [!Equation]
 		  > $$\large{\tilde{V}=V_{m}e^{j\theta}}$$
 		  > 
