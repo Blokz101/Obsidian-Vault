@@ -23,7 +23,7 @@ Alias: []
 		  > 
 		  > $S$ = [[Complex Power]] in $VA$.
 		  > $\tilde{V}$ = [[Root Mean Square|RMS]] [[Phasor]] [[Voltage]] in $V$
-		  > $\tilde{I}$ = [[Congigate of ]]
+		  > $\tilde{I}$ = [[Conjugate]] of the [[Root Mean Square|RMS]] [[Phasor]] [[Current]] in $A$
 		  > 
 		  > > [!Proof]-
 		  > > ![[Screenshot 2024-03-20 at 5.33.30 PM.jpeg]]
