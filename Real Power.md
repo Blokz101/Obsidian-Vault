@@ -40,12 +40,15 @@ Alias: [Power]
 	- The [[Real Power]] given a [[Sinusoidal Signal]] for both [[Voltage]] and [[Current]].
 		- >[!Equation]
 		  > $$\large{P=\frac{V_{m}I_{m}}{2}\cos(\theta_{v}-\theta_{i})}$$
+		  > or 
+		  > $$\large{P=V_{rms}I_{rms}\cos(\theta_{v}-\theta_{i})}$$
 		  > 
 		  > $P$ = [[Real Power|Power]] in $W$
 		  > $V_{m}$ or $I_{m}$ = Magnitude of [[Voltage]] or [[Current]] in $V$ or $I$
+		  > $V_{rms}$ or $I_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] or [[Current]] in $V_{rms}$ or $I_{rms}$
 		  > $\theta_{v}$ or $\theta_{i}$ = Phase of the sinusoidal [[Voltage]] or [[Current]] in degrees/radians
 		  > > [!Proof]-
-		  > > 
+		  > > ![[IMG_942F81FC89D1-1.jpeg]]
 - #### First Sign Convention for [[Real Power]]
 	- **Positive** [[Current]] enters the **positive** terminal of a component. **Negative** [[Current]] enters the **negative** terminal of a component.
 	- ![[IMG_FD9AA85501BA-1.jpeg]]
