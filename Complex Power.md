@@ -3,7 +3,7 @@ Alias: []
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: [[Real Power]] [[Reactive Power]]
+> Parents:: [[Real Power]] [[Reactive Power]] [[Complex Number]]
 > Friends:: 
 > Children:: [[Generalized Ohms Law]]
 ---

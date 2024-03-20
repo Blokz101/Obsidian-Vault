@@ -5,7 +5,7 @@ Alias: [Complex Numbers]
 > Subject:: [[Calculus II]] [[Analytics of Electrical and Computer Engineering]]
 > Parents:: [[Real Number]] [[Imaginary Number]] 
 > Friends:: [[Polar and Cylindrical Coordinates]] [[Euler's Equation]]
-> Children:: 
+> Children:: [[Complex Power]] [[Impedance]] [[Phasor]]
 ---
 - ## Definition
 	- Numbers containing [[Imaginary Number|Imaginary Numbers]] and [[Real Number|Real Numbers]].
