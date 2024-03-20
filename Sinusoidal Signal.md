@@ -10,11 +10,11 @@ Alias: [Sinusoidal Signals]
 - ## Definition
 	- A [[Periodic Signal]] in the form of:
 	  > [!Equation]
-	  > $$V(t)=V_{DC}+V_{p}\cos(2\pi ft+\theta)$$
+	  > $$V(t)=V_{dc}+V_{m}\cos(2\pi ft+\theta)$$
 	  > $V(t)$ = [[Voltage]] in terms of time in $V$
 	  > $t$ = Time in $s$
-	  > $V_{DC}$ = [[Average Voltage]] in $V$
-	  > $V_{p}$ = [[Amplitude]] in $V$
+	  > $V_{dc}$ = [[Average Voltage]] in $V$
+	  > $V_{m}$ = [[Amplitude]] or Magnitude in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$
 	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
 	  > 
