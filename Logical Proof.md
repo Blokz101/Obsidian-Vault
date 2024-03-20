@@ -23,7 +23,9 @@ Alias: [Direct Proof, Proof by Contrapositive]
 	- > [!Example]-
 	  > ![[Screenshot 2024-03-19 at 2.32.25 PM.png]]
 - #### Proof by Contradiction
-	- Proves a **theorem** by assuming its **conclusion** is false and finding a contradiction.
-	- 
+	- Proves a **theorem** by assuming its **conclusion** is false and then shows that some logical inconsistency arises as a result of the assumption.
+	- Also known as an indirect proof.
+	- >[!Example]-
+	  > ![[Screenshot 2024-03-19 at 8.35.51 PM.png]]
 ---
 - ## Practice
