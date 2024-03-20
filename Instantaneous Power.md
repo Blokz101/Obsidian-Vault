@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [AC Instantaneous Power]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
@@ -35,8 +35,13 @@ Alias: []
 		  > $\large{v(t)=V_{m}\cos(\omega t+\theta_{v})}$
 		  > $\large{i(t)=I_{m}\cos(\omega t+\theta_{i})}$
 		  > 
-		- 
-		  > $V_{m}$/$I_{m}$ = Magnitude of the signal.
+		  > $v(t)$ or $i(t)$ = AC [[Voltage]] or [[Current]] in $V$ or $A$ respectively
+		  > $V_{m}$ or $I_{m}$ = Magnitude of the signal in $V$ or $A$
+		  > $\omega$ = Some constant that multiplies $t$, generally in the form of $2\pi f$ where $f$ is [[Frequency]]
+		  > $t$ = Time in $s$
+	- Which gives this equation for [[Instantaneous Power|AC Instantaneous Power]]:
+		- >[!Equation]
+		  > $$\large{p(t)=V_{m}}$$
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]
