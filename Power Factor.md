@@ -2,12 +2,12 @@
 Alias: []
 ---
 > [!Info]
-> Subject:: [[Circuit Analysis]]
+> Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Power Factor]]
+> Friends:: [[Apparent Power]]
 > Children:: 
 ---
 - ## Definition
-	- Measured in $VA$.
+	- 
 ---
 - ## Practice
