@@ -9,5 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- Measured in $VA$.
+	- 
 ---
 - ## Practice
