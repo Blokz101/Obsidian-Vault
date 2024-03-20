@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
+	- A triangle useful for relating [[Complex Power]] to [[Real Power]], [[Reactive Power]], and the [[Power Factor]].
 	- 
 ---
 - ## Practice

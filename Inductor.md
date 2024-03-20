@@ -14,12 +14,7 @@ Alias: []
 		- The [[Current]] through an [[Inductor]] **cannot** change instantly.
 		- When in [[Steady State]] the [[Voltage]] over an [[Inductor]] is $0$.
 		- [[Impedance]]
-			- > [!Equation] 
-			  > $$\large{Z_{L}=j\omega L}$$
-			  > 
-			  > $Z_{L}$ = [[Impedance]] in $\Omega$
-			  > $\omega$ = $2\pi f$ where $f$ is [[Frequency]]
-			  > $L$ = [[Inductance]]
+		  ![[Impedance#^c0f7f8]]
 	- An [[Inductor]] has 4 important states. These states occur when some event occurs, we will say it occurs at $t=0$, that takes the [[Inductor]] out of [[Steady State]].
 		- **$t=0^-$**
 			- This is the time the instant before the event occurs.
