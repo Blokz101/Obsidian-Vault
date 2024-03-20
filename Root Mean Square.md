@@ -23,7 +23,7 @@ Alias: [RMS]
 	  > > [!Proof]-
 	  > > ![[IMG_CE9DBED0812D-1.jpeg]]
 - #### Shortcut for Sinusoids
-	- [[Sinusoidal Signal^]]
+	- ![[Sinusoidal Signal#^e9624f]]
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]

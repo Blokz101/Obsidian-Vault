@@ -30,7 +30,7 @@ Alias: [Sinusoidal Signals]
 	  > $V_{p}$ = [[Amplitude]] in $V$
 	  > 
 	  > > [!Proof]-
-	  > > ![[IMG_973171CD2746-1.jpeg]]
+	  > > ![[IMG_973171CD2746-1.jpeg]] ^e9624f
 ---
 - ## Practice
 	- [[ECE200 Homework 5.pdf]]
