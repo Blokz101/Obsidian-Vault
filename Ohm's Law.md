@@ -4,7 +4,7 @@ Alias: [Ohmic]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Current]] [[Voltage]] [[Resistance]] [[Electrical Circuit]]
+> Friends:: [[Current]] [[Voltage]] [[Resistance]] [[Electrical Circuit]] [[Generalized Ohms Law]]
 > Children:: [[Circuit Analysis]] [[Passive Sign Convention]]
 ---
 - ## Definition

@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- > [!Equation]
+	  > $$\large{S=\tilde{V}\tilde{I}^*}$$
 ---
 - ## Practice
