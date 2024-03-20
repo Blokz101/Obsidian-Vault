@@ -12,6 +12,7 @@ Alias: [Power, Powers, Real Powers, AC Real Power, AC Real Powers]
 	- Average of [[Instantaneous Power]].
 	- Also known as [[Real Power|Real Power]].
 	- Measured in [[Watts]].
+	- Real part of [[Complex Power]]
 	- When [[Real Power]] is **positive** it is being **absorbed** by a circuit component. When [[Real Power]] is **negative** it is being **supplied** by a circuit component.
 	- > [!Equation]
 	  > $$\large{P=\frac{1}{T}\int_{0}^{T} p(t) \, dt}$$
