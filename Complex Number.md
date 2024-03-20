@@ -59,7 +59,7 @@ Alias: [Complex Numbers]
 	  > [!Equation]-
 	  > $$\large{|z|=\sqrt{ Re(z)^2+Im(z)^2 }}$$
 	  > $$\large{\theta=\arctan\left( \frac{\mathrm{Re}(z)}{\mathrm{Im}(z)} \right)}$$
-	- Conversion from **Exponential** to **Cartesian*:
+	- Conversion from **Exponential** to **Cartesian**:
 	  > [!Equation]-
 	  > $$\large{Re(z)=|z| \cos(\theta)}$$
 	  > $$\large{Im(z)=|z|\sin(\theta)}$$
