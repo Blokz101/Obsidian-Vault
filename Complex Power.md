@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Real Power]] [[Reactive Power]]
 > Friends:: 
-> Children:: 
+> Children:: [[Generalized Ohms Law]]
 ---
 - ## Definition
 	- Notated with $S$.

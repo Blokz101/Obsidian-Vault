@@ -10,10 +10,11 @@ Alias: []
 - ## Definition
 	- A way of representing [[Resistance]] in the [[Phasor Domain]].
 	- Measured in $\Omega$.
-	- [[Resistor|Resistors]] are completely real. So a [[Resistor]] with a resistance of $4\Omega$ will have an [[Impedance]] of $4\Omega$.
-	- 
 - #### Resistor
+	- [[Resistor|Resistors]] are completely real. So a [[Resistor]] with a resistance of $4\Omega$ will have an [[Impedance]] of $4\Omega$.
 - #### Capacitor
-- #### I
+	- > [!Equation]
+	  > 
+- #### Inductor
 ---
 - ## Practice
