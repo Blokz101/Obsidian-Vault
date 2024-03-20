@@ -17,6 +17,8 @@ Alias: []
 	  > $S$ = [[Complex Power]] in $VA$.
 	  > $P$ = [[Real Power]] in $W$
 	  > $Q$ = [[Reactive Power]] in $VAR$
-	- Can be found by transforming [[Real Power]] to [[comp]]
+	- Can be found by transforming [[Real Power]] to [[Complex Power]].
+		- > [!Equation]
+		  > $$$$
 ---
 - ## Practice
