@@ -13,10 +13,16 @@ Alias: []
 	- Commonly in this form:
 	  - > [!Equation]
 	  > $$\large{S=P+jQ}$$
+	  > Or in exponential form: 
+	  > $$\large{S=|S|\angle \theta_{s}}$$
 	  > 
 	  > $S$ = [[Complex Power]] in $VA$.
 	  > $P$ = [[Real Power]] in $W$
 	  > $Q$ = [[Reactive Power]] in $VAR$
+	  > $\theta_{s}$ = Phase in degrees/radians
+	  - The phase of a [[Complex Power]] can also be found with: 
+		  - >[!Equation]
+		    $$\theta_{s} =\theta _v-\theta_{i}$$
 	- Can be found by transforming [[Real Power]] to [[Complex Power]].
 		- > [!Equation]
 		  > $$\large{S=\tilde{V}_{rms}\tilde{I}^*_{rms}}$$
