@@ -19,6 +19,9 @@ Alias: []
 	  > $Q$ = [[Reactive Power]] in $VAR$
 	- Can be found by transforming [[Real Power]] to [[Complex Power]].
 		- > [!Equation]
-		  > $$$$
+		  > $$\large{S=\tilde{V}_{rms}\tilde{I}^*_{rms}}$$
+		  > 
+		  > > [!Proof]-
+		  > > ![[Screenshot 2024-03-20 at 5.33.30 PM.jpeg]]
 ---
 - ## Practice
