@@ -19,12 +19,12 @@ Alias: [Harmonic Filters]
 	- In reality we cannot create [[Harmonic Filter|Harmonic Filters]] with a perfect cut off at $f_{c}$ [[Voltage|Volts]]. Another method of determining [[Cut-Off Frequency]] is required.
 	- The [[Cut-Off Frequency]] of a realistic [[Harmonic Filter]] is defined as the [[Frequency]] at which the **output power** is half the **input power**.
 	  > [!Equation]
-	  > When $P_{out}=\frac{1}{2}P_{in}$, or a [[Power]] [[Gain]] of:
+	  > When $P_{out}=\frac{1}{2}P_{in}$, or a [[Real Power]] [[Gain]] of:
 	  > $$\large{G(f_{c})}=10\log\left( \frac{P_{in}/2}{P_{in}} \right)=10\log(\frac{1}{2})=-3\,dB$$
 	  > 
-	  > $G(f_{c})$ = [[Power]] [[Gain]] at the [[Cut-Off Frequency]] in $dB$
-	  > $P_{in}$ = Input [[Power]] in $W$
-	  > $P_{out}$ = Output [[Power]] in $W$
+	  > $G(f_{c})$ = [[Real Power]] [[Gain]] at the [[Cut-Off Frequency]] in $dB$
+	  > $P_{in}$ = Input [[Real Power]] in $W$
+	  > $P_{out}$ = Output [[Real Power]] in $W$
 ---
 - ## Practice
 	- [[ECE200 Homework 8.pdf]]

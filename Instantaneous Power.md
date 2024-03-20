@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: 
-> Children:: [[Power]]
+> Children:: [[Real Power]]
 ---
 - ## Definition
 	- The rate at witch [[Work (Physics)]] is done.
@@ -21,11 +21,11 @@ Alias: []
 	  > $I(t)$ = [[Current]] as a function of time in $A$
 	  > 
 	  > > [!Warning]
-	  > > [[Power]] and [[Instantaneous Power]] are technically **power dissipation**. 
+	  > > [[Real Power]] and [[Instantaneous Power]] are technically **power dissipation**. 
 	  > > 
-	  > > This means that when performing [[Circuit Analysis]] to solve for the [[Power]] of an **energy source**, multiply the equation above by $-1$.
+	  > > This means that when performing [[Circuit Analysis]] to solve for the [[Real Power]] of an **energy source**, multiply the equation above by $-1$.
 	  > > 
-	  > > In other words, energy sources produce negative [[Power]].
+	  > > In other words, energy sources produce negative [[Real Power]].
 	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_1CEDE2156DB9-1.jpeg]]

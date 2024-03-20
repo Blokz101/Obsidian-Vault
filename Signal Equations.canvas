@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"c2c6a8ef76e65e67","type":"text","text":"## $V_{rms}$ in $V$\n[[Voltage]] [[Root Mean Square|RMS]]","x":800,"y":-507,"width":310,"height":92,"color":"6"},
-		{"id":"0363fe905de20638","type":"text","text":"#### $P=\\frac{V_{rms}^2}{R}$\nWhere $R=1$ from [[Power]]\n","x":800,"y":-369,"width":310,"height":90,"color":"2"},
+		{"id":"0363fe905de20638","type":"text","text":"#### $P=\\frac{V_{rms}^2}{R}$\nWhere $R=1$ from [[Real Power]]\n","x":800,"y":-369,"width":310,"height":90,"color":"2"},
 		{"id":"a32a1adf2892b47e","type":"text","text":"## $P$ in $W$","x":800,"y":-233,"width":310,"height":50,"color":"6"},
 		{"id":"d404c964e3577c41","type":"text","text":"#### $P_{[dBW]}=10\\log_{10}(P_{[dB]})$\nFrom [[Decibel Watt]]","x":800,"y":-137,"width":310,"height":90,"color":"2"},
 		{"id":"25fa6405d1c13d8b","type":"text","text":"## $P$ in $dBW$","x":800,"y":0,"width":310,"height":50,"color":"6"},
 		{"id":"deb18d96012b91f3","type":"text","text":"If the [[Harmonic]] IS $0Hz$\n#### $V_{rms}=|V|$","x":800,"y":-913,"width":310,"height":114,"color":"2"},
 		{"id":"b509f2a727af34b1","type":"text","text":"#### $G=20\\log_{10}(A_{v})$\nConvert from normal [[Gain]] to [[Logarithm|Logarithmic]] [[Gain]]. From [[Gain]].","x":1287,"y":-275,"width":513,"height":119},
-		{"id":"a18b940ce8e78264","type":"text","text":"#### $P_{[dBW]out}=G+P_{[dBW]in}$\n[[Gain]] equation in the form of [[Power]] in $dBW$ from [[Gain]].","x":1287,"y":-117,"width":513,"height":108},
+		{"id":"a18b940ce8e78264","type":"text","text":"#### $P_{[dBW]out}=G+P_{[dBW]in}$\n[[Gain]] equation in the form of [[Real Power]] in $dBW$ from [[Gain]].","x":1287,"y":-117,"width":513,"height":108},
 		{"id":"cf80295b33920da1","type":"text","text":"## $V$ in $V$\nThe [[Voltage]] per [[Harmonic]] or $V_{p}$ from [[Sinusoidal Signal]]: \n![[Sinusoidal Signal#^6b129b]]","x":1287,"y":-897,"width":513,"height":436,"color":"6"},
 		{"id":"2b5dfe3c95bd1471","type":"text","text":"#### $V_{out}=A_{v}V_{in}$\nInput [[Voltage]] to output [[Voltage]]. From [[Gain]].","x":1287,"y":-421,"width":513,"height":106},
 		{"id":"c10495ea8af029c7","type":"text","text":"If the [[Harmonic]] is NOT $0Hz$\n#### $V_{rms}=\\frac{V}{\\sqrt{ 2 }}$\nFrom [[Sinusoidal Signal]]","x":800,"y":-760,"width":310,"height":200,"color":"2"}

@@ -10,7 +10,7 @@ Alias: []
 - ## Definition
 	- The [[Power Spectrum]] of a [[Periodic Signal]] indicates the relative [[Magnitude|Magnitudes]] of the [[Frequency]] components that combine to make up the signal.
 	- The [[Power Spectrum]] is in the [[Frequency]] domain.
-	- It is conventional to use the unit [[Decibel Watt]] to display the [[Power]].
+	- It is conventional to use the unit [[Decibel Watt]] to display the [[Real Power]].
 ---
 - ## Practice
 	- [[ECE200 Homework 8.pdf]]
