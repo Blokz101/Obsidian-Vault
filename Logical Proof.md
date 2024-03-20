@@ -27,5 +27,8 @@ Alias: [Direct Proof, Proof by Contrapositive]
 	- Also known as an indirect proof.
 	- >[!Example]-
 	  > ![[Screenshot 2024-03-19 at 8.35.51 PM.png]]
+- #### Proof by Cases
+	- Breaks a complex **theorem** into separate cases and proves each one individually. 
+	- Always used in combination with other methods in this list. Used to simplify complex **theorems**
 ---
 - ## Practice
