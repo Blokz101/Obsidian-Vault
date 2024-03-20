@@ -21,7 +21,6 @@ Alias: []
 	- > [!Equation]
 	  > An integer $x$ **divides** an integer $y$ if there is an integer $k$ such that $y=kx$ when $x\neq 0$.
 	- $x$ divides $y$ is notated by $x|y$. The bar operator evaluates to a boolean, which is what differentiates it from normal division.
-- 
 - #### Prime and Composite Numbers
 	- > [!Equation]
 	  > An integer $x$ is **Prime** if and only if the only positive integers that divide $x$ are $1$ and $x$ when $x>1$.
