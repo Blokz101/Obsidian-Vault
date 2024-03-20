@@ -1,5 +1,5 @@
 ---
-Alias: [Power]
+Alias: [Power, Powers, Real Powers, AC Real Power, AC Real Powers]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
