@@ -29,6 +29,8 @@ Alias: [Direct Proof, Proof by Contrapositive]
 	  > ![[Screenshot 2024-03-19 at 8.35.51 PM.png]]
 - #### Proof by Cases
 	- Breaks a complex **theorem** into separate cases and proves each one individually. 
-	- Always used in combination with other methods in this list. Used to simplify complex **theorems**
+	- Always used in combination with other methods in this list. Used to simplify complex **theorems**. Generally used to prove things universally.
+	- > [!Example]-
+	  > ![[Screenshot 2024-03-19 at 9.36.44 PM.png]]
 ---
 - ## Practice
