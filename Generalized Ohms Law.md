@@ -13,5 +13,6 @@ Alias: []
 	  > $$\large{\tilde{I}=\frac{\tilde{V}}{Z}}$$
 	  > $$\large{Z=\frac{\tilde{V}_{rms}}{\tilde{I}_{rms}}}$$
 	- Can be combined with [[Complex Power]] to get new ways to solve for [[Complex Power]].
+	  ![[Complex Power#^616d7b]]
 ---
 - ## Practice

@@ -27,8 +27,10 @@ Alias: []
 		  > 
 		  > > [!Proof]-
 		  > > ![[Screenshot 2024-03-20 at 5.33.30 PM.jpeg]]
-	- Combining with [[Generalized Ohms Law]] creates new useful ways to solve for [[Complex Power]].
+	- Substituting $\tilde{V}_{rms}$ or $\tilde{I}^{*}_{rms}$ with [[Generalized Ohms Law]] creates useful ways to solve for [[Complex Power]].
 		- > [!Equation]
 		  > $$\large{S=\tilde{V}_{rms}\tilde{I}_{rms}^{*}}$$
+		  > $$\large{S=Z|\tilde{I}_{rms}|^{2}}$$
+		  > $$\large{S=\frac{|\tilde{V}_{rms}|^{2}}{Z^{*}}}$$ ^616d7b
 ---
 - ## Practice
