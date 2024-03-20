@@ -16,7 +16,7 @@ Alias: [Sinusoidal Signals]
 	  > $V_{dc}$ = [[Average Voltage]] in $V$
 	  > $V_{m}$ = [[Amplitude]] or Magnitude in $V$
 	  > $f$ = [[Frequency]] in $\frac{1}{s}$
-	  > $\theta$ = [[Phase Angle|Phase]] in $s$ ^6b129b
+	  > $\theta$ = [[Phase Angle|Phase]] in degrees/radians ^6b129b
 	  > 
 	  > Note that this example was given for [[Voltage]], but the same logic applies to [[Current]] and any other [[Sinusoidal Signal|Sinusoidal Signals]] as well.
 	- The [[Root Mean Square|RMS]] [[Voltage]] of a [[Sinusoidal Signal]] without a $V_{dc}$ component can be simplified like this:
