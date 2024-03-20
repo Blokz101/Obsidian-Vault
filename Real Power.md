@@ -5,7 +5,7 @@ Alias: [Power]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Instantaneous Power]]
 > Friends:: [[Decibel Watt]] [[Signal Equations.canvas|Signal Equations]] [[Root Mean Square|RMS]]
-> Children:: [[Signal Power]]
+> Children:: [[Signal Power]] [[Apparent Power]] [[Power Factor]]
 ---
 - ## Definition
 	- Notated with $P$ (time invariant).
@@ -36,6 +36,16 @@ Alias: [Power]
 		  > $V_{rms}$ = [[Root Mean Square|RMS]] [[Voltage]] in $V$
 		  > $R$ = Constant [[Resistance]] in $\Omega$
 		  > $I_{rms}$ = [[Root Mean Square|RMS]] [[Current]] in $A$
+- #### AC Real Power
+	- The [[Real Power]] given a [[Sinusoidal Signal]] for both [[Voltage]] and [[Current]].
+		- >[!Equation]
+		  > $$\large{P=\frac{V_{m}I_{m}}{2}\cos(\theta_{v}-\theta_{i})}$$
+		  > 
+		  > $P$ = [[Real Power|Power]] in $W$
+		  > $V_{m}$ or $I_{m}$ = Magnitude of [[Voltage]] or [[Current]] in $V$ or $I$
+		  > $\theta_{v}$ or $\theta_{i}$ = Phase of the sinusoidal [[Voltage]] or [[Current]] in degrees/radians
+		  > > [!Proof]-
+		  > > ![[IMG_2DAC2A342F57-1.jpeg]]
 - #### First Sign Convention for [[Real Power]]
 	- **Positive** [[Current]] enters the **positive** terminal of a component. **Negative** [[Current]] enters the **negative** terminal of a component.
 	- ![[IMG_FD9AA85501BA-1.jpeg]]
