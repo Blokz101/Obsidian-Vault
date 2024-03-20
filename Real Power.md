@@ -4,7 +4,7 @@ Alias: [Power]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Instantaneous Power]]
-> Friends:: [[Decibel Watt]] [[Signal Equations.canvas|Signal Equations]]
+> Friends:: [[Decibel Watt]] [[Signal Equations.canvas|Signal Equations]] [[Root Mean Square|RMS]]
 > Children:: [[Signal Power]]
 ---
 - ## Definition

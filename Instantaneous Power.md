@@ -41,7 +41,12 @@ Alias: [AC Instantaneous Power]
 		  > $t$ = Time in $s$
 	- Which gives this equation for [[Instantaneous Power|AC Instantaneous Power]]:
 		- >[!Equation]
-		  > $$\large{p(t)=V_{m}}$$
+		  > $$\large{p(t)=V_{m}I_{m}\cos(\omega t+\theta_{v})\cos(\omega t+\theta_{i})}$$
+		  > 
+		  > $p(t)$ = [[Instantaneous Power|AC Instantaneous Power]] in $W$.
+		  > $V_{m}$ or $I_{m}$ = Magnitude of the signal in $V$ or $A$
+		  > $\omega$ = Some constant that multiplies $t$, generally in the form of $2\pi f$ where $f$ is [[Frequency]]
+		  > $t$ = Time in $s$
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]

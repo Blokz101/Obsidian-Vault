@@ -4,7 +4,7 @@ Alias: [RMS]
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
-> Friends:: [[Sinusoidal Signal]]
+> Friends:: [[Sinusoidal Signal]] [[Real Power]]
 > Children:: 
 ---
 - ## Definition
@@ -22,6 +22,8 @@ Alias: [RMS]
 	  > 
 	  > > [!Proof]-
 	  > > ![[IMG_CE9DBED0812D-1.jpeg]]
+- #### Shortcut for Sinusoids
+	- [[Sinusoidal Signal^]]
 ---
 - ## Practice
 	- [[ECE200 Homework 6.pdf]]
