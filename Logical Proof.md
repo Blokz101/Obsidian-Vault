@@ -23,6 +23,7 @@ Alias: [Direct Proof, Proof by Contrapositive]
 	- > [!Example]-
 	  > ![[Screenshot 2024-03-19 at 2.32.25 PM.png]]
 - #### Proof by Contradiction
+	- Proves a **theorem** by assuming its **conclusion** is false and finding a contradiction.
 	- 
 ---
 - ## Practice
