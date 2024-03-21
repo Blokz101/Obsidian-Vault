@@ -9,6 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- A triangle useful for relating [[Complex Power]] to [[Real Power]], [[Reactive Power]], and the [[Power Factor]].
-	- 
+		- ![[IMG_FAD057420330-1.jpeg]]
 ---
 - ## Practice
