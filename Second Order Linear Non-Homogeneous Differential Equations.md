@@ -55,4 +55,5 @@ Alias: []
 ---
 - ## Practice
 	- [[MA241 Homework 3.5.pdf]]
+	- [[MA241 Homework 3.6.pdf]]
 - ## Reference
