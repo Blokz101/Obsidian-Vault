@@ -19,15 +19,10 @@ Alias: []
 	  > $S$ = [[Complex Power]] in $VA$.
 	  > $P$ = [[Real Power]] in $W$
 	  > $Q$ = [[Reactive Power]] in $VAR$
-	  > $\theta_{s}$ = [[Phase Angle|Phase]] in degrees/radians
-  - The [[Phase]] of a [[Complex Power]] can also be found with: 
-	  - >[!Equation]
-		    > $$\large{\theta_{s} =\theta _v-\theta_{i}}$$
-		    > 
-		    > $\theta_{s}$ = [[Phase Angle|Phase]] of [[Complex Power]] in degrees/radians
-		    > $\theta_{v}$ = [[Phase Angle|Phase]] of [[Voltage]] signal in degrees/radians
-		    > $\theta_{i}$ = [[Phase Angle|Phase]] of [[Current]] signal in degrees/radians
-	- Can be found by transforming [[Real Power]] to [[Complex Power]].
+	  > $\theta_{s}$ = [[Power Factor|Phase of Complex Power]] in degrees/radians
+	- The [[Power Factor|Phase of Complex Power]] can also be found with:
+	  ![[Power Factor#^fa5f00]]
+	- [[Complex Power]] can be found by transforming [[Real Power]] to [[Complex Power]].
 		- > [!Equation]
 		  > $$\large{S=\tilde{V}_{rms}\tilde{I}^*_{rms}}$$
 		  > 
