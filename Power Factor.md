@@ -8,9 +8,10 @@ Alias: [Power Factors]
 > Children:: 
 ---
 - ## Definition
-	- Measured in ?.
+	- Measured in degrees/radians.
 	- Part of [[Real Power|AC Real Power]]:
 		- >[!Equation]
 		  > $$\text{Power Factor}=\large{\cos(\theta_{v}-\theta_{i})}$$
+	- A **unity power factor** is a [[Power Factor]] such that $\theta_{v}-\theta_{i}=0$.
 ---
 - ## Practice
