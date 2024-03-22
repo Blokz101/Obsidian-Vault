@@ -3,13 +3,13 @@ Alias: [Power Factors, Power Factor Angle, Power Factor Angles, Phase of Complex
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
-> Parents:: 
+> Parents:: [[Complex Power]]
 > Friends:: [[Apparent Power]]
 > Children:: 
 ---
 - ## Definition
 	- Measured in degrees/radians.
-	- Is a measure of how in sync the [[Sinusoidal Signal|Sinusoidal Signals]] of [[Voltage]] and [[Current]] are
+	- Is a measure of how in sync the [[Sinusoidal Signal|Sinusoidal Signals]] of [[Voltage]] and [[Current]] are in [[Complex Power]].
 	- Part of [[Real Power|AC Real Power]]:
 		- >[!Equation]
 		  > $$\large{\text{Power Factor}=\cos(\theta_{v}-\theta_{i})}$$
