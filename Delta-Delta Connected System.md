@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
+	- ![[IMG_57450E9B1649-1.jpeg]]
 	- Want to use this kind of system when you have [[Voltage|Voltages]] or [[Current|Currents]] and need to solve for [[Impedance|Impedances]].
 ---
 - ## Practice
