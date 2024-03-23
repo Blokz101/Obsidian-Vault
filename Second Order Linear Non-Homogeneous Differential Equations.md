@@ -40,7 +40,7 @@ Alias: []
 						- > [!Equation]
 						  > $$\large{y_{p}(x)=(Ax+B)e^{nx}}$$
 						  > Where $n$ is the coefficient of $x$ in the original equation.
-					- For **$\sin(n)$ and $\cos(n)$** use: 
+					- For **$\sin(nx)$ and $\cos(nx)$** use: 
 						- > [!Equation]
 						  > $$\large{y_{p}(x)=A\sin(nx)+B\cos(nx)}$$
 						  > Where $n$ is the coefficient of $x$ in the original equation.
