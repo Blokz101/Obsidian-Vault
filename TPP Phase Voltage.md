@@ -10,6 +10,6 @@ Alias: [Phase Voltage]
 - ## Definition
 	- [[TPP Phase Voltage|Phase Voltage]] refers to the [[Phasor]] [[Voltage]] produced by one [[Voltage Source]] in a system that uses [[Three Phase Power]].
 	- > [!Example]
-	  > $\large{\tilde{V}_{an}}$ is the [[TPP Phase Voltage|Phase Voltage]] produced by the [[voltage soucr
+	  > $\large{\tilde{V}_{an}}$ is the [[TPP Phase Voltage|Phase Voltage]] produced by the [[Voltage Source]] on line $a$.
 ---
 - ## Practice
