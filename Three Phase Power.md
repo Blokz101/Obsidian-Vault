@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: 
 > Friends:: 
-> Children:: [[Wye-Wye Connected System]] [[Delta-Delta Connected System]]
+> Children:: [[Wye-Wye Connected System]] [[Delta-Delta Connected System]] [[TPP Line Voltage]]
 ---
 - ## Definition
 	- A method of transporting [[Real Power|Power]] using **three** wires. The [[Voltage|Voltages]] and [[Current|Currents]] of each wire are out of [[Phase Angle|Phase]] with each other by $120$.

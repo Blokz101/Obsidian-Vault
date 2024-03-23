@@ -9,6 +9,6 @@ Alias: []
 ---
 - ## Definition
 	- ![[Screenshot 2024-03-23 at 4.05.28 PM.jpeg]]
-	- Want to use this kind of system when you have information about the **load** 
+	- Want to use this kind of system when you have information about the either the **load** or **source** and need to solve for the other.
 ---
 - ## Practice

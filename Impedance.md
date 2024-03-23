@@ -1,5 +1,5 @@
 ---
-Alias: []
+Alias: [Impedances]
 ---
 > [!Info]
 > Subject:: [[Analytics of Electrical and Computer Engineering]]
