@@ -8,7 +8,7 @@ Alias: [Phase Voltage]
 > Children:: 
 ---
 - ## Definition
-	- [[TPP Phase Voltage|Phase Voltage]] refers to the [[Phasor]] [[Voltage]] produced by one [[Voltage Source]] in a system that uses [[Three Phase Power]].
+	- [[TPP Phase Voltage|Phase Voltage]] refers to the [[Phasor]] [[Voltage]] across the entire **source**(voltage source and resistor) or **load**(just resistor). in a system that uses [[Three Phase Power]].
 	- > [!Example]
 	  > $\large{\tilde{V}_{an}}$ is the [[TPP Phase Voltage|Phase Voltage]] produced by the [[Voltage Source]] on line $a$.
 ---
