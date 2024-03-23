@@ -10,9 +10,16 @@ Alias: []
 - ## Definition
 	- A method of transporting [[Real Power|Power]] using **three** wires. The [[Voltage|Voltages]] and [[Current|Currents]] of each wire are out of [[Phase Angle|Phase]] with each other by $120$.
 		- ![[Screenshot 2024-03-23 at 4.08.16 PM.png]]
-	- The **source** of [[Three Phase Power]] is equivalent to three [[Voltage]] sources connected to three different lines in either a [[Delta Configuration]] or [[Wye Configuration]].
+		- > [!Equation]
+		  > $$\large{V_{an}=V_{p}\angle 0\degre}$$
+	- The [[Delta Configuration]] / [[Wye Configuration]] for both **source** and **load** can be mix and matched.
+- #### Source
+	- The **source** of [[Three Phase Power]] is equivalent to three [[Voltage]] sources connected in either a [[Delta Configuration]] or [[Wye Configuration]].
 		-  ![[Screenshot 2024-03-23 at 4.11.18 PM.png]]
-	- Similarly the **load** of [[Three Phase Power]] is equivalent to three [[Resistor|Resistors]] connected in 
-	- ![[Screenshot 2024-03-23 at 4.14.36 PM.png]]
+		- Note that the magnitude of all the [[Voltage Source|Voltage Sources]] are equals.
+- #### Load
+	- The **load** of [[Three Phase Power]] is equivalent to three [[Resistor|Resistors]] connected in either a [[Delta Configuration]] or [[Wye Configuration]].
+		- ![[Screenshot 2024-03-23 at 4.14.36 PM.png]]
+		- Not that the magnitudes of all the [[Resistor|Resistors]] are equal.
 ---
 - ## Practice
