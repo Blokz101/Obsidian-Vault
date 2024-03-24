@@ -5,7 +5,7 @@ Alias: [Power Factors, Power Factor Angle, Power Factor Angles, Phase of Complex
 > Subject:: [[Signals, Circuits, and Systems]]
 > Parents:: [[Complex Power]]
 > Friends:: [[Apparent Power]]
-> Children:: 
+> Children:: [[Power Triangle]]
 ---
 - ## Definition
 	- Measured in degrees/radians.
