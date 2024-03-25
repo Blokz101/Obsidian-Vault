@@ -1,5 +1,5 @@
 ---
-Alias: [Phase Voltage]
+Alias: [Phase Voltage, Phase Current, Phase Currents]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]
