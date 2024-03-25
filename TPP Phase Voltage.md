@@ -16,8 +16,5 @@ Alias: [Phase Voltage, Phase Current, Phase Currents]
 		  > $$\large{\tilde{V}_{an}=\tilde{V}_{an}\angle +0}$$
 		  > $$\large{\tilde{V}_{bn}=\tilde{V}_{an}\angle -120}$$
 		  > $$\large{\tilde{V}_{cn}=\tilde{V}_{an}\angle +120}$$
-	- > [!Example]
-	  > $\large{\tilde{V}_{an}}$ is the [[TPP Phase Voltage|Phase Voltage]] produced by the [[Voltage Source]] on line $a$.
-	- [[TPP Phase Voltage|Phase Voltage]] can be solved for with $$
 ---
 - ## Practice
