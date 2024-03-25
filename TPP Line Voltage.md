@@ -1,5 +1,5 @@
 ---
-Alias: [Line Voltage]
+Alias: [Line Voltage, Line Current, Line Currents]
 ---
 > [!Info]
 > Subject:: [[Signals, Circuits, and Systems]]

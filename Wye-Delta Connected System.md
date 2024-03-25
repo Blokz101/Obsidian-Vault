@@ -8,6 +8,7 @@ Alias: []
 > Children:: 
 ---
 - ## Definition
-	- 
+	- ![[IMG_A7867ED36E5A-1.jpeg]]
+	- Line [[Current|Currents]] can be obtained from [[Current|Currents]]
 ---
 - ## Practice
