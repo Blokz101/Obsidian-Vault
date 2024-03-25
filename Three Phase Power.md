@@ -32,3 +32,4 @@ Alias: []
 		- Not that the magnitudes of all the [[Resistor|Resistors]] are equal.
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]

@@ -26,3 +26,4 @@ Alias: []
 		  > > ![[IMG_9B1AD543BD95-1.jpeg]]
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]

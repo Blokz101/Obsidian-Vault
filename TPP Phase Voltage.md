@@ -18,3 +18,4 @@ Alias: [Phase Voltage, Phase Current, Phase Currents]
 		  > $$\large{\tilde{V}_{cn}=\tilde{V}_{an}\angle +120}$$
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]

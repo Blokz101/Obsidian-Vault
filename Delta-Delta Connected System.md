@@ -12,3 +12,4 @@ Alias: []
 	- Want to use this kind of system when you have [[Voltage|Voltages]] or [[Current|Currents]] and need to solve for [[Impedance|Impedances]].
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]

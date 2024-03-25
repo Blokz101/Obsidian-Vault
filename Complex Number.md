@@ -66,4 +66,5 @@ Alias: [Complex Numbers]
 ---
 - ## Practice
 	- [[MA241 Homework 3.4.pdf]]
+	- [[ECE211 Homework 8.pdf]]
 - ## Reference

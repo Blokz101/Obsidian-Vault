@@ -39,3 +39,4 @@ Alias: []
 		  > $$\large{S=\frac{|\tilde{V}_{rms}|^{2}}{Z^{*}}}$$ ^616d7b
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]

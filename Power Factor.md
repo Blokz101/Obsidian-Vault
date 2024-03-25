@@ -29,3 +29,4 @@ Alias: [Power Factors, Power Factor Angle, Power Factor Angles, Phase of Complex
 	- A **unity power factor** is a [[Power Factor]] such that $\theta_{s}=0$.
 ---
 - ## Practice
+	- [[ECE211 Homework 8.pdf]]
