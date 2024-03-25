@@ -22,7 +22,7 @@ Alias: [Line Voltage, Line Current, Line Currents]
 		  > > ![[IMG_73BCF4BB7041-1.jpeg]]
 	- [[TPP Phase Voltage|Phase Currents]] can be obtained from [[TPP Line Voltage|Line Currents]].
 		- > [!Equation]
-		  > $$\large{\tilde{I}_{a}=\tilde{I}_{AB}*\sqrt{ 3 }\angle-30}$$
+		  > $$\large{\tilde{I}_{a}=\tilde{I}_{AB}*\sqrt{ 3 }\angle-30\degree}$$
 		  > 
 		  > $\tilde{I}_{a}$ = [[TPP Line Voltage|Line Current]] of line $a$ in $A$
 		  > $\tilde{I}_{AB}$ = [[TPP Phase Voltage|Phase Current]] at load from node $A$ to $B$ in $A$
