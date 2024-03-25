@@ -15,7 +15,7 @@ Alias: []
 		- > [!Equation]
 		  > 
 		  > $$\large{V_{an}=V_{p}\angle 0\degree}$$
-		  > $$\large{V_{vn}=V_{p}\angle 120\degree}$$
+		  > $$\large{V_{bn}=V_{p}\angle 120\degree}$$
 		  > $$\large{V_{cn}=V_{p}\angle -120\degree}$$
 	- The [[Delta Configuration]] / [[Wye Configuration]] for both **source** and **load** can be mix and matched. This creates $4$ possible combinations:
 		- [[Delta-Delta Connected System]]
