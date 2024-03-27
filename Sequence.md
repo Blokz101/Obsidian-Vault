@@ -8,7 +8,7 @@ Alias: [Sequences]
 > Children:: [[Monotonic Sequence]] [[Infinite Series]] [[Permutation]]
 ---
 - ## Definition
-	- An ordered list of elements that can repeat and is ordered.
+	- An ordered list of elements that can repeat.
 	- Notated with $(\,)$.
 	- [[Sequence|Sequences]] are **not** [[Set|Sets]].
 ---
